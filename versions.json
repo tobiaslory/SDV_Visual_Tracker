@@ -1,6 +1,19 @@
 {
 	"versions": [
 		{
+			"package_version": "1.7.3",
+			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.3/stardew_valley_randomizer.zip",
+			"sha256": "27357f3a5526c1f89ec2d468578066e67a4adf74203aa0529677260c9d9299ad",
+			"changelog": [
+				"Bulk-extended access_rules to all comparable locations (not just user-flagged ones):",
+				"- Skill-gated Crafts: 70 craft locations now gate on the right skill level (parsed from AP's craftable_data.py via _build/extract_skill_recipes.py)",
+				"- Monstersanity: all 28 per-monster locations gate on the right region (mines floor, skull cavern, island, slime hutch, quarry, mutant bug lair) via _build/extract_monster_rules.py",
+				"- Museum donations: 91 of 95 artifacts/minerals gate on their source (artifact spot = hoe, geode-only = pickaxe, skull-cavern-only = skullkey, island-only = island access) via _build/extract_museum_rules.py",
+				"Fixed patch_legacy_locations.py idempotence (brace-walking heuristic was finding the inner sections object instead of the leaf, leading to duplicate access_rules on re-runs)",
+				"_build/access_rule_overrides.json now merges hand-curated rules with auto-generated bulk rules (299 total entries)"
+			]
+		},
+		{
 			"package_version": "1.7.2",
 			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.2/stardew_valley_randomizer.zip",
 			"sha256": "7051f67ec5d5bfe059a0dcefcaff57732dccebe888fad09a912d17fae50ee45d",

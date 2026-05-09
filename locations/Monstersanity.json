@@ -195,6 +195,9 @@
                                 "x": 220,
                                 "y": 96
                             }
+                        ],
+                        "access_rules": [
+                            "$has(\"skullkey\"),$can_access_desert"
                         ]
                     },
                     {
@@ -1193,6 +1196,9 @@
                                 "x": 220,
                                 "y": 532
                             }
+                        ],
+                        "access_rules": [
+                            "$can_walk_to_mines_floor_45"
                         ]
                     },
                     {
@@ -1212,6 +1218,9 @@
                                 "x": 420,
                                 "y": 532
                             }
+                        ],
+                        "access_rules": [
+                            "$has(\"skullkey\"),$can_access_desert"
                         ]
                     },
                     {
@@ -1231,6 +1240,9 @@
                                 "x": 620,
                                 "y": 532
                             }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
                         ]
                     },
                     {
@@ -1250,6 +1262,9 @@
                                 "x": 20,
                                 "y": 560
                             }
+                        ],
+                        "access_rules": [
+                            "$can_walk_to_mines_floor_45"
                         ]
                     },
                     {
@@ -1269,6 +1284,9 @@
                                 "x": 220,
                                 "y": 560
                             }
+                        ],
+                        "access_rules": [
+                            "$can_walk_to_mines_floor_45"
                         ]
                     },
                     {
@@ -1288,6 +1306,9 @@
                                 "x": 420,
                                 "y": 560
                             }
+                        ],
+                        "access_rules": [
+                            "$can_walk_to_mines_floor_85"
                         ]
                     },
                     {
@@ -1307,6 +1328,9 @@
                                 "x": 620,
                                 "y": 560
                             }
+                        ],
+                        "access_rules": [
+                            "$can_walk_to_mines_floor_5"
                         ]
                     },
                     {
@@ -1326,6 +1350,9 @@
                                 "x": 20,
                                 "y": 588
                             }
+                        ],
+                        "access_rules": [
+                            "$can_walk_to_mines_floor_45"
                         ]
                     },
                     {
@@ -1345,6 +1372,9 @@
                                 "x": 220,
                                 "y": 588
                             }
+                        ],
+                        "access_rules": [
+                            "$can_walk_to_mines_floor_45"
                         ]
                     },
                     {
@@ -1364,6 +1394,9 @@
                                 "x": 420,
                                 "y": 588
                             }
+                        ],
+                        "access_rules": [
+                            "$has(\"skullkey\"),$can_access_desert"
                         ]
                     },
                     {
@@ -1383,6 +1416,9 @@
                                 "x": 620,
                                 "y": 588
                             }
+                        ],
+                        "access_rules": [
+                            "$can_walk_to_mines_floor_45"
                         ]
                     },
                     {
@@ -1402,6 +1438,9 @@
                                 "x": 20,
                                 "y": 616
                             }
+                        ],
+                        "access_rules": [
+                            "$can_walk_to_mines_floor_85"
                         ]
                     },
                     {
@@ -1421,6 +1460,9 @@
                                 "x": 220,
                                 "y": 616
                             }
+                        ],
+                        "access_rules": [
+                            "$can_walk_to_mines_floor_5"
                         ]
                     },
                     {
@@ -1440,6 +1482,9 @@
                                 "x": 420,
                                 "y": 616
                             }
+                        ],
+                        "access_rules": [
+                            "$can_walk_to_mines_floor_5"
                         ]
                     },
                     {
@@ -1459,6 +1504,9 @@
                                 "x": 620,
                                 "y": 616
                             }
+                        ],
+                        "access_rules": [
+                            "$can_walk_to_mines_floor_5"
                         ]
                     },
                     {
@@ -1478,6 +1526,9 @@
                                 "x": 20,
                                 "y": 644
                             }
+                        ],
+                        "access_rules": [
+                            "$can_walk_to_mines_floor_5"
                         ]
                     },
                     {
@@ -1497,6 +1548,9 @@
                                 "x": 220,
                                 "y": 644
                             }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
                         ]
                     },
                     {
@@ -1538,6 +1592,9 @@
                                 "x": 620,
                                 "y": 644
                             }
+                        ],
+                        "access_rules": [
+                            "$can_walk_to_mines_floor_5"
                         ]
                     },
                     {
@@ -1557,6 +1614,9 @@
                                 "x": 20,
                                 "y": 672
                             }
+                        ],
+                        "access_rules": [
+                            "$can_walk_to_mines_floor_45"
                         ]
                     },
                     {
@@ -1576,6 +1636,9 @@
                                 "x": 220,
                                 "y": 672
                             }
+                        ],
+                        "access_rules": [
+                            "$has(\"skullkey\"),$can_access_desert"
                         ]
                     },
                     {
@@ -1595,6 +1658,9 @@
                                 "x": 420,
                                 "y": 672
                             }
+                        ],
+                        "access_rules": [
+                            "$has(\"skullkey\"),$can_access_desert"
                         ]
                     },
                     {
@@ -1614,6 +1680,9 @@
                                 "x": 620,
                                 "y": 672
                             }
+                        ],
+                        "access_rules": [
+                            "$has(\"skullkey\"),$can_access_desert"
                         ]
                     },
                     {
@@ -1633,6 +1702,9 @@
                                 "x": 20,
                                 "y": 700
                             }
+                        ],
+                        "access_rules": [
+                            "$has(\"skullkey\"),$can_access_desert"
                         ]
                     },
                     {
@@ -1652,6 +1724,9 @@
                                 "x": 220,
                                 "y": 700
                             }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
                         ]
                     },
                     {
@@ -1671,6 +1746,9 @@
                                 "x": 420,
                                 "y": 700
                             }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
                         ]
                     }
                 ]
