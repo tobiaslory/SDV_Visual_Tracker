@@ -21,6 +21,9 @@
                         "x": 20,
                         "y": 40
                     }
+                ],
+                "access_rules": [
+                    "$has_at_least_copper_pickaxe,$has_weapon"
                 ]
             },
             {
@@ -40,6 +43,9 @@
                         "x": 220,
                         "y": 40
                     }
+                ],
+                "access_rules": [
+                    "$has_at_least_copper_pickaxe,$has_weapon"
                 ]
             },
             {
@@ -59,6 +65,9 @@
                         "x": 420,
                         "y": 40
                     }
+                ],
+                "access_rules": [
+                    "$has_at_least_copper_pickaxe,$has_weapon,$has(\"e5\")"
                 ]
             },
             {
@@ -78,6 +87,9 @@
                         "x": 620,
                         "y": 40
                     }
+                ],
+                "access_rules": [
+                    "$has_at_least_copper_pickaxe,$has_weapon,$has(\"e10\")"
                 ]
             },
             {
@@ -97,6 +109,9 @@
                         "x": 20,
                         "y": 68
                     }
+                ],
+                "access_rules": [
+                    "$has_at_least_copper_pickaxe,$has_weapon,$has(\"e15\")"
                 ]
             },
             {
@@ -116,6 +131,9 @@
                         "x": 220,
                         "y": 68
                     }
+                ],
+                "access_rules": [
+                    "$has_at_least_copper_pickaxe,$has_weapon,$has(\"e20\")"
                 ]
             },
             {
@@ -135,6 +153,9 @@
                         "x": 420,
                         "y": 68
                     }
+                ],
+                "access_rules": [
+                    "$has_at_least_copper_pickaxe,$has_weapon,$has(\"e25\")"
                 ]
             },
             {
@@ -154,6 +175,9 @@
                         "x": 620,
                         "y": 68
                     }
+                ],
+                "access_rules": [
+                    "$has_at_least_copper_pickaxe,$has_weapon,$has(\"e30\")"
                 ]
             },
             {
@@ -173,6 +197,9 @@
                         "x": 20,
                         "y": 96
                     }
+                ],
+                "access_rules": [
+                    "$has_at_least_iron_pickaxe,$has_weapon,$has(\"e35\")"
                 ]
             },
             {
@@ -192,6 +219,9 @@
                         "x": 220,
                         "y": 96
                     }
+                ],
+                "access_rules": [
+                    "$has_at_least_iron_pickaxe,$has_weapon,$has(\"e40\")"
                 ]
             },
             {
@@ -211,6 +241,9 @@
                         "x": 420,
                         "y": 96
                     }
+                ],
+                "access_rules": [
+                    "$has_at_least_iron_pickaxe,$has_weapon,$has(\"e45\")"
                 ]
             },
             {
@@ -230,6 +263,9 @@
                         "x": 620,
                         "y": 96
                     }
+                ],
+                "access_rules": [
+                    "$has_at_least_iron_pickaxe,$has_weapon,$has(\"e50\")"
                 ]
             },
             {
@@ -249,6 +285,9 @@
                         "x": 20,
                         "y": 124
                     }
+                ],
+                "access_rules": [
+                    "$has_at_least_iron_pickaxe,$has_weapon,$has(\"e55\")"
                 ]
             },
             {
@@ -268,6 +307,9 @@
                         "x": 220,
                         "y": 124
                     }
+                ],
+                "access_rules": [
+                    "$has_at_least_iron_pickaxe,$has_weapon,$has(\"e60\")"
                 ]
             },
             {
@@ -287,6 +329,9 @@
                         "x": 420,
                         "y": 124
                     }
+                ],
+                "access_rules": [
+                    "$has_at_least_iron_pickaxe,$has_weapon,$has(\"e65\")"
                 ]
             },
             {
@@ -306,6 +351,9 @@
                         "x": 620,
                         "y": 124
                     }
+                ],
+                "access_rules": [
+                    "$has_at_least_iron_pickaxe,$has_weapon,$has(\"e70\")"
                 ]
             },
             {
@@ -325,6 +373,9 @@
                         "x": 20,
                         "y": 152
                     }
+                ],
+                "access_rules": [
+                    "$has_at_least_gold_pickaxe,$has_weapon,$has(\"e75\")"
                 ]
             },
             {
@@ -344,6 +395,9 @@
                         "x": 220,
                         "y": 152
                     }
+                ],
+                "access_rules": [
+                    "$has_at_least_gold_pickaxe,$has_weapon,$has(\"e80\")"
                 ]
             },
             {
@@ -363,6 +417,9 @@
                         "x": 420,
                         "y": 152
                     }
+                ],
+                "access_rules": [
+                    "$has_at_least_gold_pickaxe,$has_weapon,$has(\"e85\")"
                 ]
             },
             {
@@ -382,6 +439,9 @@
                         "x": 620,
                         "y": 152
                     }
+                ],
+                "access_rules": [
+                    "$has_at_least_gold_pickaxe,$has_weapon,$has(\"e90\")"
                 ]
             },
             {
@@ -401,6 +461,9 @@
                         "x": 20,
                         "y": 180
                     }
+                ],
+                "access_rules": [
+                    "$has_at_least_gold_pickaxe,$has_weapon,$has(\"e95\")"
                 ]
             },
             {
@@ -420,6 +483,9 @@
                         "x": 220,
                         "y": 180
                     }
+                ],
+                "access_rules": [
+                    "$has_at_least_gold_pickaxe,$has_weapon,$has(\"e100\")"
                 ]
             },
             {
@@ -439,6 +505,9 @@
                         "x": 420,
                         "y": 180
                     }
+                ],
+                "access_rules": [
+                    "$has_at_least_gold_pickaxe,$has_weapon,$has(\"e105\")"
                 ]
             },
             {
@@ -458,6 +527,9 @@
                         "x": 620,
                         "y": 180
                     }
+                ],
+                "access_rules": [
+                    "$has_at_least_gold_pickaxe,$has_weapon,$has(\"e110\")"
                 ]
             }
         ]

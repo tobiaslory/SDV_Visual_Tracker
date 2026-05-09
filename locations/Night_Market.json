@@ -11,7 +11,7 @@
                     {
                         "name": "1-5-4-2-3",
                         "item_count": 1,
-						"visibility_rules": ["719015"],
+						"visibility_rules": ["719015"]
                     }
                 ],
                 "map_locations":[
@@ -28,23 +28,23 @@
 					{
 						"name": "Cone Hat",
 						"item_count": 1,
-						"visibility_rules": ["719016"],
+						"visibility_rules": ["719016"]
 					},
 					{
 						"name": "Iridium Fireplace",
 						"item_count": 1,
-						"visibility_rules": ["719017"],
+						"visibility_rules": ["719017"]
 					},
 					{
 						"name": "Rarecrow #7 (Tanuki)",
 						"item_count": 1,
-						"visibility_rules": ["719018"],
+						"visibility_rules": ["719018"]
 					},
 					{
 						"name": "Rarecrow #8 (Tribal Mask)",
 						"item_count": 1,
-						"visibility_rules": ["719019"],
-					},
+						"visibility_rules": ["719019"]
+					}
 					],
 					"map_locations":[
                     {
@@ -60,48 +60,48 @@
 					{
 						"name": "Lupini: Red Eagle",
 						"item_count": 1,
-						"visibility_rules": ["719020"],
+						"visibility_rules": ["719020"]
 					},
 					{
 						"name": "Lupini: Portrait Of A Mermaid",
 						"item_count": 1,
-						"visibility_rules": ["719021"],
+						"visibility_rules": ["719021"]
 					},
 					{
 						"name": "Lupini: Solar Kingdom",
 						"item_count": 1,
-						"visibility_rules": ["719022"],
+						"visibility_rules": ["719022"]
 					},
 					{
 						"name": "Lupini: Clouds",
 						"item_count": 1,
-						"visibility_rules": ["719023"],
+						"visibility_rules": ["719023"]
 					},
 					{
 						"name": "Lupini: 1000 Years From Now",
 						"item_count": 1,
-						"visibility_rules": ["719024"],
+						"visibility_rules": ["719024"]
 					},
 					{
 						"name": "Lupini: Three Trees",
 						"item_count": 1,
-						"visibility_rules": ["719025"],
+						"visibility_rules": ["719025"]
 					},
 					{
 						"name": "Lupini: The Serpent",
 						"item_count": 1,
-						"visibility_rules": ["719026"],
+						"visibility_rules": ["719026"]
 					},
 					{
 						"name": "Lupini: Tropical Fish #173",
 						"item_count": 1,
-						"visibility_rules": ["719027"],
+						"visibility_rules": ["719027"]
 					},
 					{
 						"name": "Lupini: Land Of Clay",
 						"item_count": 1,
-						"visibility_rules": ["719028"],
-					},
+						"visibility_rules": ["719028"]
+					}
 					],
 					"map_locations":[
                     {
@@ -110,7 +110,7 @@
                         "y": 153
                     }
 					]
-            },
+            }
         ]
     }
 ]

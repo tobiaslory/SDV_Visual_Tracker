@@ -30,6 +30,7 @@ Tracker:AddItems("items/mine_elevators_items.json")
 Tracker:AddItems("items/tool_upgrades_items.json")
 Tracker:AddItems("items/story_checks_items.json")
 Tracker:AddItems("items/craftsanity_recipes_items.json")
+Tracker:AddItems("items/book_power_items.json")
 
 ScriptHost:LoadScript("scripts/logic.lua")
 

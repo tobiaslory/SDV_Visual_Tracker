@@ -21,6 +21,9 @@
                         "x": 20,
                         "y": 40
                     }
+                ],
+                "access_rules": [
+                    "$has_at_least_copper_pickaxe,$has_weapon"
                 ]
             },
             {
@@ -40,6 +43,9 @@
                         "x": 220,
                         "y": 40
                     }
+                ],
+                "access_rules": [
+                    "$has_at_least_copper_pickaxe,$has_weapon"
                 ]
             },
             {
@@ -61,7 +67,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$can_mine_copper"
+                    "$has_at_least_copper_pickaxe,$has_weapon"
                 ]
             },
             {
@@ -83,7 +89,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$can_mine_iron"
+                    "$has_at_least_iron_pickaxe,$has_weapon"
                 ]
             },
             {
@@ -105,7 +111,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$can_mine_iron"
+                    "$has_at_least_iron_pickaxe,$has_weapon"
                 ]
             },
             {
@@ -127,7 +133,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$can_mine_iron"
+                    "$has_at_least_iron_pickaxe,$has_weapon"
                 ]
             },
             {
@@ -149,7 +155,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$can_mine_gold"
+                    "$has_at_least_iron_pickaxe,$has_weapon"
                 ]
             },
             {
@@ -171,7 +177,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$can_mine_gold"
+                    "$has_at_least_gold_pickaxe,$has_weapon"
                 ]
             },
             {
@@ -193,7 +199,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$can_mine_gold"
+                    "$has_at_least_gold_pickaxe,$has_weapon"
                 ]
             },
             {
@@ -215,7 +221,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$can_mine_gold"
+                    "$has_at_least_gold_pickaxe,$has_weapon"
                 ]
             },
             {
@@ -237,7 +243,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$can_mine_gold"
+                    "$has_at_least_gold_pickaxe,$has_weapon"
                 ]
             },
             {
@@ -257,6 +263,9 @@
                         "x": 620,
                         "y": 96
                     }
+                ],
+                "access_rules": [
+                    "$can_walk_to_mines_floor_5"
                 ]
             },
             {
@@ -276,6 +285,9 @@
                         "x": 20,
                         "y": 124
                     }
+                ],
+                "access_rules": [
+                    "$can_earn_money_substantial"
                 ]
             },
             {
@@ -317,6 +329,9 @@
                         "x": 420,
                         "y": 124
                     }
+                ],
+                "access_rules": [
+                    "$can_walk_to_mines_floor_5"
                 ]
             },
             {
@@ -336,6 +351,9 @@
                         "x": 620,
                         "y": 124
                     }
+                ],
+                "access_rules": [
+                    "$has(\"sewerkey\"),$can_earn_money_late_game"
                 ]
             }
         ]

@@ -225,6 +225,7 @@ ITEM_MAPPING =
 	[722224] = {"flute","toggle"},
 	[722225] = {"stocklist","toggle"},
 	[722230] = {"townkey","toggle"},
+
 -- BEGIN GENERATED CRAFTSANITY_RECIPES (do not edit; auto-managed by _build/generate_recipe_items.py)
 	[717425] = {"gaterecipe","toggle"},
 	[717426] = {"woodfencerecipe","toggle"},
@@ -280,5 +281,27 @@ ITEM_MAPPING =
 	[727611] = {"trexskeletonmrecipe","toggle"},
 	[727612] = {"trexskeletonrrecipe","toggle"},
 -- END GENERATED CRAFTSANITY_RECIPES
+
+-- BEGIN GENERATED BOOK_POWER (do not edit; auto-managed by _build/generate_recipe_items.py)
+	[717521] = {"powerpricecatalogue","toggle"},
+	[717522] = {"powermappingcavesystems","toggle"},
+	[717523] = {"powerwayofthewindpt1","toggle"},
+	[717524] = {"powerwayofthewindpt2","toggle"},
+	[717525] = {"powermonstercompendium","toggle"},
+	[717526] = {"powerfriendship101","toggle"},
+	[717527] = {"powerjackbenimblejackbethick","toggle"},
+	[717528] = {"powerwoodyssecret","toggle"},
+	[717529] = {"powerraccoonjournal","toggle"},
+	[717530] = {"powerjewelsofthesea","toggle"},
+	[717531] = {"powerdwarvishsafetymanual","toggle"},
+	[717532] = {"powertheartocrabbing","toggle"},
+	[717533] = {"powerthealleywaybuffet","toggle"},
+	[717534] = {"powerthediamondhunter","toggle"},
+	[717535] = {"powerbookofmysteries","toggle"},
+	[717536] = {"powerhorsethebook","toggle"},
+	[717537] = {"powertreasureappraisalguide","toggle"},
+	[717538] = {"powerolslitherlegs","toggle"},
+	[717539] = {"poweranimalcatalogue","toggle"},
+-- END GENERATED BOOK_POWER
 
 }

@@ -1154,6 +1154,9 @@
                                 "x": 620,
                                 "y": 432
                             }
+                        ],
+                        "access_rules": [
+                            "$can_walk_to_mines_floor_5"
                         ]
                     },
                     {
@@ -2569,6 +2572,9 @@
                                 "x": 220,
                                 "y": 964
                             }
+                        ],
+                        "access_rules": [
+                            "$can_earn_money_substantial"
                         ]
                     },
                     {
@@ -2800,6 +2806,9 @@
                                 "x": 220,
                                 "y": 1048
                             }
+                        ],
+                        "access_rules": [
+                            "$has(\"farming\",10),$has(\"mining\",10),$has(\"foraging\",10),$has(\"fishing\",10),$has(\"combat\",10)"
                         ]
                     },
                     {
@@ -3793,6 +3802,9 @@
                                 "x": 220,
                                 "y": 1448
                             }
+                        ],
+                        "access_rules": [
+                            "$can_earn_money_modest"
                         ]
                     },
                     {
@@ -3812,6 +3824,9 @@
                                 "x": 420,
                                 "y": 1448
                             }
+                        ],
+                        "access_rules": [
+                            "$can_earn_money_modest"
                         ]
                     },
                     {
@@ -4167,6 +4182,9 @@
                                 "x": 20,
                                 "y": 1588
                             }
+                        ],
+                        "access_rules": [
+                            "$can_earn_money_substantial"
                         ]
                     },
                     {

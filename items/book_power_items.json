@@ -1,0 +1,135 @@
+[
+    {
+        "name": "Power: Price Catalogue",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "powerpricecatalogue"
+    },
+    {
+        "name": "Power: Mapping Cave Systems",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "powermappingcavesystems"
+    },
+    {
+        "name": "Power: Way Of The Wind pt. 1",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "powerwayofthewindpt1"
+    },
+    {
+        "name": "Power: Way Of The Wind pt. 2",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "powerwayofthewindpt2"
+    },
+    {
+        "name": "Power: Monster Compendium",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "powermonstercompendium"
+    },
+    {
+        "name": "Power: Friendship 101",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "powerfriendship101"
+    },
+    {
+        "name": "Power: Jack Be Nimble, Jack Be Thick",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "powerjackbenimblejackbethick"
+    },
+    {
+        "name": "Power: Woody's Secret",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "powerwoodyssecret"
+    },
+    {
+        "name": "Power: Raccoon Journal",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "powerraccoonjournal"
+    },
+    {
+        "name": "Power: Jewels Of The Sea",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "powerjewelsofthesea"
+    },
+    {
+        "name": "Power: Dwarvish Safety Manual",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "powerdwarvishsafetymanual"
+    },
+    {
+        "name": "Power: The Art O' Crabbing",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "powertheartocrabbing"
+    },
+    {
+        "name": "Power: The Alleyway Buffet",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "powerthealleywaybuffet"
+    },
+    {
+        "name": "Power: The Diamond Hunter",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "powerthediamondhunter"
+    },
+    {
+        "name": "Power: Book of Mysteries",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "powerbookofmysteries"
+    },
+    {
+        "name": "Power: Horse: The Book",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "powerhorsethebook"
+    },
+    {
+        "name": "Power: Treasure Appraisal Guide",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "powertreasureappraisalguide"
+    },
+    {
+        "name": "Power: Ol' Slitherlegs",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "powerolslitherlegs"
+    },
+    {
+        "name": "Power: Animal Catalogue",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "poweranimalcatalogue"
+    }
+]

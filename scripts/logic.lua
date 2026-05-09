@@ -24,16 +24,97 @@ function winter()
     return has("winter")
 end
 
+-- Pickaxe stage codes are mutually exclusive (only one is active at a time
+-- per progressive-item stage), so "has at least Copper" must check every
+-- tier from Copper upward.
+function has_at_least_copper_pickaxe()
+    return has("CopperPick") or has("SteelPick") or has("GoldPick") or has("IridiumPick")
+end
+
+function has_at_least_iron_pickaxe()
+    return has("SteelPick") or has("GoldPick") or has("IridiumPick")
+end
+
+function has_at_least_gold_pickaxe()
+    return has("GoldPick") or has("IridiumPick")
+end
+
+function has_at_least_iridium_pickaxe()
+    return has("IridiumPick")
+end
+
 function can_mine_copper()
-    return (has("CopperPick") or has("e5"))
+    return has_at_least_copper_pickaxe() or has("e5")
 end
 
 function can_mine_iron()
-    return (has("CopperPick") or has("e40"))
+    return has_at_least_iron_pickaxe() or has("e40")
 end
 
 function can_mine_gold()
-    return (has("CopperPick") or has("e80"))
+    return has_at_least_gold_pickaxe() or has("e80")
+end
+
+-- Axe / Hoe / Watering Can / Trash Can / Pan use the same pattern.
+function has_at_least_copper_axe()    return has("CopperAxe") or has("SteelAxe") or has("GoldAxe") or has("IridiumAxe") end
+function has_at_least_steel_axe()     return has("SteelAxe") or has("GoldAxe") or has("IridiumAxe") end
+function has_at_least_gold_axe()      return has("GoldAxe") or has("IridiumAxe") end
+function has_at_least_iridium_axe()   return has("IridiumAxe") end
+
+function has_at_least_copper_hoe()    return has("CopperHoe") or has("SteelHoe") or has("GoldHoe") or has("IridiumHoe") end
+function has_at_least_steel_hoe()     return has("SteelHoe") or has("GoldHoe") or has("IridiumHoe") end
+function has_at_least_gold_hoe()      return has("GoldHoe") or has("IridiumHoe") end
+function has_at_least_iridium_hoe()   return has("IridiumHoe") end
+
+function has_at_least_copper_can()    return has("CopperCan") or has("SteelCan") or has("GoldCan") or has("IridiumCan") end
+function has_at_least_steel_can()     return has("SteelCan") or has("GoldCan") or has("IridiumCan") end
+function has_at_least_gold_can()      return has("GoldCan") or has("IridiumCan") end
+function has_at_least_iridium_can()   return has("IridiumCan") end
+
+function has_at_least_copper_pan()    return has("CopperPan") or has("SteelPan") or has("GoldPan") or has("IridiumPan") end
+function has_at_least_steel_pan()     return has("SteelPan") or has("GoldPan") or has("IridiumPan") end
+function has_at_least_gold_pan()      return has("GoldPan") or has("IridiumPan") end
+function has_at_least_iridium_pan()   return has("IridiumPan") end
+
+function has_at_least_copper_trash()  return has("trashcan") end  -- stage 1+ has "trashcan" code
+function has_at_least_steel_trash()   return has("steeltrash") or has("goldtrash") or has("iridiumtrash") end
+function has_at_least_gold_trash()    return has("goldtrash") or has("iridiumtrash") end
+function has_at_least_iridium_trash() return has("iridiumtrash") end
+
+function has_weapon()
+    return has("sword") or has("club") or has("dagger") or has("slingshot")
+end
+
+function can_walk_to_mines_floor_5()
+    -- AP's can_progress_in_the_mines_from_floor(5): basic weapon + copper-tier pickaxe.
+    return has_weapon() and has_at_least_copper_pickaxe()
+end
+
+function can_walk_to_mines_floor_45()
+    return has_weapon() and has_at_least_iron_pickaxe()
+end
+
+function can_walk_to_mines_floor_85()
+    return has_weapon() and has_at_least_gold_pickaxe()
+end
+
+-- AP's can_have_earned_total approximations. The pack can't model gold
+-- earnings precisely, so we proxy money progression on having received
+-- progression milestones (any tool stage past base = some money flowed).
+function can_earn_money_modest()
+    -- ~5000g territory: needs a fishing rod or any tool upgrade.
+    return has("rod") or has_at_least_copper_pickaxe() or has_at_least_copper_axe()
+end
+
+function can_earn_money_substantial()
+    -- ~25000g territory (Demetrius's Breakthrough): needs the kitchen
+    -- (proxy for farmhouse upgrade via house progression).
+    return has("kitchen") or has("house") or has_at_least_iron_pickaxe()
+end
+
+function can_earn_money_late_game()
+    -- ~100000g+ territory (Krobus Stardrop): late-game progression.
+    return has("kitchen") or has_at_least_gold_pickaxe() or has("greenhouse")
 end
 
 function has_skull_key()

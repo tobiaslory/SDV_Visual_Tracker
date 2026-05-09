@@ -1,6 +1,23 @@
 {
 	"versions": [
 		{
+			"package_version": "1.7.2",
+			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.2/stardew_valley_randomizer.zip",
+			"sha256": "7051f67ec5d5bfe059a0dcefcaff57732dccebe888fad09a912d17fae50ee45d",
+			"changelog": [
+				"Added access_rules to all 24 Mine Elevators (gate on the right pickaxe tier + previous elevator stage)",
+				"Added access_rules to all 28 Tool Upgrades (Iron tier needs Copper, Gold needs Iron, etc., plus mining-level proxy for the bar requirement)",
+				"Added access_rules to all 19 Building Blueprints (Kitchen/Cellar need farmhouse upgrade; Big Coop needs Coop received, etc.)",
+				"Added access_rules to Story Checks (Krobus Stardrop needs sewer key, Demetrius's Breakthrough proxies money progression, Mines Floor X Treasure gates on can_walk_to_floor_5)",
+				"Added per-book access_rules to all 19 BOOKSANITY_POWER entries (Read X requires receiving the corresponding Power: X AP item)",
+				"Mapped 19 Power book AP items into item_mapping.lua + new items/book_power_items.json",
+				"Added Craftsanity rules for carpenter-shop recipes (Stepping Stone Path / Crystal Path / Big Chest Recipe + Craft variants)",
+				"Added Craft Wild Bait gating (needs mines floor 5 access for slime/bug meat) and Craft Statue Of Blessings (mastery in all skills)",
+				"New logic.lua helpers: has_at_least_<tier>_<tool>, has_weapon, can_walk_to_mines_floor_5/45/85, can_earn_money_modest/substantial/late_game",
+				"Fixed cumulative tool-tier bug in can_mine_copper/iron/gold (previously only checked stage 1, now matches at any higher tier)"
+			]
+		},
+		{
 			"package_version": "1.7.1",
 			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.1/stardew_valley_randomizer.zip",
 			"sha256": "db61ffd3177d5866ba2007a84e090851a0601f18fd8cfa36a1f13e75fa33ba2a",
