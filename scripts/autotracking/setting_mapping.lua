@@ -100,36 +100,45 @@ function applySettingsFromSlotData(slot_data)
     -- Booksanity: my added single toggle, set_active still works.
     set_active("booksanity_on", is_enabled(get_value(slot_data, "booksanity")))
 
-    -- Shipsanity progressive item: 1=None, 2=Crops, 3=Fish, 4=Full,
-    -- 5=FullwF, 6=Everything. Each stage activates the corresponding
-    -- shipsanity_<mode> code via the progressive item's stage codes.
+    -- AP serialises Choice options as their integer enum values (option_N).
+    -- This helper accepts either int or string for tolerance.
+    local function value_in(value, ...)
+        for _, candidate in ipairs({...}) do
+            if value == candidate then return true end
+        end
+        return false
+    end
+
+    -- Shipsanity progressive item stages (CurrentStage is 0-indexed):
+    --   0=None, 1=Crops, 2=Fish, 3=Full, 4=FullwF, 5=Everything.
+    -- AP integer values for shipsanity: 0=none, 1=crops, 2=fish, 3=full,
+    --   4=full_with_fish, 5=everything.
     local shipsanity = get_value(slot_data, "shipsanity")
-    local ship_stage_map = {
-        crops = 1,                    -- stage 2 (1-indexed → 0-indexed +1 below)
-        fish = 2,
-        full_shipment = 3,
-        full_shipment_with_fish = 4,
-        everything = 5,
-    }
-    local ship_stage = ship_stage_map[shipsanity] or 0  -- 0 = None
+    local ship_stage = 0
+    if value_in(shipsanity, 1, "crops") then ship_stage = 1
+    elseif value_in(shipsanity, 2, "fish") then ship_stage = 2
+    elseif value_in(shipsanity, 3, "full_shipment") then ship_stage = 3
+    elseif value_in(shipsanity, 4, "full_shipment_with_fish") then ship_stage = 4
+    elseif value_in(shipsanity, 5, "everything") then ship_stage = 5
+    end
     set_progressive_stage_by_code("shipsanity", ship_stage)
-    -- Cross-mode helper: shipsanity_on toggle is true if ANY shipsanity is set.
     set_active("shipsanity_on", is_enabled(shipsanity))
 
-    -- Museumsanity progressive: 1=auto/off, 2=donation, 3=milestone.
+    -- Museumsanity: 0=none, 1=milestones, 2=randomized, 3=all.
+    -- Pack progressive stages: 0=off, 1=donation, 2=milestone.
     local museum = get_value(slot_data, "museumsanity")
     local museum_stage = 0
-    if museum == "milestones" then museum_stage = 2
-    elseif museum == "randomized" or museum == "all" then museum_stage = 1
+    if value_in(museum, 1, "milestones") then museum_stage = 2
+    elseif value_in(museum, 2, 3, "randomized", "all") then museum_stage = 1
     end
     set_progressive_stage_by_code("museumsanity", museum_stage)
 
-    -- Special Orders progressive: 1=auto, 2=vanilla, 3=board, 4=qi.
+    -- Special Orders: 0=vanilla, 1=board, 2=board_qi (or string equivalents).
+    -- Pack stages: 0=auto, 1=vanilla, 2=board, 3=qi.
     local board = get_value(slot_data, "special_order_locations")
-    local board_stage = 0
-    if board == "vanilla" or board == 0 or board == nil then board_stage = 1
-    elseif board == "board" or table_contains(board, "board") then board_stage = 2
-    elseif board == "board_qi" or table_contains(board, "qi") then board_stage = 3
+    local board_stage = 1   -- default to vanilla
+    if value_in(board, 1, "board") or table_contains(board, "board") then board_stage = 2
+    elseif value_in(board, 2, "board_qi") or table_contains(board, "qi") then board_stage = 3
     end
     set_progressive_stage_by_code("board", board_stage)
 

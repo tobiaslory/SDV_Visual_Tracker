@@ -1,6 +1,16 @@
 {
 	"versions": [
 		{
+			"package_version": "1.7.9",
+			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.9/stardew_valley_randomizer.zip",
+			"sha256": "f029bafb00e78627086b9cbad7bfa42ca9207d62b82190069da3869e4be55c58",
+			"changelog": [
+				"Festival check rules: each festival entry now has the AP per-check requirement on top of the season rule. E.g. Rarecrow #5 (Woman) is now $spring,$can_earn_money_modest (was just $spring). Iridium Fireplace gates on $can_earn_money_late_game (15000g). Lupini Y2/Y3 paintings gated on late-game money. Rules sourced from AP's festival_logic.py festival_rules dict, mapped via _build/patch_festival_check_rules.py.",
+				"Fix: setting_mapping.lua's progressive-stage decisions for Museumsanity / Shipsanity / Special Orders compared the slot value against strings, but AP serialises Choice options as INTEGER enum values (option_randomized = 2, etc.). Comparisons now match both int and string values, so museum_donation / shipsanity_<mode> / board_on stages activate correctly. Museum tab should now populate.",
+				"Fix: World.json's Floor 10 / Floor 20 entries (legacy section, separate from the duplicate in Story_Checks) had no access_rules, so they showed as in-logic regardless of whether the player had a pickaxe. Added $can_walk_to_mines_floor_5 to gate them properly."
+			]
+		},
+		{
 			"package_version": "1.7.8",
 			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.8/stardew_valley_randomizer.zip",
 			"sha256": "f052ce84f2c8e61c8fa8b176270c7d6defe44e82ac42a3f42e27e2ba47aac52d",

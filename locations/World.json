@@ -9,11 +9,13 @@
                 "sections":[
                     {
                         "name": "Floor 10",
-                        "item_count": 1
+                        "item_count": 1,
+                        "access_rules": ["$can_walk_to_mines_floor_5"]
                     },
                     {
                         "name": "Floor 20",
-                        "item_count": 1
+                        "item_count": 1,
+                        "access_rules": ["$can_walk_to_mines_floor_5"]
                     },
                     {
                         "name": "Floor 40",

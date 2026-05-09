@@ -55,7 +55,7 @@
 					"name": "Rarecrow #5",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719004"],
-					"access_rules": ["$spring"],
+					"access_rules": ["$spring,$can_earn_money_modest"],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -86,7 +86,7 @@
                         "name": "Luau Soup",
                         "item_count": 1,
 						"visibility_rules": ["719005"],
-					"access_rules": ["$summer"],
+					"access_rules": ["$summer,$can_earn_money_modest"],
                     }
                 ],
                 "map_locations":[
@@ -117,7 +117,7 @@
 					"name": "Moonlight Jellies Banner",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719034"],
-					"access_rules": ["$summer"],
+					"access_rules": ["$summer,$can_earn_money_modest"],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -130,7 +130,7 @@
 					"name": "Starport Decal",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719035"],
-					"access_rules": ["$summer"],
+					"access_rules": ["$summer,$can_earn_money_modest"],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -161,7 +161,7 @@
 					"name": "Grange Display",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719008"],
-					"access_rules": ["$fall"],
+					"access_rules": ["$fall,$can_earn_money_modest"],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -218,7 +218,7 @@
 					"name": "Rarecrow #2",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719012"],
-					"access_rules": ["$fall"],
+					"access_rules": ["$fall,$can_earn_money_substantial"],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -262,7 +262,7 @@
 					"name": "Rarecrow #4",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719014"],
-					"access_rules": ["$winter"],
+					"access_rules": ["$winter,$can_earn_money_substantial"],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -280,7 +280,7 @@
 					"name": "Secret Santa",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719029"],
-					"access_rules": ["$winter"],
+					"access_rules": ["$winter,$can_earn_money_modest"],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
