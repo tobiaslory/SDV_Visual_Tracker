@@ -11,10 +11,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "717103",
-                    "tshuffle"
-                ],
+                "visibility_rules": ["717103,tshuffle"],
                 "map_locations": [
                     {
                         "map": "Tool_Upgrades",
@@ -33,10 +30,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "717104",
-                    "tshuffle"
-                ],
+                "visibility_rules": ["717104,tshuffle"],
                 "map_locations": [
                     {
                         "map": "Tool_Upgrades",
@@ -55,10 +49,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "717105",
-                    "tshuffle"
-                ],
+                "visibility_rules": ["717105,tshuffle"],
                 "map_locations": [
                     {
                         "map": "Tool_Upgrades",
@@ -77,10 +68,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "717106",
-                    "tshuffle"
-                ],
+                "visibility_rules": ["717106,tshuffle"],
                 "map_locations": [
                     {
                         "map": "Tool_Upgrades",
@@ -99,10 +87,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "717107",
-                    "tshuffle"
-                ],
+                "visibility_rules": ["717107,tshuffle"],
                 "map_locations": [
                     {
                         "map": "Tool_Upgrades",
@@ -121,10 +106,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "717108",
-                    "tshuffle"
-                ],
+                "visibility_rules": ["717108,tshuffle"],
                 "map_locations": [
                     {
                         "map": "Tool_Upgrades",
@@ -143,10 +125,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "717109",
-                    "tshuffle"
-                ],
+                "visibility_rules": ["717109,tshuffle"],
                 "map_locations": [
                     {
                         "map": "Tool_Upgrades",
@@ -165,10 +144,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "717110",
-                    "tshuffle"
-                ],
+                "visibility_rules": ["717110,tshuffle"],
                 "map_locations": [
                     {
                         "map": "Tool_Upgrades",
@@ -187,10 +163,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "717111",
-                    "tshuffle"
-                ],
+                "visibility_rules": ["717111,tshuffle"],
                 "map_locations": [
                     {
                         "map": "Tool_Upgrades",
@@ -209,10 +182,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "717112",
-                    "tshuffle"
-                ],
+                "visibility_rules": ["717112,tshuffle"],
                 "map_locations": [
                     {
                         "map": "Tool_Upgrades",
@@ -231,10 +201,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "717113",
-                    "tshuffle"
-                ],
+                "visibility_rules": ["717113,tshuffle"],
                 "map_locations": [
                     {
                         "map": "Tool_Upgrades",
@@ -253,10 +220,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "717114",
-                    "tshuffle"
-                ],
+                "visibility_rules": ["717114,tshuffle"],
                 "map_locations": [
                     {
                         "map": "Tool_Upgrades",
@@ -275,10 +239,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "717115",
-                    "tshuffle"
-                ],
+                "visibility_rules": ["717115,tshuffle"],
                 "map_locations": [
                     {
                         "map": "Tool_Upgrades",
@@ -297,10 +258,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "717116",
-                    "tshuffle"
-                ],
+                "visibility_rules": ["717116,tshuffle"],
                 "map_locations": [
                     {
                         "map": "Tool_Upgrades",
@@ -319,10 +277,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "717117",
-                    "tshuffle"
-                ],
+                "visibility_rules": ["717117,tshuffle"],
                 "map_locations": [
                     {
                         "map": "Tool_Upgrades",
@@ -341,10 +296,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "717118",
-                    "tshuffle"
-                ],
+                "visibility_rules": ["717118,tshuffle"],
                 "map_locations": [
                     {
                         "map": "Tool_Upgrades",
@@ -363,10 +315,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "717119",
-                    "tshuffle"
-                ],
+                "visibility_rules": ["717119,tshuffle"],
                 "map_locations": [
                     {
                         "map": "Tool_Upgrades",
@@ -385,10 +334,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "717120",
-                    "tshuffle"
-                ],
+                "visibility_rules": ["717120,tshuffle"],
                 "map_locations": [
                     {
                         "map": "Tool_Upgrades",
@@ -407,10 +353,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "717121",
-                    "tshuffle"
-                ],
+                "visibility_rules": ["717121,tshuffle"],
                 "map_locations": [
                     {
                         "map": "Tool_Upgrades",
@@ -429,10 +372,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "717122",
-                    "tshuffle"
-                ],
+                "visibility_rules": ["717122,tshuffle"],
                 "map_locations": [
                     {
                         "map": "Tool_Upgrades",
@@ -451,10 +391,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "717123",
-                    "tshuffle"
-                ],
+                "visibility_rules": ["717123,tshuffle"],
                 "map_locations": [
                     {
                         "map": "Tool_Upgrades",
@@ -470,10 +407,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "717124",
-                    "tshuffle"
-                ],
+                "visibility_rules": ["717124,tshuffle"],
                 "map_locations": [
                     {
                         "map": "Tool_Upgrades",
@@ -489,10 +423,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "717125",
-                    "tshuffle"
-                ],
+                "visibility_rules": ["717125,tshuffle"],
                 "map_locations": [
                     {
                         "map": "Tool_Upgrades",
@@ -511,10 +442,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "717126",
-                    "tshuffle"
-                ],
+                "visibility_rules": ["717126,tshuffle"],
                 "map_locations": [
                     {
                         "map": "Tool_Upgrades",
@@ -533,10 +461,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "717127",
-                    "tshuffle"
-                ],
+                "visibility_rules": ["717127,tshuffle"],
                 "map_locations": [
                     {
                         "map": "Tool_Upgrades",
@@ -555,10 +480,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "717128",
-                    "tshuffle"
-                ],
+                "visibility_rules": ["717128,tshuffle"],
                 "map_locations": [
                     {
                         "map": "Tool_Upgrades",
@@ -577,10 +499,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "717129",
-                    "tshuffle"
-                ],
+                "visibility_rules": ["717129,tshuffle"],
                 "map_locations": [
                     {
                         "map": "Tool_Upgrades",
@@ -599,10 +518,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "717130",
-                    "tshuffle"
-                ],
+                "visibility_rules": ["717130,tshuffle"],
                 "map_locations": [
                     {
                         "map": "Tool_Upgrades",

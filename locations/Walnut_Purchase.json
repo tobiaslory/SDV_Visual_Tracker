@@ -11,10 +11,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "719204",
-                    "walnut_purchase_on"
-                ],
+                "visibility_rules": ["719204,walnut_purchase_on"],
                 "map_locations": [
                     {
                         "map": "Walnut_Purchase",
@@ -33,10 +30,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "719205",
-                    "walnut_purchase_on"
-                ],
+                "visibility_rules": ["719205,walnut_purchase_on"],
                 "map_locations": [
                     {
                         "map": "Walnut_Purchase",
@@ -55,10 +49,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "719206",
-                    "walnut_purchase_on"
-                ],
+                "visibility_rules": ["719206,walnut_purchase_on"],
                 "map_locations": [
                     {
                         "map": "Walnut_Purchase",
@@ -77,10 +68,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "719207",
-                    "walnut_purchase_on"
-                ],
+                "visibility_rules": ["719207,walnut_purchase_on"],
                 "map_locations": [
                     {
                         "map": "Walnut_Purchase",
@@ -99,10 +87,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "719208",
-                    "walnut_purchase_on"
-                ],
+                "visibility_rules": ["719208,walnut_purchase_on"],
                 "map_locations": [
                     {
                         "map": "Walnut_Purchase",
@@ -121,10 +106,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "719209",
-                    "walnut_purchase_on"
-                ],
+                "visibility_rules": ["719209,walnut_purchase_on"],
                 "map_locations": [
                     {
                         "map": "Walnut_Purchase",
@@ -143,10 +125,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "719210",
-                    "walnut_purchase_on"
-                ],
+                "visibility_rules": ["719210,walnut_purchase_on"],
                 "map_locations": [
                     {
                         "map": "Walnut_Purchase",
@@ -165,10 +144,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "719211",
-                    "walnut_purchase_on"
-                ],
+                "visibility_rules": ["719211,walnut_purchase_on"],
                 "map_locations": [
                     {
                         "map": "Walnut_Purchase",
@@ -187,10 +163,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "719212",
-                    "walnut_purchase_on"
-                ],
+                "visibility_rules": ["719212,walnut_purchase_on"],
                 "map_locations": [
                     {
                         "map": "Walnut_Purchase",
@@ -209,10 +182,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "719213",
-                    "walnut_purchase_on"
-                ],
+                "visibility_rules": ["719213,walnut_purchase_on"],
                 "map_locations": [
                     {
                         "map": "Walnut_Purchase",
@@ -231,10 +201,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "719214",
-                    "walnut_purchase_on"
-                ],
+                "visibility_rules": ["719214,walnut_purchase_on"],
                 "map_locations": [
                     {
                         "map": "Walnut_Purchase",

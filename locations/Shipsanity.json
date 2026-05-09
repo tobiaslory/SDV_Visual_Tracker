@@ -21,7 +21,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],					
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],					
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -49,7 +49,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],					
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],					
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -77,7 +77,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],					
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],					
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -105,7 +105,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],				
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],				
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -133,7 +133,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],					
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],					
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -160,7 +160,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["island_tracking_on,shipsanity_crops","island_tracking_on,shipsanity_full","island_tracking_on,shipsanity_fullwf","island_tracking_on,shipsanity_all",]}],						
+					"sections": [{"item_count": 1, "visibility_rules": ["island_tracking_on,shipsanity_crops,island_tracking_on,shipsanity_full,island_tracking_on,shipsanity_fullwf,island_tracking_on,shipsanity_all"]}],						
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -188,7 +188,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],				
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],				
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -204,7 +204,7 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],					
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],					
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -232,7 +232,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],				
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],				
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -260,7 +260,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],			
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],			
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -288,7 +288,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],			
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],			
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -316,7 +316,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],					
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],					
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -344,7 +344,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],					
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],					
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -372,7 +372,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],				
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],				
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -400,7 +400,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],				
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],				
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -416,7 +416,7 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],						
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],						
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -432,7 +432,7 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],				
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],				
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -460,7 +460,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],				
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],				
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -476,7 +476,7 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],				
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],				
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -504,7 +504,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],		
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],		
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -520,7 +520,7 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],					
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],					
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -536,7 +536,7 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],			
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],			
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -564,7 +564,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],		
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],		
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -592,7 +592,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -608,7 +608,7 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],		
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],		
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -624,7 +624,7 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],	
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],	
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -640,7 +640,7 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -656,7 +656,7 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -684,7 +684,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],			
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],			
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -712,7 +712,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -728,7 +728,7 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -756,7 +756,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],		
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],		
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -772,7 +772,7 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["island_tracking_on,shipsanity_crops","island_tracking_on,shipsanity_full","island_tracking_on,shipsanity_fullwf","island_tracking_on,shipsanity_all",]}],	
+					"sections": [{"item_count": 1, "visibility_rules": ["island_tracking_on,shipsanity_crops,island_tracking_on,shipsanity_full,island_tracking_on,shipsanity_fullwf,island_tracking_on,shipsanity_all"]}],	
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -800,7 +800,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -828,7 +828,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],	
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],	
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -844,7 +844,7 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],	
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],	
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -860,7 +860,7 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],	
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],	
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -888,7 +888,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],	
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],	
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -916,7 +916,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],		
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],		
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -944,7 +944,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],		
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],		
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -960,7 +960,7 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],		
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],		
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -976,7 +976,7 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["island_tracking_on,shipsanity_crops","island_tracking_on,shipsanity_full","island_tracking_on,shipsanity_fullwf","island_tracking_on,shipsanity_all",]}],																
+					"sections": [{"item_count": 1, "visibility_rules": ["island_tracking_on,shipsanity_crops,island_tracking_on,shipsanity_full,island_tracking_on,shipsanity_fullwf,island_tracking_on,shipsanity_all"]}],																
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1003,7 +1003,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["island_tracking_on,shipsanity_crops","island_tracking_on,shipsanity_full","island_tracking_on,shipsanity_fullwf","island_tracking_on,shipsanity_all",]}],											
+					"sections": [{"item_count": 1, "visibility_rules": ["island_tracking_on,shipsanity_crops,island_tracking_on,shipsanity_full,island_tracking_on,shipsanity_fullwf,island_tracking_on,shipsanity_all"]}],											
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1031,7 +1031,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1047,7 +1047,7 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],		
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],		
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1063,7 +1063,7 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],		
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],		
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1091,7 +1091,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],		
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],		
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1119,7 +1119,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],		
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],		
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1147,7 +1147,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],		
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],		
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1174,7 +1174,7 @@
 				  },
 				  {
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["island_tracking_on,shipsanity_crops","island_tracking_on,shipsanity_full","island_tracking_on,shipsanity_fullwf","island_tracking_on,shipsanity_all",]}],																
+					"sections": [{"item_count": 1, "visibility_rules": ["island_tracking_on,shipsanity_crops,island_tracking_on,shipsanity_full,island_tracking_on,shipsanity_fullwf,island_tracking_on,shipsanity_all"]}],																
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1202,7 +1202,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],		
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],		
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1230,7 +1230,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],	
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],	
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1258,7 +1258,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],		
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],		
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1286,7 +1286,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],		
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],		
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1314,7 +1314,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],		
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],		
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1330,7 +1330,7 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],		
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],		
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1357,7 +1357,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["island_tracking_on,shipsanity_crops","island_tracking_on,shipsanity_full","island_tracking_on,shipsanity_fullwf","island_tracking_on,shipsanity_all",]}],										
+					"sections": [{"item_count": 1, "visibility_rules": ["island_tracking_on,shipsanity_crops,island_tracking_on,shipsanity_full,island_tracking_on,shipsanity_fullwf,island_tracking_on,shipsanity_all"]}],										
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1385,7 +1385,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],		
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],		
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1401,7 +1401,7 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],			
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],			
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1429,7 +1429,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],			
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],			
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1445,7 +1445,7 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],			
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],			
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1473,7 +1473,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],				
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],				
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1489,7 +1489,7 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],				
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],				
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1505,7 +1505,7 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],			
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],			
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1521,7 +1521,7 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],			
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],			
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1537,7 +1537,7 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],			
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],			
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1553,7 +1553,7 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],			
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],			
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1581,7 +1581,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],			
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],			
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1609,7 +1609,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],			
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],			
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1637,7 +1637,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],			
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],			
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1665,7 +1665,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],			
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],			
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1693,7 +1693,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],			
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],			
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1721,7 +1721,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],				
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],				
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1737,7 +1737,7 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],			
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],			
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1764,7 +1764,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["island_tracking_on,shipsanity_crops","island_tracking_on,shipsanity_full","island_tracking_on,shipsanity_fullwf","island_tracking_on,shipsanity_all",]}],																
+					"sections": [{"item_count": 1, "visibility_rules": ["island_tracking_on,shipsanity_crops,island_tracking_on,shipsanity_full,island_tracking_on,shipsanity_fullwf,island_tracking_on,shipsanity_all"]}],																
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1792,7 +1792,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],			
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],			
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1820,7 +1820,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],				
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],				
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1848,7 +1848,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],			
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],			
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1876,7 +1876,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],			
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],			
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1904,7 +1904,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],			
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],			
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1920,7 +1920,7 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],				
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],				
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1936,7 +1936,7 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],			
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],			
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1952,7 +1952,7 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],			
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],			
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -1980,7 +1980,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops","shipsanity_full","shipsanity_fullwf","shipsanity_all"]}],			
+					"sections": [{"item_count": 1, "visibility_rules": ["shipsanity_crops,shipsanity_full,shipsanity_fullwf,shipsanity_all"]}],			
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",

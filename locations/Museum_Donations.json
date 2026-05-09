@@ -10,7 +10,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718258","museum_donation"],
+					"visibility_rules": ["718258,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"map_locations":[
                       {
@@ -23,7 +23,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["719764","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],
+					"visibility_rules": ["719764,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -40,7 +40,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718255","museum_donation"],
+					"visibility_rules": ["718255,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"map_locations":[
                       {
@@ -53,7 +53,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["719765","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719765,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -70,7 +70,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718250","museum_donation"],
+					"visibility_rules": ["718250,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -83,7 +83,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],		
-					"visibility_rules": ["719766","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],
+					"visibility_rules": ["719766,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -100,7 +100,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718248","museum_donation"],
+					"visibility_rules": ["718248,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -113,7 +113,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],	
-					"visibility_rules": ["719768","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],
+					"visibility_rules": ["719768,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -130,7 +130,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718257","museum_donation"],
+					"visibility_rules": ["718257,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"map_locations":[
                       {
@@ -143,7 +143,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],		
-					"visibility_rules": ["719769","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719769,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -159,7 +159,7 @@
 				"children":[
 				{
 					"name": "Donate",
-					"visibility_rules": ["718287","museum_donation"],
+					"visibility_rules": ["718287,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"sections": [{"item_count": 1}],
 					"map_locations":[
@@ -173,7 +173,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],	
-					"visibility_rules": ["719770","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],
+					"visibility_rules": ["719770,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -190,7 +190,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718256","museum_donation"],
+					"visibility_rules": ["718256,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"map_locations":[
                       {
@@ -203,7 +203,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],	
-					"visibility_rules": ["719771","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],
+					"visibility_rules": ["719771,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -220,7 +220,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718259","museum_donation"],
+					"visibility_rules": ["718259,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"map_locations":[
                       {
@@ -233,7 +233,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],	
-					"visibility_rules": ["719772","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],
+					"visibility_rules": ["719772,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -250,7 +250,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718283","museum_donation"],
+					"visibility_rules": ["718283,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"map_locations":[
                       {
@@ -263,7 +263,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],	
-					"visibility_rules": ["719773","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],
+					"visibility_rules": ["719773,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -280,7 +280,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718253","museum_donation"],
+					"visibility_rules": ["718253,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -293,7 +293,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],		
-					"visibility_rules": ["719776","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],
+					"visibility_rules": ["719776,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -310,7 +310,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718260","museum_donation"],
+					"visibility_rules": ["718260,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"map_locations":[
                       {
@@ -323,7 +323,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],	
-					"visibility_rules": ["719777","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],
+					"visibility_rules": ["719777,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -340,7 +340,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718246","museum_donation"],
+					"visibility_rules": ["718246,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -353,7 +353,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],	
-					"visibility_rules": ["719778","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719778,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -370,7 +370,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718247","museum_donation"],
+					"visibility_rules": ["718247,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -383,7 +383,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],	
-					"visibility_rules": ["719779","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719779,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -400,7 +400,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718261","museum_donation"],
+					"visibility_rules": ["718261,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"map_locations":[
                       {
@@ -413,7 +413,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],	
-					"visibility_rules": ["719780","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719780,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -430,7 +430,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718294","museum_donation"],
+					"visibility_rules": ["718294,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"map_locations":[
                       {
@@ -443,7 +443,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],		
-					"visibility_rules": ["719781","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719781,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -460,7 +460,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718282","museum_donation"],
+					"visibility_rules": ["718282,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"map_locations":[
                       {
@@ -473,7 +473,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],	
-					"visibility_rules": ["719782","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719782,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -490,7 +490,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718244","museum_donation"],
+					"visibility_rules": ["718244,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -503,7 +503,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],		
-					"visibility_rules": ["719783","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719783,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -520,7 +520,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718262","museum_donation"],
+					"visibility_rules": ["718262,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"map_locations":[
                       {
@@ -533,7 +533,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],		
-					"visibility_rules": ["719784","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719784,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -550,7 +550,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718245","museum_donation"],
+					"visibility_rules": ["718245,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -563,7 +563,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],		
-					"visibility_rules": ["719786","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719786,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -580,7 +580,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718263","museum_donation"],
+					"visibility_rules": ["718263,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"map_locations":[
                       {
@@ -593,7 +593,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],		
-					"visibility_rules": ["719787","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719787,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -610,7 +610,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718278","museum_donation"],
+					"visibility_rules": ["718278,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"map_locations":[
                       {
@@ -623,7 +623,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],	
-					"visibility_rules": ["719789","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719789,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -640,7 +640,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718286","museum_donation"],
+					"visibility_rules": ["718286,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"map_locations":[
                       {
@@ -653,7 +653,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],	
-					"visibility_rules": ["719791","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719791,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -670,7 +670,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718264","museum_donation"],
+					"visibility_rules": ["718264,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"map_locations":[
                       {
@@ -683,7 +683,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],		
-					"visibility_rules": ["719792","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719792,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -700,7 +700,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718290","museum_donation"],
+					"visibility_rules": ["718290,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"map_locations":[
                       {
@@ -713,7 +713,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],	
-					"visibility_rules": ["719793","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719793,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -730,7 +730,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718252","museum_donation"],
+					"visibility_rules": ["718252,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -743,7 +743,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],	
-					"visibility_rules": ["719796","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719796,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -760,7 +760,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718266","museum_donation"],
+					"visibility_rules": ["718266,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"map_locations":[
                       {
@@ -773,7 +773,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],			
-					"visibility_rules": ["719797","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719797,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -790,7 +790,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718265","museum_donation"],
+					"visibility_rules": ["718265,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"map_locations":[
                       {
@@ -803,7 +803,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],		
-					"visibility_rules": ["719798","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719798,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -820,7 +820,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718280","museum_donation"],
+					"visibility_rules": ["718280,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"map_locations":[
                       {
@@ -833,7 +833,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],		
-					"visibility_rules": ["719799","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719799,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -850,7 +850,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718267","museum_donation"],
+					"visibility_rules": ["718267,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"map_locations":[
                       {
@@ -863,7 +863,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],		
-					"visibility_rules": ["719800","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719800,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -880,7 +880,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718271","museum_donation"],
+					"visibility_rules": ["718271,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"map_locations":[
                       {
@@ -893,7 +893,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],			
-					"visibility_rules": ["719801","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719801,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -910,7 +910,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718288","museum_donation"],
+					"visibility_rules": ["718288,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"map_locations":[
                       {
@@ -923,7 +923,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],			
-					"visibility_rules": ["719802","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719802,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -940,7 +940,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718268","museum_donation"],
+					"visibility_rules": ["718268,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"map_locations":[
                       {
@@ -953,7 +953,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],		
-					"visibility_rules": ["719803","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719803,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -970,7 +970,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718269","museum_donation"],
+					"visibility_rules": ["718269,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"map_locations":[
                       {
@@ -983,7 +983,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],		
-					"visibility_rules": ["719805","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719805,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1000,7 +1000,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718284","museum_donation"],
+					"visibility_rules": ["718284,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"map_locations":[
                       {
@@ -1013,7 +1013,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],	
-					"visibility_rules": ["719806","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719806,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1030,7 +1030,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718291","museum_donation"],
+					"visibility_rules": ["718291,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"map_locations":[
                       {
@@ -1043,7 +1043,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],		
-					"visibility_rules": ["719807","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719807,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1060,7 +1060,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718272","museum_donation"],
+					"visibility_rules": ["718272,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"map_locations":[
                       {
@@ -1073,7 +1073,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],		
-					"visibility_rules": ["719809","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719809,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1090,7 +1090,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718270","museum_donation"],
+					"visibility_rules": ["718270,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"map_locations":[
                       {
@@ -1103,7 +1103,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],	
-					"visibility_rules": ["719810","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719810,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1120,7 +1120,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718292","museum_donation"],
+					"visibility_rules": ["718292,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"map_locations":[
                       {
@@ -1133,7 +1133,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],		
-					"visibility_rules": ["719811","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719811,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1150,7 +1150,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718277","museum_donation"],
+					"visibility_rules": ["718277,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"map_locations":[
                       {
@@ -1163,7 +1163,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],		
-					"visibility_rules": ["719812","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719812,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1180,7 +1180,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718281","museum_donation"],
+					"visibility_rules": ["718281,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"map_locations":[
                       {
@@ -1193,7 +1193,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],		
-					"visibility_rules": ["719814","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719814,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1210,7 +1210,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718273","museum_donation"],
+					"visibility_rules": ["718273,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"map_locations":[
                       {
@@ -1223,7 +1223,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],		
-					"visibility_rules": ["719815","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719815,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1240,7 +1240,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718274","museum_donation"],
+					"visibility_rules": ["718274,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -1253,7 +1253,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
-					"visibility_rules": ["719817","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],
+					"visibility_rules": ["719817,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1270,7 +1270,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718254","museum_donation"],
+					"visibility_rules": ["718254,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -1283,7 +1283,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],				
-					"visibility_rules": ["719823","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719823,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1300,7 +1300,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718276","museum_donation"],
+					"visibility_rules": ["718276,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"map_locations":[
                       {
@@ -1313,7 +1313,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],				
-					"visibility_rules": ["719824","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719824,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1330,7 +1330,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718243","museum_donation"],
+					"visibility_rules": ["718243,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -1343,7 +1343,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],			
-					"visibility_rules": ["719825","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719825,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1360,7 +1360,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718249","museum_donation"],
+					"visibility_rules": ["718249,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -1373,7 +1373,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],			
-					"visibility_rules": ["719826","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719826,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1390,7 +1390,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718285","museum_donation"],
+					"visibility_rules": ["718285,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"map_locations":[
                       {
@@ -1403,7 +1403,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
-					"visibility_rules": ["719827","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],
+					"visibility_rules": ["719827,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1420,7 +1420,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718293","museum_donation"],
+					"visibility_rules": ["718293,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"map_locations":[
                       {
@@ -1433,7 +1433,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],				
-					"visibility_rules": ["719830","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719830,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1450,7 +1450,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718289","museum_donation"],
+					"visibility_rules": ["718289,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"map_locations":[
                       {
@@ -1463,7 +1463,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],			
-					"visibility_rules": ["719831","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719831,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1480,7 +1480,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718295","museum_donation"],
+					"visibility_rules": ["718295,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"map_locations":[
                       {
@@ -1493,7 +1493,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],				
-					"visibility_rules": ["719832","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719832,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1510,7 +1510,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718275","museum_donation"],
+					"visibility_rules": ["718275,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"map_locations":[
                       {
@@ -1523,7 +1523,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],			
-					"visibility_rules": ["719833","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719833,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1540,7 +1540,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718279","museum_donation"],
+					"visibility_rules": ["718279,museum_donation"],
 					"access_rules": ["$has_at_least_copper_pickaxe"],
 					"map_locations":[
                       {
@@ -1553,7 +1553,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],			
-					"visibility_rules": ["719834","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719834,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1570,7 +1570,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718251","museum_donation"],
+					"visibility_rules": ["718251,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -1583,7 +1583,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],		
-					"visibility_rules": ["719835","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],
+					"visibility_rules": ["719835,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1600,7 +1600,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718240","museum_donation"],
+					"visibility_rules": ["718240,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -1613,7 +1613,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],	
-					"visibility_rules": ["719767","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719767,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1630,7 +1630,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718221","museum_donation"],
+					"visibility_rules": ["718221,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -1643,7 +1643,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],			
-					"visibility_rules": ["719416","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719416,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1660,7 +1660,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718207","museum_donation"],
+					"visibility_rules": ["718207,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -1673,7 +1673,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],		
-					"visibility_rules": ["719417","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719417,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1690,7 +1690,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718227","museum_donation"],
+					"visibility_rules": ["718227,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -1703,7 +1703,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],		
-					"visibility_rules": ["719418","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719418,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1740,7 +1740,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
-					"visibility_rules": ["719419","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],
+					"visibility_rules": ["719419,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1757,7 +1757,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718213","museum_donation"],
+					"visibility_rules": ["718213,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -1770,7 +1770,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],			
-					"visibility_rules": ["719420","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719420,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1787,7 +1787,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718206","museum_donation"],
+					"visibility_rules": ["718206,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -1800,7 +1800,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],		
-					"visibility_rules": ["719421","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719421,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1817,7 +1817,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718223","museum_donation"],
+					"visibility_rules": ["718223,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -1830,7 +1830,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],				
-					"visibility_rules": ["719423","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719423,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1847,7 +1847,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718209","museum_donation"],
+					"visibility_rules": ["718209,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -1860,7 +1860,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
-					"visibility_rules": ["719424","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],
+					"visibility_rules": ["719424,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1877,7 +1877,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718217","museum_donation"],
+					"visibility_rules": ["718217,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -1890,7 +1890,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
-					"visibility_rules": ["719425","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],
+					"visibility_rules": ["719425,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1907,7 +1907,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718205","museum_donation"],
+					"visibility_rules": ["718205,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -1920,7 +1920,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],				
-					"visibility_rules": ["719426","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719426,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1937,7 +1937,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718211","museum_donation"],
+					"visibility_rules": ["718211,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -1950,7 +1950,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
-					"visibility_rules": ["719427","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],
+					"visibility_rules": ["719427,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1967,7 +1967,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718220","museum_donation"],
+					"visibility_rules": ["718220,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -1980,7 +1980,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
-					"visibility_rules": ["719428","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],
+					"visibility_rules": ["719428,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1997,7 +1997,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718226","museum_donation"],
+					"visibility_rules": ["718226,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -2010,7 +2010,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],	
-					"visibility_rules": ["719429","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719429,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2027,7 +2027,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718201","museum_donation"],
+					"visibility_rules": ["718201,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -2040,7 +2040,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],		
-					"visibility_rules": ["719430","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719430,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2057,7 +2057,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718202","museum_donation"],
+					"visibility_rules": ["718202,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -2070,7 +2070,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],			
-					"visibility_rules": ["719431","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719431,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2087,7 +2087,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718203","museum_donation"],
+					"visibility_rules": ["718203,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -2100,7 +2100,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],				
-					"visibility_rules": ["719432","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719432,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2117,7 +2117,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718204","museum_donation"],
+					"visibility_rules": ["718204,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -2130,7 +2130,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],				
-					"visibility_rules": ["719433","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719433,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2147,7 +2147,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718225","museum_donation"],
+					"visibility_rules": ["718225,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -2160,7 +2160,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
-					"visibility_rules": ["719434","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],
+					"visibility_rules": ["719434,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2177,7 +2177,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718208","museum_donation"],
+					"visibility_rules": ["718208,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -2190,7 +2190,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],				
-					"visibility_rules": ["719435","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719435,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2207,7 +2207,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718222","museum_donation"],
+					"visibility_rules": ["718222,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -2220,7 +2220,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],				
-					"visibility_rules": ["719436","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719436,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2237,7 +2237,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718228","museum_donation"],
+					"visibility_rules": ["718228,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -2250,7 +2250,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],				
-					"visibility_rules": ["719437","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719437,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2267,7 +2267,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718229","museum_donation"],
+					"visibility_rules": ["718229,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -2280,7 +2280,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],			
-					"visibility_rules": ["719438","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719438,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2297,7 +2297,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718239","museum_donation"],
+					"visibility_rules": ["718239,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -2310,7 +2310,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],			
-					"visibility_rules": ["719808","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719808,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2327,7 +2327,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718210","museum_donation"],
+					"visibility_rules": ["718210,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -2340,7 +2340,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],			
-					"visibility_rules": ["719439","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719439,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2357,7 +2357,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718241","museum_donation"],
+					"visibility_rules": ["718241,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -2370,7 +2370,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],		
-					"visibility_rules": ["719816","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719816,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2387,7 +2387,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718224","museum_donation"],
+					"visibility_rules": ["718224,museum_donation"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2399,7 +2399,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
-					"visibility_rules": ["719440","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],
+					"visibility_rules": ["719440,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2416,7 +2416,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718236","museum_donation"],
+					"visibility_rules": ["718236,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -2429,7 +2429,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],			
-					"visibility_rules": ["719818","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719818,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2446,7 +2446,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718232","museum_donation"],
+					"visibility_rules": ["718232,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -2459,7 +2459,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],		
-					"visibility_rules": ["719819","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719819,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2476,7 +2476,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718234","museum_donation"],
+					"visibility_rules": ["718234,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -2489,7 +2489,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],		
-					"visibility_rules": ["719820","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719820,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2506,7 +2506,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718233","museum_donation"],
+					"visibility_rules": ["718233,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -2519,7 +2519,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],			
-					"visibility_rules": ["719821","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719821,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2536,7 +2536,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718219","museum_donation"],
+					"visibility_rules": ["718219,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -2549,7 +2549,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],				
-					"visibility_rules": ["719441","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719441,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2566,7 +2566,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718237","museum_donation"],
+					"visibility_rules": ["718237,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -2579,7 +2579,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
-					"visibility_rules": ["719822","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],
+					"visibility_rules": ["719822,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2596,7 +2596,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718212","museum_donation"],
+					"visibility_rules": ["718212,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -2609,7 +2609,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
-					"visibility_rules": ["719442","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],
+					"visibility_rules": ["719442,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2626,7 +2626,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718216","museum_donation"],
+					"visibility_rules": ["718216,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -2639,7 +2639,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],				
-					"visibility_rules": ["719443","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719443,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2656,7 +2656,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718214","museum_donation"],
+					"visibility_rules": ["718214,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -2669,7 +2669,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],				
-					"visibility_rules": ["719444","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719444,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2686,7 +2686,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718215","museum_donation"],
+					"visibility_rules": ["718215,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -2699,7 +2699,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],			
-					"visibility_rules": ["719445","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719445,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2716,7 +2716,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718235","museum_donation"],
+					"visibility_rules": ["718235,museum_donation"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2728,7 +2728,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],				
-					"visibility_rules": ["719828","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],					
+					"visibility_rules": ["719828,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],					
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2745,7 +2745,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718238","museum_donation"],
+					"visibility_rules": ["718238,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -2758,7 +2758,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],					
-					"visibility_rules": ["719829","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],		
+					"visibility_rules": ["719829,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],		
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2775,7 +2775,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718230","museum_donation"],
+					"visibility_rules": ["718230,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -2788,7 +2788,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],			
-					"visibility_rules": ["719447","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],						
+					"visibility_rules": ["719447,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],						
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2805,7 +2805,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718231","museum_donation"],
+					"visibility_rules": ["718231,museum_donation"],
 					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
@@ -2818,7 +2818,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],			
-					"visibility_rules": ["719446","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],						
+					"visibility_rules": ["719446,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],						
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2835,7 +2835,7 @@
 				{
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718242","museum_donation"],
+					"visibility_rules": ["718242,museum_donation"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2847,7 +2847,7 @@
 				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],			
-					"visibility_rules": ["719836","shipping,shipsanity_full","shipping,shipsanity_fullwf","shipping,shipsanity_all"],						
+					"visibility_rules": ["719836,shipping,shipsanity_full,shipping,shipsanity_fullwf,shipping,shipsanity_all"],						
 					"map_locations":[
                       {
                         "map":"Museum_Donations",

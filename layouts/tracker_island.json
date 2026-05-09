@@ -208,13 +208,6 @@
 										}
 									},
 									{
-										"title": "Chefsanity",
-										"content":{
-											"type": "map",
-											"maps":["Chefsanity"]
-										}
-									},
-									{
 										"title": "Cooksanity",
 										"content":{
 											"type": "map",
@@ -312,13 +305,6 @@
 										"content":{
 											"type": "map",
 											"maps":["Tool_Upgrades"]
-										}
-									},
-									{
-										"title": "Story Checks",
-										"content":{
-											"type": "map",
-											"maps":["Story_Checks"]
 										}
 									}
 								]

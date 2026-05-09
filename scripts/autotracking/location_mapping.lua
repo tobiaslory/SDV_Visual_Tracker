@@ -1249,4 +1249,9 @@ LOCATION_MAPPING = {
 	[721069] = {"@Booksanity/Lost Book/Note From Gunther/"},
 	[721070] = {"@Booksanity/Lost Book/Goblins by M. Jasper/"},
 	[721071] = {"@Booksanity/Lost Book/Secret Statues Acrostics/"},
+	-- Mandatory story checks integrated into the World tab
+	[717707] = {"@World/Krobus Stardrop/Buy from Krobus"},
+	[717250] = {"@World/Demetrius's Breakthrough/Ship enough to trigger"},
+	[717251] = {"@World/Volcano Caldera Treasure/Reach the Caldera"},
+	[717252] = {"@World/Rat Problem Cutscene/Trigger via reading note"},
 }

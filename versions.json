@@ -1,6 +1,17 @@
 {
 	"versions": [
 		{
+			"package_version": "1.7.4",
+			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.4/stardew_valley_randomizer.zip",
+			"sha256": "fc2496caea931ba4933f4cbc521f31bd1f2d708c339097e1258ddbd82ff1ff74",
+			"changelog": [
+				"CRITICAL FIX: visibility_rules were OR'd by PopTracker when written as multi-element arrays — meaning locations showed up whenever the global sanity flag was set, even if the specific id wasn't in the seed. All ~1100 visibility_rules across both generated and legacy JSONs converted to single comma-separated strings (AND semantics). This is what made Monstersanity Goals/Progressive Goals and mod-only Craftsanity entries appear unconditionally.",
+				"Merged Chefsanity into Cooksanity: each recipe row now has a Recipe column alongside Cooked and Shipped (158 children added across 162 recipes). Chefsanity tab removed.",
+				"Merged Eatsanity Cooking into Cooksanity: each recipe row now has an Eaten column. Cooking sub-section removed from Eatsanity tab.",
+				"Moved 4 missing mandatory story checks onto the main Stardew Valley map: Krobus Stardrop, Demetrius's Breakthrough, Volcano Caldera Treasure, Rat Problem Cutscene. Story Checks tab removed (Mines Floor X Treasure entries were already wired to the existing Mines section)."
+			]
+		},
+		{
 			"package_version": "1.7.3",
 			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.3/stardew_valley_randomizer.zip",
 			"sha256": "27357f3a5526c1f89ec2d468578066e67a4adf74203aa0529677260c9d9299ad",

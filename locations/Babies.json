@@ -11,10 +11,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "717704",
-                    "friendsanity_on"
-                ],
+                "visibility_rules": ["717704,friendsanity_on"],
                 "map_locations": [
                     {
                         "map": "Babies",
@@ -30,10 +27,7 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": [
-                    "717705",
-                    "friendsanity_on"
-                ],
+                "visibility_rules": ["717705,friendsanity_on"],
                 "map_locations": [
                     {
                         "map": "Babies",

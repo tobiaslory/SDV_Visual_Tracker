@@ -15,8 +15,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720001",
-                            "monstersanity_on"
+                            "720001,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -34,8 +33,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720002",
-                            "monstersanity_on"
+                            "720002,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -53,8 +51,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720003",
-                            "monstersanity_on"
+                            "720003,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -72,8 +69,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720004",
-                            "monstersanity_on"
+                            "720004,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -91,8 +87,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720005",
-                            "monstersanity_on"
+                            "720005,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -110,8 +105,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720006",
-                            "monstersanity_on"
+                            "720006,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -129,8 +123,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720007",
-                            "monstersanity_on"
+                            "720007,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -148,8 +141,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720008",
-                            "monstersanity_on"
+                            "720008,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -167,8 +159,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720009",
-                            "monstersanity_on"
+                            "720009,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -186,8 +177,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720010",
-                            "monstersanity_on"
+                            "720010,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -208,8 +198,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720011",
-                            "monstersanity_on"
+                            "720011,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -227,8 +216,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720012",
-                            "monstersanity_on"
+                            "720012,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -251,8 +239,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720020",
-                            "monstersanity_on"
+                            "720020,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -270,8 +257,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720021",
-                            "monstersanity_on"
+                            "720021,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -289,8 +275,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720022",
-                            "monstersanity_on"
+                            "720022,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -308,8 +293,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720023",
-                            "monstersanity_on"
+                            "720023,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -327,8 +311,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720024",
-                            "monstersanity_on"
+                            "720024,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -346,8 +329,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720025",
-                            "monstersanity_on"
+                            "720025,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -365,8 +347,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720026",
-                            "monstersanity_on"
+                            "720026,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -384,8 +365,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720027",
-                            "monstersanity_on"
+                            "720027,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -403,8 +383,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720028",
-                            "monstersanity_on"
+                            "720028,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -422,8 +401,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720029",
-                            "monstersanity_on"
+                            "720029,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -441,8 +419,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720030",
-                            "monstersanity_on"
+                            "720030,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -460,8 +437,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720031",
-                            "monstersanity_on"
+                            "720031,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -479,8 +455,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720032",
-                            "monstersanity_on"
+                            "720032,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -498,8 +473,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720033",
-                            "monstersanity_on"
+                            "720033,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -517,8 +491,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720034",
-                            "monstersanity_on"
+                            "720034,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -536,8 +509,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720035",
-                            "monstersanity_on"
+                            "720035,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -555,8 +527,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720036",
-                            "monstersanity_on"
+                            "720036,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -574,8 +545,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720037",
-                            "monstersanity_on"
+                            "720037,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -593,8 +563,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720038",
-                            "monstersanity_on"
+                            "720038,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -612,8 +581,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720039",
-                            "monstersanity_on"
+                            "720039,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -631,8 +599,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720040",
-                            "monstersanity_on"
+                            "720040,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -650,8 +617,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720041",
-                            "monstersanity_on"
+                            "720041,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -669,8 +635,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720042",
-                            "monstersanity_on"
+                            "720042,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -688,8 +653,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720043",
-                            "monstersanity_on"
+                            "720043,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -707,8 +671,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720044",
-                            "monstersanity_on"
+                            "720044,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -726,8 +689,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720045",
-                            "monstersanity_on"
+                            "720045,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -745,8 +707,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720046",
-                            "monstersanity_on"
+                            "720046,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -764,8 +725,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720047",
-                            "monstersanity_on"
+                            "720047,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -783,8 +743,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720048",
-                            "monstersanity_on"
+                            "720048,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -802,8 +761,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720049",
-                            "monstersanity_on"
+                            "720049,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -821,8 +779,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720050",
-                            "monstersanity_on"
+                            "720050,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -840,8 +797,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720051",
-                            "monstersanity_on"
+                            "720051,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -859,8 +815,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720052",
-                            "monstersanity_on"
+                            "720052,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -878,8 +833,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720053",
-                            "monstersanity_on"
+                            "720053,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -897,8 +851,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720054",
-                            "monstersanity_on"
+                            "720054,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -916,8 +869,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720055",
-                            "monstersanity_on"
+                            "720055,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -935,8 +887,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720056",
-                            "monstersanity_on"
+                            "720056,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -954,8 +905,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720057",
-                            "monstersanity_on"
+                            "720057,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -973,8 +923,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720058",
-                            "monstersanity_on"
+                            "720058,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -992,8 +941,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720059",
-                            "monstersanity_on"
+                            "720059,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -1011,8 +959,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720060",
-                            "monstersanity_on"
+                            "720060,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -1030,8 +977,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720061",
-                            "monstersanity_on"
+                            "720061,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -1049,8 +995,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720062",
-                            "monstersanity_on"
+                            "720062,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -1068,8 +1013,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720063",
-                            "monstersanity_on"
+                            "720063,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -1087,8 +1031,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720064",
-                            "monstersanity_on"
+                            "720064,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -1106,8 +1049,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720065",
-                            "monstersanity_on"
+                            "720065,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -1125,8 +1067,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720066",
-                            "monstersanity_on"
+                            "720066,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -1144,8 +1085,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720067",
-                            "monstersanity_on"
+                            "720067,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -1168,8 +1108,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720101",
-                            "monstersanity_on"
+                            "720101,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -1187,8 +1126,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720102",
-                            "monstersanity_on"
+                            "720102,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -1209,8 +1147,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720103",
-                            "monstersanity_on"
+                            "720103,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -1231,8 +1168,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720104",
-                            "monstersanity_on"
+                            "720104,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -1253,8 +1189,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720105",
-                            "monstersanity_on"
+                            "720105,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -1275,8 +1210,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720106",
-                            "monstersanity_on"
+                            "720106,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -1297,8 +1231,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720107",
-                            "monstersanity_on"
+                            "720107,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -1319,8 +1252,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720108",
-                            "monstersanity_on"
+                            "720108,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -1341,8 +1273,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720109",
-                            "monstersanity_on"
+                            "720109,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -1363,8 +1294,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720110",
-                            "monstersanity_on"
+                            "720110,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -1385,8 +1315,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720111",
-                            "monstersanity_on"
+                            "720111,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -1407,8 +1336,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720112",
-                            "monstersanity_on"
+                            "720112,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -1429,8 +1357,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720113",
-                            "monstersanity_on"
+                            "720113,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -1451,8 +1378,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720114",
-                            "monstersanity_on"
+                            "720114,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -1473,8 +1399,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720115",
-                            "monstersanity_on"
+                            "720115,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -1495,8 +1420,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720116",
-                            "monstersanity_on"
+                            "720116,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -1517,8 +1441,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720117",
-                            "monstersanity_on"
+                            "720117,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -1539,8 +1462,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720118",
-                            "monstersanity_on"
+                            "720118,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -1561,8 +1483,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720119",
-                            "monstersanity_on"
+                            "720119,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -1583,8 +1504,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720120",
-                            "monstersanity_on"
+                            "720120,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -1605,8 +1525,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720121",
-                            "monstersanity_on"
+                            "720121,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -1627,8 +1546,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720122",
-                            "monstersanity_on"
+                            "720122,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -1649,8 +1567,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720123",
-                            "monstersanity_on"
+                            "720123,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -1671,8 +1588,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720124",
-                            "monstersanity_on"
+                            "720124,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -1693,8 +1609,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720125",
-                            "monstersanity_on"
+                            "720125,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -1715,8 +1630,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720126",
-                            "monstersanity_on"
+                            "720126,monstersanity_on"
                         ],
                         "map_locations": [
                             {
@@ -1737,8 +1651,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720127",
-                            "monstersanity_on"
+                            "720127,monstersanity_on"
                         ],
                         "map_locations": [
                             {

@@ -510,7 +510,79 @@
                         "x": 700,
                         "y": 330
                     }
-                ]   
+                ]
+            },
+            {
+                "name": "Krobus Stardrop",
+                "sections":[
+                    {
+                        "name": "Buy from Krobus",
+                        "item_count": 1,
+                        "visibility_rules": ["717707"],
+                        "access_rules": ["$has(\"sewerkey\"),$can_earn_money_late_game"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Stardew Valley",
+                        "x": 450,
+                        "y": 437
+                    }
+                ]
+            },
+            {
+                "name": "Demetrius's Breakthrough",
+                "sections":[
+                    {
+                        "name": "Ship enough to trigger",
+                        "item_count": 1,
+                        "visibility_rules": ["717250"],
+                        "access_rules": ["$can_earn_money_substantial"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Stardew Valley",
+                        "x": 568,
+                        "y": 152
+                    }
+                ]
+            },
+            {
+                "name": "Volcano Caldera Treasure",
+                "sections":[
+                    {
+                        "name": "Reach the Caldera",
+                        "item_count": 1,
+                        "visibility_rules": ["717251"],
+                        "access_rules": ["$can_access_island"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Stardew Valley",
+                        "x": 30,
+                        "y": 30
+                    }
+                ]
+            },
+            {
+                "name": "Rat Problem Cutscene",
+                "sections":[
+                    {
+                        "name": "Trigger via reading note",
+                        "item_count": 1,
+                        "visibility_rules": ["717252"],
+                        "access_rules": ["$can_walk_to_mines_floor_5"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Stardew Valley",
+                        "x": 530,
+                        "y": 285
+                    }
+                ]
             }
         ]
     }
