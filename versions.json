@@ -1,6 +1,14 @@
 {
 	"versions": [
 		{
+			"package_version": "1.7.6",
+			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.6/stardew_valley_randomizer.zip",
+			"sha256": "d58dad2f89a8022d00f987f90445f17cc21058650fa3dbfc2f952a33ee97387b",
+			"changelog": [
+				"Regenerated map background PNGs after the 1.7.5 restructure. Eatsanity_map.png dropped its Cooking section (now 820x1528, was 820x2180) since those entries moved to the Cooksanity Eaten column. Other map sizes unchanged."
+			]
+		},
+		{
 			"package_version": "1.7.5",
 			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.5/stardew_valley_randomizer.zip",
 			"sha256": "28d5109469be26d5af9bd32358dbd0091fe213d1afbd7bc5c9943bc37d914334",
