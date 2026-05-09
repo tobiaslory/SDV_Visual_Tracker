@@ -178,5 +178,29 @@
     "location_size": 10,
     "location_border_thickness": 2,
     "img": "images/Secretsanity_map.png"
+  },
+  {
+    "name": "Buildings",
+    "location_size": 10,
+    "location_border_thickness": 2,
+    "img": "images/Buildings_map.png"
+  },
+  {
+    "name": "Mine_Elevators",
+    "location_size": 10,
+    "location_border_thickness": 2,
+    "img": "images/Mine_Elevators_map.png"
+  },
+  {
+    "name": "Tool_Upgrades",
+    "location_size": 10,
+    "location_border_thickness": 2,
+    "img": "images/Tool_Upgrades_map.png"
+  },
+  {
+    "name": "Story_Checks",
+    "location_size": 10,
+    "location_border_thickness": 2,
+    "img": "images/Story_Checks_map.png"
   }
 ]

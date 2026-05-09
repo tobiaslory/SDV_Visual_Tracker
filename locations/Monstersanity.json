@@ -1516,6 +1516,9 @@
                                 "x": 420,
                                 "y": 644
                             }
+                        ],
+                        "access_rules": [
+                            "$can_mine_iron"
                         ]
                     },
                     {

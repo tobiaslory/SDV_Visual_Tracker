@@ -24,6 +24,9 @@
                                 "x": 20,
                                 "y": 40
                             }
+                        ],
+                        "access_rules": [
+                            "$has(\"mining\",1)"
                         ]
                     },
                     {
@@ -765,6 +768,9 @@
                                 "x": 620,
                                 "y": 292
                             }
+                        ],
+                        "access_rules": [
+                            "$has(\"strawfloorrecipe\")"
                         ]
                     },
                     {
@@ -822,6 +828,9 @@
                                 "x": 420,
                                 "y": 320
                             }
+                        ],
+                        "access_rules": [
+                            "$has(\"stonefloorrecipe\")"
                         ]
                     },
                     {
@@ -1335,6 +1344,9 @@
                                 "x": 220,
                                 "y": 516
                             }
+                        ],
+                        "access_rules": [
+                            "$has(\"foraging\",1)"
                         ]
                     },
                     {
@@ -1829,6 +1841,9 @@
                                 "x": 620,
                                 "y": 684
                             }
+                        ],
+                        "access_rules": [
+                            "$has(\"foraging\",2)"
                         ]
                     },
                     {
@@ -2285,6 +2300,9 @@
                                 "x": 620,
                                 "y": 852
                             }
+                        ],
+                        "access_rules": [
+                            "$has(\"farming\",1)"
                         ]
                     },
                     {
@@ -2722,6 +2740,9 @@
                                 "x": 420,
                                 "y": 1020
                             }
+                        ],
+                        "access_rules": [
+                            "$has(\"textsignrecipe\")"
                         ]
                     },
                     {
@@ -3810,6 +3831,10 @@
                                 "x": 620,
                                 "y": 1448
                             }
+                        ],
+                        "access_rules": [
+                            "$tmsun",
+                            "$tmtues"
                         ]
                     },
                     {

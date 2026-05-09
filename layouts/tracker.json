@@ -282,6 +282,34 @@
 											"type": "map",
 											"maps":["Endgame"]
 										}
+									},
+									{
+										"title": "Buildings",
+										"content":{
+											"type": "map",
+											"maps":["Buildings"]
+										}
+									},
+									{
+										"title": "Mine Elevators",
+										"content":{
+											"type": "map",
+											"maps":["Mine_Elevators"]
+										}
+									},
+									{
+										"title": "Tool Upgrades",
+										"content":{
+											"type": "map",
+											"maps":["Tool_Upgrades"]
+										}
+									},
+									{
+										"title": "Story Checks",
+										"content":{
+											"type": "map",
+											"maps":["Story_Checks"]
+										}
 									}
 								]
 							}

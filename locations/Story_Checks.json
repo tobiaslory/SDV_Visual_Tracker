@@ -1,0 +1,343 @@
+[
+    {
+        "name": "Story Checks",
+        "chest_unopened_img": "images/QuestNew.png",
+        "chest_opened_img": "images/QuestDone.png",
+        "children": [
+            {
+                "name": "The Mines Floor 10 Treasure",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717201",
+                    null
+                ],
+                "map_locations": [
+                    {
+                        "map": "Story_Checks",
+                        "x": 20,
+                        "y": 40
+                    }
+                ]
+            },
+            {
+                "name": "The Mines Floor 20 Treasure",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717202",
+                    null
+                ],
+                "map_locations": [
+                    {
+                        "map": "Story_Checks",
+                        "x": 220,
+                        "y": 40
+                    }
+                ]
+            },
+            {
+                "name": "The Mines Floor 40 Treasure",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717203",
+                    null
+                ],
+                "map_locations": [
+                    {
+                        "map": "Story_Checks",
+                        "x": 420,
+                        "y": 40
+                    }
+                ],
+                "access_rules": [
+                    "$can_mine_copper"
+                ]
+            },
+            {
+                "name": "The Mines Floor 50 Treasure",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717204",
+                    null
+                ],
+                "map_locations": [
+                    {
+                        "map": "Story_Checks",
+                        "x": 620,
+                        "y": 40
+                    }
+                ],
+                "access_rules": [
+                    "$can_mine_iron"
+                ]
+            },
+            {
+                "name": "The Mines Floor 60 Treasure",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717205",
+                    null
+                ],
+                "map_locations": [
+                    {
+                        "map": "Story_Checks",
+                        "x": 20,
+                        "y": 68
+                    }
+                ],
+                "access_rules": [
+                    "$can_mine_iron"
+                ]
+            },
+            {
+                "name": "The Mines Floor 70 Treasure",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717206",
+                    null
+                ],
+                "map_locations": [
+                    {
+                        "map": "Story_Checks",
+                        "x": 220,
+                        "y": 68
+                    }
+                ],
+                "access_rules": [
+                    "$can_mine_iron"
+                ]
+            },
+            {
+                "name": "The Mines Floor 80 Treasure",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717207",
+                    null
+                ],
+                "map_locations": [
+                    {
+                        "map": "Story_Checks",
+                        "x": 420,
+                        "y": 68
+                    }
+                ],
+                "access_rules": [
+                    "$can_mine_gold"
+                ]
+            },
+            {
+                "name": "The Mines Floor 90 Treasure",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717208",
+                    null
+                ],
+                "map_locations": [
+                    {
+                        "map": "Story_Checks",
+                        "x": 620,
+                        "y": 68
+                    }
+                ],
+                "access_rules": [
+                    "$can_mine_gold"
+                ]
+            },
+            {
+                "name": "The Mines Floor 100 Treasure",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717209",
+                    null
+                ],
+                "map_locations": [
+                    {
+                        "map": "Story_Checks",
+                        "x": 20,
+                        "y": 96
+                    }
+                ],
+                "access_rules": [
+                    "$can_mine_gold"
+                ]
+            },
+            {
+                "name": "The Mines Floor 110 Treasure",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717210",
+                    null
+                ],
+                "map_locations": [
+                    {
+                        "map": "Story_Checks",
+                        "x": 220,
+                        "y": 96
+                    }
+                ],
+                "access_rules": [
+                    "$can_mine_gold"
+                ]
+            },
+            {
+                "name": "The Mines Floor 120 Treasure",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717211",
+                    null
+                ],
+                "map_locations": [
+                    {
+                        "map": "Story_Checks",
+                        "x": 420,
+                        "y": 96
+                    }
+                ],
+                "access_rules": [
+                    "$can_mine_gold"
+                ]
+            },
+            {
+                "name": "The Mines Entrance Cutscene",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717213",
+                    null
+                ],
+                "map_locations": [
+                    {
+                        "map": "Story_Checks",
+                        "x": 620,
+                        "y": 96
+                    }
+                ]
+            },
+            {
+                "name": "Demetrius's Breakthrough",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717250",
+                    null
+                ],
+                "map_locations": [
+                    {
+                        "map": "Story_Checks",
+                        "x": 20,
+                        "y": 124
+                    }
+                ]
+            },
+            {
+                "name": "Volcano Caldera Treasure",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717251",
+                    null
+                ],
+                "map_locations": [
+                    {
+                        "map": "Story_Checks",
+                        "x": 220,
+                        "y": 124
+                    }
+                ],
+                "access_rules": [
+                    "$can_access_island"
+                ]
+            },
+            {
+                "name": "Rat Problem Cutscene",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717252",
+                    null
+                ],
+                "map_locations": [
+                    {
+                        "map": "Story_Checks",
+                        "x": 420,
+                        "y": 124
+                    }
+                ]
+            },
+            {
+                "name": "Krobus Stardrop",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717707",
+                    null
+                ],
+                "map_locations": [
+                    {
+                        "map": "Story_Checks",
+                        "x": 620,
+                        "y": 124
+                    }
+                ]
+            }
+        ]
+    }
+]

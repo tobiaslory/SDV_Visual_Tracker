@@ -1,0 +1,114 @@
+[
+    {
+        "name": "717201",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "717201"
+    },
+    {
+        "name": "717202",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "717202"
+    },
+    {
+        "name": "717203",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "717203"
+    },
+    {
+        "name": "717204",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "717204"
+    },
+    {
+        "name": "717205",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "717205"
+    },
+    {
+        "name": "717206",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "717206"
+    },
+    {
+        "name": "717207",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "717207"
+    },
+    {
+        "name": "717208",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "717208"
+    },
+    {
+        "name": "717209",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "717209"
+    },
+    {
+        "name": "717210",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "717210"
+    },
+    {
+        "name": "717211",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "717211"
+    },
+    {
+        "name": "717213",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "717213"
+    },
+    {
+        "name": "717250",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "717250"
+    },
+    {
+        "name": "717251",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "717251"
+    },
+    {
+        "name": "717252",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "717252"
+    },
+    {
+        "name": "717707",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "717707"
+    }
+]

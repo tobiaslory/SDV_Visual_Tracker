@@ -54,6 +54,7 @@
 					"name": "Rarecrow #5",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719004"],
+					"access_rules": ["$spring"],
 					"map_locations":[
                       {
                         "map":"Town Festivals",

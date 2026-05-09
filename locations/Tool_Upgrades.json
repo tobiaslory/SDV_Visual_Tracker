@@ -1,0 +1,541 @@
+[
+    {
+        "name": "Tool Upgrades",
+        "chest_unopened_img": "images/QuestNew.png",
+        "chest_opened_img": "images/QuestDone.png",
+        "children": [
+            {
+                "name": "Copper Hoe Upgrade",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717103",
+                    "tshuffle"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool_Upgrades",
+                        "x": 20,
+                        "y": 40
+                    }
+                ]
+            },
+            {
+                "name": "Iron Hoe Upgrade",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717104",
+                    "tshuffle"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool_Upgrades",
+                        "x": 220,
+                        "y": 40
+                    }
+                ]
+            },
+            {
+                "name": "Gold Hoe Upgrade",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717105",
+                    "tshuffle"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool_Upgrades",
+                        "x": 420,
+                        "y": 40
+                    }
+                ]
+            },
+            {
+                "name": "Iridium Hoe Upgrade",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717106",
+                    "tshuffle"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool_Upgrades",
+                        "x": 620,
+                        "y": 40
+                    }
+                ]
+            },
+            {
+                "name": "Copper Pickaxe Upgrade",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717107",
+                    "tshuffle"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool_Upgrades",
+                        "x": 20,
+                        "y": 68
+                    }
+                ]
+            },
+            {
+                "name": "Iron Pickaxe Upgrade",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717108",
+                    "tshuffle"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool_Upgrades",
+                        "x": 220,
+                        "y": 68
+                    }
+                ]
+            },
+            {
+                "name": "Gold Pickaxe Upgrade",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717109",
+                    "tshuffle"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool_Upgrades",
+                        "x": 420,
+                        "y": 68
+                    }
+                ]
+            },
+            {
+                "name": "Iridium Pickaxe Upgrade",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717110",
+                    "tshuffle"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool_Upgrades",
+                        "x": 620,
+                        "y": 68
+                    }
+                ]
+            },
+            {
+                "name": "Copper Axe Upgrade",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717111",
+                    "tshuffle"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool_Upgrades",
+                        "x": 20,
+                        "y": 96
+                    }
+                ]
+            },
+            {
+                "name": "Iron Axe Upgrade",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717112",
+                    "tshuffle"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool_Upgrades",
+                        "x": 220,
+                        "y": 96
+                    }
+                ]
+            },
+            {
+                "name": "Gold Axe Upgrade",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717113",
+                    "tshuffle"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool_Upgrades",
+                        "x": 420,
+                        "y": 96
+                    }
+                ]
+            },
+            {
+                "name": "Iridium Axe Upgrade",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717114",
+                    "tshuffle"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool_Upgrades",
+                        "x": 620,
+                        "y": 96
+                    }
+                ]
+            },
+            {
+                "name": "Copper Watering Can Upgrade",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717115",
+                    "tshuffle"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool_Upgrades",
+                        "x": 20,
+                        "y": 124
+                    }
+                ]
+            },
+            {
+                "name": "Iron Watering Can Upgrade",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717116",
+                    "tshuffle"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool_Upgrades",
+                        "x": 220,
+                        "y": 124
+                    }
+                ]
+            },
+            {
+                "name": "Gold Watering Can Upgrade",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717117",
+                    "tshuffle"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool_Upgrades",
+                        "x": 420,
+                        "y": 124
+                    }
+                ]
+            },
+            {
+                "name": "Iridium Watering Can Upgrade",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717118",
+                    "tshuffle"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool_Upgrades",
+                        "x": 620,
+                        "y": 124
+                    }
+                ]
+            },
+            {
+                "name": "Copper Trash Can Upgrade",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717119",
+                    "tshuffle"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool_Upgrades",
+                        "x": 20,
+                        "y": 152
+                    }
+                ]
+            },
+            {
+                "name": "Iron Trash Can Upgrade",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717120",
+                    "tshuffle"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool_Upgrades",
+                        "x": 220,
+                        "y": 152
+                    }
+                ]
+            },
+            {
+                "name": "Gold Trash Can Upgrade",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717121",
+                    "tshuffle"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool_Upgrades",
+                        "x": 420,
+                        "y": 152
+                    }
+                ]
+            },
+            {
+                "name": "Iridium Trash Can Upgrade",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717122",
+                    "tshuffle"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool_Upgrades",
+                        "x": 620,
+                        "y": 152
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Training Rod",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717123",
+                    "tshuffle"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool_Upgrades",
+                        "x": 20,
+                        "y": 180
+                    }
+                ]
+            },
+            {
+                "name": "Bamboo Pole Cutscene",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717124",
+                    "tshuffle"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool_Upgrades",
+                        "x": 220,
+                        "y": 180
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Fiberglass Rod",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717125",
+                    "tshuffle"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool_Upgrades",
+                        "x": 420,
+                        "y": 180
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Iridium Rod",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717126",
+                    "tshuffle"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool_Upgrades",
+                        "x": 620,
+                        "y": 180
+                    }
+                ]
+            },
+            {
+                "name": "Copper Pan Cutscene",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717127",
+                    "tshuffle"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool_Upgrades",
+                        "x": 20,
+                        "y": 208
+                    }
+                ]
+            },
+            {
+                "name": "Iron Pan Upgrade",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717128",
+                    "tshuffle"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool_Upgrades",
+                        "x": 220,
+                        "y": 208
+                    }
+                ]
+            },
+            {
+                "name": "Gold Pan Upgrade",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717129",
+                    "tshuffle"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool_Upgrades",
+                        "x": 420,
+                        "y": 208
+                    }
+                ]
+            },
+            {
+                "name": "Iridium Pan Upgrade",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717130",
+                    "tshuffle"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool_Upgrades",
+                        "x": 620,
+                        "y": 208
+                    }
+                ]
+            }
+        ]
+    }
+]

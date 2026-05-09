@@ -36,14 +36,14 @@
 						"visibility_rules": ["719017"],
 					},
 					{
-						"name": "Rarecrow #7",
-						"item_count": 1,
-						"visibility_rules": ["719017"],
-					},
-					{
-						"name": "Rarecrow #8",
+						"name": "Rarecrow #7 (Tanuki)",
 						"item_count": 1,
 						"visibility_rules": ["719018"],
+					},
+					{
+						"name": "Rarecrow #8 (Tribal Mask)",
+						"item_count": 1,
+						"visibility_rules": ["719019"],
 					},
 					],
 					"map_locations":[

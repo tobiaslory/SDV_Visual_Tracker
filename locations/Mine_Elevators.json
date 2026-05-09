@@ -1,0 +1,465 @@
+[
+    {
+        "name": "Mine Elevators",
+        "chest_unopened_img": "images/QuestNew.png",
+        "chest_opened_img": "images/QuestDone.png",
+        "children": [
+            {
+                "name": "Floor 5 Elevator",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717214",
+                    "eshuffleon"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Mine_Elevators",
+                        "x": 20,
+                        "y": 40
+                    }
+                ]
+            },
+            {
+                "name": "Floor 10 Elevator",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717215",
+                    "eshuffleon"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Mine_Elevators",
+                        "x": 220,
+                        "y": 40
+                    }
+                ]
+            },
+            {
+                "name": "Floor 15 Elevator",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717216",
+                    "eshuffleon"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Mine_Elevators",
+                        "x": 420,
+                        "y": 40
+                    }
+                ]
+            },
+            {
+                "name": "Floor 20 Elevator",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717217",
+                    "eshuffleon"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Mine_Elevators",
+                        "x": 620,
+                        "y": 40
+                    }
+                ]
+            },
+            {
+                "name": "Floor 25 Elevator",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717218",
+                    "eshuffleon"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Mine_Elevators",
+                        "x": 20,
+                        "y": 68
+                    }
+                ]
+            },
+            {
+                "name": "Floor 30 Elevator",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717219",
+                    "eshuffleon"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Mine_Elevators",
+                        "x": 220,
+                        "y": 68
+                    }
+                ]
+            },
+            {
+                "name": "Floor 35 Elevator",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717220",
+                    "eshuffleon"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Mine_Elevators",
+                        "x": 420,
+                        "y": 68
+                    }
+                ]
+            },
+            {
+                "name": "Floor 40 Elevator",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717221",
+                    "eshuffleon"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Mine_Elevators",
+                        "x": 620,
+                        "y": 68
+                    }
+                ]
+            },
+            {
+                "name": "Floor 45 Elevator",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717222",
+                    "eshuffleon"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Mine_Elevators",
+                        "x": 20,
+                        "y": 96
+                    }
+                ]
+            },
+            {
+                "name": "Floor 50 Elevator",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717223",
+                    "eshuffleon"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Mine_Elevators",
+                        "x": 220,
+                        "y": 96
+                    }
+                ]
+            },
+            {
+                "name": "Floor 55 Elevator",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717224",
+                    "eshuffleon"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Mine_Elevators",
+                        "x": 420,
+                        "y": 96
+                    }
+                ]
+            },
+            {
+                "name": "Floor 60 Elevator",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717225",
+                    "eshuffleon"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Mine_Elevators",
+                        "x": 620,
+                        "y": 96
+                    }
+                ]
+            },
+            {
+                "name": "Floor 65 Elevator",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717226",
+                    "eshuffleon"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Mine_Elevators",
+                        "x": 20,
+                        "y": 124
+                    }
+                ]
+            },
+            {
+                "name": "Floor 70 Elevator",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717227",
+                    "eshuffleon"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Mine_Elevators",
+                        "x": 220,
+                        "y": 124
+                    }
+                ]
+            },
+            {
+                "name": "Floor 75 Elevator",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717228",
+                    "eshuffleon"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Mine_Elevators",
+                        "x": 420,
+                        "y": 124
+                    }
+                ]
+            },
+            {
+                "name": "Floor 80 Elevator",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717229",
+                    "eshuffleon"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Mine_Elevators",
+                        "x": 620,
+                        "y": 124
+                    }
+                ]
+            },
+            {
+                "name": "Floor 85 Elevator",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717230",
+                    "eshuffleon"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Mine_Elevators",
+                        "x": 20,
+                        "y": 152
+                    }
+                ]
+            },
+            {
+                "name": "Floor 90 Elevator",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717231",
+                    "eshuffleon"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Mine_Elevators",
+                        "x": 220,
+                        "y": 152
+                    }
+                ]
+            },
+            {
+                "name": "Floor 95 Elevator",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717232",
+                    "eshuffleon"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Mine_Elevators",
+                        "x": 420,
+                        "y": 152
+                    }
+                ]
+            },
+            {
+                "name": "Floor 100 Elevator",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717233",
+                    "eshuffleon"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Mine_Elevators",
+                        "x": 620,
+                        "y": 152
+                    }
+                ]
+            },
+            {
+                "name": "Floor 105 Elevator",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717234",
+                    "eshuffleon"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Mine_Elevators",
+                        "x": 20,
+                        "y": 180
+                    }
+                ]
+            },
+            {
+                "name": "Floor 110 Elevator",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717235",
+                    "eshuffleon"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Mine_Elevators",
+                        "x": 220,
+                        "y": 180
+                    }
+                ]
+            },
+            {
+                "name": "Floor 115 Elevator",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717236",
+                    "eshuffleon"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Mine_Elevators",
+                        "x": 420,
+                        "y": 180
+                    }
+                ]
+            },
+            {
+                "name": "Floor 120 Elevator",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717237",
+                    "eshuffleon"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Mine_Elevators",
+                        "x": 620,
+                        "y": 180
+                    }
+                ]
+            }
+        ]
+    }
+]

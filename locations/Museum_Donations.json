@@ -1606,6 +1606,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718207","museum_donation"],
+					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1700,6 +1701,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718213","museum_donation"],
+					"access_rules": ["$has(\"hoe\")"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",

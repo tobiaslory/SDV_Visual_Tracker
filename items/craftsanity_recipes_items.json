@@ -1,0 +1,373 @@
+[
+    {
+        "name": "Gate Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "gaterecipe"
+    },
+    {
+        "name": "Wood Fence Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "woodfencerecipe"
+    },
+    {
+        "name": "Deluxe Retaining Soil Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "deluxeretainingsoilrecipe"
+    },
+    {
+        "name": "Grass Starter Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "grassstarterrecipe"
+    },
+    {
+        "name": "Wood Floor Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "woodfloorrecipe"
+    },
+    {
+        "name": "Rustic Plank Floor Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "rusticplankfloorrecipe"
+    },
+    {
+        "name": "Straw Floor Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "strawfloorrecipe"
+    },
+    {
+        "name": "Weathered Floor Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "weatheredfloorrecipe"
+    },
+    {
+        "name": "Crystal Floor Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "crystalfloorrecipe"
+    },
+    {
+        "name": "Stone Floor Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "stonefloorrecipe"
+    },
+    {
+        "name": "Stone Walkway Floor Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "stonewalkwayfloorrecipe"
+    },
+    {
+        "name": "Brick Floor Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "brickfloorrecipe"
+    },
+    {
+        "name": "Wood Path Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "woodpathrecipe"
+    },
+    {
+        "name": "Gravel Path Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "gravelpathrecipe"
+    },
+    {
+        "name": "Cobblestone Path Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "cobblestonepathrecipe"
+    },
+    {
+        "name": "Stepping Stone Path Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "steppingstonepathrecipe"
+    },
+    {
+        "name": "Crystal Path Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "crystalpathrecipe"
+    },
+    {
+        "name": "Wedding Ring Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "weddingringrecipe"
+    },
+    {
+        "name": "Warp Totem: Desert Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "warptotemdesertrecipe"
+    },
+    {
+        "name": "Warp Totem: Island Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "warptotemislandrecipe"
+    },
+    {
+        "name": "Torch Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "torchrecipe"
+    },
+    {
+        "name": "Campfire Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "campfirerecipe"
+    },
+    {
+        "name": "Wooden Brazier Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "woodenbrazierrecipe"
+    },
+    {
+        "name": "Stone Brazier Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "stonebrazierrecipe"
+    },
+    {
+        "name": "Gold Brazier Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "goldbrazierrecipe"
+    },
+    {
+        "name": "Carved Brazier Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "carvedbrazierrecipe"
+    },
+    {
+        "name": "Stump Brazier Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "stumpbrazierrecipe"
+    },
+    {
+        "name": "Barrel Brazier Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "barrelbrazierrecipe"
+    },
+    {
+        "name": "Skull Brazier Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "skullbrazierrecipe"
+    },
+    {
+        "name": "Marble Brazier Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "marblebrazierrecipe"
+    },
+    {
+        "name": "Wood Lamp-post Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "woodlamppostrecipe"
+    },
+    {
+        "name": "Iron Lamp-post Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "ironlamppostrecipe"
+    },
+    {
+        "name": "Furnace Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "furnacerecipe"
+    },
+    {
+        "name": "Wicked Statue Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "wickedstatuerecipe"
+    },
+    {
+        "name": "Chest Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "chestrecipe"
+    },
+    {
+        "name": "Wood Sign Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "woodsignrecipe"
+    },
+    {
+        "name": "Stone Sign Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "stonesignrecipe"
+    },
+    {
+        "name": "Fish Smoker Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "fishsmokerrecipe"
+    },
+    {
+        "name": "Dehydrator Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "dehydratorrecipe"
+    },
+    {
+        "name": "Big Chest Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "bigchestrecipe"
+    },
+    {
+        "name": "Big Stone Chest Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "bigstonechestrecipe"
+    },
+    {
+        "name": "Text Sign Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "textsignrecipe"
+    },
+    {
+        "name": "Travel Core Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "travelcorerecipe"
+    },
+    {
+        "name": "Haste Elixir Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "hasteelixirrecipe"
+    },
+    {
+        "name": "Hero Elixir Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "heroelixirrecipe"
+    },
+    {
+        "name": "Armor Elixir Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "armorelixirrecipe"
+    },
+    {
+        "name": "Neanderthal Skeleton Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "neanderthalskeletonrecipe"
+    },
+    {
+        "name": "Pterodactyl Skeleton L Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "pterodactylskeletonlrecipe"
+    },
+    {
+        "name": "Pterodactyl Skeleton M Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "pterodactylskeletonmrecipe"
+    },
+    {
+        "name": "Pterodactyl Skeleton R Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "pterodactylskeletonrrecipe"
+    },
+    {
+        "name": "T-Rex Skeleton L Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "trexskeletonlrecipe"
+    },
+    {
+        "name": "T-Rex Skeleton M Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "trexskeletonmrecipe"
+    },
+    {
+        "name": "T-Rex Skeleton R Recipe",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "trexskeletonrrecipe"
+    }
+]

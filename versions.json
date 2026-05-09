@@ -1,6 +1,20 @@
 {
 	"versions": [
 		{
+			"package_version": "1.7.1",
+			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.1/stardew_valley_randomizer.zip",
+			"sha256": "db61ffd3177d5866ba2007a84e090851a0601f18fd8cfa36a1f13e75fa33ba2a",
+			"changelog": [
+				"Added 4 previously-missing categories: Buildings (19), Mine Elevators (24, individual floors), Tool Upgrades (28, individual tiers), Story Checks (16, incl. Krobus Stardrop, Demetrius's Breakthrough, Mines Floor X Treasure)",
+				"Fixed off-by-one bug on Rarecrow #7/#8 visibility IDs in Night Market",
+				"Added access_rules to Skill levels (Level N requires Level N-1) — covers Combat / Farming / Fishing / Foraging / Mining levels",
+				"Added access_rules to Mines Floor X Treasure entries (gated on can_mine_copper / iron / gold)",
+				"Added Craftsanity skill-level rules for Cherry Bomb (mining 1), Field Snack (foraging 1), Charcoal Kiln (foraging 2), Scarecrow (farming 1)",
+				"Mapped 53 crafting recipe items so Craft X locations gate on receiving the corresponding X Recipe AP item (Stone Floor, Straw Floor, Text Sign, etc.)",
+				"Added Quest: Forging Ahead (mining 6), Monster: Dust Sprite (can_mine_iron), Museum: Ancient Doll/Sword (need hoe), Rarecrow #5 / Woman (spring), Wedding Ring Recipe (traveling cart day)"
+			]
+		},
+		{
 			"package_version": "1.7.0",
 			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.0/stardew_valley_randomizer.zip",
 			"sha256": "6c9e13f8e0d5820d7802f69d6d05d9a996037c38addcda48e32301e6a4538505",
