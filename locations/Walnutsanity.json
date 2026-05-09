@@ -1,0 +1,2097 @@
+[
+    {
+        "name": "Walnutsanity",
+        "chest_unopened_img": "images/QuestNew.png",
+        "chest_opened_img": "images/QuestDone.png",
+        "children": [
+            {
+                "name": "Puzzles",
+                "children": [
+                    {
+                        "name": "Open Golden Coconut",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721101",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 20,
+                                "y": 40
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Banana Altar",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721108",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 220,
+                                "y": 40
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Leo's Tree",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721109",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 420,
+                                "y": 40
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Gem Birds Shrine",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721111",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 620,
+                                "y": 40
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Gourmand Frog Melon",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721117",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 20,
+                                "y": 68
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Gourmand Frog Wheat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721118",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 220,
+                                "y": 68
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Gourmand Frog Garlic",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721119",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 420,
+                                "y": 68
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Whack A Mole",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721127",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 620,
+                                "y": 68
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Colored Crystals",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721140",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 20,
+                                "y": 96
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Complete Large Animal Collection",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721154",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 220,
+                                "y": 96
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Complete Snake Collection",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721155",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 420,
+                                "y": 96
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Complete Mummified Frog Collection",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721156",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 620,
+                                "y": 96
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Complete Mummified Bat Collection",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721157",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 20,
+                                "y": 124
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Purple Flowers Island Survey",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721158",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 220,
+                                "y": 124
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Purple Starfish Island Survey",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721159",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 420,
+                                "y": 124
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Protruding Tree Walnut",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721162",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 620,
+                                "y": 124
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Starfish Tide Pool",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721188",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 20,
+                                "y": 152
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Mermaid Song",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721190",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 220,
+                                "y": 152
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Pirate Darts 1",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721191",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 420,
+                                "y": 152
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Pirate Darts 2",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721192",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 620,
+                                "y": 152
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Pirate Darts 3",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721193",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 20,
+                                "y": 180
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Bushes",
+                "children": [
+                    {
+                        "name": "Jungle Bush",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721107",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 20,
+                                "y": 244
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Gem Birds Bush",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721110",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 220,
+                                "y": 244
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Shipwreck Bush",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721126",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 420,
+                                "y": 244
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Bush Behind Coconut Tree",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721132",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 620,
+                                "y": 244
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Walnut Room Bush",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721134",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 20,
+                                "y": 272
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Coast Bush",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721135",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 220,
+                                "y": 272
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Bush Behind Mahogany Tree",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721137",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 420,
+                                "y": 272
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Below Colored Crystals Cave Bush",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721139",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 620,
+                                "y": 272
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Cliff Edge Bush",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721141",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 20,
+                                "y": 300
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Farm Parrot Express Bush",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721143",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 220,
+                                "y": 300
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Farmhouse Cliff Bush",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721144",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 420,
+                                "y": 300
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Grove Bush",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721146",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 620,
+                                "y": 300
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Above Dig Site Bush",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721151",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 20,
+                                "y": 328
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Above Field Office Bush 1",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721152",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 220,
+                                "y": 328
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Above Field Office Bush 2",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721153",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 420,
+                                "y": 328
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Bush Behind Volcano Tree",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721160",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 620,
+                                "y": 328
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Hidden Passage Bush",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721165",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 20,
+                                "y": 356
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Secret Beach Bush 1",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721166",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 220,
+                                "y": 356
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Secret Beach Bush 2",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721167",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 420,
+                                "y": 356
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Forge Entrance Bush",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721185",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 620,
+                                "y": 356
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Forge Exit Bush",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721186",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 20,
+                                "y": 384
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Cliff Over Island South Bush",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721187",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 220,
+                                "y": 384
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Dig Spots",
+                "children": [
+                    {
+                        "name": "Journal Scrap #6",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721120",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 20,
+                                "y": 448
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Starfish Triangle",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721128",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 220,
+                                "y": 448
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Starfish Diamond",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721129",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 420,
+                                "y": 448
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "X in the sand",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721130",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 620,
+                                "y": 448
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Diamond Of Indents",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721131",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 20,
+                                "y": 476
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Journal Scrap #4",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721133",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 220,
+                                "y": 476
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Circle Of Grass",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721138",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 420,
+                                "y": 476
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Diamond Of Pebbles",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721142",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 620,
+                                "y": 476
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Big Circle Of Stones",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721145",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 20,
+                                "y": 504
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Diamond Of Grass",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721147",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 220,
+                                "y": 504
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Small Circle Of Stones",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721148",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 420,
+                                "y": 504
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Patch Of Sand",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721149",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 620,
+                                "y": 504
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Crooked Circle Of Stones",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721150",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 20,
+                                "y": 532
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Arc Of Stones",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721161",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 220,
+                                "y": 532
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Journal Scrap #10",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721163",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 420,
+                                "y": 532
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Northmost Point Circle Of Stones",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721164",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 620,
+                                "y": 532
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Diamond Of Yellow Starfish",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721189",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 20,
+                                "y": 560
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Pirate Cove Patch Of Sand",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721194",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 220,
+                                "y": 560
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Repeatables",
+                "children": [
+                    {
+                        "name": "Fishing Walnut 1",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721102",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 20,
+                                "y": 624
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Fishing Walnut 2",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721103",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 220,
+                                "y": 624
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Fishing Walnut 3",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721104",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 420,
+                                "y": 624
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Fishing Walnut 4",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721105",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 620,
+                                "y": 624
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Fishing Walnut 5",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721106",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 20,
+                                "y": 652
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Harvesting Walnut 1",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721112",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 220,
+                                "y": 652
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Harvesting Walnut 2",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721113",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 420,
+                                "y": 652
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Harvesting Walnut 3",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721114",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 620,
+                                "y": 652
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Harvesting Walnut 4",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721115",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 20,
+                                "y": 680
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Harvesting Walnut 5",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721116",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 220,
+                                "y": 680
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Mussel Node Walnut 1",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721121",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 420,
+                                "y": 680
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Mussel Node Walnut 2",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721122",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 620,
+                                "y": 680
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Mussel Node Walnut 3",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721123",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 20,
+                                "y": 708
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Mussel Node Walnut 4",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721124",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 220,
+                                "y": 708
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Mussel Node Walnut 5",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721125",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 420,
+                                "y": 708
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Tiger Slime Walnut",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721136",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 620,
+                                "y": 708
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Volcano Rocks Walnut 1",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721168",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 20,
+                                "y": 736
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Volcano Rocks Walnut 2",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721169",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 220,
+                                "y": 736
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Volcano Rocks Walnut 3",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721170",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 420,
+                                "y": 736
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Volcano Rocks Walnut 4",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721171",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 620,
+                                "y": 736
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Volcano Rocks Walnut 5",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721172",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 20,
+                                "y": 764
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Volcano Monsters Walnut 1",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721173",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 220,
+                                "y": 764
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Volcano Monsters Walnut 2",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721174",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 420,
+                                "y": 764
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Volcano Monsters Walnut 3",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721175",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 620,
+                                "y": 764
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Volcano Monsters Walnut 4",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721176",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 20,
+                                "y": 792
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Volcano Monsters Walnut 5",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721177",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 220,
+                                "y": 792
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Volcano Crates Walnut 1",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721178",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 420,
+                                "y": 792
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Volcano Crates Walnut 2",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721179",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 620,
+                                "y": 792
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Volcano Crates Walnut 3",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721180",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 20,
+                                "y": 820
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Volcano Crates Walnut 4",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721181",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 220,
+                                "y": 820
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Volcano Crates Walnut 5",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721182",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 420,
+                                "y": 820
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Volcano Common Chest Walnut",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721183",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 620,
+                                "y": 820
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Volcano Rare Chest Walnut",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721184",
+                            "walnutsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Walnutsanity",
+                                "x": 20,
+                                "y": 848
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

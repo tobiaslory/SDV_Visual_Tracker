@@ -1,0 +1,2367 @@
+[
+    {
+        "name": "Hatsanity",
+        "chest_unopened_img": "images/QuestNew.png",
+        "chest_opened_img": "images/QuestDone.png",
+        "children": [
+            {
+                "name": "Easy",
+                "children": [
+                    {
+                        "name": "Blue Bow",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721608",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 20,
+                                "y": 40
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Butterfly Bow",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721615",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 220,
+                                "y": 40
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cone Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721619",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 420,
+                                "y": 40
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Copper Pan",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721621",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 620,
+                                "y": 40
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Daisy",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721625",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 20,
+                                "y": 68
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dark Velvet Bow",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721628",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 220,
+                                "y": 68
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Delicate Bow",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721629",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 420,
+                                "y": 68
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fedora",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721638",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 620,
+                                "y": 68
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Good Ol' Cap",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721652",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 20,
+                                "y": 96
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Jester Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721660",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 220,
+                                "y": 96
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Leprechaun Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721665",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 420,
+                                "y": 96
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mouse Ears",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721671",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 620,
+                                "y": 96
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mummy Mask",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721673",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 20,
+                                "y": 124
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Paper Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721679",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 220,
+                                "y": 124
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pink Bow",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721683",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 420,
+                                "y": 124
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sailor's Cap",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721694",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 620,
+                                "y": 124
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sou'wester",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721699",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 20,
+                                "y": 152
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tiara",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721710",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 220,
+                                "y": 152
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Top Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721712",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 420,
+                                "y": 152
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tropiclip",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721715",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 620,
+                                "y": 152
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Tailoring",
+                "children": [
+                    {
+                        "name": "Beanie",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721605",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 20,
+                                "y": 216
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Blobfish Mask",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721606",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 220,
+                                "y": 216
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bridal Veil",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721613",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 420,
+                                "y": 216
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dinosaur Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721632",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 620,
+                                "y": 216
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fashion Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721637",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 20,
+                                "y": 244
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fishing Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721639",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 220,
+                                "y": 244
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Flat Topped Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721640",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 420,
+                                "y": 244
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Floppy Beanie",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721641",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 620,
+                                "y": 244
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Forager's Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721642",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 20,
+                                "y": 272
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Goggles",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721648",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 220,
+                                "y": 272
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Golden Mask",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721651",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 420,
+                                "y": 272
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Hair Bone",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721655",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 620,
+                                "y": 272
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Logo Cap",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721667",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 20,
+                                "y": 300
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Party Hat (Blue)",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721680",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 220,
+                                "y": 300
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Party Hat (Green)",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721681",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 420,
+                                "y": 300
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Party Hat (Red)",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721682",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 620,
+                                "y": 300
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pirate Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721684",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 20,
+                                "y": 328
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Propeller Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721687",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 220,
+                                "y": 328
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pumpkin Mask",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721688",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 420,
+                                "y": 328
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Qi Mask",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721689",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 620,
+                                "y": 328
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Radioactive Goggles",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721691",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 20,
+                                "y": 356
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Spotted Headscarf",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721702",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 220,
+                                "y": 356
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Star Helmet",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721705",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 420,
+                                "y": 356
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sunglasses",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721708",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 620,
+                                "y": 356
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Swashbuckler Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721709",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 20,
+                                "y": 384
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Totem Mask",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721713",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 220,
+                                "y": 384
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Warrior Helmet",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721717",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 420,
+                                "y": 384
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Wearable Dwarf Helm",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721719",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 620,
+                                "y": 384
+                            }
+                        ]
+                    },
+                    {
+                        "name": "White Turban",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721721",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 20,
+                                "y": 412
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Witch Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721722",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 220,
+                                "y": 412
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Medium",
+                "children": [
+                    {
+                        "name": "Blue Bonnet",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721607",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 20,
+                                "y": 476
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Blue Ribbon",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721610",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 220,
+                                "y": 476
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bluebird Mask",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721611",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 420,
+                                "y": 476
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bucket Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721614",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 620,
+                                "y": 476
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cat Ears",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721616",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 20,
+                                "y": 504
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cool Cap",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721620",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 220,
+                                "y": 504
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Deluxe Cowboy Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721630",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 420,
+                                "y": 504
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Earmuffs",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721633",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 620,
+                                "y": 504
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Emily's Magic Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721635",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 20,
+                                "y": 532
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Frog Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721643",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 220,
+                                "y": 532
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Gold Pan",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721649",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 420,
+                                "y": 532
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Governor's Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721653",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 620,
+                                "y": 532
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Green Turban",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721654",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 20,
+                                "y": 560
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Hunter's Cap",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721657",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 220,
+                                "y": 560
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Iridium Pan",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721659",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 420,
+                                "y": 560
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Lucky Bow",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721668",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 620,
+                                "y": 560
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mr. Qi's Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721672",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 20,
+                                "y": 588
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Official Cap",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721676",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 220,
+                                "y": 588
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Polka Bow",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721686",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 420,
+                                "y": 588
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Raccoon Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721690",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 620,
+                                "y": 588
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Red Fez",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721693",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 20,
+                                "y": 616
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Santa Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721695",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 220,
+                                "y": 616
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Skeleton Mask",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721696",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 420,
+                                "y": 616
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Small Cap",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721697",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 620,
+                                "y": 616
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sports Cap",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721701",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 20,
+                                "y": 644
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Squid Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721703",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 220,
+                                "y": 644
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Steel Pan",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721706",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 420,
+                                "y": 644
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Straw Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721707",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 620,
+                                "y": 644
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Trucker Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721716",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 20,
+                                "y": 672
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Difficult",
+                "children": [
+                    {
+                        "name": "Bowler Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721612",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 20,
+                                "y": 736
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cowgal Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721623",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 220,
+                                "y": 736
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cowpoke Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721624",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 420,
+                                "y": 736
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Gil's Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721645",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 620,
+                                "y": 736
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Hard Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721656",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 20,
+                                "y": 764
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Infinity Crown",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721658",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 220,
+                                "y": 764
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Magic Cowboy Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721669",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 420,
+                                "y": 764
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Magic Turban",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721670",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 620,
+                                "y": 764
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Plum Chapeau",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721685",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 20,
+                                "y": 792
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Space Helmet",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721700",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 220,
+                                "y": 792
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Watermelon Band",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721718",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 420,
+                                "y": 792
+                            }
+                        ]
+                    },
+                    {
+                        "name": "White Bow",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721720",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 620,
+                                "y": 792
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "RNG",
+                "children": [
+                    {
+                        "name": "Abigail's Bow",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721602",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 20,
+                                "y": 856
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Blue Cowboy Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721609",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 220,
+                                "y": 856
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dark Ballcap",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721626",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 420,
+                                "y": 856
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dark Cowboy Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721627",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 620,
+                                "y": 856
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Deluxe Pirate Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721631",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 20,
+                                "y": 884
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Garbage Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721644",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 220,
+                                "y": 884
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Golden Helmet",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721650",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 420,
+                                "y": 884
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Joja Cap",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721661",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 620,
+                                "y": 884
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Laurel Wreath Crown",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721664",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 20,
+                                "y": 912
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Living Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721666",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 220,
+                                "y": 912
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mushroom Cap",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721674",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 420,
+                                "y": 912
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mystery Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721675",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 620,
+                                "y": 912
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Red Cowboy Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721692",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 20,
+                                "y": 940
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Squire's Helmet",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721704",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 220,
+                                "y": 940
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tiger Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721711",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 420,
+                                "y": 940
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tricorn Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721714",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 620,
+                                "y": 940
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Near Perfection",
+                "children": [
+                    {
+                        "name": "Arcane Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721603",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 20,
+                                "y": 1004
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Archer's Cap",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721604",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 220,
+                                "y": 1004
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chef Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721617",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 420,
+                                "y": 1004
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chicken Mask",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721618",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 620,
+                                "y": 1004
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cowboy Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721622",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 20,
+                                "y": 1032
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Eye Patch",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721636",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 220,
+                                "y": 1032
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Gnome's Cap",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721646",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 420,
+                                "y": 1032
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Goblin Mask",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721647",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 620,
+                                "y": 1032
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Knight's Helmet",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721663",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 20,
+                                "y": 1060
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pageboy Cap",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721677",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 220,
+                                "y": 1060
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sombrero",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721698",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 420,
+                                "y": 1060
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Post Perfection",
+                "children": [
+                    {
+                        "name": "???",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721601",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 20,
+                                "y": 1124
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Elegant Turban",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721634",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 220,
+                                "y": 1124
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Junimo Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721662",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 420,
+                                "y": 1124
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Impossible",
+                "children": [
+                    {
+                        "name": "Panda Hat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721678",
+                            "hatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 20,
+                                "y": 1188
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

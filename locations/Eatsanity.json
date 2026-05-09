@@ -1,0 +1,5221 @@
+[
+    {
+        "name": "Eatsanity",
+        "chest_unopened_img": "images/QuestNew.png",
+        "chest_opened_img": "images/QuestDone.png",
+        "children": [
+            {
+                "name": "Crops",
+                "children": [
+                    {
+                        "name": "Wild Horseradish",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721751",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 40
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Daffodil",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721752",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 40
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Leek",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721753",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 40
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dandelion",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721754",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 40
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Parsnip",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721755",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 68
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cave Carrot",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721756",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 68
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cactus Fruit",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721757",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 68
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Green Bean",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721758",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 68
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cauliflower",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721759",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 96
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Potato",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721760",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 96
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Garlic",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721761",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 96
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Kale",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721762",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 96
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Melon",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721763",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 124
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tomato",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721764",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 124
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Morel",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721765",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 124
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Blueberry",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721766",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 124
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fiddlehead Fern",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721767",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 152
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Hot Pepper",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721768",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 152
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Radish",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721769",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 152
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Red Cabbage",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721770",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 152
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Starfruit",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721771",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 180
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Corn",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721772",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 180
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Unmilled Rice",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721773",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 180
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Eggplant",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721774",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 180
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Artichoke",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721775",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 208
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bok Choy",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721776",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 208
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Yam",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721777",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 208
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chanterelle",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721778",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 208
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cranberries",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721779",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 236
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Beet",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721780",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 236
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Salmonberry",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721781",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 236
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Amaranth",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721782",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 236
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Hops",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721783",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 264
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Spice Berry",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721784",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 264
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Grape",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721785",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 264
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Spring Onion",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721786",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 264
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Strawberry",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721787",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 292
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sweet Pea",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721788",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 292
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Common Mushroom",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721789",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 292
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Wild Plum",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721790",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 292
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Hazelnut",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721791",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 320
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Blackberry",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721792",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 320
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Winter Root",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721793",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 320
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Crystal Fruit",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721794",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 320
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Snow Yam",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721795",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 348
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Crocus",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721796",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 348
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sunflower",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721797",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 348
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Purple Mushroom",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721798",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 348
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tulip",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721799",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 376
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Summer Spangle",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721800",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 376
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fairy Rose",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721801",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 376
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Blue Jazz",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721802",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 376
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Poppy",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721803",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 404
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Apple",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721804",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 404
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Apricot",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721805",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 404
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Orange",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721806",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 404
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Peach",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721807",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 432
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pomegranate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721808",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 432
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cherry",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721809",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 432
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Banana",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721810",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 432
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ginger",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721811",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 460
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Taro Root",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721812",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 460
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pineapple",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721813",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 460
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mango",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721814",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 460
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Magma Cap",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721815",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 488
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Qi Fruit",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721816",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 488
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Carrot",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721817",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 488
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Summer Squash",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721818",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 488
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Broccoli",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721819",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 516
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Powdermelon",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721820",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 516
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sap",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722051",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 516
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Holly",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722052",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 516
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Red Mushroom",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722053",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 544
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Cooking",
+                "children": [
+                    {
+                        "name": "Fried Egg",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721831",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 608
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Omelet",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721832",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 608
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Salad",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721833",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 608
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cheese Cauliflower",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721834",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 608
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Baked Fish",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721835",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 636
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Parsnip Soup",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721836",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 636
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Vegetable Medley",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721837",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 636
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Complete Breakfast",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721838",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 636
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fried Calamari",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721839",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 664
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Strange Bun",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721840",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 664
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Lucky Lunch",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721841",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 664
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fried Mushroom",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721842",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 664
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pizza",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721843",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 692
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bean Hotpot",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721844",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 692
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Glazed Yams",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721845",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 692
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Carp Surprise",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721846",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 692
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Hashbrowns",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721847",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 720
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pancakes",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721848",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 720
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Salmon Dinner",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721849",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 720
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fish Taco",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721850",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 720
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Crispy Bass",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721851",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 748
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pepper Poppers",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721852",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 748
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bread",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721853",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 748
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tom Kha Soup",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721854",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 748
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Trout Soup",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721855",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 776
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chocolate Cake",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721856",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 776
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pink Cake",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721857",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 776
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Rhubarb Pie",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721858",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 776
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cookies",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721859",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 804
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Spaghetti",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721860",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 804
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fried Eel",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721861",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 804
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Spicy Eel",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721862",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 804
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sashimi",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721863",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 832
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Maki Roll",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721864",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 832
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tortilla",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721865",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 832
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Red Plate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721866",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 832
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Eggplant Parmesan",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721867",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 860
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Rice Pudding",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721868",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 860
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ice Cream",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721869",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 860
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Blueberry Tart",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721870",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 860
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Autumn's Bounty",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721871",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 888
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pumpkin Soup",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721872",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 888
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Super Meal",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721873",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 888
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cranberry Sauce",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721874",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 888
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Stuffing",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721875",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 916
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Farmer's Lunch",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721876",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 916
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Survival Burger",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721877",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 916
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dish O' The Sea",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721878",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 916
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Miner's Treat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721879",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 944
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Roots Platter",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721880",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 944
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Triple Shot Espresso",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721881",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 944
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Field Snack",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721882",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 944
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Algae Soup",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721883",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 972
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pale Broth",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721884",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 972
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Plum Pudding",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721885",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 972
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Artichoke Dip",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721886",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 972
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Stir Fry",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721887",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 1000
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Roasted Hazelnuts",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721888",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 1000
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pumpkin Pie",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721889",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 1000
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Radish Salad",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721890",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 1000
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fruit Salad",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721891",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 1028
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Blackberry Cobbler",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721892",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 1028
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cranberry Candy",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721893",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 1028
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bruschetta",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721894",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 1028
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Coleslaw",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721895",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 1056
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fiddlehead Risotto",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721896",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 1056
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Poppyseed Muffin",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721897",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 1056
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chowder",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721898",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 1056
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Lobster Bisque",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721899",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 1084
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fish Stew",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721900",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 1084
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Escargot",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721901",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 1084
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Maple Bar",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721902",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 1084
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Crab Cakes",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721903",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 1112
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shrimp Cocktail",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721904",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 1112
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Oil of Garlic",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721905",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 1112
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Life Elixir",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721906",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 1112
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Seafoam Pudding",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721907",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 1140
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bug Steak",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721908",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 1140
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ginger Ale",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721909",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 1140
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Banana Pudding",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721910",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 1140
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mango Sticky Rice",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721911",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 1168
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Poi",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721912",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 1168
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tropical Curry",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721913",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 1168
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Squid Ink Ravioli",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721914",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 1168
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Moss Soup",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721915",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 1196
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Fish",
+                "children": [
+                    {
+                        "name": "Anchovy",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721971",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 1260
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tuna",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721972",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 1260
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sardine",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721973",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 1260
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bream",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721974",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 1260
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Largemouth Bass",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721975",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 1288
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Smallmouth Bass",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721976",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 1288
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Rainbow Trout",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721977",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 1288
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Salmon",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721978",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 1288
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Walleye",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721979",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 1316
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Perch",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721980",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 1316
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Carp",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721981",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 1316
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Catfish",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721982",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 1316
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pike",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721983",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 1344
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sunfish",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721984",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 1344
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Red Mullet",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721985",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 1344
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Herring",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721986",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 1344
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Eel",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721987",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 1372
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Red Snapper",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721988",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 1372
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Squid",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721989",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 1372
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Seaweed",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721990",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 1372
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Green Algae",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721991",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 1400
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Super Cucumber",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721992",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 1400
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ghostfish",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721993",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 1400
+                            }
+                        ]
+                    },
+                    {
+                        "name": "White Algae",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721994",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 1400
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Crimsonfish",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721995",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 1428
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Angler",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721996",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 1428
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ice Pip",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721997",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 1428
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Lava Eel",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721998",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 1428
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Legend",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721999",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 1456
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sandfish",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722000",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 1456
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mutant Carp",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722001",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 1456
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sturgeon",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722002",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 1456
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tiger Trout",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722003",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 1484
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bullhead",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722004",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 1484
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tilapia",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722005",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 1484
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chub",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722006",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 1484
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dorado",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722007",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 1512
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Albacore",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722008",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 1512
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shad",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722009",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 1512
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Lingcod",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722010",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 1512
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Halibut",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722011",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 1540
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Woodskip",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722012",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 1540
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Glacierfish",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722013",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 1540
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Void Salmon",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722014",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 1540
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Slimejack",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722015",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 1568
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Midnight Squid",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722016",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 1568
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Spook Fish",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722017",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 1568
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Blobfish",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722018",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 1568
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Flounder",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722019",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 1596
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Midnight Carp",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722020",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 1596
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Stingray",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722021",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 1596
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Lionfish",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722022",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 1596
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Blue Discus",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722023",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 1624
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Son of Crimsonfish",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722024",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 1624
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ms. Angler",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722025",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 1624
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Legend II",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722026",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 1624
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Radioactive Carp",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722027",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 1652
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Glacierfish Jr.",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722028",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 1652
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sea Jelly",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722029",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 1652
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cave Jelly",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722030",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 1652
+                            }
+                        ]
+                    },
+                    {
+                        "name": "River Jelly",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722031",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 1680
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Joja Cola",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722032",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 1680
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pufferfish",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722056",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 1680
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sea Cucumber",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722057",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 1680
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Goby",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722058",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 1708
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Scorpion Carp",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722059",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 1708
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Artisan",
+                "children": [
+                    {
+                        "name": "Egg",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721921",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 1772
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Large Egg",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721922",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 1772
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Egg (Brown)",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721923",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 1772
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Large Egg (Brown)",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721924",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 1772
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Milk",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721925",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 1800
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Large Milk",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721926",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 1800
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pale Ale",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721927",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 1800
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mayonnaise",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721928",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 1800
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Duck Mayonnaise",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721929",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 1828
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Beer",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721930",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 1828
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Wine",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721931",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 1828
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Juice",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721932",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 1828
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Coffee",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721933",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 1856
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cheese",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721934",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 1856
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Goat Cheese",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721935",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 1856
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Truffle",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721936",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 1856
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Truffle Oil",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721937",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 1884
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Goat Milk",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721938",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 1884
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Large Goat Milk",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721939",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 1884
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Duck Egg",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721940",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 1884
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Aged Roe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721941",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 1912
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mead",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721942",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 1912
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Green Tea",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721943",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 1912
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Maple Syrup",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721944",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 1912
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dinosaur Mayonnaise",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721945",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 1940
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Roe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721946",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 1940
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Caviar",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721947",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 1940
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ostrich Egg",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721948",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 1940
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Golden Egg",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721949",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 1968
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mystic Syrup",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721950",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 1968
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Raisins",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721951",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 1968
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Jelly",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721952",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 1968
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pickles",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721953",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 1996
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Rice",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721954",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 1996
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sugar",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721955",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 1996
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Wheat Flour",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721956",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 1996
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Oil",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721957",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 2024
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Vinegar",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721958",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 2024
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Smoked Fish",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721959",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 2024
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dried Fruit",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721960",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 2024
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dried Mushrooms",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721961",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 2052
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Void Egg",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722054",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 2052
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Void Mayonnaise",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722055",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 2052
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Iridium Snake Milk",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722060",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 2052
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Shop",
+                "children": [
+                    {
+                        "name": "Magic Rock Candy",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722041",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 2116
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Energy Tonic",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722042",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 2116
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Muscle Remedy",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722043",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 2116
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pina Colada",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722044",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 2116
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Stardrop",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "722045",
+                            "eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 2144
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

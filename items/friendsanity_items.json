@@ -1,0 +1,5469 @@
+[
+    {
+        "name": "718301",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718301"
+    },
+    {
+        "name": "718302",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718302"
+    },
+    {
+        "name": "718303",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718303"
+    },
+    {
+        "name": "718304",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718304"
+    },
+    {
+        "name": "718305",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718305"
+    },
+    {
+        "name": "718306",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718306"
+    },
+    {
+        "name": "718307",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718307"
+    },
+    {
+        "name": "718308",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718308"
+    },
+    {
+        "name": "718309",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718309"
+    },
+    {
+        "name": "718310",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718310"
+    },
+    {
+        "name": "718311",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718311"
+    },
+    {
+        "name": "718312",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718312"
+    },
+    {
+        "name": "718313",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718313"
+    },
+    {
+        "name": "718314",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718314"
+    },
+    {
+        "name": "718315",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718315"
+    },
+    {
+        "name": "718316",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718316"
+    },
+    {
+        "name": "718317",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718317"
+    },
+    {
+        "name": "718318",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718318"
+    },
+    {
+        "name": "718319",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718319"
+    },
+    {
+        "name": "718320",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718320"
+    },
+    {
+        "name": "718321",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718321"
+    },
+    {
+        "name": "718322",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718322"
+    },
+    {
+        "name": "718323",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718323"
+    },
+    {
+        "name": "718324",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718324"
+    },
+    {
+        "name": "718325",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718325"
+    },
+    {
+        "name": "718326",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718326"
+    },
+    {
+        "name": "718327",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718327"
+    },
+    {
+        "name": "718328",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718328"
+    },
+    {
+        "name": "718329",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718329"
+    },
+    {
+        "name": "718330",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718330"
+    },
+    {
+        "name": "718331",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718331"
+    },
+    {
+        "name": "718332",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718332"
+    },
+    {
+        "name": "718333",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718333"
+    },
+    {
+        "name": "718334",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718334"
+    },
+    {
+        "name": "718335",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718335"
+    },
+    {
+        "name": "718336",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718336"
+    },
+    {
+        "name": "718337",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718337"
+    },
+    {
+        "name": "718338",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718338"
+    },
+    {
+        "name": "718339",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718339"
+    },
+    {
+        "name": "718340",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718340"
+    },
+    {
+        "name": "718341",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718341"
+    },
+    {
+        "name": "718342",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718342"
+    },
+    {
+        "name": "718343",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718343"
+    },
+    {
+        "name": "718344",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718344"
+    },
+    {
+        "name": "718345",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718345"
+    },
+    {
+        "name": "718346",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718346"
+    },
+    {
+        "name": "718347",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718347"
+    },
+    {
+        "name": "718348",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718348"
+    },
+    {
+        "name": "718349",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718349"
+    },
+    {
+        "name": "718350",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718350"
+    },
+    {
+        "name": "718351",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718351"
+    },
+    {
+        "name": "718352",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718352"
+    },
+    {
+        "name": "718353",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718353"
+    },
+    {
+        "name": "718354",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718354"
+    },
+    {
+        "name": "718355",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718355"
+    },
+    {
+        "name": "718356",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718356"
+    },
+    {
+        "name": "718357",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718357"
+    },
+    {
+        "name": "718358",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718358"
+    },
+    {
+        "name": "718359",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718359"
+    },
+    {
+        "name": "718360",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718360"
+    },
+    {
+        "name": "718361",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718361"
+    },
+    {
+        "name": "718362",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718362"
+    },
+    {
+        "name": "718363",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718363"
+    },
+    {
+        "name": "718364",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718364"
+    },
+    {
+        "name": "718365",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718365"
+    },
+    {
+        "name": "718366",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718366"
+    },
+    {
+        "name": "718367",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718367"
+    },
+    {
+        "name": "718368",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718368"
+    },
+    {
+        "name": "718369",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718369"
+    },
+    {
+        "name": "718370",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718370"
+    },
+    {
+        "name": "718371",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718371"
+    },
+    {
+        "name": "718372",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718372"
+    },
+    {
+        "name": "718373",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718373"
+    },
+    {
+        "name": "718374",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718374"
+    },
+    {
+        "name": "718375",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718375"
+    },
+    {
+        "name": "718376",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718376"
+    },
+    {
+        "name": "718377",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718377"
+    },
+    {
+        "name": "718378",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718378"
+    },
+    {
+        "name": "718379",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718379"
+    },
+    {
+        "name": "718380",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718380"
+    },
+    {
+        "name": "718381",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718381"
+    },
+    {
+        "name": "718382",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718382"
+    },
+    {
+        "name": "718383",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718383"
+    },
+    {
+        "name": "718384",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718384"
+    },
+    {
+        "name": "718385",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718385"
+    },
+    {
+        "name": "718386",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718386"
+    },
+    {
+        "name": "718387",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718387"
+    },
+    {
+        "name": "718388",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718388"
+    },
+    {
+        "name": "718389",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718389"
+    },
+    {
+        "name": "718390",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718390"
+    },
+    {
+        "name": "718391",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718391"
+    },
+    {
+        "name": "718392",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718392"
+    },
+    {
+        "name": "718393",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718393"
+    },
+    {
+        "name": "718394",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718394"
+    },
+    {
+        "name": "718395",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718395"
+    },
+    {
+        "name": "718396",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718396"
+    },
+    {
+        "name": "718397",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718397"
+    },
+    {
+        "name": "718398",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718398"
+    },
+    {
+        "name": "718399",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718399"
+    },
+    {
+        "name": "718400",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718400"
+    },
+    {
+        "name": "718401",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718401"
+    },
+    {
+        "name": "718402",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718402"
+    },
+    {
+        "name": "718403",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718403"
+    },
+    {
+        "name": "718404",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718404"
+    },
+    {
+        "name": "718405",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718405"
+    },
+    {
+        "name": "718406",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718406"
+    },
+    {
+        "name": "718407",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718407"
+    },
+    {
+        "name": "718408",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718408"
+    },
+    {
+        "name": "718409",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718409"
+    },
+    {
+        "name": "718410",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718410"
+    },
+    {
+        "name": "718411",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718411"
+    },
+    {
+        "name": "718412",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718412"
+    },
+    {
+        "name": "718413",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718413"
+    },
+    {
+        "name": "718414",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718414"
+    },
+    {
+        "name": "718415",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718415"
+    },
+    {
+        "name": "718416",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718416"
+    },
+    {
+        "name": "718417",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718417"
+    },
+    {
+        "name": "718418",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718418"
+    },
+    {
+        "name": "718419",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718419"
+    },
+    {
+        "name": "718420",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718420"
+    },
+    {
+        "name": "718421",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718421"
+    },
+    {
+        "name": "718422",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718422"
+    },
+    {
+        "name": "718423",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718423"
+    },
+    {
+        "name": "718424",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718424"
+    },
+    {
+        "name": "718425",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718425"
+    },
+    {
+        "name": "718426",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718426"
+    },
+    {
+        "name": "718427",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718427"
+    },
+    {
+        "name": "718428",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718428"
+    },
+    {
+        "name": "718429",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718429"
+    },
+    {
+        "name": "718430",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718430"
+    },
+    {
+        "name": "718431",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718431"
+    },
+    {
+        "name": "718432",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718432"
+    },
+    {
+        "name": "718433",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718433"
+    },
+    {
+        "name": "718434",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718434"
+    },
+    {
+        "name": "718435",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718435"
+    },
+    {
+        "name": "718436",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718436"
+    },
+    {
+        "name": "718437",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718437"
+    },
+    {
+        "name": "718438",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718438"
+    },
+    {
+        "name": "718439",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718439"
+    },
+    {
+        "name": "718440",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718440"
+    },
+    {
+        "name": "718441",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718441"
+    },
+    {
+        "name": "718442",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718442"
+    },
+    {
+        "name": "718443",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718443"
+    },
+    {
+        "name": "718444",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718444"
+    },
+    {
+        "name": "718445",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718445"
+    },
+    {
+        "name": "718446",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718446"
+    },
+    {
+        "name": "718447",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718447"
+    },
+    {
+        "name": "718448",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718448"
+    },
+    {
+        "name": "718449",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718449"
+    },
+    {
+        "name": "718450",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718450"
+    },
+    {
+        "name": "718451",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718451"
+    },
+    {
+        "name": "718452",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718452"
+    },
+    {
+        "name": "718453",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718453"
+    },
+    {
+        "name": "718454",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718454"
+    },
+    {
+        "name": "718455",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718455"
+    },
+    {
+        "name": "718456",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718456"
+    },
+    {
+        "name": "718457",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718457"
+    },
+    {
+        "name": "718458",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718458"
+    },
+    {
+        "name": "718459",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718459"
+    },
+    {
+        "name": "718460",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718460"
+    },
+    {
+        "name": "718461",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718461"
+    },
+    {
+        "name": "718462",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718462"
+    },
+    {
+        "name": "718463",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718463"
+    },
+    {
+        "name": "718464",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718464"
+    },
+    {
+        "name": "718465",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718465"
+    },
+    {
+        "name": "718466",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718466"
+    },
+    {
+        "name": "718467",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718467"
+    },
+    {
+        "name": "718468",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718468"
+    },
+    {
+        "name": "718469",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718469"
+    },
+    {
+        "name": "718470",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718470"
+    },
+    {
+        "name": "718471",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718471"
+    },
+    {
+        "name": "718472",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718472"
+    },
+    {
+        "name": "718473",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718473"
+    },
+    {
+        "name": "718474",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718474"
+    },
+    {
+        "name": "718475",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718475"
+    },
+    {
+        "name": "718476",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718476"
+    },
+    {
+        "name": "718477",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718477"
+    },
+    {
+        "name": "718478",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718478"
+    },
+    {
+        "name": "718480",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718480"
+    },
+    {
+        "name": "718481",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718481"
+    },
+    {
+        "name": "718482",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718482"
+    },
+    {
+        "name": "718483",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718483"
+    },
+    {
+        "name": "718484",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718484"
+    },
+    {
+        "name": "718485",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718485"
+    },
+    {
+        "name": "718486",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718486"
+    },
+    {
+        "name": "718487",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718487"
+    },
+    {
+        "name": "718488",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718488"
+    },
+    {
+        "name": "718489",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718489"
+    },
+    {
+        "name": "718491",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718491"
+    },
+    {
+        "name": "718492",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718492"
+    },
+    {
+        "name": "718493",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718493"
+    },
+    {
+        "name": "718494",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718494"
+    },
+    {
+        "name": "718495",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718495"
+    },
+    {
+        "name": "718496",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718496"
+    },
+    {
+        "name": "718497",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718497"
+    },
+    {
+        "name": "718498",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718498"
+    },
+    {
+        "name": "718499",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718499"
+    },
+    {
+        "name": "718500",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718500"
+    },
+    {
+        "name": "718502",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718502"
+    },
+    {
+        "name": "718503",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718503"
+    },
+    {
+        "name": "718504",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718504"
+    },
+    {
+        "name": "718505",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718505"
+    },
+    {
+        "name": "718506",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718506"
+    },
+    {
+        "name": "718507",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718507"
+    },
+    {
+        "name": "718508",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718508"
+    },
+    {
+        "name": "718509",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718509"
+    },
+    {
+        "name": "718510",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718510"
+    },
+    {
+        "name": "718511",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718511"
+    },
+    {
+        "name": "718513",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718513"
+    },
+    {
+        "name": "718514",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718514"
+    },
+    {
+        "name": "718515",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718515"
+    },
+    {
+        "name": "718516",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718516"
+    },
+    {
+        "name": "718517",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718517"
+    },
+    {
+        "name": "718518",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718518"
+    },
+    {
+        "name": "718519",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718519"
+    },
+    {
+        "name": "718520",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718520"
+    },
+    {
+        "name": "718521",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718521"
+    },
+    {
+        "name": "718522",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718522"
+    },
+    {
+        "name": "718524",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718524"
+    },
+    {
+        "name": "718525",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718525"
+    },
+    {
+        "name": "718526",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718526"
+    },
+    {
+        "name": "718527",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718527"
+    },
+    {
+        "name": "718528",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718528"
+    },
+    {
+        "name": "718529",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718529"
+    },
+    {
+        "name": "718530",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718530"
+    },
+    {
+        "name": "718531",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718531"
+    },
+    {
+        "name": "718532",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718532"
+    },
+    {
+        "name": "718533",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718533"
+    },
+    {
+        "name": "718535",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718535"
+    },
+    {
+        "name": "718536",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718536"
+    },
+    {
+        "name": "718537",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718537"
+    },
+    {
+        "name": "718538",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718538"
+    },
+    {
+        "name": "718539",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718539"
+    },
+    {
+        "name": "718540",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718540"
+    },
+    {
+        "name": "718541",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718541"
+    },
+    {
+        "name": "718542",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718542"
+    },
+    {
+        "name": "718543",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718543"
+    },
+    {
+        "name": "718544",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718544"
+    },
+    {
+        "name": "718546",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718546"
+    },
+    {
+        "name": "718547",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718547"
+    },
+    {
+        "name": "718548",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718548"
+    },
+    {
+        "name": "718549",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718549"
+    },
+    {
+        "name": "718550",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718550"
+    },
+    {
+        "name": "718551",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718551"
+    },
+    {
+        "name": "718552",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718552"
+    },
+    {
+        "name": "718553",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718553"
+    },
+    {
+        "name": "718554",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718554"
+    },
+    {
+        "name": "718555",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718555"
+    },
+    {
+        "name": "718557",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718557"
+    },
+    {
+        "name": "718558",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718558"
+    },
+    {
+        "name": "718559",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718559"
+    },
+    {
+        "name": "718560",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718560"
+    },
+    {
+        "name": "718561",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718561"
+    },
+    {
+        "name": "718562",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718562"
+    },
+    {
+        "name": "718563",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718563"
+    },
+    {
+        "name": "718564",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718564"
+    },
+    {
+        "name": "718565",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718565"
+    },
+    {
+        "name": "718566",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718566"
+    },
+    {
+        "name": "718568",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718568"
+    },
+    {
+        "name": "718569",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718569"
+    },
+    {
+        "name": "718570",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718570"
+    },
+    {
+        "name": "718571",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718571"
+    },
+    {
+        "name": "718572",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718572"
+    },
+    {
+        "name": "718573",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718573"
+    },
+    {
+        "name": "718574",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718574"
+    },
+    {
+        "name": "718575",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718575"
+    },
+    {
+        "name": "718576",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718576"
+    },
+    {
+        "name": "718577",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718577"
+    },
+    {
+        "name": "718579",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718579"
+    },
+    {
+        "name": "718580",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718580"
+    },
+    {
+        "name": "718581",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718581"
+    },
+    {
+        "name": "718582",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718582"
+    },
+    {
+        "name": "718583",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718583"
+    },
+    {
+        "name": "718584",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718584"
+    },
+    {
+        "name": "718585",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718585"
+    },
+    {
+        "name": "718586",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718586"
+    },
+    {
+        "name": "718587",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718587"
+    },
+    {
+        "name": "718588",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718588"
+    },
+    {
+        "name": "718590",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718590"
+    },
+    {
+        "name": "718591",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718591"
+    },
+    {
+        "name": "718592",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718592"
+    },
+    {
+        "name": "718593",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718593"
+    },
+    {
+        "name": "718594",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718594"
+    },
+    {
+        "name": "718595",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718595"
+    },
+    {
+        "name": "718596",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718596"
+    },
+    {
+        "name": "718597",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718597"
+    },
+    {
+        "name": "718598",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718598"
+    },
+    {
+        "name": "718599",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718599"
+    },
+    {
+        "name": "718601",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718601"
+    },
+    {
+        "name": "718602",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718602"
+    },
+    {
+        "name": "718603",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718603"
+    },
+    {
+        "name": "718604",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718604"
+    },
+    {
+        "name": "718605",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718605"
+    },
+    {
+        "name": "718606",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718606"
+    },
+    {
+        "name": "718607",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718607"
+    },
+    {
+        "name": "718608",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718608"
+    },
+    {
+        "name": "718609",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718609"
+    },
+    {
+        "name": "718610",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718610"
+    },
+    {
+        "name": "718612",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718612"
+    },
+    {
+        "name": "718613",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718613"
+    },
+    {
+        "name": "718614",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718614"
+    },
+    {
+        "name": "718615",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718615"
+    },
+    {
+        "name": "718616",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718616"
+    },
+    {
+        "name": "718617",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718617"
+    },
+    {
+        "name": "718618",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718618"
+    },
+    {
+        "name": "718619",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718619"
+    },
+    {
+        "name": "718620",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718620"
+    },
+    {
+        "name": "718621",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718621"
+    },
+    {
+        "name": "718623",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718623"
+    },
+    {
+        "name": "718624",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718624"
+    },
+    {
+        "name": "718625",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718625"
+    },
+    {
+        "name": "718626",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718626"
+    },
+    {
+        "name": "718627",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718627"
+    },
+    {
+        "name": "718628",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718628"
+    },
+    {
+        "name": "718629",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718629"
+    },
+    {
+        "name": "718630",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718630"
+    },
+    {
+        "name": "718631",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718631"
+    },
+    {
+        "name": "718632",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718632"
+    },
+    {
+        "name": "718634",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718634"
+    },
+    {
+        "name": "718635",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718635"
+    },
+    {
+        "name": "718636",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718636"
+    },
+    {
+        "name": "718637",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718637"
+    },
+    {
+        "name": "718638",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718638"
+    },
+    {
+        "name": "718639",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718639"
+    },
+    {
+        "name": "718640",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718640"
+    },
+    {
+        "name": "718641",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718641"
+    },
+    {
+        "name": "718642",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718642"
+    },
+    {
+        "name": "718643",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718643"
+    },
+    {
+        "name": "718645",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718645"
+    },
+    {
+        "name": "718646",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718646"
+    },
+    {
+        "name": "718647",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718647"
+    },
+    {
+        "name": "718648",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718648"
+    },
+    {
+        "name": "718649",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718649"
+    },
+    {
+        "name": "718650",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718650"
+    },
+    {
+        "name": "718651",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718651"
+    },
+    {
+        "name": "718652",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718652"
+    },
+    {
+        "name": "718653",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718653"
+    },
+    {
+        "name": "718654",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718654"
+    },
+    {
+        "name": "718656",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718656"
+    },
+    {
+        "name": "718657",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718657"
+    },
+    {
+        "name": "718658",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718658"
+    },
+    {
+        "name": "718659",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718659"
+    },
+    {
+        "name": "718660",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718660"
+    },
+    {
+        "name": "718661",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718661"
+    },
+    {
+        "name": "718662",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718662"
+    },
+    {
+        "name": "718663",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718663"
+    },
+    {
+        "name": "718664",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718664"
+    },
+    {
+        "name": "718665",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718665"
+    },
+    {
+        "name": "718667",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718667"
+    },
+    {
+        "name": "718668",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718668"
+    },
+    {
+        "name": "718669",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718669"
+    },
+    {
+        "name": "718670",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718670"
+    },
+    {
+        "name": "718671",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718671"
+    },
+    {
+        "name": "718672",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718672"
+    },
+    {
+        "name": "718673",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718673"
+    },
+    {
+        "name": "718674",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718674"
+    },
+    {
+        "name": "718675",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718675"
+    },
+    {
+        "name": "718676",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718676"
+    },
+    {
+        "name": "718678",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718678"
+    },
+    {
+        "name": "718679",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718679"
+    },
+    {
+        "name": "718680",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718680"
+    },
+    {
+        "name": "718681",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718681"
+    },
+    {
+        "name": "718682",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718682"
+    },
+    {
+        "name": "718683",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718683"
+    },
+    {
+        "name": "718684",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718684"
+    },
+    {
+        "name": "718685",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718685"
+    },
+    {
+        "name": "718686",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718686"
+    },
+    {
+        "name": "718687",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718687"
+    },
+    {
+        "name": "718689",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718689"
+    },
+    {
+        "name": "718690",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718690"
+    },
+    {
+        "name": "718691",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718691"
+    },
+    {
+        "name": "718692",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718692"
+    },
+    {
+        "name": "718693",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718693"
+    },
+    {
+        "name": "718694",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718694"
+    },
+    {
+        "name": "718695",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718695"
+    },
+    {
+        "name": "718696",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718696"
+    },
+    {
+        "name": "718697",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718697"
+    },
+    {
+        "name": "718698",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718698"
+    },
+    {
+        "name": "718700",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718700"
+    },
+    {
+        "name": "718701",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718701"
+    },
+    {
+        "name": "718702",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718702"
+    },
+    {
+        "name": "718703",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718703"
+    },
+    {
+        "name": "718704",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718704"
+    },
+    {
+        "name": "718705",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718705"
+    },
+    {
+        "name": "718706",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718706"
+    },
+    {
+        "name": "718707",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718707"
+    },
+    {
+        "name": "718708",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718708"
+    },
+    {
+        "name": "718709",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718709"
+    },
+    {
+        "name": "718710",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718710"
+    },
+    {
+        "name": "718711",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718711"
+    },
+    {
+        "name": "718712",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718712"
+    },
+    {
+        "name": "718713",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718713"
+    },
+    {
+        "name": "718714",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718714"
+    },
+    {
+        "name": "718715",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718715"
+    },
+    {
+        "name": "718716",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718716"
+    },
+    {
+        "name": "718717",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718717"
+    },
+    {
+        "name": "718718",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718718"
+    },
+    {
+        "name": "718719",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718719"
+    },
+    {
+        "name": "718720",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718720"
+    },
+    {
+        "name": "718721",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718721"
+    },
+    {
+        "name": "718722",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718722"
+    },
+    {
+        "name": "718723",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718723"
+    },
+    {
+        "name": "718724",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718724"
+    },
+    {
+        "name": "718725",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718725"
+    },
+    {
+        "name": "718726",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718726"
+    },
+    {
+        "name": "718727",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718727"
+    },
+    {
+        "name": "718728",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "718728"
+    },
+    {
+        "name": "773001",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773001"
+    },
+    {
+        "name": "773002",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773002"
+    },
+    {
+        "name": "773003",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773003"
+    },
+    {
+        "name": "773004",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773004"
+    },
+    {
+        "name": "773005",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773005"
+    },
+    {
+        "name": "773006",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773006"
+    },
+    {
+        "name": "773007",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773007"
+    },
+    {
+        "name": "773008",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773008"
+    },
+    {
+        "name": "773009",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773009"
+    },
+    {
+        "name": "773010",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773010"
+    },
+    {
+        "name": "773011",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773011"
+    },
+    {
+        "name": "773012",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773012"
+    },
+    {
+        "name": "773013",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773013"
+    },
+    {
+        "name": "773014",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773014"
+    },
+    {
+        "name": "773015",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773015"
+    },
+    {
+        "name": "773016",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773016"
+    },
+    {
+        "name": "773017",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773017"
+    },
+    {
+        "name": "773018",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773018"
+    },
+    {
+        "name": "773019",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773019"
+    },
+    {
+        "name": "773020",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773020"
+    },
+    {
+        "name": "773021",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773021"
+    },
+    {
+        "name": "773022",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773022"
+    },
+    {
+        "name": "773023",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773023"
+    },
+    {
+        "name": "773024",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773024"
+    },
+    {
+        "name": "773025",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773025"
+    },
+    {
+        "name": "773026",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773026"
+    },
+    {
+        "name": "773027",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773027"
+    },
+    {
+        "name": "773028",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773028"
+    },
+    {
+        "name": "773029",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773029"
+    },
+    {
+        "name": "773030",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773030"
+    },
+    {
+        "name": "773031",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773031"
+    },
+    {
+        "name": "773032",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773032"
+    },
+    {
+        "name": "773033",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773033"
+    },
+    {
+        "name": "773034",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773034"
+    },
+    {
+        "name": "773035",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773035"
+    },
+    {
+        "name": "773036",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773036"
+    },
+    {
+        "name": "773037",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773037"
+    },
+    {
+        "name": "773038",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773038"
+    },
+    {
+        "name": "773039",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773039"
+    },
+    {
+        "name": "773040",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773040"
+    },
+    {
+        "name": "773041",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773041"
+    },
+    {
+        "name": "773042",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773042"
+    },
+    {
+        "name": "773043",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773043"
+    },
+    {
+        "name": "773044",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773044"
+    },
+    {
+        "name": "773045",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773045"
+    },
+    {
+        "name": "773046",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773046"
+    },
+    {
+        "name": "773047",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773047"
+    },
+    {
+        "name": "773048",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773048"
+    },
+    {
+        "name": "773049",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773049"
+    },
+    {
+        "name": "773050",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773050"
+    },
+    {
+        "name": "773051",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773051"
+    },
+    {
+        "name": "773052",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773052"
+    },
+    {
+        "name": "773053",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773053"
+    },
+    {
+        "name": "773054",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773054"
+    },
+    {
+        "name": "773055",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773055"
+    },
+    {
+        "name": "773056",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773056"
+    },
+    {
+        "name": "773057",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773057"
+    },
+    {
+        "name": "773058",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773058"
+    },
+    {
+        "name": "773059",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773059"
+    },
+    {
+        "name": "773060",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773060"
+    },
+    {
+        "name": "773061",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773061"
+    },
+    {
+        "name": "773062",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773062"
+    },
+    {
+        "name": "773063",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773063"
+    },
+    {
+        "name": "773064",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773064"
+    },
+    {
+        "name": "773065",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773065"
+    },
+    {
+        "name": "773066",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773066"
+    },
+    {
+        "name": "773067",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773067"
+    },
+    {
+        "name": "773068",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773068"
+    },
+    {
+        "name": "773069",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773069"
+    },
+    {
+        "name": "773070",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773070"
+    },
+    {
+        "name": "773071",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773071"
+    },
+    {
+        "name": "773072",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773072"
+    },
+    {
+        "name": "773073",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773073"
+    },
+    {
+        "name": "773074",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773074"
+    },
+    {
+        "name": "773075",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773075"
+    },
+    {
+        "name": "773076",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773076"
+    },
+    {
+        "name": "773077",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773077"
+    },
+    {
+        "name": "773078",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773078"
+    },
+    {
+        "name": "773079",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773079"
+    },
+    {
+        "name": "773080",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773080"
+    },
+    {
+        "name": "773081",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773081"
+    },
+    {
+        "name": "773082",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773082"
+    },
+    {
+        "name": "773083",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773083"
+    },
+    {
+        "name": "773084",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773084"
+    },
+    {
+        "name": "773085",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773085"
+    },
+    {
+        "name": "773086",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773086"
+    },
+    {
+        "name": "773087",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773087"
+    },
+    {
+        "name": "773088",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773088"
+    },
+    {
+        "name": "773089",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773089"
+    },
+    {
+        "name": "773090",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773090"
+    },
+    {
+        "name": "773091",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773091"
+    },
+    {
+        "name": "773092",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773092"
+    },
+    {
+        "name": "773093",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773093"
+    },
+    {
+        "name": "773094",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773094"
+    },
+    {
+        "name": "773095",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773095"
+    },
+    {
+        "name": "773096",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773096"
+    },
+    {
+        "name": "773097",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773097"
+    },
+    {
+        "name": "773098",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773098"
+    },
+    {
+        "name": "773099",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773099"
+    },
+    {
+        "name": "773100",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773100"
+    },
+    {
+        "name": "773101",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773101"
+    },
+    {
+        "name": "773102",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773102"
+    },
+    {
+        "name": "773103",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773103"
+    },
+    {
+        "name": "773104",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773104"
+    },
+    {
+        "name": "773105",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773105"
+    },
+    {
+        "name": "773106",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773106"
+    },
+    {
+        "name": "773107",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773107"
+    },
+    {
+        "name": "773108",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773108"
+    },
+    {
+        "name": "773109",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773109"
+    },
+    {
+        "name": "773110",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773110"
+    },
+    {
+        "name": "773111",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773111"
+    },
+    {
+        "name": "773112",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773112"
+    },
+    {
+        "name": "773113",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773113"
+    },
+    {
+        "name": "773114",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773114"
+    },
+    {
+        "name": "773115",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773115"
+    },
+    {
+        "name": "773116",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773116"
+    },
+    {
+        "name": "773117",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773117"
+    },
+    {
+        "name": "773118",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773118"
+    },
+    {
+        "name": "773119",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773119"
+    },
+    {
+        "name": "773120",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773120"
+    },
+    {
+        "name": "773121",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773121"
+    },
+    {
+        "name": "773122",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773122"
+    },
+    {
+        "name": "773123",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773123"
+    },
+    {
+        "name": "773124",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773124"
+    },
+    {
+        "name": "773125",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773125"
+    },
+    {
+        "name": "773126",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773126"
+    },
+    {
+        "name": "773127",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773127"
+    },
+    {
+        "name": "773128",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773128"
+    },
+    {
+        "name": "773129",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773129"
+    },
+    {
+        "name": "773130",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773130"
+    },
+    {
+        "name": "773131",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773131"
+    },
+    {
+        "name": "773132",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773132"
+    },
+    {
+        "name": "773133",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773133"
+    },
+    {
+        "name": "773134",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773134"
+    },
+    {
+        "name": "773135",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773135"
+    },
+    {
+        "name": "773136",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773136"
+    },
+    {
+        "name": "773137",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773137"
+    },
+    {
+        "name": "773138",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773138"
+    },
+    {
+        "name": "773139",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773139"
+    },
+    {
+        "name": "773140",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773140"
+    },
+    {
+        "name": "773141",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773141"
+    },
+    {
+        "name": "773142",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773142"
+    },
+    {
+        "name": "773143",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773143"
+    },
+    {
+        "name": "773144",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773144"
+    },
+    {
+        "name": "773145",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773145"
+    },
+    {
+        "name": "773146",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773146"
+    },
+    {
+        "name": "773147",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773147"
+    },
+    {
+        "name": "773148",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773148"
+    },
+    {
+        "name": "773149",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773149"
+    },
+    {
+        "name": "773150",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773150"
+    },
+    {
+        "name": "773151",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773151"
+    },
+    {
+        "name": "773152",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773152"
+    },
+    {
+        "name": "773153",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773153"
+    },
+    {
+        "name": "773154",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773154"
+    },
+    {
+        "name": "773155",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773155"
+    },
+    {
+        "name": "773156",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773156"
+    },
+    {
+        "name": "773157",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773157"
+    },
+    {
+        "name": "773158",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773158"
+    },
+    {
+        "name": "773159",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773159"
+    },
+    {
+        "name": "773160",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773160"
+    },
+    {
+        "name": "773161",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773161"
+    },
+    {
+        "name": "773162",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773162"
+    },
+    {
+        "name": "773163",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773163"
+    },
+    {
+        "name": "773164",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773164"
+    },
+    {
+        "name": "773165",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773165"
+    },
+    {
+        "name": "773166",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773166"
+    },
+    {
+        "name": "773167",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773167"
+    },
+    {
+        "name": "773168",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773168"
+    },
+    {
+        "name": "773169",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773169"
+    },
+    {
+        "name": "773170",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773170"
+    },
+    {
+        "name": "773171",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773171"
+    },
+    {
+        "name": "773172",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773172"
+    },
+    {
+        "name": "773173",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773173"
+    },
+    {
+        "name": "773174",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773174"
+    },
+    {
+        "name": "773175",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773175"
+    },
+    {
+        "name": "773176",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773176"
+    },
+    {
+        "name": "773177",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773177"
+    },
+    {
+        "name": "773178",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773178"
+    },
+    {
+        "name": "773179",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773179"
+    },
+    {
+        "name": "773180",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773180"
+    },
+    {
+        "name": "773181",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773181"
+    },
+    {
+        "name": "773182",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773182"
+    },
+    {
+        "name": "773183",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773183"
+    },
+    {
+        "name": "773184",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773184"
+    },
+    {
+        "name": "773185",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773185"
+    },
+    {
+        "name": "773186",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773186"
+    },
+    {
+        "name": "773187",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773187"
+    },
+    {
+        "name": "773188",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773188"
+    },
+    {
+        "name": "773189",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773189"
+    },
+    {
+        "name": "773190",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773190"
+    },
+    {
+        "name": "773191",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773191"
+    },
+    {
+        "name": "773192",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773192"
+    },
+    {
+        "name": "773193",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773193"
+    },
+    {
+        "name": "773194",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773194"
+    },
+    {
+        "name": "773195",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773195"
+    },
+    {
+        "name": "773196",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773196"
+    },
+    {
+        "name": "773197",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773197"
+    },
+    {
+        "name": "773198",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773198"
+    },
+    {
+        "name": "773199",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773199"
+    },
+    {
+        "name": "773200",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773200"
+    },
+    {
+        "name": "773201",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773201"
+    },
+    {
+        "name": "773202",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773202"
+    },
+    {
+        "name": "773203",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773203"
+    },
+    {
+        "name": "773204",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773204"
+    },
+    {
+        "name": "773205",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773205"
+    },
+    {
+        "name": "773206",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773206"
+    },
+    {
+        "name": "773207",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773207"
+    },
+    {
+        "name": "773208",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773208"
+    },
+    {
+        "name": "773209",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773209"
+    },
+    {
+        "name": "773210",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773210"
+    },
+    {
+        "name": "773211",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773211"
+    },
+    {
+        "name": "773212",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773212"
+    },
+    {
+        "name": "773213",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773213"
+    },
+    {
+        "name": "773214",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773214"
+    },
+    {
+        "name": "773215",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773215"
+    },
+    {
+        "name": "773216",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773216"
+    },
+    {
+        "name": "773217",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773217"
+    },
+    {
+        "name": "773218",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773218"
+    },
+    {
+        "name": "773219",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773219"
+    },
+    {
+        "name": "773220",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773220"
+    },
+    {
+        "name": "773221",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773221"
+    },
+    {
+        "name": "773222",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773222"
+    },
+    {
+        "name": "773223",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773223"
+    },
+    {
+        "name": "773224",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773224"
+    },
+    {
+        "name": "773225",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773225"
+    },
+    {
+        "name": "773226",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773226"
+    },
+    {
+        "name": "773227",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773227"
+    },
+    {
+        "name": "773228",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773228"
+    },
+    {
+        "name": "773229",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773229"
+    },
+    {
+        "name": "773230",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773230"
+    },
+    {
+        "name": "773231",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773231"
+    },
+    {
+        "name": "773232",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773232"
+    },
+    {
+        "name": "773233",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773233"
+    },
+    {
+        "name": "773234",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773234"
+    },
+    {
+        "name": "773235",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773235"
+    },
+    {
+        "name": "773236",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773236"
+    },
+    {
+        "name": "773237",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773237"
+    },
+    {
+        "name": "773238",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773238"
+    },
+    {
+        "name": "773239",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773239"
+    },
+    {
+        "name": "773240",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773240"
+    },
+    {
+        "name": "773241",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773241"
+    },
+    {
+        "name": "773242",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773242"
+    },
+    {
+        "name": "773243",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773243"
+    },
+    {
+        "name": "773244",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773244"
+    },
+    {
+        "name": "773245",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773245"
+    },
+    {
+        "name": "773246",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773246"
+    },
+    {
+        "name": "773247",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773247"
+    },
+    {
+        "name": "773248",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773248"
+    },
+    {
+        "name": "773249",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773249"
+    },
+    {
+        "name": "773250",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773250"
+    },
+    {
+        "name": "773251",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773251"
+    },
+    {
+        "name": "773252",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773252"
+    },
+    {
+        "name": "773253",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773253"
+    },
+    {
+        "name": "773254",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773254"
+    },
+    {
+        "name": "773255",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773255"
+    },
+    {
+        "name": "773256",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773256"
+    },
+    {
+        "name": "773257",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773257"
+    },
+    {
+        "name": "773258",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773258"
+    },
+    {
+        "name": "773259",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773259"
+    },
+    {
+        "name": "773260",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773260"
+    },
+    {
+        "name": "773261",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773261"
+    },
+    {
+        "name": "773262",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773262"
+    },
+    {
+        "name": "773263",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773263"
+    },
+    {
+        "name": "773264",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773264"
+    },
+    {
+        "name": "773265",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773265"
+    },
+    {
+        "name": "773266",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773266"
+    },
+    {
+        "name": "773267",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773267"
+    },
+    {
+        "name": "773268",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773268"
+    },
+    {
+        "name": "773269",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773269"
+    },
+    {
+        "name": "773270",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773270"
+    },
+    {
+        "name": "773271",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773271"
+    },
+    {
+        "name": "773272",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773272"
+    },
+    {
+        "name": "773273",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773273"
+    },
+    {
+        "name": "773274",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773274"
+    },
+    {
+        "name": "773275",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773275"
+    },
+    {
+        "name": "773276",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773276"
+    },
+    {
+        "name": "773277",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773277"
+    },
+    {
+        "name": "773278",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773278"
+    },
+    {
+        "name": "773279",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773279"
+    },
+    {
+        "name": "773280",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773280"
+    },
+    {
+        "name": "773281",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773281"
+    },
+    {
+        "name": "773282",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773282"
+    },
+    {
+        "name": "773283",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773283"
+    },
+    {
+        "name": "773284",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773284"
+    },
+    {
+        "name": "773285",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773285"
+    },
+    {
+        "name": "773286",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773286"
+    },
+    {
+        "name": "773287",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773287"
+    },
+    {
+        "name": "773288",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773288"
+    },
+    {
+        "name": "773289",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773289"
+    },
+    {
+        "name": "773290",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773290"
+    },
+    {
+        "name": "773291",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773291"
+    },
+    {
+        "name": "773292",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773292"
+    },
+    {
+        "name": "773293",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773293"
+    },
+    {
+        "name": "773294",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773294"
+    },
+    {
+        "name": "773295",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773295"
+    },
+    {
+        "name": "773296",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773296"
+    },
+    {
+        "name": "773297",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773297"
+    },
+    {
+        "name": "773298",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773298"
+    },
+    {
+        "name": "773299",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773299"
+    },
+    {
+        "name": "773300",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773300"
+    },
+    {
+        "name": "773301",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773301"
+    },
+    {
+        "name": "773302",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773302"
+    },
+    {
+        "name": "773303",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773303"
+    },
+    {
+        "name": "773304",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773304"
+    },
+    {
+        "name": "773305",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773305"
+    },
+    {
+        "name": "773306",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773306"
+    },
+    {
+        "name": "773307",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773307"
+    },
+    {
+        "name": "773308",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773308"
+    },
+    {
+        "name": "773309",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773309"
+    },
+    {
+        "name": "773310",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773310"
+    },
+    {
+        "name": "773311",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773311"
+    },
+    {
+        "name": "773312",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773312"
+    },
+    {
+        "name": "773313",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773313"
+    },
+    {
+        "name": "773314",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773314"
+    },
+    {
+        "name": "773315",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773315"
+    },
+    {
+        "name": "773316",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773316"
+    },
+    {
+        "name": "773317",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773317"
+    },
+    {
+        "name": "773318",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773318"
+    },
+    {
+        "name": "773319",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773319"
+    },
+    {
+        "name": "773320",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773320"
+    },
+    {
+        "name": "773321",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773321"
+    },
+    {
+        "name": "773322",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773322"
+    },
+    {
+        "name": "773323",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773323"
+    },
+    {
+        "name": "773324",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773324"
+    },
+    {
+        "name": "773325",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773325"
+    },
+    {
+        "name": "773326",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773326"
+    },
+    {
+        "name": "773327",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773327"
+    },
+    {
+        "name": "773328",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773328"
+    },
+    {
+        "name": "773329",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773329"
+    },
+    {
+        "name": "773330",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773330"
+    },
+    {
+        "name": "773331",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773331"
+    },
+    {
+        "name": "773332",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773332"
+    },
+    {
+        "name": "773333",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773333"
+    },
+    {
+        "name": "773334",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773334"
+    },
+    {
+        "name": "773335",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773335"
+    },
+    {
+        "name": "773336",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773336"
+    },
+    {
+        "name": "773337",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773337"
+    },
+    {
+        "name": "773338",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773338"
+    },
+    {
+        "name": "773339",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773339"
+    },
+    {
+        "name": "773340",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773340"
+    },
+    {
+        "name": "773341",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773341"
+    },
+    {
+        "name": "773342",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773342"
+    },
+    {
+        "name": "773343",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773343"
+    },
+    {
+        "name": "773344",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773344"
+    },
+    {
+        "name": "773345",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773345"
+    },
+    {
+        "name": "773346",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773346"
+    },
+    {
+        "name": "773347",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773347"
+    },
+    {
+        "name": "773348",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773348"
+    },
+    {
+        "name": "773349",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773349"
+    },
+    {
+        "name": "773350",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773350"
+    },
+    {
+        "name": "773351",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773351"
+    },
+    {
+        "name": "773352",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773352"
+    },
+    {
+        "name": "773353",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773353"
+    },
+    {
+        "name": "773354",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773354"
+    },
+    {
+        "name": "773355",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773355"
+    },
+    {
+        "name": "773356",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773356"
+    },
+    {
+        "name": "773357",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773357"
+    },
+    {
+        "name": "773358",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773358"
+    },
+    {
+        "name": "773359",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773359"
+    },
+    {
+        "name": "773360",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773360"
+    },
+    {
+        "name": "773361",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773361"
+    },
+    {
+        "name": "773362",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773362"
+    },
+    {
+        "name": "773363",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773363"
+    },
+    {
+        "name": "773364",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773364"
+    },
+    {
+        "name": "773365",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773365"
+    },
+    {
+        "name": "773366",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773366"
+    },
+    {
+        "name": "773367",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773367"
+    },
+    {
+        "name": "773368",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773368"
+    },
+    {
+        "name": "773369",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773369"
+    },
+    {
+        "name": "773370",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773370"
+    },
+    {
+        "name": "773371",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773371"
+    },
+    {
+        "name": "773372",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773372"
+    },
+    {
+        "name": "773373",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773373"
+    },
+    {
+        "name": "773374",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "773374"
+    }
+]

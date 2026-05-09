@@ -1,0 +1,251 @@
+[
+    {
+        "name": "Walnut Purchase",
+        "chest_unopened_img": "images/QuestNew.png",
+        "chest_opened_img": "images/QuestDone.png",
+        "children": [
+            {
+                "name": "Leo's Parrot",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "719204",
+                    "walnut_purchase_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Walnut_Purchase",
+                        "x": 20,
+                        "y": 40
+                    }
+                ],
+                "access_rules": [
+                    "$can_access_island"
+                ]
+            },
+            {
+                "name": "Island West Turtle",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "719205",
+                    "walnut_purchase_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Walnut_Purchase",
+                        "x": 220,
+                        "y": 40
+                    }
+                ],
+                "access_rules": [
+                    "$can_access_island"
+                ]
+            },
+            {
+                "name": "Island Farmhouse",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "719206",
+                    "walnut_purchase_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Walnut_Purchase",
+                        "x": 420,
+                        "y": 40
+                    }
+                ],
+                "access_rules": [
+                    "$can_access_island"
+                ]
+            },
+            {
+                "name": "Island Mailbox",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "719207",
+                    "walnut_purchase_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Walnut_Purchase",
+                        "x": 620,
+                        "y": 40
+                    }
+                ],
+                "access_rules": [
+                    "$can_access_island"
+                ]
+            },
+            {
+                "name": "Farm Obelisk",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "719208",
+                    "walnut_purchase_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Walnut_Purchase",
+                        "x": 20,
+                        "y": 68
+                    }
+                ],
+                "access_rules": [
+                    "$can_access_island"
+                ]
+            },
+            {
+                "name": "Dig Site Bridge",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "719209",
+                    "walnut_purchase_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Walnut_Purchase",
+                        "x": 220,
+                        "y": 68
+                    }
+                ],
+                "access_rules": [
+                    "$can_access_island"
+                ]
+            },
+            {
+                "name": "Island Trader",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "719210",
+                    "walnut_purchase_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Walnut_Purchase",
+                        "x": 420,
+                        "y": 68
+                    }
+                ],
+                "access_rules": [
+                    "$can_access_island"
+                ]
+            },
+            {
+                "name": "Volcano Bridge",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "719211",
+                    "walnut_purchase_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Walnut_Purchase",
+                        "x": 620,
+                        "y": 68
+                    }
+                ],
+                "access_rules": [
+                    "$can_access_island"
+                ]
+            },
+            {
+                "name": "Volcano Exit Shortcut",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "719212",
+                    "walnut_purchase_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Walnut_Purchase",
+                        "x": 20,
+                        "y": 96
+                    }
+                ],
+                "access_rules": [
+                    "$can_access_island"
+                ]
+            },
+            {
+                "name": "Island Resort",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "719213",
+                    "walnut_purchase_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Walnut_Purchase",
+                        "x": 220,
+                        "y": 96
+                    }
+                ],
+                "access_rules": [
+                    "$can_access_island"
+                ]
+            },
+            {
+                "name": "Parrot Express",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "719214",
+                    "walnut_purchase_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Walnut_Purchase",
+                        "x": 420,
+                        "y": 96
+                    }
+                ],
+                "access_rules": [
+                    "$can_access_island"
+                ]
+            }
+        ]
+    }
+]

@@ -5,6 +5,8 @@
 -- this is useful since remote items will not reset but local items might
 ScriptHost:LoadScript("scripts/autotracking/item_mapping.lua")
 ScriptHost:LoadScript("scripts/autotracking/location_mapping.lua")
+ScriptHost:LoadScript("scripts/autotracking/_generated_id_arrays.lua")
+ScriptHost:LoadScript("scripts/autotracking/setting_mapping.lua")
 
 CUR_INDEX = -1
 SLOT_DATA = {}
@@ -188,6 +190,24 @@ function onClear(slot_data)
 	
 	for _, books_id in ipairs(BOOKS_LOCATIONS) do
         Tracker:FindObjectForCode(tostring(books_id)).Active = ALL_LOCATIONS[books_id] or false
+    end
+
+    -- Apply slot-data-driven visibility for every generated category
+    -- (Friendsanity, Eatsanity, Craftsanity, Hatsanity, Monstersanity, Walnutsanity,
+    -- Chefsanity, Moviesanity, Endgame, Walnut Purchase, Babies, Secretsanity).
+    -- A location id is "in this seed" iff it appeared in MissingLocations or CheckedLocations.
+    if GENERATED_LOCATION_ID_ARRAYS then
+        for _, gen_id in ipairs(GENERATED_LOCATION_ID_ARRAYS) do
+            local gen_obj = Tracker:FindObjectForCode(tostring(gen_id))
+            if gen_obj then
+                gen_obj.Active = ALL_LOCATIONS[gen_id] or false
+            end
+        end
+    end
+
+    -- Convert slot_data sanity options into UI setting toggles
+    if applySettingsFromSlotData then
+        applySettingsFromSlotData(slot_data)
     end
 
     -- for _, id in pairs(ALL_LOCATIONS) do

@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Babies",
+        "chest_unopened_img": "images/QuestNew.png",
+        "chest_opened_img": "images/QuestDone.png",
+        "children": [
+            {
+                "name": "Have a Baby",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717704",
+                    "friendsanity_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Babies",
+                        "x": 20,
+                        "y": 40
+                    }
+                ]
+            },
+            {
+                "name": "Have Another Baby",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "717705",
+                    "friendsanity_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Babies",
+                        "x": 220,
+                        "y": 40
+                    }
+                ]
+            }
+        ]
+    }
+]

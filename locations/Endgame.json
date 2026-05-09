@@ -1,0 +1,788 @@
+[
+    {
+        "name": "Endgame",
+        "chest_unopened_img": "images/QuestNew.png",
+        "chest_opened_img": "images/QuestDone.png",
+        "children": [
+            {
+                "name": "Earth Obelisk Blueprint",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722101",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 20,
+                        "y": 40
+                    }
+                ]
+            },
+            {
+                "name": "Water Obelisk Blueprint",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722102",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 220,
+                        "y": 40
+                    }
+                ]
+            },
+            {
+                "name": "Desert Obelisk Blueprint",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722103",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 420,
+                        "y": 40
+                    }
+                ]
+            },
+            {
+                "name": "Island Obelisk Blueprint",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722104",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 620,
+                        "y": 40
+                    }
+                ]
+            },
+            {
+                "name": "Junimo Hut Blueprint",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722105",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 20,
+                        "y": 68
+                    }
+                ]
+            },
+            {
+                "name": "Gold Clock Blueprint",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722106",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 220,
+                        "y": 68
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Return Scepter",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722107",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 420,
+                        "y": 68
+                    }
+                ]
+            },
+            {
+                "name": "Pam House Blueprint",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722108",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 620,
+                        "y": 68
+                    }
+                ]
+            },
+            {
+                "name": "Forest To Beach Shortcut Blueprint",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722109",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 20,
+                        "y": 96
+                    }
+                ]
+            },
+            {
+                "name": "Mountain Shortcuts Blueprint",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722110",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 220,
+                        "y": 96
+                    }
+                ]
+            },
+            {
+                "name": "Town To Tide Pools Shortcut Blueprint",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722112",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 420,
+                        "y": 96
+                    }
+                ]
+            },
+            {
+                "name": "Tunnel To Backwoods Shortcut Blueprint",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722113",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 620,
+                        "y": 96
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Horse Flute",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722115",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 20,
+                        "y": 124
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Pierre's Missing Stocklist",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722116",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 220,
+                        "y": 124
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Key To The Town",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722117",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 420,
+                        "y": 124
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Mini-Shipping Bin",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722118",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 620,
+                        "y": 124
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Exotic Double Bed",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722119",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 20,
+                        "y": 152
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Golden Egg",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722120",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 220,
+                        "y": 152
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Statue Of Endless Fortune",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722121",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 420,
+                        "y": 152
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Catalogue",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722122",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 620,
+                        "y": 152
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Furniture Catalogue",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722123",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 20,
+                        "y": 180
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Joja Furniture Catalogue",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722124",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 220,
+                        "y": 180
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Junimo Catalogue",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722125",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 420,
+                        "y": 180
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Retro Catalogue",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722126",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 620,
+                        "y": 180
+                    }
+                ]
+            },
+            {
+                "name": "Find Trash Catalogue",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722127",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 20,
+                        "y": 208
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Wizard Catalogue",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722128",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 220,
+                        "y": 208
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Spouse Portrait",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722129",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 420,
+                        "y": 208
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Abigail Portrait",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722130",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 620,
+                        "y": 208
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Alex Portrait",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722131",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 20,
+                        "y": 236
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Elliott Portrait",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722132",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 220,
+                        "y": 236
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Emily Portrait",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722133",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 420,
+                        "y": 236
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Haley Portrait",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722134",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 620,
+                        "y": 236
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Harvey Portrait",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722135",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 20,
+                        "y": 264
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Krobus Portrait",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722136",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 220,
+                        "y": 264
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Leah Portrait",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722137",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 420,
+                        "y": 264
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Maru Portrait",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722138",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 620,
+                        "y": 264
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Penny Portrait",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722139",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 20,
+                        "y": 292
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Sam Portrait",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722140",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 220,
+                        "y": 292
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Sebastian Portrait",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722141",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 420,
+                        "y": 292
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Shane Portrait",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722142",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 620,
+                        "y": 292
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Tea Set",
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "722143",
+                    "endgame_on"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Endgame",
+                        "x": 20,
+                        "y": 320
+                    }
+                ]
+            }
+        ]
+    }
+]

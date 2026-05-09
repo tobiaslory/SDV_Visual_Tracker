@@ -178,21 +178,35 @@
 										}
 									},
 									{
-										"title": "Monster",
+										"title": "Friends",
 										"content":{
 											"type": "map",
-											"maps":["leer"]
+											"maps":["Friendsanity"]
+										}
+									},
+									{
+										"title": "Monsters",
+										"content":{
+											"type": "map",
+											"maps":["Monstersanity"]
 										}
 									},
 									{
 										"title": "Crafting",
 										"content":{
 											"type": "map",
-											"maps":["leer"]
+											"maps":["Craftsanity"]
 										}
 									},
 									{
-										"title": "Chef- & Cooksanity",
+										"title": "Chefsanity",
+										"content":{
+											"type": "map",
+											"maps":["Chefsanity"]
+										}
+									},
+									{
+										"title": "Cooksanity",
 										"content":{
 											"type": "map",
 											"maps":["Cooksanity"]
@@ -203,6 +217,70 @@
 										"content":{
 											"type": "map",
 											"maps":["Booksanity"]
+										}
+									},
+									{
+										"title": "Hats",
+										"content":{
+											"type": "map",
+											"maps":["Hatsanity"]
+										}
+									},
+									{
+										"title": "Eating",
+										"content":{
+											"type": "map",
+											"maps":["Eatsanity"]
+										}
+									},
+									{
+										"title": "Movies",
+										"content":{
+											"type": "map",
+											"maps":["Moviesanity"]
+										}
+									},
+									{
+										"title": "Walnuts",
+										"content":{
+											"type": "tabbed",
+											"tabs":[
+												{
+													"title": "Walnutsanity",
+													"content":{
+														"type": "map",
+														"maps":["Walnutsanity"]
+													}
+												},
+												{
+													"title": "Walnut Purchases",
+													"content":{
+														"type": "map",
+														"maps":["Walnut_Purchase"]
+													}
+												}
+											]
+										}
+									},
+									{
+										"title": "Secrets",
+										"content":{
+											"type": "map",
+											"maps":["Secretsanity"]
+										}
+									},
+									{
+										"title": "Babies",
+										"content":{
+											"type": "map",
+											"maps":["Babies"]
+										}
+									},
+									{
+										"title": "Endgame",
+										"content":{
+											"type": "map",
+											"maps":["Endgame"]
 										}
 									}
 								]

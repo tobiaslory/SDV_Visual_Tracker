@@ -1,0 +1,4379 @@
+[
+    {
+        "name": "Craftsanity",
+        "chest_unopened_img": "images/QuestNew.png",
+        "chest_opened_img": "images/QuestDone.png",
+        "children": [
+            {
+                "name": "Craft",
+                "children": [
+                    {
+                        "name": "Craft Cherry Bomb",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720401",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 40
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Bomb",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720402",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 40
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Mega Bomb",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720403",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 40
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Gate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720404",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 40
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Wood Fence",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720405",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 68
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Stone Fence",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720406",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 68
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Iron Fence",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720407",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 68
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Hardwood Fence",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720408",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 68
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Sprinkler",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720409",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 96
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Quality Sprinkler",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720410",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 96
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Iridium Sprinkler",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720411",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 96
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Bee House",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720412",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 96
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Cask",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720413",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 124
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Cheese Press",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720414",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 124
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Keg",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720415",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 124
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Loom",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720416",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 124
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Mayonnaise Machine",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720417",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 152
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Oil Maker",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720418",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 152
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Preserves Jar",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720419",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 152
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Basic Fertilizer",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720420",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 152
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Quality Fertilizer",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720421",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 180
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Deluxe Fertilizer",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720422",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 180
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Speed-Gro",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720423",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 180
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Deluxe Speed-Gro",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720424",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 180
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Hyper Speed-Gro",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720425",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 208
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Basic Retaining Soil",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720426",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 208
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Quality Retaining Soil",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720427",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 208
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Deluxe Retaining Soil",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720428",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 208
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Tree Fertilizer",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720429",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 236
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Spring Seeds",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720430",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 236
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Summer Seeds",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720431",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 236
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Fall Seeds",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720432",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 236
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Winter Seeds",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720433",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 264
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Ancient Seeds",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720434",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 264
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Grass Starter",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720435",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 264
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Tea Sapling",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720436",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 264
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Fiber Seeds",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720437",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 292
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Wood Floor",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720438",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 292
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Rustic Plank Floor",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720439",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 292
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Straw Floor",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720440",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 292
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Weathered Floor",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720441",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 320
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Crystal Floor",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720442",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 320
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Stone Floor",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720443",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 320
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Stone Walkway Floor",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720444",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 320
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Brick Floor",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720445",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 348
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Wood Path",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720446",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 348
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Gravel Path",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720447",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 348
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Cobblestone Path",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720448",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 348
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Stepping Stone Path",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720449",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 376
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Crystal Path",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720450",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 376
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Spinner",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720451",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 376
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Trap Bobber",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720452",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 376
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Cork Bobber",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720453",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 404
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Quality Bobber",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720454",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 404
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Treasure Hunter",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720455",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 404
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Dressed Spinner",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720456",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 404
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Barbed Hook",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720457",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 432
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Magnet",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720458",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 432
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Bait",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720459",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 432
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Wild Bait",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720460",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 432
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Magic Bait",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720461",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 460
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Crab Pot",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720462",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 460
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Sturdy Ring",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720463",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 460
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Warrior Ring",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720464",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 460
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Ring of Yoba",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720465",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 488
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Thorns Ring",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720466",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 488
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Glowstone Ring",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720467",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 488
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Iridium Band",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720468",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 488
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Wedding Ring",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720469",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 516
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Field Snack",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720470",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 516
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Bug Steak",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720471",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 516
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Life Elixir",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720472",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 516
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Oil of Garlic",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720473",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 544
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Monster Musk",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720474",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 544
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Fairy Dust",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720475",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 544
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Warp Totem: Beach",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720476",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 544
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Warp Totem: Mountains",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720477",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 572
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Warp Totem: Farm",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720478",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 572
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Warp Totem: Desert",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720479",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 572
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Warp Totem: Island",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720480",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 572
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Rain Totem",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720481",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 600
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Torch",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720482",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 600
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Campfire",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720483",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 600
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Wooden Brazier",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720484",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 600
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Stone Brazier",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720485",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 628
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Gold Brazier",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720486",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 628
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Carved Brazier",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720487",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 628
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Stump Brazier",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720488",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 628
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Barrel Brazier",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720489",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 656
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Skull Brazier",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720490",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 656
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Marble Brazier",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720491",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 656
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Wood Lamp-post",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720492",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 656
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Iron Lamp-post",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720493",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 684
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Jack-O-Lantern",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720494",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 684
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Bone Mill",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720495",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 684
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Charcoal Kiln",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720496",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 684
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Crystalarium",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720497",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 712
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Furnace",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720498",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 712
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Geode Crusher",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720499",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 712
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Heavy Tapper",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720500",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 712
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Lightning Rod",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720501",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 740
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Ostrich Incubator",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720502",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 740
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Recycling Machine",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720503",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 740
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Seed Maker",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720504",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 740
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Slime Egg-Press",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720505",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 768
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Slime Incubator",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720506",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 768
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Solar Panel",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720507",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 768
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Tapper",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720508",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 768
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Worm Bin",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720509",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 796
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Tub o' Flowers",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720510",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 796
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Wicked Statue",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720511",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 796
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Flute Block",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720512",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 796
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Drum Block",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720513",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 824
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Chest",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720514",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 824
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Stone Chest",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720515",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 824
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Wood Sign",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720516",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 824
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Stone Sign",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720517",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 852
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Dark Sign",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720518",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 852
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Garden Pot",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720519",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 852
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Scarecrow",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720520",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 852
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Deluxe Scarecrow",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720521",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 880
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Staircase",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720522",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 880
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Explosive Ammo",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720523",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 880
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Transmute (Fe)",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720524",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 880
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Transmute (Au)",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720525",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 908
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Mini-Jukebox",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720526",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 908
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Mini-Obelisk",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720527",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 908
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Farm Computer",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720528",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 908
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Hopper",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720529",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 936
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Cookout Kit",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720530",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 936
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Fish Smoker",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720531",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 936
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Dehydrator",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720532",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 936
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Blue Grass Starter",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720533",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 964
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Mystic Tree Seed",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720534",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 964
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Sonar Bobber",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720535",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 964
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Challenge Bait",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720536",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 964
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Treasure Totem",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720537",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 992
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Heavy Furnace",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720538",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 992
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Deluxe Worm Bin",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720539",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 992
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Mushroom Log",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720540",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 992
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Big Chest",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720541",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 1020
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Big Stone Chest",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720542",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 1020
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Text Sign",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720543",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 1020
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Tent Kit",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720544",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 1020
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Statue Of The Dwarf King",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720545",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 1048
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Statue Of Blessings",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720546",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 1048
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Anvil",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720547",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 1048
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Mini-Forge",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720548",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 1048
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Deluxe Bait",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720549",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 1076
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Bait Maker",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720550",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 1076
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Travel Core",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774402",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 1076
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Haste Elixir",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774403",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 1076
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Hero Elixir",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774404",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 1104
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Armor Elixir",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774405",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 1104
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Ginger Tincture",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774406",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 1104
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Glass Path",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774407",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 1104
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Glass Brazier",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774408",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 1132
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Glass Fence",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774409",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 1132
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Bone Path",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774410",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 1132
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Water Sifter",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774411",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 1132
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Wooden Display",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774412",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 1160
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Hardwood Display",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774413",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 1160
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Dwarf Gadget: Infinite Volcano Simulation",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774414",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 1160
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Grinder",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774415",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 1160
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Preservation Chamber",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774416",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 1188
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Hardwood Preservation Chamber",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774417",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 1188
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Ancient Battery Production Station",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774418",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 1188
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Neanderthal Skeleton",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774419",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 1188
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Pterodactyl Skeleton L",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774420",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 1216
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Pterodactyl Skeleton M",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774421",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 1216
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Pterodactyl Skeleton R",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774422",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 1216
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft T-Rex Skeleton L",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774423",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 1216
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft T-Rex Skeleton M",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774424",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 1244
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft T-Rex Skeleton R",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774425",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 1244
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Restoration Table",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774426",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 1244
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Rusty Path",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774427",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 1244
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Rusty Brazier",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774428",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 1272
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Lucky Ring",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774429",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 1272
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Bone Fence",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774430",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 1272
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Bouquet",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774431",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 1272
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Trash Bin",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774432",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 1300
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Composter",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774433",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 1300
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Recycling Bin",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774434",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 1300
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Advanced Recycling Machine",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774435",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 1300
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Copper Slot Machine",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774440",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 1328
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Gold Slot Machine",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774441",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 1328
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Iridium Slot Machine",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774442",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 1328
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Craft Radioactive Slot Machine",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774443",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 1328
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Recipe",
+                "children": [
+                    {
+                        "name": "Grass Starter Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720551",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 1392
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Wood Floor Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720552",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 1392
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Rustic Plank Floor Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720553",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 1392
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Straw Floor Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720554",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 1392
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Weathered Floor Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720555",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 1420
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Crystal Floor Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720556",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 1420
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Stone Floor Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720557",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 1420
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Stone Walkway Floor Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720558",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 1420
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Brick Floor Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720559",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 1448
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Stepping Stone Path Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720560",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 1448
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Crystal Path Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720561",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 1448
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Wedding Ring Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720562",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 1448
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Warp Totem: Island Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720563",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 1476
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Wooden Brazier Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720564",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 1476
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Stone Brazier Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720565",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 1476
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Gold Brazier Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720566",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 1476
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Carved Brazier Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720567",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 1504
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Stump Brazier Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720568",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 1504
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Barrel Brazier Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720569",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 1504
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Skull Brazier Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720570",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 1504
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Marble Brazier Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720571",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 1532
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Wood Lamp-post Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720572",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 1532
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Iron Lamp-post Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720573",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 1532
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Wicked Statue Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720574",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 1532
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Warp Totem: Desert Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720575",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 1560
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_desert"
+                        ]
+                    },
+                    {
+                        "name": "Deluxe Retaining Soil Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720576",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 1560
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Fish Smoker Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720577",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 1560
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dehydrator Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720578",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 1560
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Big Chest Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720579",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 1588
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Big Stone Chest Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720580",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 1588
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Travel Core Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774452",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 1588
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Haste Elixir Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774453",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 1588
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Hero Elixir Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774454",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 1616
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Armor Elixir Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774455",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 1616
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Neanderthal Skeleton Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774616",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 1616
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pterodactyl Skeleton L Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774617",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 1616
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pterodactyl Skeleton M Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774618",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 1644
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pterodactyl Skeleton R Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774619",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 220,
+                                "y": 1644
+                            }
+                        ]
+                    },
+                    {
+                        "name": "T-Rex Skeleton L Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774620",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 420,
+                                "y": 1644
+                            }
+                        ]
+                    },
+                    {
+                        "name": "T-Rex Skeleton M Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774621",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 620,
+                                "y": 1644
+                            }
+                        ]
+                    },
+                    {
+                        "name": "T-Rex Skeleton R Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774622",
+                            "craftsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craftsanity",
+                                "x": 20,
+                                "y": 1672
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

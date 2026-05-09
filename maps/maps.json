@@ -1,111 +1,182 @@
 [
-    {
-      "name": "Stardew Valley",
-      "location_size": 10,
-      "location_border_thickness": 3,
-      "img": "images/MapWorld.png"
-    },
-    {
-      "name": "Skills And Masteries",
-      "location_size": 10,
-      "location_border_thickness": 3,
-      "img": "images/Skills.png"
-    },
-    {
-      "name": "Community Center",
-      "location_size": 30,
-      "location_border_thickness": 3,
-      "img": "images/MapCC.png"
-    },
-    {
-      "name": "Quests",
-      "location_size": 30,
-      "location_border_thickness": 3,
-      "img": "images/Quests.png"
-    },
-    {
-      "name": "Help Wanted!",
-      "location_size": 10,
-      "location_border_thickness": 3,
-      "img": "images/HelpWanted.png"
-    },
-    {
-      "name": "Crops and Foraged Items",
-      "location_size": 10,
-      "location_border_thickness": 3,
-      "img": "images/Croplist.png"
-    },
-    {
-      "name": "Fishes",
-      "location_size": 10,
-      "location_border_thickness": 3,
-      "img": "images/Fishsanity.png"
-    },
-    {
-      "name": "Boards",
-      "location_size": 10,
-      "location_border_thickness": 3,
-      "img": "images/Boards.png"
-    },
-    {
-      "name": "Museum_Donations",
-      "location_size": 10,
-      "location_border_thickness": 3,
-      "img": "images/Museum_Donations.png"
-    },
-	    {
-      "name": "Museum_Milestones",
-      "location_size": 10,
-      "location_border_thickness": 3,
-      "img": "images/Museum_Milestones.png"
-    },
-    {
-      "name": "leer",
-      "location_size": 10,
-      "location_border_thickness": 3,
-      "img": "images/blank.png"
-    },
-	{
-      "name": "Town Festivals",
-      "location_size": 10,
-      "location_border_thickness": 3,
-      "img": "images/Town_Festivals.png"
-    },
-	{
-      "name": "Night Market",
-      "location_size": 10,
-      "location_border_thickness": 3,
-      "img": "images/Night_Market.png"
-    },
-	{
-      "name": "Desert Festival",
-      "location_size": 10,
-      "location_border_thickness": 3,
-      "img": "images/Desert_Festival.png"
-    },
-	{
-      "name": "Fishing Festivals",
-      "location_size": 10,
-      "location_border_thickness": 3,
-      "img": "images/Fishing_Festivals.png"
-    },
-	{
-      "name": "Arcades",
-      "location_size": 10,
-      "location_border_thickness": 3,
-      "img": "images/Arcades.png"
-    },
-		{
-      "name": "Booksanity",
-      "location_size": 10,
-      "location_border_thickness": 3,
-      "img": "images/Booksanity.png"
-    },
-	{
-      "name": "Cooksanity",
-      "location_size": 10,
-      "location_border_thickness": 3,
-      "img": "images/Cooksanity.png"
-    }
-
-  ]
+  {
+    "name": "Stardew Valley",
+    "location_size": 10,
+    "location_border_thickness": 3,
+    "img": "images/MapWorld.png"
+  },
+  {
+    "name": "Skills And Masteries",
+    "location_size": 10,
+    "location_border_thickness": 3,
+    "img": "images/Skills.png"
+  },
+  {
+    "name": "Community Center",
+    "location_size": 30,
+    "location_border_thickness": 3,
+    "img": "images/MapCC.png"
+  },
+  {
+    "name": "Quests",
+    "location_size": 30,
+    "location_border_thickness": 3,
+    "img": "images/Quests.png"
+  },
+  {
+    "name": "Help Wanted!",
+    "location_size": 10,
+    "location_border_thickness": 3,
+    "img": "images/HelpWanted.png"
+  },
+  {
+    "name": "Crops and Foraged Items",
+    "location_size": 10,
+    "location_border_thickness": 3,
+    "img": "images/Croplist.png"
+  },
+  {
+    "name": "Fishes",
+    "location_size": 10,
+    "location_border_thickness": 3,
+    "img": "images/Fishsanity.png"
+  },
+  {
+    "name": "Boards",
+    "location_size": 10,
+    "location_border_thickness": 3,
+    "img": "images/Boards.png"
+  },
+  {
+    "name": "Museum_Donations",
+    "location_size": 10,
+    "location_border_thickness": 3,
+    "img": "images/Museum_Donations.png"
+  },
+  {
+    "name": "Museum_Milestones",
+    "location_size": 10,
+    "location_border_thickness": 3,
+    "img": "images/Museum_Milestones.png"
+  },
+  {
+    "name": "leer",
+    "location_size": 10,
+    "location_border_thickness": 3,
+    "img": "images/blank.png"
+  },
+  {
+    "name": "Town Festivals",
+    "location_size": 10,
+    "location_border_thickness": 3,
+    "img": "images/Town_Festivals.png"
+  },
+  {
+    "name": "Night Market",
+    "location_size": 10,
+    "location_border_thickness": 3,
+    "img": "images/Night_Market.png"
+  },
+  {
+    "name": "Desert Festival",
+    "location_size": 10,
+    "location_border_thickness": 3,
+    "img": "images/Desert_Festival.png"
+  },
+  {
+    "name": "Fishing Festivals",
+    "location_size": 10,
+    "location_border_thickness": 3,
+    "img": "images/Fishing_Festivals.png"
+  },
+  {
+    "name": "Arcades",
+    "location_size": 10,
+    "location_border_thickness": 3,
+    "img": "images/Arcades.png"
+  },
+  {
+    "name": "Booksanity",
+    "location_size": 10,
+    "location_border_thickness": 3,
+    "img": "images/Booksanity.png"
+  },
+  {
+    "name": "Cooksanity",
+    "location_size": 10,
+    "location_border_thickness": 3,
+    "img": "images/Cooksanity.png"
+  },
+  {
+    "name": "Friendsanity",
+    "location_size": 10,
+    "location_border_thickness": 2,
+    "img": "images/Friendsanity_map.png"
+  },
+  {
+    "name": "Eatsanity",
+    "location_size": 10,
+    "location_border_thickness": 2,
+    "img": "images/Eatsanity_map.png"
+  },
+  {
+    "name": "Craftsanity",
+    "location_size": 10,
+    "location_border_thickness": 2,
+    "img": "images/Craftsanity_map.png"
+  },
+  {
+    "name": "Hatsanity",
+    "location_size": 10,
+    "location_border_thickness": 2,
+    "img": "images/Hatsanity_map.png"
+  },
+  {
+    "name": "Monstersanity",
+    "location_size": 10,
+    "location_border_thickness": 2,
+    "img": "images/Monstersanity_map.png"
+  },
+  {
+    "name": "Walnutsanity",
+    "location_size": 10,
+    "location_border_thickness": 2,
+    "img": "images/Walnutsanity_map.png"
+  },
+  {
+    "name": "Walnut_Purchase",
+    "location_size": 10,
+    "location_border_thickness": 2,
+    "img": "images/Walnut_Purchase_map.png"
+  },
+  {
+    "name": "Chefsanity",
+    "location_size": 10,
+    "location_border_thickness": 2,
+    "img": "images/Chefsanity_map.png"
+  },
+  {
+    "name": "Moviesanity",
+    "location_size": 10,
+    "location_border_thickness": 2,
+    "img": "images/Moviesanity_map.png"
+  },
+  {
+    "name": "Endgame",
+    "location_size": 10,
+    "location_border_thickness": 2,
+    "img": "images/Endgame_map.png"
+  },
+  {
+    "name": "Babies",
+    "location_size": 10,
+    "location_border_thickness": 2,
+    "img": "images/Babies_map.png"
+  },
+  {
+    "name": "Secretsanity",
+    "location_size": 10,
+    "location_border_thickness": 2,
+    "img": "images/Secretsanity_map.png"
+  }
+]

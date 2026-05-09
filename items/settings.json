@@ -1,5 +1,5 @@
 [
-   {
+    {
         "name": "Island Tracking",
         "type": "progressive",
         "loop": true,
@@ -18,8 +18,8 @@
                 "codes": "island_tracking, island_tracking_on"
             }
         ]
-     },
-	 {
+    },
+    {
         "name": "Cropsanity",
         "type": "progressive",
         "loop": true,
@@ -38,15 +38,15 @@
                 "codes": "cropsanity, cropsanity_on"
             }
         ]
-     },
-     {
+    },
+    {
         "name": "Skill Shuffle",
         "type": "progressive",
         "loop": true,
         "capturable": false,
         "allow_disabled": false,
         "initial_stage_idx": 0,
-        "stages":[
+        "stages": [
             {
                 "img": "images/settings/skills.jpg",
                 "inherit_codes": false,
@@ -58,8 +58,8 @@
                 "codes": "sshuffle, sshuffle_mastery"
             }
         ]
-     },
-	 {
+    },
+    {
         "name": "Cooksanity",
         "type": "progressive",
         "loop": true,
@@ -72,7 +72,7 @@
                 "inherit_codes": false,
                 "codes": "cooksanity"
             },
-			{
+            {
                 "img": "images/settings/Off.png",
                 "inherit_codes": false,
                 "codes": "cooksanity, cooksanity_off"
@@ -83,8 +83,8 @@
                 "codes": "cooksanity, cooksanity_on"
             }
         ]
-     },
-	 {
+    },
+    {
         "name": "Chefsanity",
         "type": "progressive",
         "loop": true,
@@ -97,7 +97,7 @@
                 "inherit_codes": false,
                 "codes": "chefsanity"
             },
-			{
+            {
                 "img": "images/settings/Off.png",
                 "inherit_codes": false,
                 "codes": "chefsanity, chefsanity_off"
@@ -108,8 +108,8 @@
                 "codes": "chefsanity, chefsanity_on"
             }
         ]
-     },
-	 {
+    },
+    {
         "name": "Special Orders",
         "type": "progressive",
         "loop": true,
@@ -117,7 +117,7 @@
         "allow_disabled": false,
         "initial_stage_idx": 0,
         "stages": [
-			{
+            {
                 "img": "images/settings/Autotracking.png",
                 "inherit_codes": false,
                 "codes": "board"
@@ -132,22 +132,22 @@
                 "inherit_codes": false,
                 "codes": "board_on"
             },
-			{
+            {
                 "img": "images/settings/BoardQi.png",
                 "inherit_codes": false,
                 "codes": "board_qi"
             }
         ]
-     },
-     {
+    },
+    {
         "name": "Help Wanted Quests",
         "type": "consumable",
         "allow_disabled": true,
         "max_quantity": 56,
         "img": "images/settings/HelpWanted.jpg",
         "codes": "settings,quests"
-     },
-	 {
+    },
+    {
         "name": "Shipsanity",
         "type": "progressive",
         "loop": true,
@@ -165,29 +165,29 @@
                 "inherit_codes": false,
                 "codes": "shipsanity, shipsanity_crops"
             },
-			{
+            {
                 "img": "images/settings/Fish.png",
                 "inherit_codes": false,
                 "codes": "shipsanity, shipsanity_fish"
             },
-			{
+            {
                 "img": "images/settings/Full.png",
                 "inherit_codes": false,
                 "codes": "shipsanity, shipsanity_full"
             },
-			{
+            {
                 "img": "images/settings/FullwF.png",
                 "inherit_codes": false,
                 "codes": "shipsanity, shipsanity_fullwf"
             },
-			{
+            {
                 "img": "images/settings/Everything.png",
                 "inherit_codes": false,
                 "codes": "shipsanity, shipsanity_all"
-            },
+            }
         ]
-     },
-	 {
+    },
+    {
         "name": "Museumsanity",
         "type": "progressive",
         "loop": true,
@@ -211,8 +211,8 @@
                 "codes": "museumsanity, museum_milestone"
             }
         ]
-     },
-	 {
+    },
+    {
         "name": " Fishsanity",
         "type": "progressive",
         "loop": true,
@@ -231,7 +231,125 @@
                 "codes": "fishsanity, fishsanity_on"
             }
         ]
-     },
-
-     
+    },
+    {
+        "name": "Friendsanity",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "img": "images/settings/On.png",
+        "codes": "friendsanity_on"
+    },
+    {
+        "name": "Eatsanity",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "img": "images/settings/On.png",
+        "codes": "eatsanity_on"
+    },
+    {
+        "name": "Craftsanity",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "img": "images/settings/On.png",
+        "codes": "craftsanity_on"
+    },
+    {
+        "name": "Hatsanity",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "img": "images/settings/On.png",
+        "codes": "hatsanity_on"
+    },
+    {
+        "name": "Monstersanity",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "img": "images/settings/On.png",
+        "codes": "monstersanity_on"
+    },
+    {
+        "name": "Walnutsanity",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "img": "images/settings/On.png",
+        "codes": "walnutsanity_on"
+    },
+    {
+        "name": "Walnut Purchase",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "img": "images/settings/On.png",
+        "codes": "walnut_purchase_on"
+    },
+    {
+        "name": "Moviesanity",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "img": "images/settings/On.png",
+        "codes": "moviesanity_on"
+    },
+    {
+        "name": "Secretsanity",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "img": "images/settings/On.png",
+        "codes": "secretsanity_on"
+    },
+    {
+        "name": "Endgame Locations",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "img": "images/settings/On.png",
+        "codes": "endgame_on"
+    },
+    {
+        "name": "Booksanity (visibility)",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "img": "images/settings/On.png",
+        "codes": "booksanity_on"
+    },
+    {
+        "name": "Shipsanity (visibility)",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "img": "images/settings/On.png",
+        "codes": "shipsanity_on"
+    },
+    {
+        "name": "Festival Locations",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "img": "images/settings/On.png",
+        "codes": "festival_on"
+    },
+    {
+        "name": "Festival Hard",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "img": "images/settings/On.png",
+        "codes": "festival_hard"
+    },
+    {
+        "name": "Ginger Island",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "img": "images/settings/On.png",
+        "codes": "ginger_island_on"
+    }
 ]

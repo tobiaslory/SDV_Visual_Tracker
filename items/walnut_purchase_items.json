@@ -1,0 +1,79 @@
+[
+    {
+        "name": "719204",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "719204"
+    },
+    {
+        "name": "719205",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "719205"
+    },
+    {
+        "name": "719206",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "719206"
+    },
+    {
+        "name": "719207",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "719207"
+    },
+    {
+        "name": "719208",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "719208"
+    },
+    {
+        "name": "719209",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "719209"
+    },
+    {
+        "name": "719210",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "719210"
+    },
+    {
+        "name": "719211",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "719211"
+    },
+    {
+        "name": "719212",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "719212"
+    },
+    {
+        "name": "719213",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "719213"
+    },
+    {
+        "name": "719214",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "719214"
+    }
+]

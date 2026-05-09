@@ -1,0 +1,1913 @@
+[
+    {
+        "name": "Chefsanity",
+        "chest_unopened_img": "images/QuestNew.png",
+        "chest_opened_img": "images/QuestDone.png",
+        "children": [
+            {
+                "name": "Queen of Sauce",
+                "children": [
+                    {
+                        "name": "Artichoke Dip Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720302",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 20,
+                                "y": 40
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Baked Fish Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720304",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 220,
+                                "y": 40
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Blackberry Cobbler Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720307",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 420,
+                                "y": 40
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bread Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720309",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 620,
+                                "y": 40
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bruschetta Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720310",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 20,
+                                "y": 68
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Carp Surprise Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720311",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 220,
+                                "y": 68
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chocolate Cake Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720313",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 420,
+                                "y": 68
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Coleslaw Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720315",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 620,
+                                "y": 68
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Complete Breakfast Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720316",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 20,
+                                "y": 96
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Crab Cakes Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720318",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 220,
+                                "y": 96
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cranberry Candy Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720319",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 420,
+                                "y": 96
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fiddlehead Risotto Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720326",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 620,
+                                "y": 96
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fruit Salad Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720333",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 20,
+                                "y": 124
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Glazed Yams Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720335",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 220,
+                                "y": 124
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Hashbrowns Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720336",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 420,
+                                "y": 124
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Lobster Bisque Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720338",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 620,
+                                "y": 124
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Lucky Lunch Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720339",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 20,
+                                "y": 152
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Maki Roll Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720340",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 220,
+                                "y": 152
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Maple Bar Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720342",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 420,
+                                "y": 152
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Omelet Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720344",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 620,
+                                "y": 152
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pancakes Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720346",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 20,
+                                "y": 180
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pink Cake Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720349",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 220,
+                                "y": 180
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pizza Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720350",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 420,
+                                "y": 180
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Plum Pudding Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720351",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 620,
+                                "y": 180
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Poppyseed Muffin Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720353",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 20,
+                                "y": 208
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pumpkin Pie Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720354",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 220,
+                                "y": 208
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Radish Salad Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720356",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 420,
+                                "y": 208
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Roasted Hazelnuts Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720360",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 620,
+                                "y": 208
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shrimp Cocktail Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720366",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 20,
+                                "y": 236
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Stir Fry Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720370",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 220,
+                                "y": 236
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tortilla Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720376",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 420,
+                                "y": 236
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Trout Soup Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720379",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 620,
+                                "y": 236
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Friendship",
+                "children": [
+                    {
+                        "name": "Algae Soup Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720301",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 20,
+                                "y": 300
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Autumn's Bounty Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720303",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 220,
+                                "y": 300
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bean Hotpot Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720306",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 420,
+                                "y": 300
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Blueberry Tart Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720308",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 620,
+                                "y": 300
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cheese Cauliflower Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720312",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 20,
+                                "y": 328
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chowder Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720314",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 220,
+                                "y": 328
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cookies Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720317",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 420,
+                                "y": 328
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cranberry Sauce Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720320",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 620,
+                                "y": 328
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Crispy Bass Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720321",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 20,
+                                "y": 356
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Eggplant Parmesan Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720323",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 220,
+                                "y": 356
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Escargot Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720324",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 420,
+                                "y": 356
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fish Stew Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720327",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 620,
+                                "y": 356
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fish Taco Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720328",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 20,
+                                "y": 384
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fried Calamari Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720329",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 220,
+                                "y": 384
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fried Eel Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720330",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 420,
+                                "y": 384
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fried Mushroom Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720332",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 620,
+                                "y": 384
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ice Cream Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720337",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 20,
+                                "y": 412
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mango Sticky Rice Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720341",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 220,
+                                "y": 412
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pale Broth Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720345",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 420,
+                                "y": 412
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Parsnip Soup Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720347",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 620,
+                                "y": 412
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pepper Poppers Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720348",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 20,
+                                "y": 440
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Poi Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720352",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 220,
+                                "y": 440
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pumpkin Soup Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720355",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 420,
+                                "y": 440
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Red Plate Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720357",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 620,
+                                "y": 440
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Rhubarb Pie Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720358",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 20,
+                                "y": 468
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Rice Pudding Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720359",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 220,
+                                "y": 468
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Salad Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720362",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 420,
+                                "y": 468
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Salmon Dinner Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720363",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 620,
+                                "y": 468
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sashimi Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720364",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 20,
+                                "y": 496
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Spaghetti Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720367",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 220,
+                                "y": 496
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Spicy Eel Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720368",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 420,
+                                "y": 496
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Strange Bun Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720371",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 620,
+                                "y": 496
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Stuffing Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720372",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 20,
+                                "y": 524
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Super Meal Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720373",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 220,
+                                "y": 524
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tom Kha Soup Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720375",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 420,
+                                "y": 524
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Vegetable Medley Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720380",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 620,
+                                "y": 524
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Big Bark Burger Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774603",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 20,
+                                "y": 552
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Glazed Butterfish Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774605",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 220,
+                                "y": 552
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mushroom Berry Rice Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774607",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 420,
+                                "y": 552
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Void Delight Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774609",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 620,
+                                "y": 552
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mushroom Kebab Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774611",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 20,
+                                "y": 580
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pemmican Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774613",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 220,
+                                "y": 580
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Void Mint Tea Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774614",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 420,
+                                "y": 580
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Purchase",
+                "children": [
+                    {
+                        "name": "Banana Pudding Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720305",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 20,
+                                "y": 644
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ginger Ale Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720334",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 220,
+                                "y": 644
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Triple Shot Espresso Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720377",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 420,
+                                "y": 644
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tropical Curry Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720378",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 620,
+                                "y": 644
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Magic Elixir Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774451",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 20,
+                                "y": 672
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Baked Berry Oatmeal Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774601",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 220,
+                                "y": 672
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Flower Cookie Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774602",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 420,
+                                "y": 672
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Frog Legs Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774604",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 620,
+                                "y": 672
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mixed Berry Pie Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774606",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 20,
+                                "y": 700
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Seaweed Salad Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774608",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 220,
+                                "y": 700
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Void Salmon Sushi Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774610",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 420,
+                                "y": 700
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Skill",
+                "children": [
+                    {
+                        "name": "Dish O' The Sea Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720322",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 20,
+                                "y": 764
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Farmer's Lunch Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720325",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 220,
+                                "y": 764
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Miner's Treat Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720343",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 420,
+                                "y": 764
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Roots Platter Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720361",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 620,
+                                "y": 764
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Seafoam Pudding Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720365",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 20,
+                                "y": 792
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Squid Ink Ravioli Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720369",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 220,
+                                "y": 792
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Survival Burger Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720374",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 420,
+                                "y": 792
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Moss Soup Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720381",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 620,
+                                "y": 792
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Digger's Delight Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774623",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 20,
+                                "y": 820
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Rocky Root Coffee Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774624",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 220,
+                                "y": 820
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ancient Jello Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774625",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 420,
+                                "y": 820
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Grilled Cheese Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774627",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 620,
+                                "y": 820
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fish Casserole Recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "774628",
+                            "chefsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Chefsanity",
+                                "x": 20,
+                                "y": 848
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

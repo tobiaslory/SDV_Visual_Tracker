@@ -1,0 +1,1677 @@
+[
+    {
+        "name": "Monstersanity",
+        "chest_unopened_img": "images/QuestNew.png",
+        "chest_opened_img": "images/QuestDone.png",
+        "children": [
+            {
+                "name": "Goals",
+                "children": [
+                    {
+                        "name": "Slimes",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720001",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 20,
+                                "y": 40
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Void Spirits",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720002",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 220,
+                                "y": 40
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bats",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720003",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 420,
+                                "y": 40
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Skeletons",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720004",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 620,
+                                "y": 40
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cave Insects",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720005",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 20,
+                                "y": 68
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Duggies",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720006",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 220,
+                                "y": 68
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dust Sprites",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720007",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 420,
+                                "y": 68
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Rock Crabs",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720008",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 620,
+                                "y": 68
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mummies",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720009",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 20,
+                                "y": 96
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pepper Rex",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720010",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 220,
+                                "y": 96
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Serpents",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720011",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 420,
+                                "y": 96
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Magma Sprites",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720012",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 620,
+                                "y": 96
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Progressive Goals",
+                "children": [
+                    {
+                        "name": "200 Slimes",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720020",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 20,
+                                "y": 160
+                            }
+                        ]
+                    },
+                    {
+                        "name": "400 Slimes",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720021",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 220,
+                                "y": 160
+                            }
+                        ]
+                    },
+                    {
+                        "name": "600 Slimes",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720022",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 420,
+                                "y": 160
+                            }
+                        ]
+                    },
+                    {
+                        "name": "800 Slimes",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720023",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 620,
+                                "y": 160
+                            }
+                        ]
+                    },
+                    {
+                        "name": "30 Void Spirits",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720024",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 20,
+                                "y": 188
+                            }
+                        ]
+                    },
+                    {
+                        "name": "60 Void Spirits",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720025",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 220,
+                                "y": 188
+                            }
+                        ]
+                    },
+                    {
+                        "name": "90 Void Spirits",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720026",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 420,
+                                "y": 188
+                            }
+                        ]
+                    },
+                    {
+                        "name": "120 Void Spirits",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720027",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 620,
+                                "y": 188
+                            }
+                        ]
+                    },
+                    {
+                        "name": "40 Bats",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720028",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 20,
+                                "y": 216
+                            }
+                        ]
+                    },
+                    {
+                        "name": "80 Bats",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720029",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 220,
+                                "y": 216
+                            }
+                        ]
+                    },
+                    {
+                        "name": "120 Bats",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720030",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 420,
+                                "y": 216
+                            }
+                        ]
+                    },
+                    {
+                        "name": "160 Bats",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720031",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 620,
+                                "y": 216
+                            }
+                        ]
+                    },
+                    {
+                        "name": "10 Skeletons",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720032",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 20,
+                                "y": 244
+                            }
+                        ]
+                    },
+                    {
+                        "name": "20 Skeletons",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720033",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 220,
+                                "y": 244
+                            }
+                        ]
+                    },
+                    {
+                        "name": "30 Skeletons",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720034",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 420,
+                                "y": 244
+                            }
+                        ]
+                    },
+                    {
+                        "name": "40 Skeletons",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720035",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 620,
+                                "y": 244
+                            }
+                        ]
+                    },
+                    {
+                        "name": "16 Cave Insects",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720036",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 20,
+                                "y": 272
+                            }
+                        ]
+                    },
+                    {
+                        "name": "32 Cave Insects",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720037",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 220,
+                                "y": 272
+                            }
+                        ]
+                    },
+                    {
+                        "name": "48 Cave Insects",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720038",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 420,
+                                "y": 272
+                            }
+                        ]
+                    },
+                    {
+                        "name": "64 Cave Insects",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720039",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 620,
+                                "y": 272
+                            }
+                        ]
+                    },
+                    {
+                        "name": "6 Duggies",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720040",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 20,
+                                "y": 300
+                            }
+                        ]
+                    },
+                    {
+                        "name": "12 Duggies",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720041",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 220,
+                                "y": 300
+                            }
+                        ]
+                    },
+                    {
+                        "name": "18 Duggies",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720042",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 420,
+                                "y": 300
+                            }
+                        ]
+                    },
+                    {
+                        "name": "24 Duggies",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720043",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 620,
+                                "y": 300
+                            }
+                        ]
+                    },
+                    {
+                        "name": "100 Dust Sprites",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720044",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 20,
+                                "y": 328
+                            }
+                        ]
+                    },
+                    {
+                        "name": "200 Dust Sprites",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720045",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 220,
+                                "y": 328
+                            }
+                        ]
+                    },
+                    {
+                        "name": "300 Dust Sprites",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720046",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 420,
+                                "y": 328
+                            }
+                        ]
+                    },
+                    {
+                        "name": "400 Dust Sprites",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720047",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 620,
+                                "y": 328
+                            }
+                        ]
+                    },
+                    {
+                        "name": "12 Rock Crabs",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720048",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 20,
+                                "y": 356
+                            }
+                        ]
+                    },
+                    {
+                        "name": "24 Rock Crabs",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720049",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 220,
+                                "y": 356
+                            }
+                        ]
+                    },
+                    {
+                        "name": "36 Rock Crabs",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720050",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 420,
+                                "y": 356
+                            }
+                        ]
+                    },
+                    {
+                        "name": "48 Rock Crabs",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720051",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 620,
+                                "y": 356
+                            }
+                        ]
+                    },
+                    {
+                        "name": "20 Mummies",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720052",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 20,
+                                "y": 384
+                            }
+                        ]
+                    },
+                    {
+                        "name": "40 Mummies",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720053",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 220,
+                                "y": 384
+                            }
+                        ]
+                    },
+                    {
+                        "name": "60 Mummies",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720054",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 420,
+                                "y": 384
+                            }
+                        ]
+                    },
+                    {
+                        "name": "80 Mummies",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720055",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 620,
+                                "y": 384
+                            }
+                        ]
+                    },
+                    {
+                        "name": "10 Pepper Rex",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720056",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 20,
+                                "y": 412
+                            }
+                        ]
+                    },
+                    {
+                        "name": "20 Pepper Rex",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720057",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 220,
+                                "y": 412
+                            }
+                        ]
+                    },
+                    {
+                        "name": "30 Pepper Rex",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720058",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 420,
+                                "y": 412
+                            }
+                        ]
+                    },
+                    {
+                        "name": "40 Pepper Rex",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720059",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 620,
+                                "y": 412
+                            }
+                        ]
+                    },
+                    {
+                        "name": "50 Serpents",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720060",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 20,
+                                "y": 440
+                            }
+                        ]
+                    },
+                    {
+                        "name": "100 Serpents",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720061",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 220,
+                                "y": 440
+                            }
+                        ]
+                    },
+                    {
+                        "name": "150 Serpents",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720062",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 420,
+                                "y": 440
+                            }
+                        ]
+                    },
+                    {
+                        "name": "200 Serpents",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720063",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 620,
+                                "y": 440
+                            }
+                        ]
+                    },
+                    {
+                        "name": "30 Magma Sprites",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720064",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 20,
+                                "y": 468
+                            }
+                        ]
+                    },
+                    {
+                        "name": "60 Magma Sprites",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720065",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 220,
+                                "y": 468
+                            }
+                        ]
+                    },
+                    {
+                        "name": "90 Magma Sprites",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720066",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 420,
+                                "y": 468
+                            }
+                        ]
+                    },
+                    {
+                        "name": "120 Magma Sprites",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720067",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 620,
+                                "y": 468
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Per Monster",
+                "children": [
+                    {
+                        "name": "Green Slime",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720101",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 20,
+                                "y": 532
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Frost Jelly",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720102",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 220,
+                                "y": 532
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sludge",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720103",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 420,
+                                "y": 532
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tiger Slime",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720104",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 620,
+                                "y": 532
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shadow Shaman",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720105",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 20,
+                                "y": 560
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shadow Brute",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720106",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 220,
+                                "y": 560
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shadow Sniper",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720107",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 420,
+                                "y": 560
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720108",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 620,
+                                "y": 560
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Frost Bat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720109",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 20,
+                                "y": 588
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Lava Bat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720110",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 220,
+                                "y": 588
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Iridium Bat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720111",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 420,
+                                "y": 588
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Skeleton",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720112",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 620,
+                                "y": 588
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Skeleton Mage",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720113",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 20,
+                                "y": 616
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bug",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720114",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 220,
+                                "y": 616
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fly",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720115",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 420,
+                                "y": 616
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Grub",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720116",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 620,
+                                "y": 616
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Duggy",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720117",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 20,
+                                "y": 644
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Magma Duggy",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720118",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 220,
+                                "y": 644
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dust Sprite",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720119",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 420,
+                                "y": 644
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Rock Crab",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720120",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 620,
+                                "y": 644
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Lava Crab",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720121",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 20,
+                                "y": 672
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Iridium Crab",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720122",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 220,
+                                "y": 672
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mummy",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720123",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 420,
+                                "y": 672
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Serpent",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720124",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 620,
+                                "y": 672
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Royal Serpent",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720125",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 20,
+                                "y": 700
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Magma Sprite",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720126",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 220,
+                                "y": 700
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Magma Sparker",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720127",
+                            "monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 420,
+                                "y": 700
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

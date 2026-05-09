@@ -401,3 +401,62 @@ end
 function can_get_mastery()
     return (has("farming",10) and has("mining",10) and has("foraging",10) and has("fishing",10) and has("combat",10) )
 end
+
+-- Additional gating helpers used by the generated category access_rules.
+-- Keep these intentionally simple — they're meant to be a reasonable
+-- approximation of what AP considers "in logic", not a full port of the
+-- AP world's rules engine.
+
+function has_kitchen()
+    return has("kitchen")
+end
+
+function can_access_skull_cavern()
+    return (can_access_desert() and has_skull_key())
+end
+
+function can_complete_community_center()
+    return has("ccdone") or has("greenhouse")
+end
+
+function has_greenhouse()
+    return has("greenhouse")
+end
+
+function can_ship()
+    return has("shipping") or true
+end
+
+-- Friendsanity heart access: most NPCs unlock at heart events. Without a
+-- full friendship tracker we approximate "can reach heart N" as "season
+-- has passed" using the simplest signal available — tracking is deferred
+-- to the player ticking off hearts manually.
+function can_reach_8_hearts()
+    return has("spring") or has("summer") or has("fall") or has("winter")
+end
+
+-- Walnut purchases all require a stocked island trader (Island West turtle move).
+function can_buy_walnut_items()
+    return can_access_island() and has("turtlew")
+end
+
+-- Eatsanity: most "eat" checks require obtaining the item, which is an
+-- enormous logic graph. As a pragmatic approximation, fish-based eat
+-- checks need a fishing rod, cooked dishes need a kitchen, and crops
+-- need at least one season. Used only when access rules must point
+-- somewhere — leaves gaps for the player to manually verify.
+function can_eat_fish()
+    return can_fish()
+end
+
+function can_eat_cooking()
+    return can_cook()
+end
+
+function can_eat_crops()
+    return spring() or summer() or fall() or winter()
+end
+
+function can_eat_artisan()
+    return can_brew() or has_barn() or has_coop()
+end

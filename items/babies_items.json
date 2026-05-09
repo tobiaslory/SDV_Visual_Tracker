@@ -1,0 +1,16 @@
+[
+    {
+        "name": "717704",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "717704"
+    },
+    {
+        "name": "717705",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "717705"
+    }
+]
