@@ -1,6 +1,19 @@
 {
 	"versions": [
 		{
+			"package_version": "1.7.0",
+			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.0/stardew_valley_randomizer.zip",
+			"sha256": "6c9e13f8e0d5820d7802f69d6d05d9a996037c38addcda48e32301e6a4538505",
+			"changelog": [
+				"Added 12 new sanity categories: Friendsanity, Eatsanity, Craftsanity, Hatsanity, Monstersanity, Walnutsanity, Walnut Purchase, Chefsanity, Moviesanity, Endgame, Babies, Secretsanity (1849 locations)",
+				"Locations are auto-shown only when the AP seed actually rolled them (slot-data driven)",
+				"Custom backgrounds for every new map: NPC portrait grid for Friendsanity; per-item icons for Hatsanity, Eatsanity, Craftsanity, Chefsanity, Monstersanity",
+				"setting_mapping.lua now translates AP slot-data sanity options into UI flags so the right tabs appear automatically on connect",
+				"Added gating helpers to logic.lua (kitchen, skull cavern, greenhouse, eat checks)",
+				"Fixed dangling layouts.json reference in init.lua"
+			]
+		},
+		{
 			"package_version": "1.6.2",
 			"download_url": "https://github.com/LuckwurstJoe/SDV_Visual_Tracker/releases/download/1.6.2/stardew_valley_randomizer.zip",
 			"sha256": "7c72ecd7e704402a1be954986cba84a380134b7bca747fd0b8ed6ffbff2dea98",
