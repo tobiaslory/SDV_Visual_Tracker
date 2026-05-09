@@ -351,5 +351,53 @@
         "allow_disabled": true,
         "img": "images/settings/On.png",
         "codes": "ginger_island_on"
+    },
+    {
+        "name": "Tool Progression",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "img": "images/settings/On.png",
+        "codes": "tshuffle"
+    },
+    {
+        "name": "Building Progression",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "img": "images/settings/On.png",
+        "codes": "bshuffle"
+    },
+    {
+        "name": "Elevator Progression",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "img": "images/settings/On.png",
+        "codes": "eshuffleon"
+    },
+    {
+        "name": "Backpack Progression",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "img": "images/settings/On.png",
+        "codes": "pshuffle"
+    },
+    {
+        "name": "Arcade Shuffle",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "img": "images/settings/On.png",
+        "codes": "ashuffle"
+    },
+    {
+        "name": "Arcade Full Shuffle",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "img": "images/settings/On.png",
+        "codes": "ashuffle2"
     }
 ]

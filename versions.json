@@ -1,6 +1,17 @@
 {
 	"versions": [
 		{
+			"package_version": "1.7.8",
+			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.8/stardew_valley_randomizer.zip",
+			"sha256": "f052ce84f2c8e61c8fa8b176270c7d6defe44e82ac42a3f42e27e2ba47aac52d",
+			"changelog": [
+				"Fix: Feast of the Winter Star festival entries (Secret Santa, The Legend of the Winter Star, etc.) had no season rule because the patcher's region map missed 'Feast of the Winter Star'. They now correctly require $winter.",
+				"Fix: re-added the bshuffle/tshuffle/eshuffleon/pshuffle/ashuffle/ashuffle2 toggle items in items/settings.json that were accidentally reverted during a regeneration. Without these toggles, has(\"bshuffle\") was always false → Buildings/Mine Elevators/Tool Upgrades visibility filter rejected every entry → empty tabs.",
+				"Fix: Story_Checks visibility_rules emitted ['717201', null] arrays from a generator path that didn't handle the no-flag case. Now emits a clean ['717201'] when there's no flag to gate on.",
+				"Pipeline cleanup: build_flat in generate_locations.py now uses the same single comma-AND visibility format as the grouped path so multi-mode redistribution and AND collapse stay consistent."
+			]
+		},
+		{
 			"package_version": "1.7.7",
 			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.7/stardew_valley_randomizer.zip",
 			"sha256": "861e93ba7d2aa34e0e7e5dd2cf26ae333822fdd2cc574e389445e8083917d7d0",

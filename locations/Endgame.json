@@ -11,7 +11,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722101,endgame_on"],
+                "visibility_rules": [
+                    "722101,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -27,7 +29,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722102,endgame_on"],
+                "visibility_rules": [
+                    "722102,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -43,7 +47,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722103,endgame_on"],
+                "visibility_rules": [
+                    "722103,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -59,7 +65,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722104,endgame_on"],
+                "visibility_rules": [
+                    "722104,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -75,7 +83,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722105,endgame_on"],
+                "visibility_rules": [
+                    "722105,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -91,7 +101,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722106,endgame_on"],
+                "visibility_rules": [
+                    "722106,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -107,7 +119,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722107,endgame_on"],
+                "visibility_rules": [
+                    "722107,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -123,7 +137,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722108,endgame_on"],
+                "visibility_rules": [
+                    "722108,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -139,7 +155,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722109,endgame_on"],
+                "visibility_rules": [
+                    "722109,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -155,7 +173,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722110,endgame_on"],
+                "visibility_rules": [
+                    "722110,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -171,7 +191,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722112,endgame_on"],
+                "visibility_rules": [
+                    "722112,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -187,7 +209,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722113,endgame_on"],
+                "visibility_rules": [
+                    "722113,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -203,7 +227,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722115,endgame_on"],
+                "visibility_rules": [
+                    "722115,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -219,7 +245,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722116,endgame_on"],
+                "visibility_rules": [
+                    "722116,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -235,7 +263,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722117,endgame_on"],
+                "visibility_rules": [
+                    "722117,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -251,7 +281,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722118,endgame_on"],
+                "visibility_rules": [
+                    "722118,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -267,7 +299,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722119,endgame_on"],
+                "visibility_rules": [
+                    "722119,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -283,7 +317,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722120,endgame_on"],
+                "visibility_rules": [
+                    "722120,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -299,7 +335,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722121,endgame_on"],
+                "visibility_rules": [
+                    "722121,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -315,7 +353,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722122,endgame_on"],
+                "visibility_rules": [
+                    "722122,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -331,7 +371,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722123,endgame_on"],
+                "visibility_rules": [
+                    "722123,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -347,7 +389,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722124,endgame_on"],
+                "visibility_rules": [
+                    "722124,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -363,7 +407,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722125,endgame_on"],
+                "visibility_rules": [
+                    "722125,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -379,7 +425,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722126,endgame_on"],
+                "visibility_rules": [
+                    "722126,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -395,7 +443,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722127,endgame_on"],
+                "visibility_rules": [
+                    "722127,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -411,7 +461,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722128,endgame_on"],
+                "visibility_rules": [
+                    "722128,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -427,7 +479,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722129,endgame_on"],
+                "visibility_rules": [
+                    "722129,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -443,7 +497,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722130,endgame_on"],
+                "visibility_rules": [
+                    "722130,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -459,7 +515,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722131,endgame_on"],
+                "visibility_rules": [
+                    "722131,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -475,7 +533,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722132,endgame_on"],
+                "visibility_rules": [
+                    "722132,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -491,7 +551,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722133,endgame_on"],
+                "visibility_rules": [
+                    "722133,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -507,7 +569,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722134,endgame_on"],
+                "visibility_rules": [
+                    "722134,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -523,7 +587,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722135,endgame_on"],
+                "visibility_rules": [
+                    "722135,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -539,7 +605,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722136,endgame_on"],
+                "visibility_rules": [
+                    "722136,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -555,7 +623,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722137,endgame_on"],
+                "visibility_rules": [
+                    "722137,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -571,7 +641,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722138,endgame_on"],
+                "visibility_rules": [
+                    "722138,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -587,7 +659,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722139,endgame_on"],
+                "visibility_rules": [
+                    "722139,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -603,7 +677,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722140,endgame_on"],
+                "visibility_rules": [
+                    "722140,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -619,7 +695,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722141,endgame_on"],
+                "visibility_rules": [
+                    "722141,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -635,7 +713,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722142,endgame_on"],
+                "visibility_rules": [
+                    "722142,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",
@@ -651,7 +731,9 @@
                         "item_count": 1
                     }
                 ],
-                "visibility_rules": ["722143,endgame_on"],
+                "visibility_rules": [
+                    "722143,endgame_on"
+                ],
                 "map_locations": [
                     {
                         "map": "Endgame",

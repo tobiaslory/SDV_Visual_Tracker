@@ -280,6 +280,7 @@
 					"name": "Secret Santa",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719029"],
+					"access_rules": ["$winter"],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -292,6 +293,7 @@
 					"name": "The Legend of the Winter Star",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719030"],
+					"access_rules": ["$winter"],
 					"map_locations":[
                       {
                         "map":"Town Festivals",

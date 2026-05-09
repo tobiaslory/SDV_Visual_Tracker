@@ -228,6 +228,8 @@ ITEM_MAPPING =
 
 
 
+
+
 -- BEGIN GENERATED CRAFTSANITY_RECIPES (do not edit; auto-managed by _build/generate_recipe_items.py)
 	[717425] = {"gaterecipe","toggle"},
 	[717426] = {"woodfencerecipe","toggle"},
