@@ -71,34 +71,67 @@ function applySettingsFromSlotData(slot_data)
                                         or is_enabled(get_value(slot_data, "ginger_island")))
     set_active("endgame_on",          is_enabled(get_value(slot_data, "include_endgame_locations")))
 
-    -- Existing toggles (kept in sync with slot data so the UI matches the seed).
-    set_active("fishsanity_on",  is_enabled(get_value(slot_data, "fishsanity")))
-    set_active("cropsanity_on",  is_enabled(get_value(slot_data, "cropsanity")))
-    set_active("cooksanity_on",  is_enabled(get_value(slot_data, "cooksanity")))
-    set_active("chefsanity_on",  is_enabled(get_value(slot_data, "chefsanity")))
-    set_active("booksanity_on",  is_enabled(get_value(slot_data, "booksanity")))
+    -- Existing UI is built around progressive items whose stage codes
+    -- (cropsanity_on / fishsanity_on / cooksanity_on / chefsanity_on /
+    -- shipsanity_X / museum_X / board_X) only become active when the
+    -- progressive item is at the specific stage that lists them.
+    -- set_active() on a progressive item activates it but doesn't move
+    -- the stage, so we drive the stage explicitly from slot data.
+    local function set_progressive_stage_by_code(parent_code, target_stage)
+        local obj = Tracker:FindObjectForCode(parent_code)
+        if obj and obj.Type == "progressive" then
+            obj.Active = true
+            obj.CurrentStage = target_stage
+        end
+    end
 
-    -- Shipsanity is multi-valued; expose both a generic on and per-mode flags.
+    -- Cropsanity: 1=autotrack, 2=on. Map to 2 when slot has it enabled.
+    set_progressive_stage_by_code("cropsanity",
+        is_enabled(get_value(slot_data, "cropsanity")) and 1 or 0)
+    -- Fishsanity: 1=off, 2=on (existing item name has a leading-space typo).
+    set_progressive_stage_by_code("fishsanity",
+        is_enabled(get_value(slot_data, "fishsanity")) and 1 or 0)
+    -- Cooksanity: 1=auto, 2=off, 3=on.
+    set_progressive_stage_by_code("cooksanity",
+        is_enabled(get_value(slot_data, "cooksanity")) and 2 or 1)
+    -- Chefsanity: 1=auto, 2=off, 3=on.
+    set_progressive_stage_by_code("chefsanity",
+        is_enabled(get_value(slot_data, "chefsanity")) and 2 or 1)
+    -- Booksanity: my added single toggle, set_active still works.
+    set_active("booksanity_on", is_enabled(get_value(slot_data, "booksanity")))
+
+    -- Shipsanity progressive item: 1=None, 2=Crops, 3=Fish, 4=Full,
+    -- 5=FullwF, 6=Everything. Each stage activates the corresponding
+    -- shipsanity_<mode> code via the progressive item's stage codes.
     local shipsanity = get_value(slot_data, "shipsanity")
-    local ship_on = is_enabled(shipsanity)
-    set_active("shipsanity_on",   ship_on)
-    set_active("shipsanity_crops",     ship_on and (shipsanity == "crops" or shipsanity == "crops_and_fish"))
-    set_active("shipsanity_fish",      ship_on and (shipsanity == "fish" or shipsanity == "crops_and_fish" or shipsanity == "full_shipment_with_fish"))
-    set_active("shipsanity_full",      ship_on and (shipsanity == "full_shipment" or shipsanity == "full_shipment_with_fish"))
-    set_active("shipsanity_fullwf",    ship_on and shipsanity == "full_shipment_with_fish")
-    set_active("shipsanity_all",       ship_on and shipsanity == "everything")
+    local ship_stage_map = {
+        crops = 1,                    -- stage 2 (1-indexed → 0-indexed +1 below)
+        fish = 2,
+        full_shipment = 3,
+        full_shipment_with_fish = 4,
+        everything = 5,
+    }
+    local ship_stage = ship_stage_map[shipsanity] or 0  -- 0 = None
+    set_progressive_stage_by_code("shipsanity", ship_stage)
+    -- Cross-mode helper: shipsanity_on toggle is true if ANY shipsanity is set.
+    set_active("shipsanity_on", is_enabled(shipsanity))
 
-    -- Museumsanity has three states.
+    -- Museumsanity progressive: 1=auto/off, 2=donation, 3=milestone.
     local museum = get_value(slot_data, "museumsanity")
-    set_active("museum_off",       museum == "none" or museum == 0 or museum == nil)
-    set_active("museum_donation",  museum == "randomized" or museum == "all")
-    set_active("museum_milestone", museum == "milestones" or museum == "all")
+    local museum_stage = 0
+    if museum == "milestones" then museum_stage = 2
+    elseif museum == "randomized" or museum == "all" then museum_stage = 1
+    end
+    set_progressive_stage_by_code("museumsanity", museum_stage)
 
-    -- Special Orders.
+    -- Special Orders progressive: 1=auto, 2=vanilla, 3=board, 4=qi.
     local board = get_value(slot_data, "special_order_locations")
-    set_active("board_off",  board == "vanilla" or board == 0 or board == nil)
-    set_active("board_on",   board == "board" or table_contains(board, "board"))
-    set_active("board_qi",   board == "board_qi" or table_contains(board, "qi"))
+    local board_stage = 0
+    if board == "vanilla" or board == 0 or board == nil then board_stage = 1
+    elseif board == "board" or table_contains(board, "board") then board_stage = 2
+    elseif board == "board_qi" or table_contains(board, "qi") then board_stage = 3
+    end
+    set_progressive_stage_by_code("board", board_stage)
 
     -- Arcade machine shuffling.
     local arcade = get_value(slot_data, "arcade_machine_locations")
@@ -131,6 +164,16 @@ function applySettingsFromSlotData(slot_data)
         local obj = Tracker:FindObjectForCode("friendsanity_heart_size")
         if obj and obj.Type == "consumable" then
             obj.AcquiredCount = tonumber(heart_size) or 0
+        end
+    end
+
+    -- Help Wanted quest count (consumable). Drives $quests1..56 helpers in
+    -- logic.lua so Help Wanted! locations show as in-pool.
+    local qcount = get_value(slot_data, "quest_locations")
+    if qcount ~= nil then
+        local obj = Tracker:FindObjectForCode("quests")
+        if obj and obj.Type == "consumable" then
+            obj.AcquiredCount = math.max(0, tonumber(qcount) or 0)
         end
     end
 end

@@ -1,6 +1,20 @@
 {
 	"versions": [
 		{
+			"package_version": "1.7.7",
+			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.7/stardew_valley_randomizer.zip",
+			"sha256": "861e93ba7d2aa34e0e7e5dd2cf26ae333822fdd2cc574e389445e8083917d7d0",
+			"changelog": [
+				"Help Wanted! locations now appear: setting_mapping.lua reads quest_locations from slot data and sets the consumable count accordingly so $quests1..N helpers fire.",
+				"Fishsanity / Cooksanity / Cropsanity / Shipsanity / Museumsanity / Special Orders settings are now driven via the existing progressive items' stages (set_active alone never advanced the stage past 1, so the stage-2+ codes like fishsanity_on / shipsanity_fish / museum_donation never lit up). Locations in those tabs should reappear properly.",
+				"Buildings / Mine Elevators / Tool Upgrades / Arcade tabs were empty because their visibility flags (bshuffle/tshuffle/eshuffleon/pshuffle/ashuffle/ashuffle2) had no toggle items in items/settings.json. Added them.",
+				"Town/Fishing/Night Market/Desert Festival entries now have correct season access_rules ($spring/$summer/$fall/$winter) sourced from AP locations.csv region. 83 entries gated. The Town Festivals showing-as-reachable bug is fixed.",
+				"Pepper Rex no longer sits alone under Goals: per-monster locations now win the dedup over goal-tagged locations, so Pepper Rex (which has both tags) goes to the Per Monster section like every other monster.",
+				"Layout restructure: Walnut Purchase moved back under Walnuts (Walnutsanity + Walnut Purchase as sub-tabs). Endgame moved into Progression (Buildings/Mine Elevators/Tool Upgrades/Endgame). The Endgame Goals top-level tab is gone.",
+				"Multi-mode visibility_rules (e.g. shipsanity having Fish/Full/Everything alternatives) are no longer collapsed into AND-of-all by fix_visibility_rules_and.py — the patcher now respects pre-distributed OR alternatives."
+			]
+		},
+		{
 			"package_version": "1.7.6",
 			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.6/stardew_valley_randomizer.zip",
 			"sha256": "d58dad2f89a8022d00f987f90445f17cc21058650fa3dbfc2f952a33ee97387b",

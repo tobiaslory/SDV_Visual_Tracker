@@ -5,6 +5,596 @@
         "chest_opened_img": "images/QuestDone.png",
         "children": [
             {
+                "name": "Per Monster",
+                "children": [
+                    {
+                        "name": "Pepper Rex",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720010,monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 20,
+                                "y": 40
+                            }
+                        ],
+                        "access_rules": [
+                            "$has(\"skullkey\"),$can_access_desert"
+                        ]
+                    },
+                    {
+                        "name": "Green Slime",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720101,monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 220,
+                                "y": 40
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Frost Jelly",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720102,monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 420,
+                                "y": 40
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_walk_to_mines_floor_45"
+                        ]
+                    },
+                    {
+                        "name": "Sludge",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720103,monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 620,
+                                "y": 40
+                            }
+                        ],
+                        "access_rules": [
+                            "$has(\"skullkey\"),$can_access_desert"
+                        ]
+                    },
+                    {
+                        "name": "Tiger Slime",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720104,monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 20,
+                                "y": 68
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Shadow Shaman",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720105,monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 220,
+                                "y": 68
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_walk_to_mines_floor_45"
+                        ]
+                    },
+                    {
+                        "name": "Shadow Brute",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720106,monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 420,
+                                "y": 68
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_walk_to_mines_floor_45"
+                        ]
+                    },
+                    {
+                        "name": "Shadow Sniper",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720107,monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 620,
+                                "y": 68
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_walk_to_mines_floor_85"
+                        ]
+                    },
+                    {
+                        "name": "Bat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720108,monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 20,
+                                "y": 96
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_walk_to_mines_floor_5"
+                        ]
+                    },
+                    {
+                        "name": "Frost Bat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720109,monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 220,
+                                "y": 96
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_walk_to_mines_floor_45"
+                        ]
+                    },
+                    {
+                        "name": "Lava Bat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720110,monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 420,
+                                "y": 96
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_walk_to_mines_floor_45"
+                        ]
+                    },
+                    {
+                        "name": "Iridium Bat",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720111,monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 620,
+                                "y": 96
+                            }
+                        ],
+                        "access_rules": [
+                            "$has(\"skullkey\"),$can_access_desert"
+                        ]
+                    },
+                    {
+                        "name": "Skeleton",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720112,monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 20,
+                                "y": 124
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_walk_to_mines_floor_45"
+                        ]
+                    },
+                    {
+                        "name": "Skeleton Mage",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720113,monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 220,
+                                "y": 124
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_walk_to_mines_floor_85"
+                        ]
+                    },
+                    {
+                        "name": "Bug",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720114,monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 420,
+                                "y": 124
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_walk_to_mines_floor_5"
+                        ]
+                    },
+                    {
+                        "name": "Fly",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720115,monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 620,
+                                "y": 124
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_walk_to_mines_floor_5"
+                        ]
+                    },
+                    {
+                        "name": "Grub",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720116,monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 20,
+                                "y": 152
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_walk_to_mines_floor_5"
+                        ]
+                    },
+                    {
+                        "name": "Duggy",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720117,monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 220,
+                                "y": 152
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_walk_to_mines_floor_5"
+                        ]
+                    },
+                    {
+                        "name": "Magma Duggy",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720118,monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 420,
+                                "y": 152
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Dust Sprite",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720119,monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 620,
+                                "y": 152
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_mine_iron"
+                        ]
+                    },
+                    {
+                        "name": "Rock Crab",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720120,monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 20,
+                                "y": 180
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_walk_to_mines_floor_5"
+                        ]
+                    },
+                    {
+                        "name": "Lava Crab",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720121,monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 220,
+                                "y": 180
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_walk_to_mines_floor_45"
+                        ]
+                    },
+                    {
+                        "name": "Iridium Crab",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720122,monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 420,
+                                "y": 180
+                            }
+                        ],
+                        "access_rules": [
+                            "$has(\"skullkey\"),$can_access_desert"
+                        ]
+                    },
+                    {
+                        "name": "Mummy",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720123,monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 620,
+                                "y": 180
+                            }
+                        ],
+                        "access_rules": [
+                            "$has(\"skullkey\"),$can_access_desert"
+                        ]
+                    },
+                    {
+                        "name": "Serpent",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720124,monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 20,
+                                "y": 208
+                            }
+                        ],
+                        "access_rules": [
+                            "$has(\"skullkey\"),$can_access_desert"
+                        ]
+                    },
+                    {
+                        "name": "Royal Serpent",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720125,monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 220,
+                                "y": 208
+                            }
+                        ],
+                        "access_rules": [
+                            "$has(\"skullkey\"),$can_access_desert"
+                        ]
+                    },
+                    {
+                        "name": "Magma Sprite",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720126,monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 420,
+                                "y": 208
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    },
+                    {
+                        "name": "Magma Sparker",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720127,monstersanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 620,
+                                "y": 208
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_access_island"
+                        ]
+                    }
+                ]
+            },
+            {
                 "name": "Goals",
                 "children": [
                     {
@@ -21,7 +611,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 20,
-                                "y": 40
+                                "y": 272
                             }
                         ]
                     },
@@ -39,7 +629,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 220,
-                                "y": 40
+                                "y": 272
                             }
                         ]
                     },
@@ -57,7 +647,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 420,
-                                "y": 40
+                                "y": 272
                             }
                         ]
                     },
@@ -75,7 +665,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 620,
-                                "y": 40
+                                "y": 272
                             }
                         ]
                     },
@@ -93,7 +683,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 20,
-                                "y": 68
+                                "y": 300
                             }
                         ]
                     },
@@ -111,7 +701,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 220,
-                                "y": 68
+                                "y": 300
                             }
                         ]
                     },
@@ -129,7 +719,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 420,
-                                "y": 68
+                                "y": 300
                             }
                         ]
                     },
@@ -147,7 +737,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 620,
-                                "y": 68
+                                "y": 300
                             }
                         ]
                     },
@@ -165,29 +755,8 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 20,
-                                "y": 96
+                                "y": 328
                             }
-                        ]
-                    },
-                    {
-                        "name": "Pepper Rex",
-                        "sections": [
-                            {
-                                "item_count": 1
-                            }
-                        ],
-                        "visibility_rules": [
-                            "720010,monstersanity_on"
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Monstersanity",
-                                "x": 220,
-                                "y": 96
-                            }
-                        ],
-                        "access_rules": [
-                            "$has(\"skullkey\"),$can_access_desert"
                         ]
                     },
                     {
@@ -203,8 +772,8 @@
                         "map_locations": [
                             {
                                 "map": "Monstersanity",
-                                "x": 420,
-                                "y": 96
+                                "x": 220,
+                                "y": 328
                             }
                         ]
                     },
@@ -221,8 +790,8 @@
                         "map_locations": [
                             {
                                 "map": "Monstersanity",
-                                "x": 620,
-                                "y": 96
+                                "x": 420,
+                                "y": 328
                             }
                         ]
                     }
@@ -245,7 +814,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 20,
-                                "y": 160
+                                "y": 392
                             }
                         ]
                     },
@@ -263,7 +832,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 220,
-                                "y": 160
+                                "y": 392
                             }
                         ]
                     },
@@ -281,7 +850,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 420,
-                                "y": 160
+                                "y": 392
                             }
                         ]
                     },
@@ -299,7 +868,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 620,
-                                "y": 160
+                                "y": 392
                             }
                         ]
                     },
@@ -317,7 +886,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 20,
-                                "y": 188
+                                "y": 420
                             }
                         ]
                     },
@@ -335,7 +904,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 220,
-                                "y": 188
+                                "y": 420
                             }
                         ]
                     },
@@ -353,7 +922,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 420,
-                                "y": 188
+                                "y": 420
                             }
                         ]
                     },
@@ -371,7 +940,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 620,
-                                "y": 188
+                                "y": 420
                             }
                         ]
                     },
@@ -389,7 +958,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 20,
-                                "y": 216
+                                "y": 448
                             }
                         ]
                     },
@@ -407,7 +976,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 220,
-                                "y": 216
+                                "y": 448
                             }
                         ]
                     },
@@ -425,7 +994,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 420,
-                                "y": 216
+                                "y": 448
                             }
                         ]
                     },
@@ -443,7 +1012,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 620,
-                                "y": 216
+                                "y": 448
                             }
                         ]
                     },
@@ -461,7 +1030,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 20,
-                                "y": 244
+                                "y": 476
                             }
                         ]
                     },
@@ -479,7 +1048,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 220,
-                                "y": 244
+                                "y": 476
                             }
                         ]
                     },
@@ -497,7 +1066,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 420,
-                                "y": 244
+                                "y": 476
                             }
                         ]
                     },
@@ -515,7 +1084,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 620,
-                                "y": 244
+                                "y": 476
                             }
                         ]
                     },
@@ -533,7 +1102,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 20,
-                                "y": 272
+                                "y": 504
                             }
                         ]
                     },
@@ -551,7 +1120,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 220,
-                                "y": 272
+                                "y": 504
                             }
                         ]
                     },
@@ -569,7 +1138,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 420,
-                                "y": 272
+                                "y": 504
                             }
                         ]
                     },
@@ -587,7 +1156,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 620,
-                                "y": 272
+                                "y": 504
                             }
                         ]
                     },
@@ -605,7 +1174,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 20,
-                                "y": 300
+                                "y": 532
                             }
                         ]
                     },
@@ -623,7 +1192,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 220,
-                                "y": 300
+                                "y": 532
                             }
                         ]
                     },
@@ -641,7 +1210,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 420,
-                                "y": 300
+                                "y": 532
                             }
                         ]
                     },
@@ -659,7 +1228,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 620,
-                                "y": 300
+                                "y": 532
                             }
                         ]
                     },
@@ -677,7 +1246,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 20,
-                                "y": 328
+                                "y": 560
                             }
                         ]
                     },
@@ -695,7 +1264,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 220,
-                                "y": 328
+                                "y": 560
                             }
                         ]
                     },
@@ -713,7 +1282,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 420,
-                                "y": 328
+                                "y": 560
                             }
                         ]
                     },
@@ -731,7 +1300,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 620,
-                                "y": 328
+                                "y": 560
                             }
                         ]
                     },
@@ -749,7 +1318,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 20,
-                                "y": 356
+                                "y": 588
                             }
                         ]
                     },
@@ -767,7 +1336,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 220,
-                                "y": 356
+                                "y": 588
                             }
                         ]
                     },
@@ -785,7 +1354,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 420,
-                                "y": 356
+                                "y": 588
                             }
                         ]
                     },
@@ -803,7 +1372,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 620,
-                                "y": 356
+                                "y": 588
                             }
                         ]
                     },
@@ -821,7 +1390,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 20,
-                                "y": 384
+                                "y": 616
                             }
                         ]
                     },
@@ -839,7 +1408,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 220,
-                                "y": 384
+                                "y": 616
                             }
                         ]
                     },
@@ -857,7 +1426,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 420,
-                                "y": 384
+                                "y": 616
                             }
                         ]
                     },
@@ -875,7 +1444,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 620,
-                                "y": 384
+                                "y": 616
                             }
                         ]
                     },
@@ -893,7 +1462,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 20,
-                                "y": 412
+                                "y": 644
                             }
                         ]
                     },
@@ -911,7 +1480,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 220,
-                                "y": 412
+                                "y": 644
                             }
                         ]
                     },
@@ -929,7 +1498,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 420,
-                                "y": 412
+                                "y": 644
                             }
                         ]
                     },
@@ -947,7 +1516,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 620,
-                                "y": 412
+                                "y": 644
                             }
                         ]
                     },
@@ -965,7 +1534,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 20,
-                                "y": 440
+                                "y": 672
                             }
                         ]
                     },
@@ -983,7 +1552,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 220,
-                                "y": 440
+                                "y": 672
                             }
                         ]
                     },
@@ -1001,7 +1570,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 420,
-                                "y": 440
+                                "y": 672
                             }
                         ]
                     },
@@ -1019,7 +1588,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 620,
-                                "y": 440
+                                "y": 672
                             }
                         ]
                     },
@@ -1037,7 +1606,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 20,
-                                "y": 468
+                                "y": 700
                             }
                         ]
                     },
@@ -1055,7 +1624,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 220,
-                                "y": 468
+                                "y": 700
                             }
                         ]
                     },
@@ -1073,7 +1642,7 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 420,
-                                "y": 468
+                                "y": 700
                             }
                         ]
                     },
@@ -1091,577 +1660,8 @@
                             {
                                 "map": "Monstersanity",
                                 "x": 620,
-                                "y": 468
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Per Monster",
-                "children": [
-                    {
-                        "name": "Green Slime",
-                        "sections": [
-                            {
-                                "item_count": 1
-                            }
-                        ],
-                        "visibility_rules": [
-                            "720101,monstersanity_on"
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Monstersanity",
-                                "x": 20,
-                                "y": 532
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Frost Jelly",
-                        "sections": [
-                            {
-                                "item_count": 1
-                            }
-                        ],
-                        "visibility_rules": [
-                            "720102,monstersanity_on"
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Monstersanity",
-                                "x": 220,
-                                "y": 532
-                            }
-                        ],
-                        "access_rules": [
-                            "$can_walk_to_mines_floor_45"
-                        ]
-                    },
-                    {
-                        "name": "Sludge",
-                        "sections": [
-                            {
-                                "item_count": 1
-                            }
-                        ],
-                        "visibility_rules": [
-                            "720103,monstersanity_on"
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Monstersanity",
-                                "x": 420,
-                                "y": 532
-                            }
-                        ],
-                        "access_rules": [
-                            "$has(\"skullkey\"),$can_access_desert"
-                        ]
-                    },
-                    {
-                        "name": "Tiger Slime",
-                        "sections": [
-                            {
-                                "item_count": 1
-                            }
-                        ],
-                        "visibility_rules": [
-                            "720104,monstersanity_on"
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Monstersanity",
-                                "x": 620,
-                                "y": 532
-                            }
-                        ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
-                    },
-                    {
-                        "name": "Shadow Shaman",
-                        "sections": [
-                            {
-                                "item_count": 1
-                            }
-                        ],
-                        "visibility_rules": [
-                            "720105,monstersanity_on"
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Monstersanity",
-                                "x": 20,
-                                "y": 560
-                            }
-                        ],
-                        "access_rules": [
-                            "$can_walk_to_mines_floor_45"
-                        ]
-                    },
-                    {
-                        "name": "Shadow Brute",
-                        "sections": [
-                            {
-                                "item_count": 1
-                            }
-                        ],
-                        "visibility_rules": [
-                            "720106,monstersanity_on"
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Monstersanity",
-                                "x": 220,
-                                "y": 560
-                            }
-                        ],
-                        "access_rules": [
-                            "$can_walk_to_mines_floor_45"
-                        ]
-                    },
-                    {
-                        "name": "Shadow Sniper",
-                        "sections": [
-                            {
-                                "item_count": 1
-                            }
-                        ],
-                        "visibility_rules": [
-                            "720107,monstersanity_on"
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Monstersanity",
-                                "x": 420,
-                                "y": 560
-                            }
-                        ],
-                        "access_rules": [
-                            "$can_walk_to_mines_floor_85"
-                        ]
-                    },
-                    {
-                        "name": "Bat",
-                        "sections": [
-                            {
-                                "item_count": 1
-                            }
-                        ],
-                        "visibility_rules": [
-                            "720108,monstersanity_on"
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Monstersanity",
-                                "x": 620,
-                                "y": 560
-                            }
-                        ],
-                        "access_rules": [
-                            "$can_walk_to_mines_floor_5"
-                        ]
-                    },
-                    {
-                        "name": "Frost Bat",
-                        "sections": [
-                            {
-                                "item_count": 1
-                            }
-                        ],
-                        "visibility_rules": [
-                            "720109,monstersanity_on"
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Monstersanity",
-                                "x": 20,
-                                "y": 588
-                            }
-                        ],
-                        "access_rules": [
-                            "$can_walk_to_mines_floor_45"
-                        ]
-                    },
-                    {
-                        "name": "Lava Bat",
-                        "sections": [
-                            {
-                                "item_count": 1
-                            }
-                        ],
-                        "visibility_rules": [
-                            "720110,monstersanity_on"
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Monstersanity",
-                                "x": 220,
-                                "y": 588
-                            }
-                        ],
-                        "access_rules": [
-                            "$can_walk_to_mines_floor_45"
-                        ]
-                    },
-                    {
-                        "name": "Iridium Bat",
-                        "sections": [
-                            {
-                                "item_count": 1
-                            }
-                        ],
-                        "visibility_rules": [
-                            "720111,monstersanity_on"
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Monstersanity",
-                                "x": 420,
-                                "y": 588
-                            }
-                        ],
-                        "access_rules": [
-                            "$has(\"skullkey\"),$can_access_desert"
-                        ]
-                    },
-                    {
-                        "name": "Skeleton",
-                        "sections": [
-                            {
-                                "item_count": 1
-                            }
-                        ],
-                        "visibility_rules": [
-                            "720112,monstersanity_on"
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Monstersanity",
-                                "x": 620,
-                                "y": 588
-                            }
-                        ],
-                        "access_rules": [
-                            "$can_walk_to_mines_floor_45"
-                        ]
-                    },
-                    {
-                        "name": "Skeleton Mage",
-                        "sections": [
-                            {
-                                "item_count": 1
-                            }
-                        ],
-                        "visibility_rules": [
-                            "720113,monstersanity_on"
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Monstersanity",
-                                "x": 20,
-                                "y": 616
-                            }
-                        ],
-                        "access_rules": [
-                            "$can_walk_to_mines_floor_85"
-                        ]
-                    },
-                    {
-                        "name": "Bug",
-                        "sections": [
-                            {
-                                "item_count": 1
-                            }
-                        ],
-                        "visibility_rules": [
-                            "720114,monstersanity_on"
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Monstersanity",
-                                "x": 220,
-                                "y": 616
-                            }
-                        ],
-                        "access_rules": [
-                            "$can_walk_to_mines_floor_5"
-                        ]
-                    },
-                    {
-                        "name": "Fly",
-                        "sections": [
-                            {
-                                "item_count": 1
-                            }
-                        ],
-                        "visibility_rules": [
-                            "720115,monstersanity_on"
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Monstersanity",
-                                "x": 420,
-                                "y": 616
-                            }
-                        ],
-                        "access_rules": [
-                            "$can_walk_to_mines_floor_5"
-                        ]
-                    },
-                    {
-                        "name": "Grub",
-                        "sections": [
-                            {
-                                "item_count": 1
-                            }
-                        ],
-                        "visibility_rules": [
-                            "720116,monstersanity_on"
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Monstersanity",
-                                "x": 620,
-                                "y": 616
-                            }
-                        ],
-                        "access_rules": [
-                            "$can_walk_to_mines_floor_5"
-                        ]
-                    },
-                    {
-                        "name": "Duggy",
-                        "sections": [
-                            {
-                                "item_count": 1
-                            }
-                        ],
-                        "visibility_rules": [
-                            "720117,monstersanity_on"
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Monstersanity",
-                                "x": 20,
-                                "y": 644
-                            }
-                        ],
-                        "access_rules": [
-                            "$can_walk_to_mines_floor_5"
-                        ]
-                    },
-                    {
-                        "name": "Magma Duggy",
-                        "sections": [
-                            {
-                                "item_count": 1
-                            }
-                        ],
-                        "visibility_rules": [
-                            "720118,monstersanity_on"
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Monstersanity",
-                                "x": 220,
-                                "y": 644
-                            }
-                        ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
-                    },
-                    {
-                        "name": "Dust Sprite",
-                        "sections": [
-                            {
-                                "item_count": 1
-                            }
-                        ],
-                        "visibility_rules": [
-                            "720119,monstersanity_on"
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Monstersanity",
-                                "x": 420,
-                                "y": 644
-                            }
-                        ],
-                        "access_rules": [
-                            "$can_mine_iron"
-                        ]
-                    },
-                    {
-                        "name": "Rock Crab",
-                        "sections": [
-                            {
-                                "item_count": 1
-                            }
-                        ],
-                        "visibility_rules": [
-                            "720120,monstersanity_on"
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Monstersanity",
-                                "x": 620,
-                                "y": 644
-                            }
-                        ],
-                        "access_rules": [
-                            "$can_walk_to_mines_floor_5"
-                        ]
-                    },
-                    {
-                        "name": "Lava Crab",
-                        "sections": [
-                            {
-                                "item_count": 1
-                            }
-                        ],
-                        "visibility_rules": [
-                            "720121,monstersanity_on"
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Monstersanity",
-                                "x": 20,
-                                "y": 672
-                            }
-                        ],
-                        "access_rules": [
-                            "$can_walk_to_mines_floor_45"
-                        ]
-                    },
-                    {
-                        "name": "Iridium Crab",
-                        "sections": [
-                            {
-                                "item_count": 1
-                            }
-                        ],
-                        "visibility_rules": [
-                            "720122,monstersanity_on"
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Monstersanity",
-                                "x": 220,
-                                "y": 672
-                            }
-                        ],
-                        "access_rules": [
-                            "$has(\"skullkey\"),$can_access_desert"
-                        ]
-                    },
-                    {
-                        "name": "Mummy",
-                        "sections": [
-                            {
-                                "item_count": 1
-                            }
-                        ],
-                        "visibility_rules": [
-                            "720123,monstersanity_on"
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Monstersanity",
-                                "x": 420,
-                                "y": 672
-                            }
-                        ],
-                        "access_rules": [
-                            "$has(\"skullkey\"),$can_access_desert"
-                        ]
-                    },
-                    {
-                        "name": "Serpent",
-                        "sections": [
-                            {
-                                "item_count": 1
-                            }
-                        ],
-                        "visibility_rules": [
-                            "720124,monstersanity_on"
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Monstersanity",
-                                "x": 620,
-                                "y": 672
-                            }
-                        ],
-                        "access_rules": [
-                            "$has(\"skullkey\"),$can_access_desert"
-                        ]
-                    },
-                    {
-                        "name": "Royal Serpent",
-                        "sections": [
-                            {
-                                "item_count": 1
-                            }
-                        ],
-                        "visibility_rules": [
-                            "720125,monstersanity_on"
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Monstersanity",
-                                "x": 20,
                                 "y": 700
                             }
-                        ],
-                        "access_rules": [
-                            "$has(\"skullkey\"),$can_access_desert"
-                        ]
-                    },
-                    {
-                        "name": "Magma Sprite",
-                        "sections": [
-                            {
-                                "item_count": 1
-                            }
-                        ],
-                        "visibility_rules": [
-                            "720126,monstersanity_on"
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Monstersanity",
-                                "x": 220,
-                                "y": 700
-                            }
-                        ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
-                    },
-                    {
-                        "name": "Magma Sparker",
-                        "sections": [
-                            {
-                                "item_count": 1
-                            }
-                        ],
-                        "visibility_rules": [
-                            "720127,monstersanity_on"
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Monstersanity",
-                                "x": 420,
-                                "y": 700
-                            }
-                        ],
-                        "access_rules": [
-                            "$can_access_island"
                         ]
                     }
                 ]

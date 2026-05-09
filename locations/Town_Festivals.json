@@ -11,6 +11,7 @@
 					"name": "Egg Hunt Victory",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719001"],
+					"access_rules": ["$spring"],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -23,6 +24,7 @@
 					"name": "Strawberry Seeds",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719002"],
+					"access_rules": ["$spring"],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -40,6 +42,7 @@
 					"name": "Dance with someone",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719003"],
+					"access_rules": ["$spring"],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -65,6 +68,7 @@
 					"name": "Tub o' Flowers Recipe",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719032"],
+					"access_rules": ["$spring"],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -82,6 +86,7 @@
                         "name": "Luau Soup",
                         "item_count": 1,
 						"visibility_rules": ["719005"],
+					"access_rules": ["$summer"],
                     }
                 ],
                 "map_locations":[
@@ -99,6 +104,7 @@
 					"name": "See the Jellies",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719006"],
+					"access_rules": ["$summer"],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -111,6 +117,7 @@
 					"name": "Moonlight Jellies Banner",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719034"],
+					"access_rules": ["$summer"],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -123,6 +130,7 @@
 					"name": "Starport Decal",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719035"],
+					"access_rules": ["$summer"],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -140,6 +148,7 @@
 					"name": "Smashing Stone",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719007"],
+					"access_rules": ["$fall"],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -152,6 +161,7 @@
 					"name": "Grange Display",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719008"],
+					"access_rules": ["$fall"],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -164,6 +174,7 @@
 					"name": "Rarecrow #1",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719009"],
+					"access_rules": ["$fall"],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -176,6 +187,7 @@
 					"name": "Fair Stardrop",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719010"],
+					"access_rules": ["$fall"],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -193,6 +205,7 @@
 					"name": "Spirit's Eve Maze",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719011"],
+					"access_rules": ["$fall"],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -205,6 +218,7 @@
 					"name": "Rarecrow #2",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719012"],
+					"access_rules": ["$fall"],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -217,6 +231,7 @@
 					"name": "Jack-O-Lantern Recipe",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719033"],
+					"access_rules": ["$fall"],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -234,6 +249,7 @@
 					"name": "Win Fishing Competition",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719013"],
+					"access_rules": ["$winter"],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -246,6 +262,7 @@
 					"name": "Rarecrow #4",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719014"],
+					"access_rules": ["$winter"],
 					"map_locations":[
                       {
                         "map":"Town Festivals",

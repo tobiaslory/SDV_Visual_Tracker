@@ -277,9 +277,26 @@
                                         {
                                             "title": "Walnuts",
                                             "content": {
-                                                "type": "map",
-                                                "maps": [
-                                                    "Walnutsanity"
+                                                "type": "tabbed",
+                                                "tabs": [
+                                                    {
+                                                        "title": "Walnutsanity",
+                                                        "content": {
+                                                            "type": "map",
+                                                            "maps": [
+                                                                "Walnutsanity"
+                                                            ]
+                                                        }
+                                                    },
+                                                    {
+                                                        "title": "Walnut Purchase",
+                                                        "content": {
+                                                            "type": "map",
+                                                            "maps": [
+                                                                "Walnut_Purchase"
+                                                            ]
+                                                        }
+                                                    }
                                                 ]
                                             }
                                         },
@@ -326,30 +343,13 @@
                                                     "Tool_Upgrades"
                                                 ]
                                             }
-                                        }
-                                    ]
-                                }
-                            },
-                            {
-                                "title": "Endgame Goals",
-                                "content": {
-                                    "type": "tabbed",
-                                    "tabs": [
+                                        },
                                         {
                                             "title": "Endgame",
                                             "content": {
                                                 "type": "map",
                                                 "maps": [
                                                     "Endgame"
-                                                ]
-                                            }
-                                        },
-                                        {
-                                            "title": "Walnut Purchase",
-                                            "content": {
-                                                "type": "map",
-                                                "maps": [
-                                                    "Walnut_Purchase"
                                                 ]
                                             }
                                         }

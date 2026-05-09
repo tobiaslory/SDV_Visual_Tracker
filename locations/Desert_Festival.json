@@ -12,6 +12,7 @@
                         "name": "Win the race",
                         "item_count": 1,
 						"visibility_rules": ["719041"],
+					"access_rules": ["$spring"],
                     }
                 ],
                 "map_locations":[
@@ -29,6 +30,7 @@
                         "name": "Get a new dress",
                         "item_count": 1,
 						"visibility_rules": ["719044"],
+					"access_rules": ["$spring"],
                     }
                 ],
                 "map_locations":[
@@ -46,6 +48,7 @@
                         "name": "Obtain your free cactis",
                         "item_count": 1,
 						"visibility_rules": ["719066"],
+					"access_rules": ["$spring"],
                     }
                 ],
                 "map_locations":[
@@ -63,6 +66,7 @@
                         "name": "Mummy Mask",
                         "item_count": 1,
 						"visibility_rules": ["719042"],
+					"access_rules": ["$spring"],
                     }
                 ],
                 "map_locations":[
@@ -80,6 +84,7 @@
                         "name": "Calico Statue",
                         "item_count": 1,
 						"visibility_rules": ["719043"],
+					"access_rules": ["$spring"],
                     }
                 ],
                 "map_locations":[
@@ -97,6 +102,7 @@
                         "name": "Answer the questions",
                         "item_count": 1,
 						"visibility_rules": ["719073"],
+					"access_rules": ["$spring"],
                     }
                 ],
                 "map_locations":[
@@ -114,6 +120,7 @@
                         "name": "Complete Willy's Quest",
                         "item_count": 1,
 						"visibility_rules": ["719072"],
+					"access_rules": ["$spring"],
                     }
                 ],
                 "map_locations":[
@@ -131,6 +138,7 @@
                         "name": "Reach a certain egg rating",
                         "item_count": 1,
 						"visibility_rules": ["719066"],
+					"access_rules": ["$spring"],
                     }
                 ],
                 "map_locations":[
@@ -148,21 +156,25 @@
                         "name": "Monster Hunt",
                         "item_count": 1,
 						"visibility_rules": ["719067"],
+					"access_rules": ["$spring"],
                     },
 					{
                         "name": "Deep Dive",
                         "item_count": 1,
 						"visibility_rules": ["719068"],
+					"access_rules": ["$spring"],
                     },
 					{
                         "name": "Treasure Hunt",
                         "item_count": 1,
 						"visibility_rules": ["719069"],
+					"access_rules": ["$spring"],
                     },
 					{
                         "name": "Touch A Calico Statue",
                         "item_count": 1,
 						"visibility_rules": ["719070"],
+					"access_rules": ["$spring"],
                     }
                 ],
                 "map_locations":[
@@ -180,6 +192,7 @@
 					"name": "Earthy Mousse",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719045"],
+					"access_rules": ["$spring"],
 					"map_locations":[
                       {
                         "map":"Desert Festival",
@@ -192,6 +205,7 @@
 					"name": "Sweet Bean Cake",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719046"],
+					"access_rules": ["$spring"],
 					"map_locations":[
                       {
                         "map":"Desert Festival",
@@ -204,6 +218,7 @@
 					"name": "Skull Cave Casserole",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719047"],
+					"access_rules": ["$spring"],
 					"map_locations":[
                       {
                         "map":"Desert Festival",
@@ -216,6 +231,7 @@
 					"name": "Spicy Tacos",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719048"],
+					"access_rules": ["$spring"],
 					"map_locations":[
                       {
                         "map":"Desert Festival",
@@ -228,6 +244,7 @@
 					"name": "Mountain Chili",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719049"],
+					"access_rules": ["$spring"],
 					"map_locations":[
                       {
                         "map":"Desert Festival",
@@ -240,6 +257,7 @@
 					"name": "Crystal Cake",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719050"],
+					"access_rules": ["$spring"],
 					"map_locations":[
                       {
                         "map":"Desert Festival",
@@ -252,6 +270,7 @@
 					"name": "Cave Kebab",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719051"],
+					"access_rules": ["$spring"],
 					"map_locations":[
                       {
                         "map":"Desert Festival",
@@ -264,6 +283,7 @@
 					"name": "Hot Log",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719052"],
+					"access_rules": ["$spring"],
 					"map_locations":[
                       {
                         "map":"Desert Festival",
@@ -276,6 +296,7 @@
 					"name": "Sour Salad",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719053"],
+					"access_rules": ["$spring"],
 					"map_locations":[
                       {
                         "map":"Desert Festival",
@@ -288,6 +309,7 @@
 					"name": "Superfood Cake",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719054"],
+					"access_rules": ["$spring"],
 					"map_locations":[
                       {
                         "map":"Desert Festival",
@@ -300,6 +322,7 @@
 					"name": "Warrior Smoothie",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719055"],
+					"access_rules": ["$spring"],
 					"map_locations":[
                       {
                         "map":"Desert Festival",
@@ -312,6 +335,7 @@
 					"name": "Rumpled Fruit Skin",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719056"],
+					"access_rules": ["$spring"],
 					"map_locations":[
                       {
                         "map":"Desert Festival",
@@ -324,6 +348,7 @@
 					"name": "Calico Pizza",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719057"],
+					"access_rules": ["$spring"],
 					"map_locations":[
                       {
                         "map":"Desert Festival",
@@ -336,6 +361,7 @@
 					"name": "Stuffed Mushrooms",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719058"],
+					"access_rules": ["$spring"],
 					"map_locations":[
                       {
                         "map":"Desert Festival",
@@ -348,6 +374,7 @@
 					"name": "Elf Quesadilla",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719059"],
+					"access_rules": ["$spring"],
 					"map_locations":[
                       {
                         "map":"Desert Festival",
@@ -360,6 +387,7 @@
 					"name": "Nachos Of The Desert",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719060"],
+					"access_rules": ["$spring"],
 					"map_locations":[
                       {
                         "map":"Desert Festival",
@@ -372,6 +400,7 @@
 					"name": "Cioppino",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719061"],
+					"access_rules": ["$spring"],
 					"map_locations":[
                       {
                         "map":"Desert Festival",
@@ -384,6 +413,7 @@
 					"name": "Rainforest Shrimp",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719062"],
+					"access_rules": ["$spring"],
 					"map_locations":[
                       {
                         "map":"Desert Festival",
@@ -396,6 +426,7 @@
 					"name": "Shrimp Donut",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719063"],
+					"access_rules": ["$spring"],
 					"map_locations":[
                       {
                         "map":"Desert Festival",
@@ -408,6 +439,7 @@
 					"name": "Smell Of The Sea",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719064"],
+					"access_rules": ["$spring"],
 					"map_locations":[
                       {
                         "map":"Desert Festival",
@@ -420,6 +452,7 @@
 					"name": "Desert Gumbo",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719065"],
+					"access_rules": ["$spring"],
 					"map_locations":[
                       {
                         "map":"Desert Festival",

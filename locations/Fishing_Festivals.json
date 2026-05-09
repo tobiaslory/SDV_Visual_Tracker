@@ -13,6 +13,7 @@
 					"name": "Trout Derby Reward 1",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719074"],
+					"access_rules": ["$summer"],
 					"map_locations":[
                       {
                         "map":"Fishing Festivals",
@@ -25,6 +26,7 @@
 					"name": "Trout Derby Reward 2",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719075"],
+					"access_rules": ["$summer"],
 					"map_locations":[
                       {
                         "map":"Fishing Festivals",
@@ -37,6 +39,7 @@
 					"name": "Trout Derby Reward 3",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719076"],
+					"access_rules": ["$summer"],
 					"map_locations":[
                       {
                         "map":"Fishing Festivals",
@@ -49,6 +52,7 @@
 					"name": "Trout Derby Reward 4",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719077"],
+					"access_rules": ["$summer"],
 					"map_locations":[
                       {
                         "map":"Fishing Festivals",
@@ -61,6 +65,7 @@
 					"name": "Trout Derby Reward 5",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719078"],
+					"access_rules": ["$summer"],
 					"map_locations":[
                       {
                         "map":"Fishing Festivals",
@@ -73,6 +78,7 @@
 					"name": "Trout Derby Reward 6",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719079"],
+					"access_rules": ["$summer"],
 					"map_locations":[
                       {
                         "map":"Fishing Festivals",
@@ -85,6 +91,7 @@
 					"name": "Trout Derby Reward 7",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719080"],
+					"access_rules": ["$summer"],
 					"map_locations":[
                       {
                         "map":"Fishing Festivals",
@@ -97,6 +104,7 @@
 					"name": "Trout Derby Reward 8",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719081"],
+					"access_rules": ["$summer"],
 					"map_locations":[
                       {
                         "map":"Fishing Festivals",
@@ -109,6 +117,7 @@
 					"name": "Trout Derby Reward 9",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719082"],
+					"access_rules": ["$summer"],
 					"map_locations":[
                       {
                         "map":"Fishing Festivals",
@@ -121,6 +130,7 @@
 					"name": "Trout Derby Reward 10",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719083"],
+					"access_rules": ["$summer"],
 					"map_locations":[
                       {
                         "map":"Fishing Festivals",
@@ -139,6 +149,7 @@
 					"name": "SquidFest Day 1 Copper",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719084"],
+					"access_rules": ["$winter"],
 					"map_locations":[
                       {
                         "map":"Fishing Festivals",
@@ -151,6 +162,7 @@
 					"name": "SquidFest Day 1 Iron",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719085"],
+					"access_rules": ["$winter"],
 					"map_locations":[
                       {
                         "map":"Fishing Festivals",
@@ -163,6 +175,7 @@
 					"name": "SquidFest Day 1 Gold",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719086"],
+					"access_rules": ["$winter"],
 					"map_locations":[
                       {
                         "map":"Fishing Festivals",
@@ -175,6 +188,7 @@
 					"name": "SquidFest Day 1 Iridium",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719087"],
+					"access_rules": ["$winter"],
 					"map_locations":[
                       {
                         "map":"Fishing Festivals",
@@ -187,6 +201,7 @@
 					"name": "SquidFest Day 2 Copper",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719088"],
+					"access_rules": ["$winter"],
 					"map_locations":[
                       {
                         "map":"Fishing Festivals",
@@ -199,6 +214,7 @@
 					"name": "SquidFest Day 2 Iron",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719089"],
+					"access_rules": ["$winter"],
 					"map_locations":[
                       {
                         "map":"Fishing Festivals",
@@ -211,6 +227,7 @@
 					"name": "SquidFest Day 2 Gold",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719090"],
+					"access_rules": ["$winter"],
 					"map_locations":[
                       {
                         "map":"Fishing Festivals",
@@ -223,6 +240,7 @@
 					"name": "SquidFest Day 2 Iridium",
 					"sections": [{"item_count": 1,}],
 					"visibility_rules": ["719091"],
+					"access_rules": ["$winter"],
 					"map_locations":[
                       {
                         "map":"Fishing Festivals",
