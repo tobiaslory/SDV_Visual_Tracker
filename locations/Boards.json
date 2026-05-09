@@ -12,7 +12,7 @@
                         "item_count": 1
                     }
                 ],
-				"visibility_rules": ["719117,board_on,board_qi"],
+				"visibility_rules": ["719117,board_on", "719117,board_qi"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -29,7 +29,7 @@
                         "item_count": 1
                     }
                 ],
-				"visibility_rules": ["719103,board_on,board_qi"],
+				"visibility_rules": ["719103,board_on", "719103,board_qi"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -46,7 +46,7 @@
                         "item_count": 1
                     }
                 ],
-				"visibility_rules": ["719104,board_on,board_qi"],
+				"visibility_rules": ["719104,board_on", "719104,board_qi"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -63,7 +63,7 @@
                         "item_count": 1
                     }
                 ],
-				"visibility_rules": ["719102,board_on,board_qi"],
+				"visibility_rules": ["719102,board_on", "719102,board_qi"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -80,7 +80,7 @@
                         "item_count": 1
                     }
                 ],
-				"visibility_rules": ["719110,board_on,board_qi"],
+				"visibility_rules": ["719110,board_on", "719110,board_qi"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -97,7 +97,7 @@
                         "item_count": 1
                     }
                 ],
-				"visibility_rules": ["719109,board_on,board_qi"],
+				"visibility_rules": ["719109,board_on", "719109,board_qi"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -114,7 +114,7 @@
                         "item_count": 1
                     }
                 ],
-				"visibility_rules": ["719107,board_on,board_qi"],
+				"visibility_rules": ["719107,board_on", "719107,board_qi"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -131,7 +131,7 @@
                         "item_count": 1
                     }
                 ],
-				"visibility_rules": ["719106,board_on,board_qi"],
+				"visibility_rules": ["719106,board_on", "719106,board_qi"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -148,7 +148,7 @@
                         "item_count": 1
                     }
                 ],
-				"visibility_rules": ["719108,board_on,board_qi"],
+				"visibility_rules": ["719108,board_on", "719108,board_qi"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -165,7 +165,7 @@
                         "item_count": 1
                     }
                 ],
-				"visibility_rules": ["719115,board_on,board_qi"],
+				"visibility_rules": ["719115,board_on", "719115,board_qi"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -182,7 +182,7 @@
                         "item_count": 1
                     }
                 ],
-				"visibility_rules": ["719112,board_on,board_qi"],
+				"visibility_rules": ["719112,board_on", "719112,board_qi"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -199,7 +199,7 @@
                         "item_count": 1
                     }
                 ],
-				"visibility_rules": ["719118,board_on,board_qi"],
+				"visibility_rules": ["719118,board_on", "719118,board_qi"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -216,7 +216,7 @@
                         "item_count": 1
                     }
                 ],
-				"visibility_rules": ["719105,board_on,board_qi"],
+				"visibility_rules": ["719105,board_on", "719105,board_qi"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -233,7 +233,7 @@
                         "item_count": 1
                     }
                 ],
-				"visibility_rules": ["719113,board_on,board_qi"],
+				"visibility_rules": ["719113,board_on", "719113,board_qi"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -250,7 +250,7 @@
                         "item_count": 1
                     }
                 ],
-				"visibility_rules": ["719114,board_on,board_qi"],
+				"visibility_rules": ["719114,board_on", "719114,board_qi"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -267,7 +267,7 @@
                         "item_count": 1
                     }
                 ],
-				"visibility_rules": ["719111,board_on,board_qi"],
+				"visibility_rules": ["719111,board_on", "719111,board_qi"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -284,7 +284,7 @@
                         "item_count": 1
                     }
                 ],
-				"visibility_rules": ["719101,board_on,island_tracking_on,board_qi,island_tracking_on"],
+				"visibility_rules": ["719101,board_on", "719101,island_tracking_on", "719101,board_qi", "719101,island_tracking_on"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -301,7 +301,7 @@
                         "item_count": 1
                     }
                 ],
-				"visibility_rules": ["719116,board_on,island_tracking_on,board_qi,island_tracking_on"],
+				"visibility_rules": ["719116,board_on", "719116,island_tracking_on", "719116,board_qi", "719116,island_tracking_on"],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -318,7 +318,7 @@
                         "item_count": 1
                     }
                 ],
-				"visibility_rules": ["719158,board_qi,island_tracking_on"],
+				"visibility_rules": ["719158,board_qi", "719158,island_tracking_on"],
 				"access_rules": ["island,turtlew,walnutroom"],
                 "map_locations":[
                     {
@@ -336,7 +336,7 @@
                         "item_count": 1
                     }
                 ],
-				"visibility_rules": ["719157,board_qi,island_tracking_on"],
+				"visibility_rules": ["719157,board_qi", "719157,island_tracking_on"],
 				"access_rules": ["island,turtlew,walnutroom"],
                 "map_locations":[
                     {
@@ -354,7 +354,7 @@
                         "item_count": 1
                     }
                 ],
-				"visibility_rules": ["719153,board_qi,island_tracking_on"],
+				"visibility_rules": ["719153,board_qi", "719153,island_tracking_on"],
 				"access_rules": ["island,turtlew,walnutroom"],
                 "map_locations":[
                     {
@@ -372,7 +372,7 @@
                         "item_count": 1
                     }
                 ],
-				"visibility_rules": ["719152,board_qi,island_tracking_on"],
+				"visibility_rules": ["719152,board_qi", "719152,island_tracking_on"],
 				"access_rules": ["island,turtlew,walnutroom"],
                 "map_locations":[
                     {
@@ -390,7 +390,7 @@
                         "item_count": 1
                     }
                 ],
-				"visibility_rules": ["719151,board_qi,island_tracking_on"],
+				"visibility_rules": ["719151,board_qi", "719151,island_tracking_on"],
 				"access_rules": ["island,turtlew,walnutroom"],
                 "map_locations":[
                     {
@@ -408,7 +408,7 @@
                         "item_count": 1
                     }
                 ],
-				"visibility_rules": ["719155,board_qi,island_tracking_on"],
+				"visibility_rules": ["719155,board_qi", "719155,island_tracking_on"],
 				"access_rules": ["island,turtlew,walnutroom"],
                 "map_locations":[
                     {
@@ -426,7 +426,7 @@
                         "item_count": 1
                     }
                 ],
-				"visibility_rules": ["719154,board_qi,island_tracking_on"],
+				"visibility_rules": ["719154,board_qi", "719154,island_tracking_on"],
 				"access_rules": ["island,turtlew,walnutroom"],
                 "map_locations":[
                     {
@@ -444,7 +444,7 @@
                         "item_count": 1
                     }
                 ],
-				"visibility_rules": ["719156,board_qi,island_tracking_on"],
+				"visibility_rules": ["719156,board_qi", "719156,island_tracking_on"],
 				"access_rules": ["island,turtlew,walnutroom"],
                 "map_locations":[
                     {
@@ -462,7 +462,7 @@
                         "item_count": 1
                     }
                 ],
-				"visibility_rules": ["719160,board_qi,island_tracking_on"],
+				"visibility_rules": ["719160,board_qi", "719160,island_tracking_on"],
 				"access_rules": ["island,turtlew,walnutroom"],
                 "map_locations":[
                     {
@@ -480,7 +480,7 @@
                         "item_count": 1
                     }
                 ],
-				"visibility_rules": ["719159,board_qi,island_tracking_on"],
+				"visibility_rules": ["719159,board_qi", "719159,island_tracking_on"],
 				"access_rules": ["island,turtlew,walnutroom"],
                 "map_locations":[
                     {

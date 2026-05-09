@@ -1,6 +1,16 @@
 {
 	"versions": [
 		{
+			"package_version": "1.7.5",
+			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.5/stardew_valley_randomizer.zip",
+			"sha256": "28d5109469be26d5af9bd32358dbd0091fe213d1afbd7bc5c9943bc37d914334",
+			"changelog": [
+				"FIXED 1.7.4 overcorrection: visibility_rules with multi-mode flags (e.g., shipsanity_fish + shipsanity_full + shipsanity_all) were collapsed into a single AND, requiring all modes simultaneously — impossible since modes are mutually exclusive, so locations never showed. Now redistributed as `[code,fish, code,full, code,all]` = code AND (fish OR full OR all). 288 multi-mode rules fixed across Cropsanity, Fishsanity, Boards, Museum_Donations.",
+				"Moved Rat Problem Cutscene marker on the main map from (530, 285) to (720, 290) so it no longer overlaps the Introductions / How to Win Friends quest markers.",
+				"Restructured the Sanities menu: only actual sanity options now live there. New top-level 'Progression' tab contains Buildings, Mine Elevators, Tool Upgrades. New 'Endgame Goals' tab contains Endgame and Walnut Purchase. Babies became a sub-tab of Friends inside Sanities (friendship-adjacent). Walnut Purchase moved out of Walnuts since it's not a sanity."
+			]
+		},
+		{
 			"package_version": "1.7.4",
 			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.4/stardew_valley_randomizer.zip",
 			"sha256": "fc2496caea931ba4933f4cbc521f31bd1f2d708c339097e1258ddbd82ff1ff74",
