@@ -93,7 +93,7 @@
             {
                 "name": "Advancement",
 		"visibility_rules": ["717505"],
-		"access_rules": ["$farming1"],
+		"access_rules": ["$spring"],
                 "sections":[
                   {
                     "item_count": 1,
@@ -128,7 +128,7 @@
             {
                 "name": "Forging Ahead",
 		"visibility_rules": ["717508"],
-		"access_rules": ["mining:6"],
+		"access_rules": ["$can_walk_to_mines_floor_5,furnacerecipe"],
                 "sections":[
                     {
                         "name": "Craft a Furnace",
@@ -146,6 +146,7 @@
             {
                 "name": "Smelting",
 		"visibility_rules": ["717509"],
+		"access_rules": ["$can_walk_to_mines_floor_5,furnacerecipe"],
                 "sections":[
                     {
                         "name": "Smelt a Copper Bar",
@@ -163,6 +164,7 @@
             {
                 "name": "Initiation",
 		"visibility_rules": ["717510"],
+		"access_rules": ["$can_walk_to_mines_floor_5"],
                 "sections":[
                     {
                         "name": "Slay 10 green slimes",
@@ -539,7 +541,7 @@
             {
                 "name": "A Soldier's Star",
 		"visibility_rules": ["717531"],
-		"access_rules": ["$can_access_desert","$summer"],
+		"access_rules": ["$summer,$can_earn_money_substantial"],
                 "sections":[
                   {
                     "item_count": 1,
@@ -755,7 +757,7 @@
             {
                 "name": "Exotic Spirits",
 		"visibility_rules": ["717543"],
-		"access_rules":["$can_access_desert","$can_access_island,winter"], 
+		"access_rules":["$can_access_desert,$winter","$can_access_island,$winter"],
                 "sections":[
                     {
                       "name": "Deliver it!",

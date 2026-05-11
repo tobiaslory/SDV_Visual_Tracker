@@ -3850,7 +3850,12 @@
                         ],
                         "access_rules": [
                             "$tmsun",
-                            "$tmtues"
+                            "$tmmon",
+                            "$tmtues",
+                            "$tmwed",
+                            "$tmthurs",
+                            "$tmfri",
+                            "$tmsat"
                         ]
                     },
                     {
