@@ -43,16 +43,27 @@ function has_at_least_iridium_pickaxe()
     return has("IridiumPick")
 end
 
+-- Elevator is a 24-stage progressive item; only the current stage's "eN"
+-- code is active at any time, so we can't check a single threshold with
+-- has("eN"). Helper checks any stage at or above the requested floor.
+function has_at_least_elevator(min_floor)
+    min_floor = tonumber(min_floor) or 0
+    for floor = min_floor, 120, 5 do
+        if has("e" .. floor) then return true end
+    end
+    return false
+end
+
 function can_mine_copper()
-    return has_at_least_copper_pickaxe() or has("e5")
+    return has_at_least_copper_pickaxe() or has_at_least_elevator(5)
 end
 
 function can_mine_iron()
-    return has_at_least_iron_pickaxe() or has("e40")
+    return has_at_least_iron_pickaxe() or has_at_least_elevator(40)
 end
 
 function can_mine_gold()
-    return has_at_least_gold_pickaxe() or has("e80")
+    return has_at_least_gold_pickaxe() or has_at_least_elevator(80)
 end
 
 -- Axe / Hoe / Watering Can / Trash Can / Pan use the same pattern.

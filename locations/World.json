@@ -87,28 +87,30 @@
                     {
                         "name": "Floors 5-20",
                         "clear_as_group": false,
-                        "item_count": 4
+                        "item_count": 4,
+                        "access_rules":
+                            ["$can_walk_to_mines_floor_5"]
                     },
                     {
                         "name": "Floors 25-40",
                         "clear_as_group": false,
                         "item_count": 4,
-                        "access_rules": 
-                            ["$can_mine_copper"]
+                        "access_rules":
+                            ["$has_at_least_copper_pickaxe,$has_weapon,$has_at_least_elevator(15)"]
                     },
                     {
                         "name": "Floors 45-80",
                         "clear_as_group": false,
                         "item_count": 8,
-                        "access_rules": 
-                            ["$can_mine_iron"]
+                        "access_rules":
+                            ["$has_at_least_iron_pickaxe,$has_weapon,$has_at_least_elevator(35)"]
                     },
                     {
                         "name": "Floors 85-120",
                         "clear_as_group": false,
                         "item_count": 8,
-                        "access_rules": 
-                            ["$can_mine_gold"]
+                        "access_rules":
+                            ["$has_at_least_gold_pickaxe,$has_weapon,$has_at_least_elevator(75)"]
                     }
                 ],
                 "map_locations":[

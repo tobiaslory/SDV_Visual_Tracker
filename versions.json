@@ -1,6 +1,16 @@
 {
 	"versions": [
 		{
+			"package_version": "1.7.10",
+			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.10/stardew_valley_randomizer.zip",
+			"sha256": "a2092bc4fb53063dc3fac7d1a7dd4cd76b9bfa67d7af07821f44e7dc2b6d884e",
+			"changelog": [
+				"Fix: Mine Elevator floors 15+ used $has(\"eN\") access rules, but the elevator item is a 24-stage progressive — only the *current* stage's eN code is active, so a player at stage 4 (e20) failed the has(\"e5\") check for Floor 15. Added has_at_least_elevator(min_floor) helper to logic.lua that ORs across all stages from min_floor up, and replaced 22 rules in Mine_Elevators.json. Same fix applied inside can_mine_copper / can_mine_iron / can_mine_gold which had identical bug.",
+				"Fix: World.json's grouped Mine Elevators (Floors 25-40 / 45-80 / 85-120) gated only on $can_mine_copper / iron / gold, so they showed in-logic before the matching elevator floor was actually accessible. They now require the lowest-floor's elevator stage on top of the pickaxe tier, matching the dedicated Mine Elevators tab.",
+				"Cleanup: Skills_Masteries.json had every Level 2+ row's access_rules key listed 4 times in a row (build-script stutter). Collapsed to one copy each. Strict JSON forbids duplicate keys; even when parsers tolerate it, the duplication was at minimum confusing."
+			]
+		},
+		{
 			"package_version": "1.7.9",
 			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.9/stardew_valley_randomizer.zip",
 			"sha256": "f029bafb00e78627086b9cbad7bfa42ca9207d62b82190069da3869e4be55c58",

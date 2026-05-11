@@ -64,7 +64,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_copper_pickaxe,$has_weapon,$has(\"e5\")"
+                    "$has_at_least_copper_pickaxe,$has_weapon,$has_at_least_elevator(5)"
                 ]
             },
             {
@@ -85,7 +85,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_copper_pickaxe,$has_weapon,$has(\"e10\")"
+                    "$has_at_least_copper_pickaxe,$has_weapon,$has_at_least_elevator(10)"
                 ]
             },
             {
@@ -106,7 +106,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_copper_pickaxe,$has_weapon,$has(\"e15\")"
+                    "$has_at_least_copper_pickaxe,$has_weapon,$has_at_least_elevator(15)"
                 ]
             },
             {
@@ -127,7 +127,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_copper_pickaxe,$has_weapon,$has(\"e20\")"
+                    "$has_at_least_copper_pickaxe,$has_weapon,$has_at_least_elevator(20)"
                 ]
             },
             {
@@ -148,7 +148,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_copper_pickaxe,$has_weapon,$has(\"e25\")"
+                    "$has_at_least_copper_pickaxe,$has_weapon,$has_at_least_elevator(25)"
                 ]
             },
             {
@@ -169,7 +169,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_copper_pickaxe,$has_weapon,$has(\"e30\")"
+                    "$has_at_least_copper_pickaxe,$has_weapon,$has_at_least_elevator(30)"
                 ]
             },
             {
@@ -190,7 +190,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_iron_pickaxe,$has_weapon,$has(\"e35\")"
+                    "$has_at_least_iron_pickaxe,$has_weapon,$has_at_least_elevator(35)"
                 ]
             },
             {
@@ -211,7 +211,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_iron_pickaxe,$has_weapon,$has(\"e40\")"
+                    "$has_at_least_iron_pickaxe,$has_weapon,$has_at_least_elevator(40)"
                 ]
             },
             {
@@ -232,7 +232,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_iron_pickaxe,$has_weapon,$has(\"e45\")"
+                    "$has_at_least_iron_pickaxe,$has_weapon,$has_at_least_elevator(45)"
                 ]
             },
             {
@@ -253,7 +253,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_iron_pickaxe,$has_weapon,$has(\"e50\")"
+                    "$has_at_least_iron_pickaxe,$has_weapon,$has_at_least_elevator(50)"
                 ]
             },
             {
@@ -274,7 +274,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_iron_pickaxe,$has_weapon,$has(\"e55\")"
+                    "$has_at_least_iron_pickaxe,$has_weapon,$has_at_least_elevator(55)"
                 ]
             },
             {
@@ -295,7 +295,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_iron_pickaxe,$has_weapon,$has(\"e60\")"
+                    "$has_at_least_iron_pickaxe,$has_weapon,$has_at_least_elevator(60)"
                 ]
             },
             {
@@ -316,7 +316,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_iron_pickaxe,$has_weapon,$has(\"e65\")"
+                    "$has_at_least_iron_pickaxe,$has_weapon,$has_at_least_elevator(65)"
                 ]
             },
             {
@@ -337,7 +337,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_iron_pickaxe,$has_weapon,$has(\"e70\")"
+                    "$has_at_least_iron_pickaxe,$has_weapon,$has_at_least_elevator(70)"
                 ]
             },
             {
@@ -358,7 +358,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_gold_pickaxe,$has_weapon,$has(\"e75\")"
+                    "$has_at_least_gold_pickaxe,$has_weapon,$has_at_least_elevator(75)"
                 ]
             },
             {
@@ -379,7 +379,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_gold_pickaxe,$has_weapon,$has(\"e80\")"
+                    "$has_at_least_gold_pickaxe,$has_weapon,$has_at_least_elevator(80)"
                 ]
             },
             {
@@ -400,7 +400,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_gold_pickaxe,$has_weapon,$has(\"e85\")"
+                    "$has_at_least_gold_pickaxe,$has_weapon,$has_at_least_elevator(85)"
                 ]
             },
             {
@@ -421,7 +421,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_gold_pickaxe,$has_weapon,$has(\"e90\")"
+                    "$has_at_least_gold_pickaxe,$has_weapon,$has_at_least_elevator(90)"
                 ]
             },
             {
@@ -442,7 +442,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_gold_pickaxe,$has_weapon,$has(\"e95\")"
+                    "$has_at_least_gold_pickaxe,$has_weapon,$has_at_least_elevator(95)"
                 ]
             },
             {
@@ -463,7 +463,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_gold_pickaxe,$has_weapon,$has(\"e100\")"
+                    "$has_at_least_gold_pickaxe,$has_weapon,$has_at_least_elevator(100)"
                 ]
             },
             {
@@ -484,7 +484,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_gold_pickaxe,$has_weapon,$has(\"e105\")"
+                    "$has_at_least_gold_pickaxe,$has_weapon,$has_at_least_elevator(105)"
                 ]
             },
             {
@@ -505,7 +505,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_gold_pickaxe,$has_weapon,$has(\"e110\")"
+                    "$has_at_least_gold_pickaxe,$has_weapon,$has_at_least_elevator(110)"
                 ]
             }
         ]
