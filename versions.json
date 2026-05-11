@@ -1,14 +1,22 @@
 {
 	"versions": [
 		{
+			"package_version": "1.7.14",
+			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.14/stardew_valley_randomizer.zip",
+			"sha256": "0cdb307240a92e5ee9d4c757e579979dc85e59fcf9221f6bcccc1608d0b0f5b2",
+			"changelog": [
+				"Revert: pulled the 1.7.13 LOCATION_MAPPING additions (1691 @TreePath entries for generated sanity categories) — they caused a regression where entire sanity categories disappeared from the tracker view after install. Root cause not fully identified yet; suspect PopTracker's path resolution interacts badly with the generator's @TopLevel/Sub/Leaf walk shape. Side effect: sanity 'location checked' events go back to being silently dropped (Crystal Floor Recipe stays marked uncollected after the AP send) — to revisit. The 1.7.13 rule fixes below are preserved.",
+				"Fix: Quest 'Forging Ahead' was gated on mining:6, the vanilla SDV quest unlock requirement. AP gates it on has(Ore.copper) & has(Machine.furnace) instead. Rule is now $can_walk_to_mines_floor_5,furnacerecipe.",
+				"Fix: Wedding Ring Recipe was gated on $tmsun OR $tmtues only. In AP it's a shop_recipe at LogicRegion.traveling_cart, reachable from ANY of the 7 day-specific traveling-cart sub-regions. Rule now ORs all 7 days.",
+				"Story-quest audit vs Archipelago/.../quest_logic.py — 6 more rules corrected to AP semantics: Advancement $farming1 → $spring; Smelting (none) → $can_walk_to_mines_floor_5,furnacerecipe; Initiation (none) → $can_walk_to_mines_floor_5; A Soldier's Star $can_access_desert/$summer → $summer,$can_earn_money_substantial; Exotic Spirits — added missing $winter on the desert branch."
+			]
+		},
+		{
 			"package_version": "1.7.13",
 			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.13/stardew_valley_randomizer.zip",
 			"sha256": "001e2b8beddd7ae10846341585fbdf6e25601467197307f4967df28acc800807",
 			"changelog": [
-				"Fix: autotracker silently ignored 'location checked' events for every generated sanity category (Craftsanity, Eatsanity, Hatsanity, Monstersanity, Walnutsanity, Chefsanity, Moviesanity, Secretsanity, Endgame, Walnut_Purchase, Babies, Buildings, Mine_Elevators, Tool_Upgrades, Friendsanity, Story_Checks). archipelago.lua's onLocation handler looks up the AP location id in LOCATION_MAPPING to find the @TreePath of the tracker section and decrement its AvailableChestCount. The legacy hand-written mappings (~1250 entries: Community Center, Cooksanity, Fishsanity, etc.) didn't cover any of the generated categories, so e.g. Crystal Floor Recipe stayed marked uncollected forever even after the player checked the location. Generated 1691 mappings from the locations/*.json tree via _build/generate_location_mappings.py.",
-				"Fix: Quest 'Forging Ahead' was gated on mining:6, the vanilla SDV quest unlock requirement. AP gates it on has(Ore.copper) & has(Machine.furnace) instead — so receiving the Furnace Recipe + having a copper pickaxe should be enough, no Mining 6 needed. Rule is now $can_walk_to_mines_floor_5,furnacerecipe.",
-				"Fix: Wedding Ring Recipe was gated on $tmsun OR $tmtues only. In AP it's a shop_recipe at LogicRegion.traveling_cart, which is reachable from ANY of the 7 day-specific traveling-cart sub-regions. Rule now ORs all 7 days (sun/mon/tues/wed/thurs/fri/sat).",
-				"Story-quest audit vs Archipelago/worlds/stardew_valley/logic/quest_logic.py — 6 more rules corrected to AP semantics: 'Advancement' was $farming1 (vanilla mailbox gate, AP doesn't care about Farming 1) → $spring; 'Smelting' had no rule, AP requires has(MetalBar.copper) which = furnace+copper → $can_walk_to_mines_floor_5,furnacerecipe; 'Initiation' had no rule, AP requires mines_1_40 → $can_walk_to_mines_floor_5; 'A Soldier's Star' was $can_access_desert/$summer (desert isn't required), AP wants summer+year_two+starfruit → $summer,$can_earn_money_substantial (year-2 proxy); 'Exotic Spirits' had $can_access_desert OR ($can_access_island,winter) — winter was missing from desert branch — fixed to require winter on both branches. Override JSON updated for future regens."
+				"This release introduced a regression and is superseded by 1.7.14 — the 1691 LOCATION_MAPPING entries broke sanity-category visibility. The quest/recipe rule fixes from this release are retained in 1.7.14."
 			]
 		},
 		{
