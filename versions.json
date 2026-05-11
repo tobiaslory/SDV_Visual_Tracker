@@ -1,6 +1,14 @@
 {
 	"versions": [
 		{
+			"package_version": "1.7.12",
+			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.12/stardew_valley_randomizer.zip",
+			"sha256": "28403d70758efd2b3ff46e0ef504b044e79f9d355a1819c1997a4db8a680e593",
+			"changelog": [
+				"Fix: $func(arg) syntax isn't supported in PopTracker access rules — only arg-less $func calls work. So $has_at_least_elevator(5) silently failed and Mine Elevator floors 15-30 stayed out-of-logic even when the player had reached e20. Added 23 per-threshold no-arg wrappers (has_at_least_elevator_5, _10, _15, ..., _115) in logic.lua via metaprogramming and updated 25 rules in Mine_Elevators.json + World.json to use them. Same fix that the rest of the pack uses (no parens in $func references)."
+			]
+		},
+		{
 			"package_version": "1.7.11",
 			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.11/stardew_valley_randomizer.zip",
 			"sha256": "1c5133ce6fcdc6526ddebd45cbdae0b741383729ff565fd5f9afb1fa949dda39",

@@ -46,12 +46,21 @@ end
 -- Elevator is a 24-stage progressive item; only the current stage's "eN"
 -- code is active at any time, so we can't check a single threshold with
 -- has("eN"). Helper checks any stage at or above the requested floor.
+-- PopTracker access rules don't support $func(arg) syntax, so we expose
+-- per-threshold no-arg wrappers below (has_at_least_elevator_5, ..._10,
+-- etc.) for use from JSON. The parametrized version stays for Lua callers.
 function has_at_least_elevator(min_floor)
     min_floor = tonumber(min_floor) or 0
     for floor = min_floor, 120, 5 do
         if has("e" .. floor) then return true end
     end
     return false
+end
+
+for threshold = 5, 115, 5 do
+    _G["has_at_least_elevator_" .. threshold] = function()
+        return has_at_least_elevator(threshold)
+    end
 end
 
 function can_mine_copper()
