@@ -1,6 +1,14 @@
 {
 	"versions": [
 		{
+			"package_version": "1.7.15",
+			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.15/stardew_valley_randomizer.zip",
+			"sha256": "df444810639a889b62b1f69993dd0af3dc82a14b4fbaf9705bca2b7f41fd1da7",
+			"changelog": [
+				"Fix: re-introduce the 1691 LOCATION_MAPPING entries for generated sanity categories (Craftsanity, Eatsanity, Hatsanity, Monstersanity, Walnutsanity, Chefsanity, Moviesanity, Secretsanity, Endgame, Walnut_Purchase, Babies, Buildings, Mine_Elevators, Tool_Upgrades, Friendsanity, Story_Checks) so 'location checked' events auto-mark sections as collected. Root cause of the 1.7.13 regression identified: leaves in the generated categories all have ANONYMOUS sections, and PopTracker requires a trailing '/' on the @Path to address the default section (matches the format of the legacy hand-written Cropsanity/Fishsanity entries: @Cropsanity/Amaranth/Harvested/). Without the trailing slash the resolver did something destructive that hid whole categories. Fixed generator to append the trailing slash and regenerated. Crystal Floor Recipe / Craft Field Snack / Friendsanity hearts / Hatsanity drops / etc. should now auto-mark when the AP location is checked."
+			]
+		},
+		{
 			"package_version": "1.7.14",
 			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.14/stardew_valley_randomizer.zip",
 			"sha256": "0cdb307240a92e5ee9d4c757e579979dc85e59fcf9221f6bcccc1608d0b0f5b2",
