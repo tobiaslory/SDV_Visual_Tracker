@@ -40,7 +40,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has(\"coop\",1)"
+                    "coop:1"
                 ]
             },
             {
@@ -61,7 +61,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has(\"coop\",2)"
+                    "coop:2"
                 ]
             },
             {
@@ -100,7 +100,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has(\"barn\",1)"
+                    "barn:1"
                 ]
             },
             {
@@ -121,7 +121,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has(\"barn\",2)"
+                    "barn:2"
                 ]
             },
             {
@@ -214,7 +214,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has(\"shed\")"
+                    "shed"
                 ]
             },
             {
@@ -307,7 +307,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has(\"house\",1)"
+                    "house:1"
                 ]
             },
             {
@@ -328,7 +328,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has(\"house\",2)"
+                    "house:2"
                 ]
             },
             {
@@ -349,7 +349,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has(\"house\",1)"
+                    "house:1"
                 ]
             },
             {

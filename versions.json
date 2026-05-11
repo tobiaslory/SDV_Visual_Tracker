@@ -1,6 +1,15 @@
 {
 	"versions": [
 		{
+			"package_version": "1.7.11",
+			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.11/stardew_valley_randomizer.zip",
+			"sha256": "1c5133ce6fcdc6526ddebd45cbdae0b741383729ff565fd5f9afb1fa949dda39",
+			"changelog": [
+				"Fix: $has(\"X\",N) multi-arg access rules never evaluated correctly — PopTracker's rule parser treats top-level commas as AND, so $has(\"combat\",1) was being shredded into two broken halves and the whole rule failed. Locations using these rules (Combat Level 2+, Foraging-gated crafts, all Skill mastery levels, skill-gated craftsanity, tool upgrades, buildings, quests) stayed permanently out-of-logic even after the required items were received. Converted all 154 multi-arg occurrences to PopTracker's built-in shorthand (combat:1, foraging:2, etc.).",
+				"Cleanup: also converted single-arg $has(\"X\") (85 occurrences) to bare shorthand X for consistency — same semantics, no Lua hop, matches the convention used in the older hand-written Cooksanity/Fishsanity files."
+			]
+		},
+		{
 			"package_version": "1.7.10",
 			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.10/stardew_valley_randomizer.zip",
 			"sha256": "a2092bc4fb53063dc3fac7d1a7dd4cd76b9bfa67d7af07821f44e7dc2b6d884e",

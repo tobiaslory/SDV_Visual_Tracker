@@ -71,7 +71,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718250,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -101,7 +101,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718248,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -281,7 +281,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718253,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -341,7 +341,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718246,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -371,7 +371,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718247,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -491,7 +491,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718244,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -551,7 +551,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718245,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -731,7 +731,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718252,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1241,7 +1241,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718274,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1271,7 +1271,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718254,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1331,7 +1331,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718243,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1361,7 +1361,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718249,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1571,7 +1571,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718251,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1601,7 +1601,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718240,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1631,7 +1631,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718221,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1661,7 +1661,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718207,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1691,7 +1691,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718227,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1721,7 +1721,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718218"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1758,7 +1758,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718213,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1788,7 +1788,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718206,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1818,7 +1818,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718223,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1848,7 +1848,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718209,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1878,7 +1878,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718217,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1908,7 +1908,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718205,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1938,7 +1938,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718211,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1968,7 +1968,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718220,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -1998,7 +1998,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718226,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2028,7 +2028,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718201,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2058,7 +2058,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718202,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2088,7 +2088,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718203,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2118,7 +2118,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718204,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2148,7 +2148,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718225,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2178,7 +2178,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718208,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2208,7 +2208,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718222,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2238,7 +2238,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718228,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2268,7 +2268,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718229,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2298,7 +2298,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718239,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2328,7 +2328,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718210,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2358,7 +2358,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718241,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2417,7 +2417,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718236,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2447,7 +2447,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718232,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2477,7 +2477,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718234,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2507,7 +2507,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718233,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2537,7 +2537,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718219,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2567,7 +2567,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718237,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2597,7 +2597,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718212,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2627,7 +2627,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718216,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2657,7 +2657,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718214,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2687,7 +2687,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718215,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2746,7 +2746,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718238,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2776,7 +2776,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718230,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",
@@ -2806,7 +2806,7 @@
 					"name": "Donate",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["718231,museum_donation"],
-					"access_rules": ["$has(\"hoe\")"],
+					"access_rules": ["hoe"],
 					"map_locations":[
                       {
                         "map":"Museum_Donations",

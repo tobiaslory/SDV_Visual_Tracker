@@ -128,7 +128,7 @@
             {
                 "name": "Forging Ahead",
 		"visibility_rules": ["717508"],
-		"access_rules": ["$has(\"mining\",6)"],
+		"access_rules": ["mining:6"],
                 "sections":[
                     {
                         "name": "Craft a Furnace",

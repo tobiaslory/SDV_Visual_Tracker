@@ -22,7 +22,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has(\"mining\",1)"
+                    "mining:1"
                 ]
             },
             {
@@ -43,7 +43,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_copper_hoe,$has(\"mining\",4)"
+                    "$has_at_least_copper_hoe,mining:4"
                 ]
             },
             {
@@ -64,7 +64,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_steel_hoe,$has(\"mining\",6)"
+                    "$has_at_least_steel_hoe,mining:6"
                 ]
             },
             {
@@ -85,7 +85,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_gold_hoe,$has(\"mining\",8)"
+                    "$has_at_least_gold_hoe,mining:8"
                 ]
             },
             {
@@ -106,7 +106,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has(\"mining\",1)"
+                    "mining:1"
                 ]
             },
             {
@@ -127,7 +127,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_copper_pickaxe,$has(\"mining\",4)"
+                    "$has_at_least_copper_pickaxe,mining:4"
                 ]
             },
             {
@@ -148,7 +148,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_steel_pickaxe,$has(\"mining\",6)"
+                    "$has_at_least_steel_pickaxe,mining:6"
                 ]
             },
             {
@@ -169,7 +169,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_gold_pickaxe,$has(\"mining\",8)"
+                    "$has_at_least_gold_pickaxe,mining:8"
                 ]
             },
             {
@@ -190,7 +190,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has(\"mining\",1)"
+                    "mining:1"
                 ]
             },
             {
@@ -211,7 +211,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_copper_axe,$has(\"mining\",4)"
+                    "$has_at_least_copper_axe,mining:4"
                 ]
             },
             {
@@ -232,7 +232,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_steel_axe,$has(\"mining\",6)"
+                    "$has_at_least_steel_axe,mining:6"
                 ]
             },
             {
@@ -253,7 +253,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_gold_axe,$has(\"mining\",8)"
+                    "$has_at_least_gold_axe,mining:8"
                 ]
             },
             {
@@ -274,7 +274,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has(\"mining\",1)"
+                    "mining:1"
                 ]
             },
             {
@@ -295,7 +295,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_copper_can,$has(\"mining\",4)"
+                    "$has_at_least_copper_can,mining:4"
                 ]
             },
             {
@@ -316,7 +316,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_steel_can,$has(\"mining\",6)"
+                    "$has_at_least_steel_can,mining:6"
                 ]
             },
             {
@@ -337,7 +337,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_gold_can,$has(\"mining\",8)"
+                    "$has_at_least_gold_can,mining:8"
                 ]
             },
             {
@@ -358,7 +358,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has(\"mining\",1)"
+                    "mining:1"
                 ]
             },
             {
@@ -379,7 +379,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_copper_trash,$has(\"mining\",4)"
+                    "$has_at_least_copper_trash,mining:4"
                 ]
             },
             {
@@ -400,7 +400,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_steel_trash,$has(\"mining\",6)"
+                    "$has_at_least_steel_trash,mining:6"
                 ]
             },
             {
@@ -421,7 +421,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_gold_trash,$has(\"mining\",8)"
+                    "$has_at_least_gold_trash,mining:8"
                 ]
             },
             {
@@ -478,7 +478,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has(\"fishing\",2)"
+                    "fishing:2"
                 ]
             },
             {
@@ -499,7 +499,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has(\"fishing\",6)"
+                    "fishing:6"
                 ]
             },
             {
@@ -520,7 +520,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has(\"glittering\")"
+                    "glittering"
                 ]
             },
             {
@@ -541,7 +541,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_copper_pan,$has(\"mining\",4)"
+                    "$has_at_least_copper_pan,mining:4"
                 ]
             },
             {
@@ -562,7 +562,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_steel_pan,$has(\"mining\",6)"
+                    "$has_at_least_steel_pan,mining:6"
                 ]
             },
             {
@@ -583,7 +583,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has_at_least_gold_pan,$has(\"mining\",8)"
+                    "$has_at_least_gold_pan,mining:8"
                 ]
             }
         ]

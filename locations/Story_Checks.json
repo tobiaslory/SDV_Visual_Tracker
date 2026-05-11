@@ -337,7 +337,7 @@
                     }
                 ],
                 "access_rules": [
-                    "$has(\"sewerkey\"),$can_earn_money_late_game"
+                    "sewerkey,$can_earn_money_late_game"
                 ]
             }
         ]

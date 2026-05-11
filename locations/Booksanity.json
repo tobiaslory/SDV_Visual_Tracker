@@ -11,7 +11,7 @@
 					"name": "Read",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["721013"],
-					"access_rules": ["$has(\"powerthealleywaybuffet\")"],
+					"access_rules": ["powerthealleywaybuffet"],
 					"map_locations":[
                       {
                         "map":"Booksanity",
@@ -41,7 +41,7 @@
 					"name": "Read",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["721019"],
-					"access_rules": ["$has(\"poweranimalcatalogue\")"],
+					"access_rules": ["poweranimalcatalogue"],
 					"map_locations":[
                       {
                         "map":"Booksanity",
@@ -71,7 +71,7 @@
 					"name": "Read",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["721012"],
-					"access_rules": ["$has(\"powertheartocrabbing\")"],
+					"access_rules": ["powertheartocrabbing"],
 					"map_locations":[
                       {
                         "map":"Booksanity",
@@ -101,7 +101,7 @@
 					"name": "Read",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["721015"],
-					"access_rules": ["$has(\"powerbookofmysteries\")"],
+					"access_rules": ["powerbookofmysteries"],
 					"map_locations":[
                       {
                         "map":"Booksanity",
@@ -131,7 +131,7 @@
 					"name": "Read",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["721014"],
-					"access_rules": ["$has(\"powerthediamondhunter\")"],
+					"access_rules": ["powerthediamondhunter"],
 					"map_locations":[
                       {
                         "map":"Booksanity",
@@ -161,7 +161,7 @@
 					"name": "Read",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["721011"],
-					"access_rules": ["$has(\"powerdwarvishsafetymanual\")"],
+					"access_rules": ["powerdwarvishsafetymanual"],
 					"map_locations":[
                       {
                         "map":"Booksanity",
@@ -191,7 +191,7 @@
 					"name": "Read",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["721006"],
-					"access_rules": ["$has(\"powerfriendship101\")"],
+					"access_rules": ["powerfriendship101"],
 					"map_locations":[
                       {
                         "map":"Booksanity",
@@ -221,7 +221,7 @@
 					"name": "Read",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["721016"],
-					"access_rules": ["$has(\"powerhorsethebook\")"],
+					"access_rules": ["powerhorsethebook"],
 					"map_locations":[
                       {
                         "map":"Booksanity",
@@ -251,7 +251,7 @@
 					"name": "Read",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["721007"],
-					"access_rules": ["$has(\"powerjackbenimblejackbethick\")"],
+					"access_rules": ["powerjackbenimblejackbethick"],
 					"map_locations":[
                       {
                         "map":"Booksanity",
@@ -281,7 +281,7 @@
 					"name": "Read",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["721010"],
-					"access_rules": ["$has(\"powerjewelsofthesea\")"],
+					"access_rules": ["powerjewelsofthesea"],
 					"map_locations":[
                       {
                         "map":"Booksanity",
@@ -311,7 +311,7 @@
 					"name": "Read",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["721002"],
-					"access_rules": ["$has(\"powermappingcavesystems\")"],
+					"access_rules": ["powermappingcavesystems"],
 					"map_locations":[
                       {
                         "map":"Booksanity",
@@ -341,7 +341,7 @@
 					"name": "Read",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["721005"],
-					"access_rules": ["$has(\"powermonstercompendium\")"],
+					"access_rules": ["powermonstercompendium"],
 					"map_locations":[
                       {
                         "map":"Booksanity",
@@ -371,7 +371,7 @@
 					"name": "Read",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["721018"],
-					"access_rules": ["$has(\"powerolslitherlegs\")"],
+					"access_rules": ["powerolslitherlegs"],
 					"map_locations":[
                       {
                         "map":"Booksanity",
@@ -401,7 +401,7 @@
 					"name": "Read",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["721001"],
-					"access_rules": ["$has(\"powerpricecatalogue\")"],
+					"access_rules": ["powerpricecatalogue"],
 					"map_locations":[
                       {
                         "map":"Booksanity",
@@ -431,7 +431,7 @@
 					"name": "Read",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["721009"],
-					"access_rules": ["$has(\"powerraccoonjournal\")"],
+					"access_rules": ["powerraccoonjournal"],
 					"map_locations":[
                       {
                         "map":"Booksanity",
@@ -461,7 +461,7 @@
 					"name": "Read",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["721017"],
-					"access_rules": ["$has(\"powertreasureappraisalguide\")"],
+					"access_rules": ["powertreasureappraisalguide"],
 					"map_locations":[
                       {
                         "map":"Booksanity",
@@ -491,7 +491,7 @@
 					"name": "Read",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["721003"],
-					"access_rules": ["$has(\"powerwayofthewindpt1\")"],
+					"access_rules": ["powerwayofthewindpt1"],
 					"map_locations":[
                       {
                         "map":"Booksanity",
@@ -521,7 +521,7 @@
 					"name": "Read",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["721004"],
-					"access_rules": ["$has(\"powerwayofthewindpt2\")"],
+					"access_rules": ["powerwayofthewindpt2"],
 					"map_locations":[
                       {
                         "map":"Booksanity",
@@ -551,7 +551,7 @@
 					"name": "Read",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["721008"],
-					"access_rules": ["$has(\"powerwoodyssecret\")"],
+					"access_rules": ["powerwoodyssecret"],
 					"map_locations":[
                       {
                         "map":"Booksanity",
