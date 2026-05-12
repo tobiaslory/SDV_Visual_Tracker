@@ -1,6 +1,18 @@
 {
 	"versions": [
 		{
+			"package_version": "1.7.16",
+			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.16/stardew_valley_randomizer.zip",
+			"sha256": "703c396b5b3ea74b4997e6b1a871085a57916935a81a2c7ad5d9ab30f6d27ce3",
+			"changelog": [
+				"Feature: slot-aware entrance reachability. AP's SDV apworld ships randomized_entrances (full {original: replacement} map) in slot_data. New entrance_logic.lua does BFS from Farm using that map + a static entrance graph extracted from AP source (205 regions, 206 entrances, 32 gated). 23 gate helpers cover rusty key, skull key, club card, dark talisman, beach bridge, landslide removed, wizard invitation, CC key, railroad, bus repair, iron axe, goblin quest, 3 obelisks, boat repair, 4 island unlocks, snail cave, island trader, island resort, qi walnut room, volcano bridge. 15 can_reach_<region> helpers exposed for JSON access rules. Reachability cache is lazy-rebuilt on onClear + onItem.",
+				"Existing $can_access_<region> helpers (sewer/casino/witch_swamp/desert/island) and $has_skull_key now delegate to the BFS via can_reach() when entrance_logic is loaded, with raw wallet-code fallback for pre-connect.",
+				"Rule sweep: Krobus Stardrop → $can_access_sewer,$can_earn_money_modest (was sewerkey,$can_earn_money_late_game — entrance-shuffle-incompatible and wrong money tier). Fishsanity Mutant Carp / Legendary fish: 4 entries swap sewerkey → $can_access_sewer. Monstersanity skull-cavern goals: 7 entries swap skullkey → $has_skull_key. Arcades Junimo Kart: skullkey → $has_skull_key.",
+				"Fix: Quest: Advancement gated on $spring (vanilla mailbox unlock proxy). AP gates on getting_started + has(scarecrow), binding constraint being coal (mines floor 41+). Rule now farming:1,$can_walk_to_mines_floor_45. Matches spoiler sphere 5 placement.",
+				"Fix: Read Animal Catalogue gated on the AP item Power: Animal Catalogue (poweranimalcatalogue toggle). AP's actual rule is logic.has(book.name) which resolves through the source registry to the vanilla Marnie's Ranch shop (5000g + Year 2), independent of the booksanity AP item. Rule now $can_reach_ranch,$can_earn_money_substantial."
+			]
+		},
+		{
 			"package_version": "1.7.15",
 			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.15/stardew_valley_randomizer.zip",
 			"sha256": "df444810639a889b62b1f69993dd0af3dc82a14b4fbaf9705bca2b7f41fd1da7",
