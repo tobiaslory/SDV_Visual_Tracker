@@ -51,21 +51,21 @@ function onClear(slot_data)
     end
     SLOT_DATA = slot_data
     CUR_INDEX = -1
-    -- reset locations
+    -- reset locations (multi-path: see onLocation comment)
     for _, v in pairs(LOCATION_MAPPING) do
-        if v[1] then
+        for _, path in ipairs(v) do
             if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
-                print(string.format("onClear: clearing location %s", v[1]))
+                print(string.format("onClear: clearing location %s", path))
             end
-            local obj = Tracker:FindObjectForCode(v[1])
+            local obj = Tracker:FindObjectForCode(path)
             if obj then
-                if v[1]:sub(1, 1) == "@" then
+                if path:sub(1, 1) == "@" then
                     obj.AvailableChestCount = obj.ChestCount
                 else
                     obj.Active = false
                 end
             elseif AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
-                print(string.format("onClear: could not find object for code %s", v[1]))
+                print(string.format("onClear: could not find object for code %s", path))
             end
         end
     end
@@ -292,29 +292,35 @@ function onItem(index, item_id, item_name, player_number)
 end
 
 --called when a location gets cleared
+-- LOCATION_MAPPING values are arrays. The legacy hand-written entries
+-- carry a single path each (just v[1]), but some AP location ids appear
+-- in BOTH the World map's grouped sections AND a dedicated category tab
+-- (e.g. Tool Upgrades: 717103 = Copper Hoe shows both as part of the
+-- World map's "Copper Tool Upgrades" group AND as a leaf in
+-- @Tool Upgrades/Copper Hoe Upgrade/). For those ids we keep multiple
+-- paths in the array and apply each on a check.
 function onLocation(location_id, location_name)
     if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
         print(string.format("called onLocation: %s, %s", location_id, location_name))
     end
     local v = LOCATION_MAPPING[location_id]
-    if not v and AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
-        print(string.format("onLocation: could not find location mapping for id %s", location_id))
-    end
     if not v then
-        return
-    end
-    if not v[1] then
-        return
-    end
-    local obj = Tracker:FindObjectForCode(v[1])
-    if obj then
-        if v[1]:sub(1, 1) == "@" then
-            obj.AvailableChestCount = obj.AvailableChestCount - 1
-        else
-            obj.Active = true
+        if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
+            print(string.format("onLocation: could not find location mapping for id %s", location_id))
         end
-    elseif AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
-        print(string.format("onLocation: could not find object for code %s", v[1]))
+        return
+    end
+    for _, path in ipairs(v) do
+        local obj = Tracker:FindObjectForCode(path)
+        if obj then
+            if path:sub(1, 1) == "@" then
+                obj.AvailableChestCount = obj.AvailableChestCount - 1
+            else
+                obj.Active = true
+            end
+        elseif AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
+            print(string.format("onLocation: could not find object for code %s", path))
+        end
     end
 end
 

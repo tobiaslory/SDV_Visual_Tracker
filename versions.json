@@ -1,6 +1,14 @@
 {
 	"versions": [
 		{
+			"package_version": "1.7.17",
+			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.17/stardew_valley_randomizer.zip",
+			"sha256": "ca6ec5af44d237d085c4c67e00dcf8e81bc031fab97a92d77c88d402afc2c8e6",
+			"changelog": [
+				"Fix: LOCATION_MAPPING entries are now multi-path. The legacy hand-written entries for tool upgrades (AP ids 717103-717122) map each tool to the World map's grouped 'Copper/Iron/Gold/Iridium Tool Upgrades' section (e.g. 717103 -> @World/Tool Upgrades/Copper Tool Upgrades). My 1.7.13 generator pass would have added @Tool Upgrades/Copper Hoe Upgrade/ etc. for the dedicated tab, but the new entries were skipped because the ids already existed — so checking a copper tool decremented the World map group but not the per-tool leaf on the Tool Upgrades tab. archipelago.lua's onLocation and onClear loops now iterate every path in the LOCATION_MAPPING value (instead of only v[1]), and _build/generate_location_mappings.py merges into existing entries (appending the new path) instead of skipping. 160 ids upgraded to multi-path — covers all four tiers of Hoe / Pickaxe / Axe / Watering Can / Trash Can on the Tool Upgrades tab."
+			]
+		},
+		{
 			"package_version": "1.7.16",
 			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.16/stardew_valley_randomizer.zip",
 			"sha256": "703c396b5b3ea74b4997e6b1a871085a57916935a81a2c7ad5d9ab30f6d27ce3",
