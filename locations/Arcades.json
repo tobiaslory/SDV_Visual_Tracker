@@ -6,11 +6,11 @@
         "children":[
             {
                 "name": "Junimo Kart",
-				"access_rules":["skullkey"],
+				"access_rules":["$has_skull_key"],
                 "children":[
                   {
 					"name": "Crumble Cavern",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"item_count": 1}],
 					"visibility_rules": ["717612"],
 					"map_locations":[
                       {
@@ -22,7 +22,7 @@
 				  },
 				  {
 					"name": "Slippery Slopes",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"item_count": 1}],
 					"visibility_rules": ["717613"],
 					"map_locations":[
                       {
@@ -34,7 +34,7 @@
 				  },
 				  {
 					"name": "Secret Level",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"item_count": 1}],
 					"visibility_rules": ["717614"],
 					"map_locations":[
                       {
@@ -46,7 +46,7 @@
 				  },
 				  {
 					"name": "The Gem Sea Giant",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"item_count": 1}],
 					"visibility_rules": ["717615"],
 					"map_locations":[
                       {
@@ -58,7 +58,7 @@
 				  },
 				  {
 					"name": "Slomp's Stomp",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"item_count": 1}],
 					"visibility_rules": ["717616"],
 					"map_locations":[
                       {
@@ -70,7 +70,7 @@
 				  },
 				  {
 					"name": "Ghastly Galleon",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"item_count": 1}],
 					"visibility_rules": ["717617"],
 					"map_locations":[
                       {
@@ -82,7 +82,7 @@
 				  },
 				  {
 					"name": "Glowshroom Grotto",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"item_count": 1}],
 					"visibility_rules": ["717618"],
 					"map_locations":[
                       {
@@ -94,7 +94,7 @@
 				  },
 				  {
 					"name": "Red Hot Rollercoaster",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"item_count": 1}],
 					"visibility_rules": ["717619"],
 					"map_locations":[
                       {
@@ -106,7 +106,7 @@
 				  },
 				  {
 					"name": "Sunset Speedway",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"item_count": 1}],
 					"visibility_rules": ["717621"],
 					"map_locations":[
                       {
@@ -124,12 +124,12 @@
 					{
 						"name": "Boots Upgrade 1",
 						"item_count": 1,
-						"visibility_rules": ["717601"],
+						"visibility_rules": ["717601"]
 					},
 					{
 						"name": "Boots Upgrade 2",
 						"item_count": 1,
-						"visibility_rules": ["717602"],
+						"visibility_rules": ["717602"]
 					}
 					],
 					"map_locations":[
@@ -146,22 +146,22 @@
 					{
 						"name": "Gun Upgrade 1",
 						"item_count": 1,
-						"visibility_rules": ["717603"],
+						"visibility_rules": ["717603"]
 					},
 					{
 						"name": "Gun Upgrade 2",
 						"item_count": 1,
-						"visibility_rules": ["717604"],
+						"visibility_rules": ["717604"]
 					},
 					{
 						"name": "Gun Upgrade 3",
 						"item_count": 1,
-						"visibility_rules": ["717605"],
+						"visibility_rules": ["717605"]
 					},
 					{
 						"name": "Super Gun",
 						"item_count": 1,
-						"visibility_rules": ["717606"],
+						"visibility_rules": ["717606"]
 					}
 					],
 					"map_locations":[
@@ -178,17 +178,17 @@
 					{
 						"name": "Ammo Upgrade 1",
 						"item_count": 1,
-						"visibility_rules": ["717607"],
+						"visibility_rules": ["717607"]
 					},
 					{
 						"name": "Ammo Upgrade 2",
 						"item_count": 1,
-						"visibility_rules": ["717608"],
+						"visibility_rules": ["717608"]
 					},
 					{
 						"name": "Ammo Upgrade 3",
 						"item_count": 1,
-						"visibility_rules": ["717609"],
+						"visibility_rules": ["717609"]
 					}
 					],
 					"map_locations":[
@@ -204,7 +204,7 @@
                 "children":[
                   {
 					"name": "Boss Cowboy 1",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"item_count": 1}],
 					"visibility_rules": ["717610"],
 					"map_locations":[
                       {
@@ -216,7 +216,7 @@
 				  },
 				  {
 					"name": "Boss Cowboy 2",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"item_count": 1}],
 					"visibility_rules": ["717611"],
 					"map_locations":[
                       {
@@ -228,7 +228,7 @@
 				  },
 				  {
 					"name": "Beat Fector",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"item_count": 1}],
 					"visibility_rules": ["717620"],
 					"map_locations":[
                       {
@@ -239,7 +239,7 @@
                     ]
 				  }
                 ]
-            },
+            }
         ]
     }
 ]

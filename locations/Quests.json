@@ -93,7 +93,7 @@
             {
                 "name": "Advancement",
 		"visibility_rules": ["717505"],
-		"access_rules": ["$spring"],
+		"access_rules": ["farming:1,$can_walk_to_mines_floor_45"],
                 "sections":[
                   {
                     "item_count": 1,

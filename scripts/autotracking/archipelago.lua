@@ -7,6 +7,7 @@ ScriptHost:LoadScript("scripts/autotracking/item_mapping.lua")
 ScriptHost:LoadScript("scripts/autotracking/location_mapping.lua")
 ScriptHost:LoadScript("scripts/autotracking/_generated_id_arrays.lua")
 ScriptHost:LoadScript("scripts/autotracking/setting_mapping.lua")
+ScriptHost:LoadScript("scripts/autotracking/entrance_logic.lua")
 
 CUR_INDEX = -1
 SLOT_DATA = {}
@@ -210,6 +211,12 @@ function onClear(slot_data)
         applySettingsFromSlotData(slot_data)
     end
 
+    -- Slot-aware entrance graph just changed (slot_data, items state). Mark
+    -- reachability dirty so the next can_reach_* call rebuilds the BFS.
+    if mark_reachability_dirty then
+        mark_reachability_dirty()
+    end
+
     -- for _, id in pairs(ALL_LOCATIONS) do
     --     print(id .. " is there")
     -- end
@@ -270,6 +277,10 @@ function onItem(index, item_id, item_name, player_number)
         else
             GLOBAL_ITEMS[v[1]] = 1
         end
+    end
+    -- Item state changed → next can_reach_* call needs to redo BFS.
+    if mark_reachability_dirty then
+        mark_reachability_dirty()
     end
     if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
         print(string.format("local items: %s", dump_table(LOCAL_ITEMS)))

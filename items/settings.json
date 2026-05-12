@@ -353,6 +353,14 @@
         "codes": "ginger_island_on"
     },
     {
+        "name": "Entrance Shuffle",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "img": "images/settings/On.png",
+        "codes": "entrance_shuffle_on"
+    },
+    {
         "name": "Tool Progression",
         "type": "toggle",
         "loop": false,

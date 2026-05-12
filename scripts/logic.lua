@@ -137,16 +137,42 @@ function can_earn_money_late_game()
     return has("kitchen") or has_at_least_gold_pickaxe() or has("greenhouse")
 end
 
-function has_skull_key()
-    return has("skullkey")
+-- Entrance Randomization & region reachability.
+--
+-- The heavy lifting is in scripts/autotracking/entrance_logic.lua, which
+-- walks the slot-specific entrance graph (driven by AP's slot_data
+-- randomized_entrances + the static graph generated from AP source) and
+-- exposes can_reach("<region>") plus per-region no-arg wrappers.
+--
+-- The can_access_<region> helpers below stay for backwards compatibility
+-- with existing JSON access rules. Each defers to can_reach when the
+-- entrance_logic.lua module loaded, and OR-falls-back on the raw wallet
+-- code so users without entrance randomization (or before slot connect)
+-- still get sensible results.
+function entrance_shuffle_active()
+    return has("entrance_shuffle_on")
 end
 
+local function reach_or(region, fallback_code)
+    if can_reach then
+        return can_reach(region) or has(fallback_code)
+    end
+    return has(fallback_code) or entrance_shuffle_active()
+end
+
+function has_skull_key()        return reach_or("Skull Cavern", "skullkey") end
+function can_access_sewer()     return reach_or("Sewer",         "sewerkey") end
+function can_access_witch_swamp() return reach_or("Witch's Swamp", "darktalisman") end
+function can_access_casino()    return reach_or("Casino",        "clubcard") end
+
 function can_access_desert()
-    return (has("desertwarp") or has ("bus"))
+    if can_reach then return can_reach("Desert") or has("desertwarp") end
+    return has("desertwarp") or has("bus") or entrance_shuffle_active()
 end
 
 function can_access_island()
-    return has("islandwarp")
+    if can_reach then return can_reach("Island South") or has("islandwarp") end
+    return has("islandwarp") or entrance_shuffle_active()
 end
 
 function can_mine_iridium()

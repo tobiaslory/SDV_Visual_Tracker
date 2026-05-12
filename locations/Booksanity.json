@@ -41,7 +41,7 @@
 					"name": "Read",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["721019"],
-					"access_rules": ["poweranimalcatalogue"],
+					"access_rules": ["$can_reach_ranch,$can_earn_money_substantial"],
 					"map_locations":[
                       {
                         "map":"Booksanity",
@@ -1033,7 +1033,7 @@
                     ]
 				}
 				]
-            },
+            }
         ]
     }
 ]

@@ -25,7 +25,7 @@
                             }
                         ],
                         "access_rules": [
-                            "skullkey,$can_access_desert"
+                            "$has_skull_key,$can_access_desert"
                         ]
                     },
                     {
@@ -85,7 +85,7 @@
                             }
                         ],
                         "access_rules": [
-                            "skullkey,$can_access_desert"
+                            "$has_skull_key,$can_access_desert"
                         ]
                     },
                     {
@@ -253,7 +253,7 @@
                             }
                         ],
                         "access_rules": [
-                            "skullkey,$can_access_desert"
+                            "$has_skull_key,$can_access_desert"
                         ]
                     },
                     {
@@ -484,7 +484,7 @@
                             }
                         ],
                         "access_rules": [
-                            "skullkey,$can_access_desert"
+                            "$has_skull_key,$can_access_desert"
                         ]
                     },
                     {
@@ -505,7 +505,7 @@
                             }
                         ],
                         "access_rules": [
-                            "skullkey,$can_access_desert"
+                            "$has_skull_key,$can_access_desert"
                         ]
                     },
                     {
@@ -526,7 +526,7 @@
                             }
                         ],
                         "access_rules": [
-                            "skullkey,$can_access_desert"
+                            "$has_skull_key,$can_access_desert"
                         ]
                     },
                     {
@@ -547,7 +547,7 @@
                             }
                         ],
                         "access_rules": [
-                            "skullkey,$can_access_desert"
+                            "$has_skull_key,$can_access_desert"
                         ]
                     },
                     {

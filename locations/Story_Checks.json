@@ -337,7 +337,7 @@
                     }
                 ],
                 "access_rules": [
-                    "sewerkey,$can_earn_money_late_game"
+                    "$can_access_sewer,$can_earn_money_modest"
                 ]
             }
         ]

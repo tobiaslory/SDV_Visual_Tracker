@@ -167,6 +167,15 @@ function applySettingsFromSlotData(slot_data)
     set_active("festival_on", is_enabled(festival))
     set_active("festival_hard", festival == "hard")
 
+    -- Entrance Randomization: AP encodes as Choice (option_disabled=0 plus
+    -- pelican_town/non_progression/buildings*/chaos). Any non-disabled
+    -- value means region-gating keys (sewer key, club card, skull key,
+    -- dark talisman, etc.) might be bypassed by a reshuffled entrance.
+    -- The can_access_<region> helpers in logic.lua OR this toggle in to
+    -- keep those locations in-logic. Loose but safer than false negatives.
+    set_active("entrance_shuffle_on",
+               is_enabled(get_value(slot_data, "entrance_randomization")))
+
     -- Friendsanity heart cap (used by Friendsanity location visibility nuance).
     local heart_size = get_value(slot_data, "friendsanity_heart_size")
     if heart_size ~= nil then

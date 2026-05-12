@@ -523,7 +523,7 @@
                         "name": "Buy from Krobus",
                         "item_count": 1,
                         "visibility_rules": ["717707"],
-                        "access_rules": ["sewerkey,$can_earn_money_late_game"]
+                        "access_rules": ["$can_access_sewer,$can_earn_money_modest"]
                     }
                 ],
                 "map_locations":[
