@@ -1,6 +1,16 @@
 {
 	"versions": [
 		{
+			"package_version": "1.7.19",
+			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.19/stardew_valley_randomizer.zip",
+			"sha256": "0602961c728210898439753a5ff95ac286321e209f7d4381da19124493f6c7de",
+			"changelog": [
+				"Fix: tool upgrade rules. AP's full rule has two pieces: (1) location rule = has_tool(<tool>, <prior_tier>) — received the prior tier of THAT specific tool (rules.py:185-190), AND (2) entrance rule = has(<tier>_bar) & money.can_spend(<upgrade_price>) on the blacksmith_<tier> region (rules.py:435-437). I was using vanilla SDV's mining:N quest-unlock proxy, missing both halves. Per-tool rules now bundle prior-tier-tool + furnace + reach-relevant-mines-floor + money. Iron tier: copper_<tool>,furnacerecipe,can_walk_to_mines_floor_45,can_earn_money_modest. Gold tier: <iron-tier>_<tool>,furnacerecipe,can_walk_to_mines_floor_85,can_earn_money_modest. Iridium tier: gold_<tool>,furnacerecipe,can_mine_iridium,can_earn_money_substantial. World map group rules are OR-of-5-tools at the prior tier, each AND'd with the tier's gate. Matches spoiler sphere placement (Iron Tool Upgrades at sphere 7 because sphere 6 unlocked Iron Bar Logic event).",
+				"Fix: helper naming inconsistency. The original pack uses 'has_at_least_iron_pickaxe' for the Pickaxe's 2nd tier but 'has_at_least_steel_<tool>' for every other tool's 2nd tier. My Gold Pickaxe Upgrade rule and Read Alleyway Buffet rule referenced the non-existent 'has_at_least_steel_pickaxe' — undefined Lua call → location stayed unreachable. Added aliases in logic.lua so both naming conventions work: has_at_least_steel_pickaxe → has_at_least_iron_pickaxe, has_at_least_iron_<tool> → has_at_least_steel_<tool> for axe/hoe/can/pan/trash. Gold Pickaxe Upgrade and Alleyway Buffet should now correctly evaluate.",
+				"Fix: Read The Alleyway Buffet was gated on the AP item Power: The Alleyway Buffet, same wrong pattern as Animal Catalogue. AP's rule is logic.has(book.name) which resolves through the source registry. The Alleyway Buffet has two sources: a Town trash find that requires iron axe + iron pickaxe, and a 20000g purchase from the rare bookseller. Rule is now $has_at_least_steel_axe,$has_at_least_steel_pickaxe (covers source 1; bookseller_rare path requires Progressive Bookseller Days + Stock: Rare Books tracking which isn't wired up yet — to revisit)."
+			]
+		},
+		{
 			"package_version": "1.7.18",
 			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.18/stardew_valley_randomizer.zip",
 			"sha256": "b9964f55bfd9e02737d92441b16b1413508b32ba14825e13819b5e3e7393043b",

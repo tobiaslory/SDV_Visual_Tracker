@@ -101,6 +101,17 @@ function has_at_least_steel_trash()   return has("steeltrash") or has("goldtrash
 function has_at_least_gold_trash()    return has("goldtrash") or has("iridiumtrash") end
 function has_at_least_iridium_trash() return has("iridiumtrash") end
 
+-- Naming aliases. Original pack uses inconsistent tier names: Pickaxe
+-- uses "iron" (has_at_least_iron_pickaxe), Axe/Hoe/Can/Pan/Trash use
+-- "steel". AP source uses ToolMaterial.iron uniformly. Aliases below let
+-- access rules use either convention without surprises.
+function has_at_least_steel_pickaxe() return has_at_least_iron_pickaxe() end
+function has_at_least_iron_axe()      return has_at_least_steel_axe() end
+function has_at_least_iron_hoe()      return has_at_least_steel_hoe() end
+function has_at_least_iron_can()      return has_at_least_steel_can() end
+function has_at_least_iron_pan()      return has_at_least_steel_pan() end
+function has_at_least_iron_trash()    return has_at_least_steel_trash() end
+
 function has_weapon()
     return has("sword") or has("club") or has("dagger") or has("slingshot")
 end
