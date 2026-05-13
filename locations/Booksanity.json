@@ -11,7 +11,7 @@
 					"name": "Read",
 					"sections": [{"item_count": 1}],
 					"visibility_rules": ["721013"],
-					"access_rules": ["powerthealleywaybuffet"],
+					"access_rules": ["$has_at_least_steel_axe,$has_at_least_steel_pickaxe"],
 					"map_locations":[
                       {
                         "map":"Booksanity",

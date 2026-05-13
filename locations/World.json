@@ -202,29 +202,29 @@
                         "name": "Copper Tool Upgrades",
                         "clear_as_group": false,
                         "item_count": 5,
-                        "access_rules": 
-                            ["$can_mine_copper"]
+                        "access_rules":
+                            ["mining:1"]
                     },
                     {
                         "name": "Iron Tool Upgrades",
                         "clear_as_group": false,
                         "item_count": 5,
-                        "access_rules": 
-                            ["$can_mine_iron"]
+                        "access_rules":
+                            ["$has_at_least_copper_hoe,furnacerecipe,$can_walk_to_mines_floor_45,$can_earn_money_modest", "$has_at_least_copper_pickaxe,furnacerecipe,$can_walk_to_mines_floor_45,$can_earn_money_modest", "$has_at_least_copper_axe,furnacerecipe,$can_walk_to_mines_floor_45,$can_earn_money_modest", "$has_at_least_copper_can,furnacerecipe,$can_walk_to_mines_floor_45,$can_earn_money_modest", "$has_at_least_copper_trash,furnacerecipe,$can_walk_to_mines_floor_45,$can_earn_money_modest"]
                     },
                     {
                         "name": "Gold Tool Upgrades",
                         "clear_as_group": false,
                         "item_count": 5,
-                        "access_rules": 
-                            ["$can_mine_gold"]
+                        "access_rules":
+                            ["$has_at_least_steel_hoe,furnacerecipe,$can_walk_to_mines_floor_85,$can_earn_money_modest", "$has_at_least_steel_pickaxe,furnacerecipe,$can_walk_to_mines_floor_85,$can_earn_money_modest", "$has_at_least_steel_axe,furnacerecipe,$can_walk_to_mines_floor_85,$can_earn_money_modest", "$has_at_least_steel_can,furnacerecipe,$can_walk_to_mines_floor_85,$can_earn_money_modest", "$has_at_least_steel_trash,furnacerecipe,$can_walk_to_mines_floor_85,$can_earn_money_modest"]
                     },
                     {
                         "name": "Iridium Tool Upgrades",
                         "clear_as_group": false,
                         "item_count": 5,
-                        "access_rules": 
-                            ["$can_mine_iridium"]
+                        "access_rules":
+                            ["$has_at_least_gold_hoe,furnacerecipe,$can_mine_iridium,$can_earn_money_substantial", "$has_at_least_gold_pickaxe,furnacerecipe,$can_mine_iridium,$can_earn_money_substantial", "$has_at_least_gold_axe,furnacerecipe,$can_mine_iridium,$can_earn_money_substantial", "$has_at_least_gold_can,furnacerecipe,$can_mine_iridium,$can_earn_money_substantial", "$has_at_least_gold_trash,furnacerecipe,$can_mine_iridium,$can_earn_money_substantial"]
                     }
                 ],
                 "map_locations":[
