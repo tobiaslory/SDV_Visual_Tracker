@@ -2605,7 +2605,7 @@
                             }
                         ],
                         "access_rules": [
-                            "$can_earn_money_substantial"
+                            "foraging_mastery"
                         ]
                     },
                     {
@@ -2647,7 +2647,7 @@
                             }
                         ],
                         "access_rules": [
-                            "fishing:10"
+                            "fishing_mastery"
                         ]
                     },
                     {
@@ -2668,7 +2668,7 @@
                             }
                         ],
                         "access_rules": [
-                            "foraging:10"
+                            "foraging_mastery"
                         ]
                     },
                     {
@@ -2689,7 +2689,7 @@
                             }
                         ],
                         "access_rules": [
-                            "mining:10"
+                            "mining_mastery"
                         ]
                     },
                     {
@@ -2830,7 +2830,7 @@
                             }
                         ],
                         "access_rules": [
-                            "mining:10"
+                            "mining_mastery"
                         ]
                     },
                     {
@@ -2851,7 +2851,7 @@
                             }
                         ],
                         "access_rules": [
-                            "farming:10,mining:10,foraging:10,fishing:10,combat:10"
+                            "farming_mastery"
                         ]
                     },
                     {
@@ -2872,7 +2872,7 @@
                             }
                         ],
                         "access_rules": [
-                            "combat:10"
+                            "combat_mastery"
                         ]
                     },
                     {
@@ -2893,7 +2893,7 @@
                             }
                         ],
                         "access_rules": [
-                            "combat:10"
+                            "combat_mastery"
                         ]
                     },
                     {

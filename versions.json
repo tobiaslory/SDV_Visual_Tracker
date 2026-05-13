@@ -1,11 +1,21 @@
 {
 	"versions": [
 		{
+			"package_version": "1.7.18",
+			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.18/stardew_valley_randomizer.zip",
+			"sha256": "b9964f55bfd9e02737d92441b16b1413508b32ba14825e13819b5e3e7393043b",
+			"changelog": [
+				"Fix: LOCATION_MAPPING entries are now multi-path. The legacy hand-written entries for tool upgrades (AP ids 717103-717122) and mine elevators map each AP id to the World map's grouped section only. My 1.7.13 generator pass would have added @Tool Upgrades/Copper Hoe Upgrade/ + @Mine Elevators/Floor 5 Elevator/ etc. for the dedicated tabs, but the new entries were skipped because the ids already existed — so a check decremented the World map group but not the per-floor/per-tool leaf on the dedicated tab. archipelago.lua's onLocation and onClear loops now iterate every path in the LOCATION_MAPPING value (instead of only v[1]), and _build/generate_location_mappings.py merges into existing entries instead of skipping. 160 ids upgraded to multi-path — covers all four tiers of Hoe / Pickaxe / Axe / Watering Can / Trash Can on Tool Upgrades, all 24 Mine Elevators, and other category-leaf collisions.",
+				"Fix: Rarecrow #7 (Tanuki) and Rarecrow #8 (Tribal Mask) legacy LOCATION_MAPPING paths (@Night Market/Magic Shop Boat/Rarecrow #7) didn't include the parenthetical suffix that's on the tracker section name. PopTracker couldn't resolve the path, so onLocation silently dropped these AP location checks. Paths now match the section names exactly.",
+				"Feature: 5 Mastery items (Farming/Mining/Foraging/Fishing/Combat) now tracked as toggle items, AP ids 717481-717485 mapped in item_mapping.lua. 8 mastery_recipe craft locations (Statue of Blessings, Statue of the Dwarf King, Heavy Furnace, Mystic Tree Seed, Treasure Totem, Challenge Bait, Anvil, Mini-Forge) re-gated on the matching mastery item per AP's MasterySource rule, instead of the wrong skill:10 proxy (which never resolved for shuffled-mastery seeds). For seeds with skill_progression = progressive_with_masteries (the typical case), the mastery item is what AP requires; for non-shuffled seeds the rule will be over-strict — revisit if needed."
+			]
+		},
+		{
 			"package_version": "1.7.17",
 			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.17/stardew_valley_randomizer.zip",
 			"sha256": "ca6ec5af44d237d085c4c67e00dcf8e81bc031fab97a92d77c88d402afc2c8e6",
 			"changelog": [
-				"Fix: LOCATION_MAPPING entries are now multi-path. The legacy hand-written entries for tool upgrades (AP ids 717103-717122) map each tool to the World map's grouped 'Copper/Iron/Gold/Iridium Tool Upgrades' section (e.g. 717103 -> @World/Tool Upgrades/Copper Tool Upgrades). My 1.7.13 generator pass would have added @Tool Upgrades/Copper Hoe Upgrade/ etc. for the dedicated tab, but the new entries were skipped because the ids already existed — so checking a copper tool decremented the World map group but not the per-tool leaf on the Tool Upgrades tab. archipelago.lua's onLocation and onClear loops now iterate every path in the LOCATION_MAPPING value (instead of only v[1]), and _build/generate_location_mappings.py merges into existing entries (appending the new path) instead of skipping. 160 ids upgraded to multi-path — covers all four tiers of Hoe / Pickaxe / Axe / Watering Can / Trash Can on the Tool Upgrades tab."
+				"Superseded by 1.7.18 — never published. Multi-path LOCATION_MAPPING fix bundled into 1.7.18."
 			]
 		},
 		{

@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Farming Mastery",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "farming_mastery"
+    },
+    {
+        "name": "Fishing Mastery",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "fishing_mastery"
+    },
+    {
+        "name": "Foraging Mastery",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "foraging_mastery"
+    },
+    {
+        "name": "Mining Mastery",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "mining_mastery"
+    },
+    {
+        "name": "Combat Mastery",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "combat_mastery"
+    }
+]
