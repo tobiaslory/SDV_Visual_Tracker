@@ -149,6 +149,36 @@ function onClear(slot_data)
     end
     --print(dump_table(ALL_LOCATIONS))
 
+    -- Resize @-path section ChestCount to match the actual number of AP
+    -- location IDs the seed contains for that section. The tracker JSON
+    -- carries default item_counts sized for the worst case (e.g. TM has
+    -- 3 slots/day, Vault has 4) but AP picks a slot-specific subset:
+    -- Traveling Merchant adds 1-10 items per day based on heuristics, and
+    -- there's no slot_data field exposing the count. Without resizing,
+    -- a seed with 1 TM item per day decrements AvailableChestCount from
+    -- 3 -> 2 on goal-completion and the section never reaches 0.
+    -- Walking LOCATION_MAPPING + ALL_LOCATIONS gives us the authoritative
+    -- per-section count without depending on per-option slot_data fields.
+    do
+        local section_counts = {}
+        for ap_id, paths in pairs(LOCATION_MAPPING) do
+            if ALL_LOCATIONS[ap_id] then
+                for _, path in ipairs(paths) do
+                    if path:sub(1, 1) == "@" then
+                        section_counts[path] = (section_counts[path] or 0) + 1
+                    end
+                end
+            end
+        end
+        for path, count in pairs(section_counts) do
+            local obj = Tracker:FindObjectForCode(path)
+            if obj and obj.ChestCount ~= nil then
+                obj.ChestCount = count
+                obj.AvailableChestCount = count
+            end
+        end
+    end
+
     if SLOT_DATA == nil then
         return
     end

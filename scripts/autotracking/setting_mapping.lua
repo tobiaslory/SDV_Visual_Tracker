@@ -195,37 +195,12 @@ function applySettingsFromSlotData(slot_data)
         end
     end
 
-    -- Slot-data-driven section sizes. Tracker JSON uses fixed item_count
-    -- but several categories have per-seed sizing:
-    --   - Backpack split (option_split): backpack_size N -> N items per
-    --     Large Pack / Deluxe Pack section (vs vanilla 1)
-    --   - Traveling Merchant: traveling_merchant_locations N -> N items
-    --     per day section (vs tracker default 3)
-    local function set_chest_count(path, count)
-        local obj = Tracker:FindObjectForCode(path)
-        if obj and count and count > 0 then
-            obj.ChestCount = count
-            obj.AvailableChestCount = count
-        end
-    end
-
-    -- Backpack: backpack_progression "Split" delivers backpack_size N
-    -- items per pack. For "Progressive"/"Early Progressive" the tracker
-    -- default 1 already matches.
-    local bp_progression = get_value(slot_data, "backpack_progression")
-    local bp_size = tonumber(get_value(slot_data, "backpack_size")) or 1
-    if bp_progression == "split_progressive" or bp_progression == 3
-       or tostring(bp_progression):lower():find("split") then
-        set_chest_count("@World/Backpack Upgrades/Large Pack", bp_size)
-        set_chest_count("@World/Backpack Upgrades/Deluxe Pack", bp_size)
-    end
-
-    -- Traveling Merchant: number of locations per day.
-    local tm_count = tonumber(get_value(slot_data, "traveling_merchant_locations")) or 0
-    if tm_count > 0 then
-        for _, day in ipairs({"Sunday", "Monday", "Tuesday", "Wednesday",
-                              "Thursday", "Friday", "Saturday"}) do
-            set_chest_count("@World/Traveling Merchant/" .. day, tm_count)
-        end
-    end
+    -- Per-section ChestCount sizing is handled generically in
+    -- archipelago.lua's onClear by counting LOCATION_MAPPING entries
+    -- that appear in this slot's MissingLocations / CheckedLocations.
+    -- That replaces a prior attempt here that read backpack_size and
+    -- traveling_merchant_locations from slot_data — the TM field does
+    -- not exist as a slot_data field (AP picks the per-day count
+    -- internally based on filler/orphan heuristics), and backpack
+    -- sizing is implicit in which AP IDs the seed contains.
 end
