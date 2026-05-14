@@ -1,6 +1,14 @@
 {
 	"versions": [
 		{
+			"package_version": "1.7.20",
+			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.20/stardew_valley_randomizer.zip",
+			"sha256": "ee460e821647655a96570d6e298989bad566d46adf04d36290595b57b6317316",
+			"changelog": [
+				"Fix: Enchanter's Bundle helper was hardcoded for the vanilla 4-of-4 bundle composition (Oak Resin + Wine + Rabbit Foot + Pomegranate), requiring deluxe coop + brew + foraging:3 + fall season all at once. Seeds with bundle_randomization = thematic or remixed have different items and a 3-of-N requirement, making the original rule unsatisfiable. New rule accepts: (1) vanilla 4-of-4 path, OR (2) thematic 3-of-X path via mines floor 41-80 access (Solar Essence + Frozen Tear) + any one of tapper/wine/rabbit-foot, OR (3) floor 81+ access which yields 3 mines minerals directly. Loose proxy since slot_data.modified_bundles isn't parsed yet; covers the common rolled compositions."
+			]
+		},
+		{
 			"package_version": "1.7.19",
 			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.19/stardew_valley_randomizer.zip",
 			"sha256": "0602961c728210898439753a5ff95ac286321e209f7d4381da19124493f6c7de",

@@ -332,7 +332,22 @@ function fieldresearchbundle()
 end
 
 function enchantbundle()
-    return (has_deluxe_coop() and can_brew() and has("foraging",3) and fall())
+    -- Bundles can be vanilla (4-of-4 required) or thematic/remixed
+    -- (3-of-N from an extended pool). Without parsing slot_data
+    -- modified_bundles, accept either path as in-logic:
+    --   * vanilla 4-of-4: deluxe coop + brew + tapper + fall
+    --   * thematic/remixed 3-of-X: 2 mines minerals (floor 41-80) +
+    --     any one of tapper / wine / rabbit foot. Reaching floor 81+
+    --     gives 3 mines items (solar essence + frozen tear + purple
+    --     mushroom).
+    local thematic = can_walk_to_mines_floor_45() and (
+        has("foraging", 3)                                  -- tapper -> oak resin
+        or (can_brew() and (has("grape") or has_at_least_iron_pickaxe()))
+        or has_deluxe_coop()                                -- rabbit foot
+    )
+    local thematic_alt = can_walk_to_mines_floor_85()       -- 3 mines items in floors 81+
+    local vanilla = has_deluxe_coop() and can_brew() and has("foraging",3) and fall()
+    return thematic or thematic_alt or vanilla
 end
 
 function farming1()
