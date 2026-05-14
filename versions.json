@@ -1,6 +1,14 @@
 {
 	"versions": [
 		{
+			"package_version": "1.7.23",
+			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.23/stardew_valley_randomizer.zip",
+			"sha256": "f2e7877ebd0382ce0af8fdea9add5339bc0edf8443ac7cc0eaeb4dd54ae707a2",
+			"changelog": [
+				"Fix: 1.7.22's runtime ChestCount resize for Traveling Merchant day sections didn't work — setting obj.ChestCount + obj.AvailableChestCount inside onClear left the section visually shrunk to the seed's item count but still uncollected. Most likely the AvailableChestCount write is being undone (either PopTracker's pre-checked location replay happens before onClear, undoing our writes, or obj.ChestCount changes don't propagate to AvailableChestCount the way I assumed). Reverted the archipelago.lua change and dropped the World.json item_count for each Traveling Merchant day from 3 to 1. Static JSON value avoids the runtime setter entirely. AP guarantees Item 1 per day (MANDATORY tag in locations.csv); seeds with multiple TM items per day will mark the section as complete after the first collect — acceptable since the goal-completion auto-release case (which is what was broken) hits more than one item per section, and mid-playthrough fine-grained TM progress wasn't a requested feature."
+			]
+		},
+		{
 			"package_version": "1.7.22",
 			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.22/stardew_valley_randomizer.zip",
 			"sha256": "e479cf415565b637ed9cdab99e7946b646cdbee6088d96b18af3a10a72320a31",

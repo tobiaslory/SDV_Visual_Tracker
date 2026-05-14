@@ -409,43 +409,43 @@
                         "name": "Monday",
                         "access_rules":["$tmmon"],
                         "clear_as_group":false,
-                        "item_count": 3
+                        "item_count": 1
                     },
                     {
                         "name": "Tuesday",
                         "access_rules":["$tmtues"],
                         "clear_as_group":false,
-                        "item_count":3
+                        "item_count":1
                     },
                     {
                         "name": "Wednesday",
                         "access_rules":["$tmwed"],
                         "clear_as_group":false,
-                        "item_count":3
+                        "item_count":1
                     },
                     {
                         "name": "Thursday",
                         "access_rules":["$tmthurs"],
                         "clear_as_group":false,
-                        "item_count":3
+                        "item_count":1
                     },
                     {
                         "name": "Friday",
                         "access_rules":["$tmfri"],
                         "clear_as_group":false,
-                        "item_count":3
+                        "item_count":1
                     },
                     {
                         "name": "Saturday",
                         "access_rules":["$tmsat"],
                         "clear_as_group":false,
-                        "item_count":3
+                        "item_count":1
                     },
                     {
                         "name": "Sunday",
                         "access_rules":["$tmsun"],
                         "clear_as_group":false,
-                        "item_count":3
+                        "item_count":1
                     }
                 ],
                     "map_locations":[
