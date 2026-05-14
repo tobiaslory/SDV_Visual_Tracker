@@ -1,14 +1,6 @@
 {
 	"versions": [
 		{
-			"package_version": "1.7.22",
-			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.22/stardew_valley_randomizer.zip",
-			"sha256": "c2f8b8e3d569ebd43e5833eea7838ae8b309db7da87b638c30a00aee8747690f",
-			"changelog": [
-				"Fix: Traveling Merchant per-day sections didn't auto-clear on goal completion. 1.7.21 attempted to size them via slot_data.traveling_merchant_locations, but AP doesn't expose that as a slot_data field — the number of TM items per day is computed internally from filler/orphan heuristics (locations.py:extend_filler_locations). Replaced the slot_data read with a generic, slot-data-independent resize in archipelago.lua's onClear: after ALL_LOCATIONS is built from MissingLocations + CheckedLocations, walk LOCATION_MAPPING and for every @-path count how many mapped AP IDs actually exist in this slot, then set ChestCount + AvailableChestCount on that section. This makes the seed's actual location count authoritative and also subsumes the prior backpack-split sizing branch (which now works without needing backpack_size from slot_data)."
-			]
-		},
-		{
 			"package_version": "1.7.21",
 			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.21/stardew_valley_randomizer.zip",
 			"sha256": "2bcffd3443266ef71d1d2f4c87d54544596430b24ea63119abf11ae21dafa599",
