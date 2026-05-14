@@ -1,6 +1,14 @@
 {
 	"versions": [
 		{
+			"package_version": "1.7.22",
+			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.22/stardew_valley_randomizer.zip",
+			"sha256": "e479cf415565b637ed9cdab99e7946b646cdbee6088d96b18af3a10a72320a31",
+			"changelog": [
+				"Fix: Traveling Merchant per-day sections did not clear on goal completion. 1.7.21 attempted to size them via slot_data.traveling_merchant_locations but AP doesn't expose that as a slot_data field — the per-day TM item count (1-10) is computed in locations.py:extend_filler_locations from filler/orphan heuristics. New approach in archipelago.lua's onClear: after ALL_LOCATIONS is built from MissingLocations + CheckedLocations, count, per day, how many TM AP IDs (901-910 Sun, 911-920 Mon, …, 961-970 Sat) exist in this slot and set ChestCount + AvailableChestCount on @World/Traveling Merchant/<Day> accordingly. Surgical (TM-only) — does not touch any other section's item_count."
+			]
+		},
+		{
 			"package_version": "1.7.21",
 			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.21/stardew_valley_randomizer.zip",
 			"sha256": "2bcffd3443266ef71d1d2f4c87d54544596430b24ea63119abf11ae21dafa599",

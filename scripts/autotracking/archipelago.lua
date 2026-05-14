@@ -149,6 +149,40 @@ function onClear(slot_data)
     end
     --print(dump_table(ALL_LOCATIONS))
 
+    -- Traveling Merchant per-day sections: AP picks a per-day item count
+    -- (1-10) from filler/orphan heuristics in locations.py with no
+    -- corresponding slot_data field. The tracker JSON defaults to
+    -- item_count: 3 per day, so seeds with fewer than 3 TM items per day
+    -- never decrement AvailableChestCount to zero on goal completion.
+    -- Count how many of each day's AP IDs are actually in this slot
+    -- (901-910 Sun, 911-920 Mon, ..., 961-970 Sat) and resize the
+    -- matching tracker section to that count.
+    do
+        local tm_day_ranges = {
+            {"Sunday",    901, 910},
+            {"Monday",    911, 920},
+            {"Tuesday",   921, 930},
+            {"Wednesday", 931, 940},
+            {"Thursday",  941, 950},
+            {"Friday",    951, 960},
+            {"Saturday",  961, 970},
+        }
+        for _, r in ipairs(tm_day_ranges) do
+            local day, lo, hi = r[1], r[2], r[3]
+            local count = 0
+            for raw = lo, hi do
+                if ALL_LOCATIONS[717000 + raw] then count = count + 1 end
+            end
+            if count > 0 then
+                local obj = Tracker:FindObjectForCode("@World/Traveling Merchant/" .. day)
+                if obj then
+                    obj.ChestCount = count
+                    obj.AvailableChestCount = count
+                end
+            end
+        end
+    end
+
     if SLOT_DATA == nil then
         return
     end

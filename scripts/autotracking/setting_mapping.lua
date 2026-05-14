@@ -220,12 +220,8 @@ function applySettingsFromSlotData(slot_data)
         set_chest_count("@World/Backpack Upgrades/Deluxe Pack", bp_size)
     end
 
-    -- Traveling Merchant: number of locations per day.
-    local tm_count = tonumber(get_value(slot_data, "traveling_merchant_locations")) or 0
-    if tm_count > 0 then
-        for _, day in ipairs({"Sunday", "Monday", "Tuesday", "Wednesday",
-                              "Thursday", "Friday", "Saturday"}) do
-            set_chest_count("@World/Traveling Merchant/" .. day, tm_count)
-        end
-    end
+    -- Traveling Merchant per-day section sizing is done in archipelago.lua's
+    -- onClear from ALL_LOCATIONS (no traveling_merchant_locations slot_data
+    -- field exists — AP picks the per-day count from filler/orphan
+    -- heuristics in locations.py:extend_filler_locations).
 end
