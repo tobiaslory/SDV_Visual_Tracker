@@ -1,6 +1,14 @@
 {
 	"versions": [
 		{
+			"package_version": "1.7.21",
+			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.21/stardew_valley_randomizer.zip",
+			"sha256": "2bcffd3443266ef71d1d2f4c87d54544596430b24ea63119abf11ae21dafa599",
+			"changelog": [
+				"Fix: goal-completion auto-release left several categories with uncollected sections because either (a) the tracker showed locations that don't exist in the seed, or (b) the AP location IDs the seed actually uses weren't mapped to the tracker section. Fixes: Old Master Cannoli + Pot of Gold get visibility_rules=[secretsanity_on] so they hide when secretsanity is off; Tea Leaves 'Harvested' cropsanity sub-section removed (there's no Harvest Tea Leaves AP location at all); Vault tracker section restructured from 4 fixed amounts to a single 'Bundles' group of 4 — all 28 possible Vault bundle AP IDs (vanilla 27-30 + thematic/remixed 77-100) map to it; Backpack split AP IDs 175-199 (Large + Deluxe 1-12) mapped to the World map sections; Traveling Merchant 901-970 (10 per day × 7 days) all mapped to per-day sections; setting_mapping.lua now reads backpack_size and traveling_merchant_locations from slot_data and sets ChestCount accordingly so the section item count matches the seed."
+			]
+		},
+		{
 			"package_version": "1.7.20",
 			"download_url": "https://github.com/tobiaslory/SDV_Visual_Tracker/releases/download/1.7.20/stardew_valley_randomizer.zip",
 			"sha256": "ee460e821647655a96570d6e298989bad566d46adf04d36290595b57b6317316",

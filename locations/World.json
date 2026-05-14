@@ -352,6 +352,7 @@
             },
             {
                 "name": "Old Master Cannoli",
+                "visibility_rules":["secretsanity_on"],
                 "sections":[
                     {
                         "name": "Give a Sweet Gem Berry",
@@ -476,6 +477,7 @@
             },
             {
                 "name": "Pot of Gold",
+                "visibility_rules":["secretsanity_on"],
                 "sections":[
                     {
                         "access_rules":["spring"],

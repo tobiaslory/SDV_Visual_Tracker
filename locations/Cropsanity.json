@@ -1982,19 +1982,6 @@
                 "name": "Tea Leaves",
 				"children":[
 				{
-					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["spring","greenhouse","summer","fall","island,turtlew"],
-					"visibility_rules": ["cropsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Crops and Foraged Items",
-                        "x": 1317,
-                        "y": 240
-                      }
-                    ]
-				},
-				{
 					"name": "Shipped",
 					"sections": [{"item_count": 1}],
 					"access_rules":["spring,shipping","greenhouse,shipping","summer,shipping","fall,shipping"],
