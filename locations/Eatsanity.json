@@ -11,6 +11,7 @@
                         "name": "Wild Horseradish",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721751", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -29,6 +30,7 @@
                         "name": "Daffodil",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721752", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -47,6 +49,7 @@
                         "name": "Leek",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721753", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -65,6 +68,7 @@
                         "name": "Dandelion",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721754", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -83,6 +87,7 @@
                         "name": "Parsnip",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721755", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -101,6 +106,7 @@
                         "name": "Cave Carrot",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721756", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -119,6 +125,7 @@
                         "name": "Cactus Fruit",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721757", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -137,6 +144,7 @@
                         "name": "Green Bean",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721758", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -155,6 +163,7 @@
                         "name": "Cauliflower",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721759", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -173,6 +182,7 @@
                         "name": "Potato",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721760", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -191,6 +201,7 @@
                         "name": "Garlic",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721761", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -209,6 +220,7 @@
                         "name": "Kale",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721762", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -227,6 +239,7 @@
                         "name": "Melon",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721763", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -245,6 +258,7 @@
                         "name": "Tomato",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721764", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -263,6 +277,7 @@
                         "name": "Morel",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721765", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -281,6 +296,7 @@
                         "name": "Blueberry",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721766", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -299,6 +315,7 @@
                         "name": "Fiddlehead Fern",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721767", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -317,6 +334,7 @@
                         "name": "Hot Pepper",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721768", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -335,6 +353,7 @@
                         "name": "Radish",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721769", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -353,6 +372,7 @@
                         "name": "Red Cabbage",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721770", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -371,6 +391,7 @@
                         "name": "Starfruit",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721771", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -389,6 +410,7 @@
                         "name": "Corn",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721772", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -407,6 +429,7 @@
                         "name": "Unmilled Rice",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721773", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -425,6 +448,7 @@
                         "name": "Eggplant",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721774", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -443,6 +467,7 @@
                         "name": "Artichoke",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721775", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -461,6 +486,7 @@
                         "name": "Bok Choy",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721776", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -479,6 +505,7 @@
                         "name": "Yam",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721777", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -497,6 +524,7 @@
                         "name": "Chanterelle",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721778", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -515,6 +543,7 @@
                         "name": "Cranberries",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721779", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -533,6 +562,7 @@
                         "name": "Beet",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721780", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -551,6 +581,7 @@
                         "name": "Salmonberry",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721781", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -569,6 +600,7 @@
                         "name": "Amaranth",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721782", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -587,6 +619,7 @@
                         "name": "Hops",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721783", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -605,6 +638,7 @@
                         "name": "Spice Berry",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721784", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -623,6 +657,7 @@
                         "name": "Grape",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721785", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -641,6 +676,7 @@
                         "name": "Spring Onion",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721786", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -659,6 +695,7 @@
                         "name": "Strawberry",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721787", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -677,6 +714,7 @@
                         "name": "Sweet Pea",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721788", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -695,6 +733,7 @@
                         "name": "Common Mushroom",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721789", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -713,6 +752,7 @@
                         "name": "Wild Plum",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721790", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -731,6 +771,7 @@
                         "name": "Hazelnut",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721791", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -749,6 +790,7 @@
                         "name": "Blackberry",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721792", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -767,6 +809,7 @@
                         "name": "Winter Root",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721793", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -785,6 +828,7 @@
                         "name": "Crystal Fruit",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721794", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -803,6 +847,7 @@
                         "name": "Snow Yam",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721795", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -821,6 +866,7 @@
                         "name": "Crocus",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721796", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -839,6 +885,7 @@
                         "name": "Sunflower",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721797", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -857,6 +904,7 @@
                         "name": "Purple Mushroom",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721798", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -875,6 +923,7 @@
                         "name": "Tulip",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721799", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -893,6 +942,7 @@
                         "name": "Summer Spangle",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721800", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -911,6 +961,7 @@
                         "name": "Fairy Rose",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721801", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -929,6 +980,7 @@
                         "name": "Blue Jazz",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721802", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -947,6 +999,7 @@
                         "name": "Poppy",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721803", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -965,6 +1018,7 @@
                         "name": "Apple",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721804", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -983,6 +1037,7 @@
                         "name": "Apricot",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721805", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1001,6 +1056,7 @@
                         "name": "Orange",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721806", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1019,6 +1075,7 @@
                         "name": "Peach",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721807", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1037,6 +1094,7 @@
                         "name": "Pomegranate",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721808", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1055,6 +1113,7 @@
                         "name": "Cherry",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721809", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1073,6 +1132,7 @@
                         "name": "Banana",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721810", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1091,6 +1151,7 @@
                         "name": "Ginger",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721811", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1109,6 +1170,7 @@
                         "name": "Taro Root",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721812", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1127,6 +1189,7 @@
                         "name": "Pineapple",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721813", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1145,6 +1208,7 @@
                         "name": "Mango",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721814", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1163,6 +1227,7 @@
                         "name": "Magma Cap",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721815", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1181,6 +1246,7 @@
                         "name": "Qi Fruit",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721816", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1199,6 +1265,7 @@
                         "name": "Carrot",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721817", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1217,6 +1284,7 @@
                         "name": "Summer Squash",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721818", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1235,6 +1303,7 @@
                         "name": "Broccoli",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721819", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1253,6 +1322,7 @@
                         "name": "Powdermelon",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721820", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1271,6 +1341,7 @@
                         "name": "Sap",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722051", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1289,6 +1360,7 @@
                         "name": "Holly",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722052", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1307,6 +1379,7 @@
                         "name": "Red Mushroom",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722053", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1330,6 +1403,7 @@
                         "name": "Anchovy",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721971", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1348,6 +1422,7 @@
                         "name": "Tuna",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721972", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1366,6 +1441,7 @@
                         "name": "Sardine",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721973", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1384,6 +1460,7 @@
                         "name": "Bream",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721974", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1402,6 +1479,7 @@
                         "name": "Largemouth Bass",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721975", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1420,6 +1498,7 @@
                         "name": "Smallmouth Bass",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721976", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1438,6 +1517,7 @@
                         "name": "Rainbow Trout",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721977", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1456,6 +1536,7 @@
                         "name": "Salmon",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721978", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1474,6 +1555,7 @@
                         "name": "Walleye",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721979", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1492,6 +1574,7 @@
                         "name": "Perch",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721980", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1510,6 +1593,7 @@
                         "name": "Carp",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721981", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1528,6 +1612,7 @@
                         "name": "Catfish",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721982", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1546,6 +1631,7 @@
                         "name": "Pike",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721983", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1564,6 +1650,7 @@
                         "name": "Sunfish",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721984", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1582,6 +1669,7 @@
                         "name": "Red Mullet",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721985", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1600,6 +1688,7 @@
                         "name": "Herring",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721986", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1618,6 +1707,7 @@
                         "name": "Eel",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721987", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1636,6 +1726,7 @@
                         "name": "Red Snapper",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721988", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1654,6 +1745,7 @@
                         "name": "Squid",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721989", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1672,6 +1764,7 @@
                         "name": "Seaweed",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721990", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1690,6 +1783,7 @@
                         "name": "Green Algae",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721991", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1708,6 +1802,7 @@
                         "name": "Super Cucumber",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721992", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1726,6 +1821,7 @@
                         "name": "Ghostfish",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721993", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1744,6 +1840,7 @@
                         "name": "White Algae",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721994", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1762,6 +1859,7 @@
                         "name": "Crimsonfish",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721995", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1780,6 +1878,7 @@
                         "name": "Angler",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721996", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1798,6 +1897,7 @@
                         "name": "Ice Pip",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721997", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1816,6 +1916,7 @@
                         "name": "Lava Eel",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721998", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1834,6 +1935,7 @@
                         "name": "Legend",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721999", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1852,6 +1954,7 @@
                         "name": "Sandfish",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722000", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1870,6 +1973,7 @@
                         "name": "Mutant Carp",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722001", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1888,6 +1992,7 @@
                         "name": "Sturgeon",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722002", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1906,6 +2011,7 @@
                         "name": "Tiger Trout",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722003", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1924,6 +2030,7 @@
                         "name": "Bullhead",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722004", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1942,6 +2049,7 @@
                         "name": "Tilapia",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722005", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1960,6 +2068,7 @@
                         "name": "Chub",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722006", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1978,6 +2087,7 @@
                         "name": "Dorado",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722007", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1996,6 +2106,7 @@
                         "name": "Albacore",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722008", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2014,6 +2125,7 @@
                         "name": "Shad",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722009", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2032,6 +2144,7 @@
                         "name": "Lingcod",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722010", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2050,6 +2163,7 @@
                         "name": "Halibut",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722011", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2068,6 +2182,7 @@
                         "name": "Woodskip",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722012", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2086,6 +2201,7 @@
                         "name": "Glacierfish",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722013", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2104,6 +2220,7 @@
                         "name": "Void Salmon",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722014", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2122,6 +2239,7 @@
                         "name": "Slimejack",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722015", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2140,6 +2258,7 @@
                         "name": "Midnight Squid",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722016", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2158,6 +2277,7 @@
                         "name": "Spook Fish",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722017", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2176,6 +2296,7 @@
                         "name": "Blobfish",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722018", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2194,6 +2315,7 @@
                         "name": "Flounder",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722019", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2212,6 +2334,7 @@
                         "name": "Midnight Carp",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722020", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2230,6 +2353,7 @@
                         "name": "Stingray",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722021", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2248,6 +2372,7 @@
                         "name": "Lionfish",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722022", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2266,6 +2391,7 @@
                         "name": "Blue Discus",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722023", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2284,6 +2410,7 @@
                         "name": "Son of Crimsonfish",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722024", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2302,6 +2429,7 @@
                         "name": "Ms. Angler",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722025", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2320,6 +2448,7 @@
                         "name": "Legend II",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722026", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2338,6 +2467,7 @@
                         "name": "Radioactive Carp",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722027", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2356,6 +2486,7 @@
                         "name": "Glacierfish Jr.",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722028", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2374,6 +2505,7 @@
                         "name": "Sea Jelly",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722029", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2392,6 +2524,7 @@
                         "name": "Cave Jelly",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722030", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2410,6 +2543,7 @@
                         "name": "River Jelly",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722031", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2428,6 +2562,7 @@
                         "name": "Joja Cola",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722032", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2446,6 +2581,7 @@
                         "name": "Pufferfish",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722056", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2464,6 +2600,7 @@
                         "name": "Sea Cucumber",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722057", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2482,6 +2619,7 @@
                         "name": "Goby",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722058", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2500,6 +2638,7 @@
                         "name": "Scorpion Carp",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722059", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2523,6 +2662,7 @@
                         "name": "Egg",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721921", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2541,6 +2681,7 @@
                         "name": "Large Egg",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721922", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2559,6 +2700,7 @@
                         "name": "Egg (Brown)",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721923", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2577,6 +2719,7 @@
                         "name": "Large Egg (Brown)",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721924", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2595,6 +2738,7 @@
                         "name": "Milk",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721925", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2613,6 +2757,7 @@
                         "name": "Large Milk",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721926", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2631,6 +2776,7 @@
                         "name": "Pale Ale",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721927", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2649,6 +2795,7 @@
                         "name": "Mayonnaise",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721928", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2667,6 +2814,7 @@
                         "name": "Duck Mayonnaise",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721929", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2685,6 +2833,7 @@
                         "name": "Beer",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721930", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2703,6 +2852,7 @@
                         "name": "Wine",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721931", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2721,6 +2871,7 @@
                         "name": "Juice",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721932", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2739,6 +2890,7 @@
                         "name": "Coffee",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721933", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2757,6 +2909,7 @@
                         "name": "Cheese",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721934", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2775,6 +2928,7 @@
                         "name": "Goat Cheese",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721935", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2793,6 +2947,7 @@
                         "name": "Truffle",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721936", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2811,6 +2966,7 @@
                         "name": "Truffle Oil",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721937", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2829,6 +2985,7 @@
                         "name": "Goat Milk",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721938", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2847,6 +3004,7 @@
                         "name": "Large Goat Milk",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721939", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2865,6 +3023,7 @@
                         "name": "Duck Egg",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721940", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2883,6 +3042,7 @@
                         "name": "Aged Roe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721941", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2901,6 +3061,7 @@
                         "name": "Mead",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721942", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2919,6 +3080,7 @@
                         "name": "Green Tea",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721943", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2937,6 +3099,7 @@
                         "name": "Maple Syrup",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721944", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2955,6 +3118,7 @@
                         "name": "Dinosaur Mayonnaise",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721945", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2973,6 +3137,7 @@
                         "name": "Roe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721946", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2991,6 +3156,7 @@
                         "name": "Caviar",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721947", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3009,6 +3175,7 @@
                         "name": "Ostrich Egg",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721948", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3027,6 +3194,7 @@
                         "name": "Golden Egg",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721949", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3045,6 +3213,7 @@
                         "name": "Mystic Syrup",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721950", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3063,6 +3232,7 @@
                         "name": "Raisins",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721951", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3081,6 +3251,7 @@
                         "name": "Jelly",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721952", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3099,6 +3270,7 @@
                         "name": "Pickles",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721953", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3117,6 +3289,7 @@
                         "name": "Rice",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721954", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3135,6 +3308,7 @@
                         "name": "Sugar",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721955", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3153,6 +3327,7 @@
                         "name": "Wheat Flour",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721956", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3171,6 +3346,7 @@
                         "name": "Oil",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721957", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3189,6 +3365,7 @@
                         "name": "Vinegar",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721958", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3207,6 +3384,7 @@
                         "name": "Smoked Fish",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721959", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3225,6 +3403,7 @@
                         "name": "Dried Fruit",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721960", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3243,6 +3422,7 @@
                         "name": "Dried Mushrooms",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721961", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3261,6 +3441,7 @@
                         "name": "Void Egg",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722054", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3279,6 +3460,7 @@
                         "name": "Void Mayonnaise",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722055", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3297,6 +3479,7 @@
                         "name": "Iridium Snake Milk",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722060", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3320,6 +3503,7 @@
                         "name": "Magic Rock Candy",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722041", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3338,6 +3522,7 @@
                         "name": "Energy Tonic",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722042", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3356,6 +3541,7 @@
                         "name": "Muscle Remedy",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722043", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3374,6 +3560,7 @@
                         "name": "Pina Colada",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722044", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3392,6 +3579,7 @@
                         "name": "Stardrop",
                         "sections": [
                             {
+                                "access_rules": ["$ap|722045", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3403,6 +3591,87 @@
                                 "map": "Eatsanity",
                                 "x": 20,
                                 "y": 1492
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Crafted",
+                "children": [
+                    {
+                        "name": "Field Snack",
+                        "sections": [
+                            {
+                                "access_rules": ["$ap|721882", "$ap_offline"],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721882,eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 20,
+                                "y": 1540
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Oil of Garlic",
+                        "sections": [
+                            {
+                                "access_rules": ["$ap|721905", "$ap_offline"],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721905,eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 220,
+                                "y": 1540
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Life Elixir",
+                        "sections": [
+                            {
+                                "access_rules": ["$ap|721906", "$ap_offline"],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721906,eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 420,
+                                "y": 1540
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bug Steak",
+                        "sections": [
+                            {
+                                "access_rules": ["$ap|721908", "$ap_offline"],
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721908,eatsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Eatsanity",
+                                "x": 620,
+                                "y": 1540
                             }
                         ]
                     }

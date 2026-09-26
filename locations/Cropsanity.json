@@ -9,8 +9,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["fall,amaranth","greenhouse,amaranth","island,turtlew,amaranth"],
+					"sections": [{"access_rules": ["$ap|719301", "$ap_offline,fall,amaranth", "$ap_offline,greenhouse,amaranth", "$ap_offline,island,turtlew,amaranth"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719301,cropsanity_on"],
 					"map_locations":[
                       {
@@ -22,8 +22,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,fall,amaranth","shipping,greenhouse,amaranth","shipping,island,turtlew,amaranth"],
+					"sections": [{"access_rules": ["$ap|719612", "$ap_offline,shipping,fall,amaranth", "$ap_offline,shipping,greenhouse,amaranth", "$ap_offline,shipping,island,turtlew,amaranth"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719612,shipsanity_crops", "719612,shipsanity_full", "719612,shipsanity_fullwf", "719612,shipsanity_all"],					
 					"map_locations":[
                       {
@@ -40,8 +40,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["greenhouse,ancient","spring,ancient","summer,ancient","fall,ancient","island,turtlew,ancient"],
+					"sections": [{"access_rules": ["$ap|719352", "$ap_offline,greenhouse,ancient", "$ap_offline,spring,ancient", "$ap_offline,summer,ancient", "$ap_offline,fall,ancient", "$ap_offline,island,turtlew,ancient"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719352,cropsanity_on"],
 					"map_locations":[
                       {
@@ -53,8 +53,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["greenhouse,ancient,shipping","spring,ancient,shipping","summer,ancient,shipping","fall,ancient,shipping","shipping,island,turtlew,ancient"],
+					"sections": [{"access_rules": ["$ap|719613", "$ap_offline,greenhouse,ancient,shipping", "$ap_offline,spring,ancient,shipping", "$ap_offline,summer,ancient,shipping", "$ap_offline,fall,ancient,shipping", "$ap_offline,shipping,island,turtlew,ancient"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719613,shipsanity_crops", "719613,shipsanity_full", "719613,shipsanity_fullwf", "719613,shipsanity_all"],					
 					"map_locations":[
                       {
@@ -71,8 +71,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["fall,apple","greenhouse,apple","island,turtlew,apple"],
+					"sections": [{"access_rules": ["$ap|719339", "$ap_offline,fall,apple", "$ap_offline,greenhouse,apple", "$ap_offline,island,turtlew,apple"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719339,cropsanity_on"],
 					"map_locations":[
                       {
@@ -84,8 +84,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,fall,apple","shipping,greenhouse,apple","shipping,island,turtlew,apple"],
+					"sections": [{"access_rules": ["$ap|719614", "$ap_offline,shipping,fall,apple", "$ap_offline,shipping,greenhouse,apple", "$ap_offline,shipping,island,turtlew,apple"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719614,shipsanity_crops", "719614,shipsanity_full", "719614,shipsanity_fullwf", "719614,shipsanity_all"],					
 					"map_locations":[
                       {
@@ -102,8 +102,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["spring,apricot","greenhouse,apricot","island,turtlew,apricot"],
+					"sections": [{"access_rules": ["$ap|719340", "$ap_offline,spring,apricot", "$ap_offline,greenhouse,apricot", "$ap_offline,island,turtlew,apricot"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719340,cropsanity_on"],
 					"map_locations":[
                       {
@@ -115,8 +115,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,spring,apricot","shipping,greenhouse,apricot","shipping,island,turtlew,apricot"],
+					"sections": [{"access_rules": ["$ap|719615", "$ap_offline,shipping,spring,apricot", "$ap_offline,shipping,greenhouse,apricot", "$ap_offline,shipping,island,turtlew,apricot"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719615,shipsanity_crops", "719615,shipsanity_full", "719615,shipsanity_fullwf", "719615,shipsanity_all"],				
 					"map_locations":[
                       {
@@ -133,8 +133,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["fall,artichoke","greenhouse,artichoke","island,turtlew,artichoke"],
+					"sections": [{"access_rules": ["$ap|719302", "$ap_offline,fall,artichoke", "$ap_offline,greenhouse,artichoke", "$ap_offline,island,turtlew,artichoke"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719302,cropsanity_on"],
 					"map_locations":[
                       {
@@ -146,8 +146,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,fall,artichoke","shipping,greenhouse,artichoke","shipping,island,turtlew,artichoke"],
+					"sections": [{"access_rules": ["$ap|719616", "$ap_offline,shipping,fall,artichoke", "$ap_offline,shipping,greenhouse,artichoke", "$ap_offline,shipping,island,turtlew,artichoke"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719616,shipsanity_crops", "719616,shipsanity_full", "719616,shipsanity_fullwf", "719616,shipsanity_all"],					
 					"map_locations":[
                       {
@@ -164,8 +164,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1,}],
-					"access_rules":["island,turtlew,banana","greenhouse,banana","summer,banana"],
+					"sections": [{"access_rules": ["$ap|719345", "$ap_offline,island,turtlew,banana", "$ap_offline,greenhouse,banana", "$ap_offline,summer,banana"], "item_count": 1,}],
+					"access_rules":[],
 					"visibility_rules": ["719345,island_tracking_on", "719345,cropsanity_on"],				
 					"map_locations":[
                       {
@@ -177,8 +177,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["island,banana,shipping","greenhouse,banana,shipping","summer,banana,shipping"],
+					"sections": [{"access_rules": ["$ap|719942", "$ap_offline,island,banana,shipping", "$ap_offline,greenhouse,banana,shipping", "$ap_offline,summer,banana,shipping"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719942,island_tracking_on", "719942,shipsanity_crops", "719942,island_tracking_on", "719942,shipsanity_full", "719942,island_tracking_on", "719942,shipsanity_fullwf", "719942,island_tracking_on", "719942,shipsanity_all"],						
 					"map_locations":[
                       {
@@ -195,8 +195,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["fall,beet","greenhouse,beet","island,turtlew,beet"],
+					"sections": [{"access_rules": ["$ap|719303", "$ap_offline,fall,beet", "$ap_offline,greenhouse,beet", "$ap_offline,island,turtlew,beet"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719303,cropsanity_on"],
 					"map_locations":[
                       {
@@ -208,8 +208,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,fall,beet","shipping,greenhouse,beet","shipping,island,turtlew,beet"],
+					"sections": [{"access_rules": ["$ap|719617", "$ap_offline,shipping,fall,beet", "$ap_offline,shipping,greenhouse,beet", "$ap_offline,shipping,island,turtlew,beet"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719617,shipsanity_crops", "719617,shipsanity_full", "719617,shipsanity_fullwf", "719617,shipsanity_all"],				
 					"map_locations":[
                       {
@@ -226,8 +226,8 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,fall"],
+					"sections": [{"access_rules": ["$ap|719716", "$ap_offline,shipping,fall"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719716,shipsanity_crops", "719716,shipsanity_full", "719716,shipsanity_fullwf", "719716,shipsanity_all"],					
 					"map_locations":[
                       {
@@ -244,8 +244,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["spring,blueJazz","greenhouse,blueJazz","island,turtlew,blueJazz"],
+					"sections": [{"access_rules": ["$ap|719304", "$ap_offline,spring,blueJazz", "$ap_offline,greenhouse,blueJazz", "$ap_offline,island,turtlew,blueJazz"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719304,cropsanity_on"],
 					"map_locations":[
                       {
@@ -257,8 +257,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,spring,blueJazz","shipping,greenhouse,blueJazz","shipping,island,turtlew,blueJazz"],
+					"sections": [{"access_rules": ["$ap|719618", "$ap_offline,shipping,spring,blueJazz", "$ap_offline,shipping,greenhouse,blueJazz", "$ap_offline,shipping,island,turtlew,blueJazz"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719618,shipsanity_crops", "719618,shipsanity_full", "719618,shipsanity_fullwf", "719618,shipsanity_all"],				
 					"map_locations":[
                       {
@@ -275,9 +275,9 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|719305", "$ap_offline,summer,blueberry", "$ap_offline,greenhouse,blueberry", "$ap_offline,island,turtlew,blueberry"], "item_count": 1}],
 					"visibility_rules": ["719305,cropsanity_on"],
-					"access_rules":["summer,blueberry","greenhouse,blueberry","island,turtlew,blueberry"],
+					"access_rules":[],
 					"map_locations":[
                       {
                         "map":"Crops and Foraged Items",
@@ -288,8 +288,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,summer,blueberry","shipping,greenhouse,blueberry","shipping,island,turtlew,blueberry"],
+					"sections": [{"access_rules": ["$ap|719619", "$ap_offline,shipping,summer,blueberry", "$ap_offline,shipping,greenhouse,blueberry", "$ap_offline,shipping,island,turtlew,blueberry"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719619,shipsanity_crops", "719619,shipsanity_full", "719619,shipsanity_fullwf", "719619,shipsanity_all"],			
 					"map_locations":[
                       {
@@ -306,8 +306,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["fall,bokchoy","greenhouse,bokchoy","island,turtlew,bokchoy"],
+					"sections": [{"access_rules": ["$ap|719306", "$ap_offline,fall,bokchoy", "$ap_offline,greenhouse,bokchoy", "$ap_offline,island,turtlew,bokchoy"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719306,cropsanity_on"],
 					"map_locations":[
                       {
@@ -319,8 +319,8 @@
 				},
 				{
 					"name": "Shipped",
-					"access_rules":["shipping,fall,bokchoy","shipping,greenhouse,bokchoy","shipping,island,turtlew,bokchoy"],
-					"sections": [{"item_count": 1}],
+					"access_rules":[],
+					"sections": [{"access_rules": ["$ap|719620", "$ap_offline,shipping,fall,bokchoy", "$ap_offline,shipping,greenhouse,bokchoy", "$ap_offline,shipping,island,turtlew,bokchoy"], "item_count": 1}],
 					"visibility_rules": ["719620,shipsanity_crops", "719620,shipsanity_full", "719620,shipsanity_fullwf", "719620,shipsanity_all"],			
 					"map_locations":[
                       {
@@ -337,8 +337,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["fall,broccoli","greenhouse,broccoli","island,turtlew,broccoli"],
+					"sections": [{"access_rules": ["$ap|719348", "$ap_offline,fall,broccoli", "$ap_offline,greenhouse,broccoli", "$ap_offline,island,turtlew,broccoli"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719348,cropsanity_on"],
 					"map_locations":[
                       {
@@ -350,8 +350,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,fall,broccoli","shipping,greenhouse,broccoli","shipping,island,turtlew,broccoli"],
+					"sections": [{"access_rules": ["$ap|720829", "$ap_offline,shipping,fall,broccoli", "$ap_offline,shipping,greenhouse,broccoli", "$ap_offline,shipping,island,turtlew,broccoli"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["720829,shipsanity_crops", "720829,shipsanity_full", "720829,shipsanity_fullwf", "720829,shipsanity_all"],					
 					"map_locations":[
                       {
@@ -368,8 +368,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["cactus"],
+					"sections": [{"access_rules": ["$ap|719335", "$ap_offline,cactus"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719335,cropsanity_on"],
 					"map_locations":[
                       {
@@ -381,8 +381,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,cactus","shipping,desert"],
+					"sections": [{"access_rules": ["$ap|719717", "$ap_offline,shipping,cactus", "$ap_offline,shipping,desert"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719717,shipsanity_crops", "719717,shipsanity_full", "719717,shipsanity_fullwf", "719717,shipsanity_all"],					
 					"map_locations":[
                       {
@@ -399,8 +399,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["spring,carrot","greenhouse,carrot","island,turtlew,carrot"],
+					"sections": [{"access_rules": ["$ap|719349", "$ap_offline,spring,carrot", "$ap_offline,greenhouse,carrot", "$ap_offline,island,turtlew,carrot"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719349,cropsanity_on"],
 					"map_locations":[
                       {
@@ -412,8 +412,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,spring,carrot","shipping,greenhouse,carrot","shipping,island,turtlew,carrot"],
+					"sections": [{"access_rules": ["$ap|720825", "$ap_offline,shipping,spring,carrot", "$ap_offline,shipping,greenhouse,carrot", "$ap_offline,shipping,island,turtlew,carrot"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["720825,shipsanity_crops", "720825,shipsanity_full", "720825,shipsanity_fullwf", "720825,shipsanity_all"],				
 					"map_locations":[
                       {
@@ -430,8 +430,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["spring,cauliflower","greenhouse,cauliflower","island,turtlew,cauliflower"],
+					"sections": [{"access_rules": ["$ap|719307", "$ap_offline,spring,cauliflower", "$ap_offline,greenhouse,cauliflower", "$ap_offline,island,turtlew,cauliflower"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719307,cropsanity_on"],
 					"map_locations":[
                       {
@@ -443,8 +443,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,spring,cauliflower","shipping,greenhouse,cauliflower","shipping,island,turtlew,cauliflower"],
+					"sections": [{"access_rules": ["$ap|719621", "$ap_offline,shipping,spring,cauliflower", "$ap_offline,shipping,greenhouse,cauliflower", "$ap_offline,shipping,island,turtlew,cauliflower"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719621,shipsanity_crops", "719621,shipsanity_full", "719621,shipsanity_fullwf", "719621,shipsanity_all"],				
 					"map_locations":[
                       {
@@ -461,8 +461,8 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping"],
+					"sections": [{"access_rules": ["$ap|719718", "$ap_offline,shipping"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719718,shipsanity_crops", "719718,shipsanity_full", "719718,shipsanity_fullwf", "719718,shipsanity_all"],						
 					"map_locations":[
                       {
@@ -479,8 +479,8 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,SteelAxe,fall","shipping,mushrooms"],
+					"sections": [{"access_rules": ["$ap|719719", "$ap_offline,shipping,SteelAxe,fall", "$ap_offline,shipping,mushrooms"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719719,shipsanity_crops", "719719,shipsanity_full", "719719,shipsanity_fullwf", "719719,shipsanity_all"],				
 					"map_locations":[
                       {
@@ -497,8 +497,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["spring,cherry","greenhouse,cherry","island,turtlew,cherry"],
+					"sections": [{"access_rules": ["$ap|719341", "$ap_offline,spring,cherry", "$ap_offline,greenhouse,cherry", "$ap_offline,island,turtlew,cherry"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719341,cropsanity_on"],
 					"map_locations":[
                       {
@@ -510,8 +510,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,spring,cherry","shipping,greenhouse,cherry","shipping,island,turtlew,cherry"],
+					"sections": [{"access_rules": ["$ap|719622", "$ap_offline,shipping,spring,cherry", "$ap_offline,shipping,greenhouse,cherry", "$ap_offline,shipping,island,turtlew,cherry"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719622,shipsanity_crops", "719622,shipsanity_full", "719622,shipsanity_fullwf", "719622,shipsanity_all"],				
 					"map_locations":[
                       {
@@ -528,8 +528,8 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,desert"],
+					"sections": [{"access_rules": ["$ap|719721", "$ap_offline,shipping,desert"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719721,shipsanity_crops", "719721,shipsanity_full", "719721,shipsanity_fullwf", "719721,shipsanity_all"],				
 					"map_locations":[
                       {
@@ -546,8 +546,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["spring,coffee","greenhouse,coffee","island,turtlew,coffee"],
+					"sections": [{"access_rules": ["$ap|719347", "$ap_offline,spring,coffee", "$ap_offline,greenhouse,coffee", "$ap_offline,island,turtlew,coffee"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719347,cropsanity_on"],
 					"map_locations":[
                       {
@@ -559,8 +559,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,spring,coffee","shipping,greenhouse,coffee","shipping,island,turtlew,coffee"],
+					"sections": [{"access_rules": ["$ap|719871", "$ap_offline,shipping,spring,coffee", "$ap_offline,shipping,greenhouse,coffee", "$ap_offline,shipping,island,turtlew,coffee"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719871,shipsanity_crops", "719871,shipsanity_full", "719871,shipsanity_fullwf", "719871,shipsanity_all"],		
 					"map_locations":[
                       {
@@ -577,8 +577,8 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,spring,SteelAxe","shipping,fall","shipping,mushrooms"],
+					"sections": [{"access_rules": ["$ap|719722", "$ap_offline,shipping,spring,SteelAxe", "$ap_offline,shipping,fall", "$ap_offline,shipping,mushrooms"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719722,shipsanity_crops", "719722,shipsanity_full", "719722,shipsanity_fullwf", "719722,shipsanity_all"],					
 					"map_locations":[
                       {
@@ -595,8 +595,8 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,beachbridge"],
+					"sections": [{"access_rules": ["$ap|719723", "$ap_offline,shipping,beachbridge"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719723,shipsanity_crops", "719723,shipsanity_full", "719723,shipsanity_fullwf", "719723,shipsanity_all"],			
 					"map_locations":[
                       {
@@ -613,8 +613,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["summer,corn","greenhouse,corn","fall,corn","island,turtlew,corn"],
+					"sections": [{"access_rules": ["$ap|719308", "$ap_offline,summer,corn", "$ap_offline,greenhouse,corn", "$ap_offline,fall,corn", "$ap_offline,island,turtlew,corn"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719308,cropsanity_on"],
 					"map_locations":[
                       {
@@ -626,8 +626,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,summer,corn","shipping,greenhouse,corn","shipping,fall,corn","shipping,island,turtlew,corn"],
+					"sections": [{"access_rules": ["$ap|719623", "$ap_offline,shipping,summer,corn", "$ap_offline,shipping,greenhouse,corn", "$ap_offline,shipping,fall,corn", "$ap_offline,shipping,island,turtlew,corn"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719623,shipsanity_crops", "719623,shipsanity_full", "719623,shipsanity_fullwf", "719623,shipsanity_all"],		
 					"map_locations":[
                       {
@@ -644,8 +644,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["fall,cranberry","greenhouse,cranberry","island,turtlew,cranberry"],
+					"sections": [{"access_rules": ["$ap|719309", "$ap_offline,fall,cranberry", "$ap_offline,greenhouse,cranberry", "$ap_offline,island,turtlew,cranberry"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719309,cropsanity_on"],
 					"map_locations":[
                       {
@@ -657,8 +657,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,fall,cranberry","shipping,greenhouse,cranberry","shipping,island,turtlew,cranberry"],
+					"sections": [{"access_rules": ["$ap|719624", "$ap_offline,shipping,fall,cranberry", "$ap_offline,shipping,greenhouse,cranberry", "$ap_offline,shipping,island,turtlew,cranberry"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719624,shipsanity_crops", "719624,shipsanity_full", "719624,shipsanity_fullwf", "719624,shipsanity_all"],
 					"map_locations":[
                       {
@@ -675,8 +675,8 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,winter"],
+					"sections": [{"access_rules": ["$ap|719724", "$ap_offline,shipping,winter"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719724,shipsanity_crops", "719724,shipsanity_full", "719724,shipsanity_fullwf", "719724,shipsanity_all"],		
 					"map_locations":[
                       {
@@ -693,8 +693,8 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,winter"],
+					"sections": [{"access_rules": ["$ap|719725", "$ap_offline,shipping,winter"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719725,shipsanity_crops", "719725,shipsanity_full", "719725,shipsanity_fullwf", "719725,shipsanity_all"],	
 					"map_locations":[
                       {
@@ -711,8 +711,8 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,spring"],
+					"sections": [{"access_rules": ["$ap|719726", "$ap_offline,shipping,spring"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719726,shipsanity_crops", "719726,shipsanity_full", "719726,shipsanity_fullwf", "719726,shipsanity_all"],
 					"map_locations":[
                       {
@@ -729,8 +729,8 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,spring"],
+					"sections": [{"access_rules": ["$ap|719727", "$ap_offline,shipping,spring"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719727,shipsanity_crops", "719727,shipsanity_full", "719727,shipsanity_fullwf", "719727,shipsanity_all"],
 					"map_locations":[
                       {
@@ -747,8 +747,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["fall,eggplant","greenhouse,eggplant","island,turtlew,eggplant"],
+					"sections": [{"access_rules": ["$ap|719310", "$ap_offline,fall,eggplant", "$ap_offline,greenhouse,eggplant", "$ap_offline,island,turtlew,eggplant"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719310,cropsanity_on"],
 					"map_locations":[
                       {
@@ -760,8 +760,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,fall,eggplant","shipping,greenhouse,eggplant","shipping,island,turtlew,eggplant"],
+					"sections": [{"access_rules": ["$ap|719625", "$ap_offline,shipping,fall,eggplant", "$ap_offline,shipping,greenhouse,eggplant", "$ap_offline,shipping,island,turtlew,eggplant"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719625,shipsanity_crops", "719625,shipsanity_full", "719625,shipsanity_fullwf", "719625,shipsanity_all"],			
 					"map_locations":[
                       {
@@ -778,8 +778,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["fall,fairyrose","greenhouse,fairyrose","island,turtlew,fairyrose"],
+					"sections": [{"access_rules": ["$ap|719311", "$ap_offline,fall,fairyrose", "$ap_offline,greenhouse,fairyrose", "$ap_offline,island,turtlew,fairyrose"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719311,cropsanity_on"],
 					"map_locations":[
                       {
@@ -791,8 +791,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,fall,fairyrose","shipping,greenhouse,fairyrose","shipping,island,turtlew,fairyrose"],
+					"sections": [{"access_rules": ["$ap|719626", "$ap_offline,shipping,fall,fairyrose", "$ap_offline,shipping,greenhouse,fairyrose", "$ap_offline,shipping,island,turtlew,fairyrose"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719626,shipsanity_crops", "719626,shipsanity_full", "719626,shipsanity_fullwf", "719626,shipsanity_all"],
 					"map_locations":[
                       {
@@ -809,8 +809,8 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,summer"],
+					"sections": [{"access_rules": ["$ap|719728", "$ap_offline,shipping,summer"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719728,shipsanity_crops", "719728,shipsanity_full", "719728,shipsanity_fullwf", "719728,shipsanity_all"],
 					"map_locations":[
                       {
@@ -827,8 +827,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["spring,garlic","greenhouse,garlic","island,turtlew,garlic"],
+					"sections": [{"access_rules": ["$ap|719312", "$ap_offline,spring,garlic", "$ap_offline,greenhouse,garlic", "$ap_offline,island,turtlew,garlic"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719312,cropsanity_on"],
 					"map_locations":[
                       {
@@ -840,8 +840,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,spring,garlic","shipping,greenhouse,garlic","shipping,island,turtlew,garlic"],
+					"sections": [{"access_rules": ["$ap|719627", "$ap_offline,shipping,spring,garlic", "$ap_offline,shipping,greenhouse,garlic", "$ap_offline,shipping,island,turtlew,garlic"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719627,shipsanity_crops", "719627,shipsanity_full", "719627,shipsanity_fullwf", "719627,shipsanity_all"],		
 					"map_locations":[
                       {
@@ -858,8 +858,8 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,island,turtlen","shipping,island,turtlew"],
+					"sections": [{"access_rules": ["$ap|719955", "$ap_offline,shipping,island,turtlen", "$ap_offline,shipping,island,turtlew"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719955,island_tracking_on", "719955,shipsanity_crops", "719955,island_tracking_on", "719955,shipsanity_full", "719955,island_tracking_on", "719955,shipsanity_fullwf", "719955,island_tracking_on", "719955,shipsanity_all"],	
 					"map_locations":[
                       {
@@ -876,8 +876,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["fall,grape","greenhouse,grape","island,turtlew,grape"],
+					"sections": [{"access_rules": ["$ap|719313", "$ap_offline,fall,grape", "$ap_offline,greenhouse,grape", "$ap_offline,island,turtlew,grape"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719313,cropsanity_on"],
 					"map_locations":[
                       {
@@ -889,8 +889,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,summer","shipping,fall,grape","shipping,greenhouse,grape","shipping,island,turtlew,grape"],
+					"sections": [{"access_rules": ["$ap|719628", "$ap_offline,shipping,summer", "$ap_offline,shipping,fall,grape", "$ap_offline,shipping,greenhouse,grape", "$ap_offline,shipping,island,turtlew,grape"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719628,shipsanity_crops", "719628,shipsanity_full", "719628,shipsanity_fullwf", "719628,shipsanity_all"],
 					"map_locations":[
                       {
@@ -907,8 +907,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["spring,bean","greenhouse,bean","island,turtlew,bean"],
+					"sections": [{"access_rules": ["$ap|719314", "$ap_offline,spring,bean", "$ap_offline,greenhouse,bean", "$ap_offline,island,turtlew,bean"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719314,cropsanity_on"],
 					"map_locations":[
                       {
@@ -920,8 +920,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,spring,bean","shipping,greenhouse,bean","shipping,island,turtlew,bean"],
+					"sections": [{"access_rules": ["$ap|719629", "$ap_offline,shipping,spring,bean", "$ap_offline,shipping,greenhouse,bean", "$ap_offline,shipping,island,turtlew,bean"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719629,shipsanity_crops", "719629,shipsanity_full", "719629,shipsanity_fullwf", "719629,shipsanity_all"],	
 					"map_locations":[
                       {
@@ -938,8 +938,8 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,fall"],
+					"sections": [{"access_rules": ["$ap|719729", "$ap_offline,shipping,fall"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719729,shipsanity_crops", "719729,shipsanity_full", "719729,shipsanity_fullwf", "719729,shipsanity_all"],	
 					"map_locations":[
                       {
@@ -956,8 +956,8 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,winter"],
+					"sections": [{"access_rules": ["$ap|719730", "$ap_offline,shipping,winter"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719730,shipsanity_crops", "719730,shipsanity_full", "719730,shipsanity_fullwf", "719730,shipsanity_all"],	
 					"map_locations":[
                       {
@@ -974,8 +974,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["summer,hops","greenhouse,hops","island,turtlew,hops"],
+					"sections": [{"access_rules": ["$ap|719315", "$ap_offline,summer,hops", "$ap_offline,greenhouse,hops", "$ap_offline,island,turtlew,hops"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719315,cropsanity_on"],
 					"map_locations":[
                       {
@@ -987,8 +987,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,summer,hops","shipping,greenhouse,hops","shipping,island,turtlew,hops"],
+					"sections": [{"access_rules": ["$ap|719630", "$ap_offline,shipping,summer,hops", "$ap_offline,shipping,greenhouse,hops", "$ap_offline,shipping,island,turtlew,hops"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719630,shipsanity_crops", "719630,shipsanity_full", "719630,shipsanity_fullwf", "719630,shipsanity_all"],	
 					"map_locations":[
                       {
@@ -1005,8 +1005,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["summer,pepper","greenhouse,pepper","island,turtlew,pepper"],
+					"sections": [{"access_rules": ["$ap|719316", "$ap_offline,summer,pepper", "$ap_offline,greenhouse,pepper", "$ap_offline,island,turtlew,pepper"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719316,cropsanity_on"],
 					"map_locations":[
                       {
@@ -1018,8 +1018,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,summer,pepper","shipping,greenhouse,pepper","shipping,island,turtlew,pepper"],
+					"sections": [{"access_rules": ["$ap|719631", "$ap_offline,shipping,summer,pepper", "$ap_offline,shipping,greenhouse,pepper", "$ap_offline,shipping,island,turtlew,pepper"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719631,shipsanity_crops", "719631,shipsanity_full", "719631,shipsanity_fullwf", "719631,shipsanity_all"],		
 					"map_locations":[
                       {
@@ -1036,8 +1036,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["spring,kale","greenhouse,kale","island,turtlew,kale"],
+					"sections": [{"access_rules": ["$ap|719317", "$ap_offline,spring,kale", "$ap_offline,greenhouse,kale", "$ap_offline,island,turtlew,kale"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719317,cropsanity_on"],
 					"map_locations":[
                       {
@@ -1049,8 +1049,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,spring,kale","shipping,greenhouse,kale","shipping,island,turtlew,kale"],
+					"sections": [{"access_rules": ["$ap|719632", "$ap_offline,shipping,spring,kale", "$ap_offline,shipping,greenhouse,kale", "$ap_offline,shipping,island,turtlew,kale"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719632,shipsanity_crops", "719632,shipsanity_full", "719632,shipsanity_fullwf", "719632,shipsanity_all"],		
 					"map_locations":[
                       {
@@ -1067,8 +1067,8 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,spring"],
+					"sections": [{"access_rules": ["$ap|719731", "$ap_offline,shipping,spring"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719731,shipsanity_crops", "719731,shipsanity_full", "719731,shipsanity_fullwf", "719731,shipsanity_all"],		
 					"map_locations":[
                       {
@@ -1085,8 +1085,8 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,island,turtlen"],
+					"sections": [{"access_rules": ["$ap|719956", "$ap_offline,shipping,island,turtlen"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719956,island_tracking_on", "719956,shipsanity_crops", "719956,island_tracking_on", "719956,shipsanity_full", "719956,island_tracking_on", "719956,shipsanity_fullwf", "719956,island_tracking_on", "719956,shipsanity_all"],
 					"map_locations":[
                       {
@@ -1103,8 +1103,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["summer,mango","greenhouse,mango","island,mango,turtlew"],
+					"sections": [{"access_rules": ["$ap|719346", "$ap_offline,summer,mango", "$ap_offline,greenhouse,mango", "$ap_offline,island,mango,turtlew"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719346,cropsanity_on", "719346,island_tracking_on"],					
 					"map_locations":[
                       {
@@ -1116,8 +1116,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,summer,mango","shipping,greenhouse,mango","shipping,island,mango,turtlew"],
+					"sections": [{"access_rules": ["$ap|719943", "$ap_offline,shipping,summer,mango", "$ap_offline,shipping,greenhouse,mango", "$ap_offline,shipping,island,mango,turtlew"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719943,island_tracking_on", "719943,shipsanity_crops", "719943,island_tracking_on", "719943,shipsanity_full", "719943,island_tracking_on", "719943,shipsanity_fullwf", "719943,island_tracking_on", "719943,shipsanity_all"],
 					"map_locations":[
                       {
@@ -1134,8 +1134,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["summer,melon","greenhouse,melon","island,turtlew,melon"],
+					"sections": [{"access_rules": ["$ap|719318", "$ap_offline,summer,melon", "$ap_offline,greenhouse,melon", "$ap_offline,island,turtlew,melon"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719318,cropsanity_on"],
 					"map_locations":[
                       {
@@ -1147,8 +1147,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,summer,melon","shipping,greenhouse,melon","shipping,island,turtlew,melon"],
+					"sections": [{"access_rules": ["$ap|719633", "$ap_offline,shipping,summer,melon", "$ap_offline,shipping,greenhouse,melon", "$ap_offline,shipping,island,turtlew,melon"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719633,shipsanity_crops", "719633,shipsanity_full", "719633,shipsanity_fullwf", "719633,shipsanity_all"],
 					"map_locations":[
                       {
@@ -1165,8 +1165,8 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,spring,SteelAxe","shipping,mushrooms"],
+					"sections": [{"access_rules": ["$ap|719732", "$ap_offline,shipping,spring,SteelAxe", "$ap_offline,shipping,mushrooms"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719732,shipsanity_crops", "719732,shipsanity_full", "719732,shipsanity_fullwf", "719732,shipsanity_all"],		
 					"map_locations":[
                       {
@@ -1183,8 +1183,8 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,winter"],
+					"sections": [{"access_rules": ["$ap|719733", "$ap_offline,shipping,winter"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719733,shipsanity_crops", "719733,shipsanity_full", "719733,shipsanity_fullwf", "719733,shipsanity_all"],		
 					"map_locations":[
                       {
@@ -1201,8 +1201,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["summer,orange","greenhouse,orange","island,turtlew,orange"],
+					"sections": [{"access_rules": ["$ap|719342", "$ap_offline,summer,orange", "$ap_offline,greenhouse,orange", "$ap_offline,island,turtlew,orange"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719342,cropsanity_on"],
 					"map_locations":[
                       {
@@ -1214,8 +1214,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,summer,orange","shipping,greenhouse,orange","shipping,island,turtlew,orange"],
+					"sections": [{"access_rules": ["$ap|719634", "$ap_offline,shipping,summer,orange", "$ap_offline,shipping,greenhouse,orange", "$ap_offline,shipping,island,turtlew,orange"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719634,shipsanity_crops", "719634,shipsanity_full", "719634,shipsanity_fullwf", "719634,shipsanity_all"],		
 					"map_locations":[
                       {
@@ -1232,8 +1232,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["spring,parsnip","greenhouse,parsnip","island,turtlew,parsnip"],
+					"sections": [{"access_rules": ["$ap|719319", "$ap_offline,spring,parsnip", "$ap_offline,greenhouse,parsnip", "$ap_offline,island,turtlew,parsnip"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719319,cropsanity_on"],
 					"map_locations":[
                       {
@@ -1245,8 +1245,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,spring,parsnip","shipping,greenhouse,parsnip","shipping,island,turtlew,parsnip"],
+					"sections": [{"access_rules": ["$ap|719635", "$ap_offline,shipping,spring,parsnip", "$ap_offline,shipping,greenhouse,parsnip", "$ap_offline,shipping,island,turtlew,parsnip"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719635,shipsanity_crops", "719635,shipsanity_full", "719635,shipsanity_fullwf", "719635,shipsanity_all"],		
 					"map_locations":[
                       {
@@ -1263,8 +1263,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["summer,peach","greenhouse,peach","island,turtlew,peach"],
+					"sections": [{"access_rules": ["$ap|719344", "$ap_offline,summer,peach", "$ap_offline,greenhouse,peach", "$ap_offline,island,turtlew,peach"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719344,cropsanity_on"],
 					"map_locations":[
                       {
@@ -1276,8 +1276,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,summer,peach","shipping,greenhouse,peach","shipping,island,turtlew,peach"],
+					"sections": [{"access_rules": ["$ap|719636", "$ap_offline,shipping,summer,peach", "$ap_offline,shipping,greenhouse,peach", "$ap_offline,shipping,island,turtlew,peach"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719636,shipsanity_crops", "719636,shipsanity_full", "719636,shipsanity_fullwf", "719636,shipsanity_all"],		
 					"map_locations":[
                       {
@@ -1294,8 +1294,8 @@
 				"children":[
 				  {
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["summer,pineapple","greenhouse,pineapple","island,turtlew,pineapple"],
+					"sections": [{"access_rules": ["$ap|719336", "$ap_offline,summer,pineapple", "$ap_offline,greenhouse,pineapple", "$ap_offline,island,turtlew,pineapple"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719336,cropsanity_on", "719336,island_tracking_on"],					
 					"map_locations":[
                       {
@@ -1307,8 +1307,8 @@
 				  },
 				  {
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,summer,pineapple","shipping,greenhouse,pineapple","shipping,island,turtlew,pineapple"],
+					"sections": [{"access_rules": ["$ap|719944", "$ap_offline,shipping,summer,pineapple", "$ap_offline,shipping,greenhouse,pineapple", "$ap_offline,shipping,island,turtlew,pineapple"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719944,island_tracking_on", "719944,shipsanity_crops", "719944,island_tracking_on", "719944,shipsanity_full", "719944,island_tracking_on", "719944,shipsanity_fullwf", "719944,island_tracking_on", "719944,shipsanity_all"],																
 					"map_locations":[
                       {
@@ -1325,8 +1325,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["fall,pomegranate","greenhouse,pomegranate","island,turtlew,pomegranate"],
+					"sections": [{"access_rules": ["$ap|719343", "$ap_offline,fall,pomegranate", "$ap_offline,greenhouse,pomegranate", "$ap_offline,island,turtlew,pomegranate"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719343,cropsanity_on"],
 					"map_locations":[
                       {
@@ -1338,8 +1338,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,fall,pomegranate","shipping,greenhouse,pomegranate","shipping,island,turtlew,pomegranate"],
+					"sections": [{"access_rules": ["$ap|719637", "$ap_offline,shipping,fall,pomegranate", "$ap_offline,shipping,greenhouse,pomegranate", "$ap_offline,shipping,island,turtlew,pomegranate"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719637,shipsanity_crops", "719637,shipsanity_full", "719637,shipsanity_fullwf", "719637,shipsanity_all"],		
 					"map_locations":[
                       {
@@ -1356,8 +1356,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["summer,poppy","greenhouse,poppy","island,turtlew,poppy"],
+					"sections": [{"access_rules": ["$ap|719320", "$ap_offline,summer,poppy", "$ap_offline,greenhouse,poppy", "$ap_offline,island,turtlew,poppy"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719320,cropsanity_on"],
 					"map_locations":[
                       {
@@ -1369,8 +1369,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,summer,poppy","shipping,greenhouse,poppy","shipping,island,turtlew,poppy"],
+					"sections": [{"access_rules": ["$ap|719638", "$ap_offline,shipping,summer,poppy", "$ap_offline,shipping,greenhouse,poppy", "$ap_offline,shipping,island,turtlew,poppy"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719638,shipsanity_crops", "719638,shipsanity_full", "719638,shipsanity_fullwf", "719638,shipsanity_all"],	
 					"map_locations":[
                       {
@@ -1387,8 +1387,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["spring,potato","greenhouse,potato","island,turtlew,potato"],
+					"sections": [{"access_rules": ["$ap|719321", "$ap_offline,spring,potato", "$ap_offline,greenhouse,potato", "$ap_offline,island,turtlew,potato"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719321,cropsanity_on"],
 					"map_locations":[
                       {
@@ -1400,8 +1400,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,spring,potato","shipping,greenhouse,potato","shipping,island,turtlew,potato"],
+					"sections": [{"access_rules": ["$ap|719639", "$ap_offline,shipping,spring,potato", "$ap_offline,shipping,greenhouse,potato", "$ap_offline,shipping,island,turtlew,potato"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719639,shipsanity_crops", "719639,shipsanity_full", "719639,shipsanity_fullwf", "719639,shipsanity_all"],		
 					"map_locations":[
                       {
@@ -1418,8 +1418,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["winter,powdermelon","greenhouse,powdermelon","island,turtlew,powdermelon"],
+					"sections": [{"access_rules": ["$ap|719350", "$ap_offline,winter,powdermelon", "$ap_offline,greenhouse,powdermelon", "$ap_offline,island,turtlew,powdermelon"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719350,cropsanity_on"],
 					"map_locations":[
                       {
@@ -1431,8 +1431,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,winter,powdermelon","shipping,greenhouse,powdermelon","shipping,island,turtlew,powdermelon"],
+					"sections": [{"access_rules": ["$ap|720831", "$ap_offline,shipping,winter,powdermelon", "$ap_offline,shipping,greenhouse,powdermelon", "$ap_offline,shipping,island,turtlew,powdermelon"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["720831,shipsanity_crops", "720831,shipsanity_full", "720831,shipsanity_fullwf", "720831,shipsanity_all"],		
 					"map_locations":[
                       {
@@ -1449,8 +1449,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["fall,pumpkin","greenhouse,pumpkin","island,turtlew,pumpkin"],
+					"sections": [{"access_rules": ["$ap|719322", "$ap_offline,fall,pumpkin", "$ap_offline,greenhouse,pumpkin", "$ap_offline,island,turtlew,pumpkin"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719322,cropsanity_on"],
 					"map_locations":[
                       {
@@ -1462,8 +1462,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,fall,pumpkin","shipping,greenhouse,pumpkin","shipping,island,turtlew,pumpkin"],
+					"sections": [{"access_rules": ["$ap|719640", "$ap_offline,shipping,fall,pumpkin", "$ap_offline,shipping,greenhouse,pumpkin", "$ap_offline,shipping,island,turtlew,pumpkin"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719640,shipsanity_crops", "719640,shipsanity_full", "719640,shipsanity_fullwf", "719640,shipsanity_all"],		
 					"map_locations":[
                       {
@@ -1480,8 +1480,8 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping"],
+					"sections": [{"access_rules": ["$ap|719734", "$ap_offline,shipping"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719734,shipsanity_crops", "719734,shipsanity_full", "719734,shipsanity_fullwf", "719734,shipsanity_all"],		
 					"map_locations":[
                       {
@@ -1498,8 +1498,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["island,turtlew,walnutroom"],
+					"sections": [{"access_rules": ["$ap|719353", "$ap_offline,island,turtlew,walnutroom"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719353,cropsanity_on", "719353,island_tracking_on"],					
 					"map_locations":[
                       {
@@ -1511,8 +1511,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["island,turtlew,walnutroom,shipping"],
+					"sections": [{"access_rules": ["$ap|719945", "$ap_offline,island,turtlew,walnutroom,shipping"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719945,island_tracking_on", "719945,shipsanity_crops", "719945,island_tracking_on", "719945,shipsanity_full", "719945,island_tracking_on", "719945,shipsanity_fullwf", "719945,island_tracking_on", "719945,shipsanity_all"],										
 					"map_locations":[
                       {
@@ -1529,8 +1529,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["summer,radish","greenhouse,radish","island,turtlew,radish"],
+					"sections": [{"access_rules": ["$ap|719323", "$ap_offline,summer,radish", "$ap_offline,greenhouse,radish", "$ap_offline,island,turtlew,radish"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719323,cropsanity_on"],
 					"map_locations":[
                       {
@@ -1542,8 +1542,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,summer,radish","shipping,greenhouse,radish","shipping,island,turtlew,radish"],
+					"sections": [{"access_rules": ["$ap|719641", "$ap_offline,shipping,summer,radish", "$ap_offline,shipping,greenhouse,radish", "$ap_offline,shipping,island,turtlew,radish"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719641,shipsanity_crops", "719641,shipsanity_full", "719641,shipsanity_fullwf", "719641,shipsanity_all"],		
 					"map_locations":[
                       {
@@ -1560,8 +1560,8 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["summer,shipping"],
+					"sections": [{"access_rules": ["$ap|719735", "$ap_offline,summer,shipping"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719735,shipsanity_crops", "719735,shipsanity_full", "719735,shipsanity_fullwf", "719735,shipsanity_all"],			
 					"map_locations":[
                       {
@@ -1578,8 +1578,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["summer,redcabbage","greenhouse,redcabbage","island,turtlew,redcabbage"],
+					"sections": [{"access_rules": ["$ap|719324", "$ap_offline,summer,redcabbage", "$ap_offline,greenhouse,redcabbage", "$ap_offline,island,turtlew,redcabbage"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719324,cropsanity_on"],
 					"map_locations":[
                       {
@@ -1591,8 +1591,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,summer,redcabbage","shipping,greenhouse,redcabbage","shipping,island,turtlew,redcabbage"],
+					"sections": [{"access_rules": ["$ap|719642", "$ap_offline,shipping,summer,redcabbage", "$ap_offline,shipping,greenhouse,redcabbage", "$ap_offline,shipping,island,turtlew,redcabbage"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719642,shipsanity_crops", "719642,shipsanity_full", "719642,shipsanity_fullwf", "719642,shipsanity_all"],			
 					"map_locations":[
                       {
@@ -1609,8 +1609,8 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,summer,SteelAxe","shipping,fall,SteelAxe","shipping,mushrooms","shipping,e80"],
+					"sections": [{"access_rules": ["$ap|719736", "$ap_offline,shipping,summer,SteelAxe", "$ap_offline,shipping,fall,SteelAxe", "$ap_offline,shipping,mushrooms", "$ap_offline,shipping,e80"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719736,shipsanity_crops", "719736,shipsanity_full", "719736,shipsanity_fullwf", "719736,shipsanity_all"],			
 					"map_locations":[
                       {
@@ -1627,8 +1627,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["spring,rhubarb","greenhouse,rhubarb","island,turtlew,rhubarb"],
+					"sections": [{"access_rules": ["$ap|719325", "$ap_offline,spring,rhubarb", "$ap_offline,greenhouse,rhubarb", "$ap_offline,island,turtlew,rhubarb"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719325,cropsanity_on"],
 					"map_locations":[
                       {
@@ -1640,8 +1640,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,spring,rhubarb","shipping,greenhouse,rhubarb","shipping,island,turtlew,rhubarb"],
+					"sections": [{"access_rules": ["$ap|719643", "$ap_offline,shipping,spring,rhubarb", "$ap_offline,shipping,greenhouse,rhubarb", "$ap_offline,shipping,island,turtlew,rhubarb"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719643,shipsanity_crops", "719643,shipsanity_full", "719643,shipsanity_fullwf", "719643,shipsanity_all"],				
 					"map_locations":[
                       {
@@ -1658,8 +1658,8 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["spring,shipping"],
+					"sections": [{"access_rules": ["$ap|719737", "$ap_offline,spring,shipping"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719737,shipsanity_crops", "719737,shipsanity_full", "719737,shipsanity_fullwf", "719737,shipsanity_all"],				
 					"map_locations":[
                       {
@@ -1676,8 +1676,8 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,beachbridge"],
+					"sections": [{"access_rules": ["$ap|719738", "$ap_offline,shipping,beachbridge"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719738,shipsanity_crops", "719738,shipsanity_full", "719738,shipsanity_fullwf", "719738,shipsanity_all"],			
 					"map_locations":[
                       {
@@ -1694,8 +1694,8 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["winter,shipping"],
+					"sections": [{"access_rules": ["$ap|719739", "$ap_offline,winter,shipping"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719739,shipsanity_crops", "719739,shipsanity_full", "719739,shipsanity_fullwf", "719739,shipsanity_all"],			
 					"map_locations":[
                       {
@@ -1712,8 +1712,8 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["summer,shipping"],
+					"sections": [{"access_rules": ["$ap|719740", "$ap_offline,summer,shipping"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719740,shipsanity_crops", "719740,shipsanity_full", "719740,shipsanity_fullwf", "719740,shipsanity_all"],			
 					"map_locations":[
                       {
@@ -1730,8 +1730,8 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["spring,shipping"],
+					"sections": [{"access_rules": ["$ap|719741", "$ap_offline,spring,shipping"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719741,shipsanity_crops", "719741,shipsanity_full", "719741,shipsanity_fullwf", "719741,shipsanity_all"],			
 					"map_locations":[
                       {
@@ -1748,8 +1748,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["summer,starfruit","greenhouse,starfruit","island,turtlew,starfruit"],					
+					"sections": [{"access_rules": ["$ap|719326", "$ap_offline,summer,starfruit", "$ap_offline,greenhouse,starfruit", "$ap_offline,island,turtlew,starfruit"], "item_count": 1}],
+					"access_rules":[],					
 					"visibility_rules": ["719326,cropsanity_on"],
 					"map_locations":[
                       {
@@ -1761,8 +1761,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,summer,starfruit","shipping,greenhouse,starfruit","shipping,island,turtlew,starfruit"],
+					"sections": [{"access_rules": ["$ap|719644", "$ap_offline,shipping,summer,starfruit", "$ap_offline,shipping,greenhouse,starfruit", "$ap_offline,shipping,island,turtlew,starfruit"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719644,shipsanity_crops", "719644,shipsanity_full", "719644,shipsanity_fullwf", "719644,shipsanity_all"],			
 					"map_locations":[
                       {
@@ -1779,8 +1779,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["spring,strawberry","greenhouse,strawberry","island,turtlew,strawberry"],
+					"sections": [{"access_rules": ["$ap|719327", "$ap_offline,spring,strawberry", "$ap_offline,greenhouse,strawberry", "$ap_offline,island,turtlew,strawberry"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719327,cropsanity_on"],
 					"map_locations":[
                       {
@@ -1792,8 +1792,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,spring,strawberry","shipping,greenhouse,strawberry","shipping,island,turtlew,strawberry"],
+					"sections": [{"access_rules": ["$ap|719645", "$ap_offline,shipping,spring,strawberry", "$ap_offline,shipping,greenhouse,strawberry", "$ap_offline,shipping,island,turtlew,strawberry"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719645,shipsanity_crops", "719645,shipsanity_full", "719645,shipsanity_fullwf", "719645,shipsanity_all"],			
 					"map_locations":[
                       {
@@ -1810,8 +1810,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["summer,spangle","greenhouse,spangle","island,turtlew,spangle"],
+					"sections": [{"access_rules": ["$ap|719328", "$ap_offline,summer,spangle", "$ap_offline,greenhouse,spangle", "$ap_offline,island,turtlew,spangle"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719328,cropsanity_on"],
 					"map_locations":[
                       {
@@ -1823,8 +1823,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,summer,spangle","shipping,greenhouse,spangle","shipping,island,turtlew,spangle"],
+					"sections": [{"access_rules": ["$ap|719646", "$ap_offline,shipping,summer,spangle", "$ap_offline,shipping,greenhouse,spangle", "$ap_offline,shipping,island,turtlew,spangle"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719646,shipsanity_crops", "719646,shipsanity_full", "719646,shipsanity_fullwf", "719646,shipsanity_all"],			
 					"map_locations":[
                       {
@@ -1841,8 +1841,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["summer,squash","greenhouse,squash","island,turtlew,squash"],
+					"sections": [{"access_rules": ["$ap|719351", "$ap_offline,summer,squash", "$ap_offline,greenhouse,squash", "$ap_offline,island,turtlew,squash"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719351,cropsanity_on"],
 					"map_locations":[
                       {
@@ -1854,8 +1854,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,summer,squash","shipping,greenhouse,squash","shipping,island,turtlew,squash"],
+					"sections": [{"access_rules": ["$ap|720827", "$ap_offline,shipping,summer,squash", "$ap_offline,shipping,greenhouse,squash", "$ap_offline,shipping,island,turtlew,squash"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["720827,shipsanity_crops", "720827,shipsanity_full", "720827,shipsanity_fullwf", "720827,shipsanity_all"],			
 					"map_locations":[
                       {
@@ -1872,8 +1872,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["summer,sunflower","greenhouse,sunflower","fall,sunflower","island,turtlew,sunflower"],
+					"sections": [{"access_rules": ["$ap|719329", "$ap_offline,summer,sunflower", "$ap_offline,greenhouse,sunflower", "$ap_offline,fall,sunflower", "$ap_offline,island,turtlew,sunflower"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719329,cropsanity_on"],
 					"map_locations":[
                       {
@@ -1885,8 +1885,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,summer,sunflower","shipping,greenhouse,sunflower","shipping,fall,sunflower","shipping,island,turtlew,sunflower"],
+					"sections": [{"access_rules": ["$ap|719647", "$ap_offline,shipping,summer,sunflower", "$ap_offline,shipping,greenhouse,sunflower", "$ap_offline,shipping,fall,sunflower", "$ap_offline,shipping,island,turtlew,sunflower"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719647,shipsanity_crops", "719647,shipsanity_full", "719647,shipsanity_fullwf", "719647,shipsanity_all"],			
 					"map_locations":[
                       {
@@ -1903,8 +1903,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["fall,rare","greenhouse,rare","island,turtlew,rare"],
+					"sections": [{"access_rules": ["$ap|719338", "$ap_offline,fall,rare", "$ap_offline,greenhouse,rare", "$ap_offline,island,turtlew,rare"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719338,cropsanity_on"],
 					"map_locations":[
                       {
@@ -1916,8 +1916,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,fall,rare","shipping,greenhouse,rare","shipping,island,turtlew,rare"],
+					"sections": [{"access_rules": ["$ap|719648", "$ap_offline,shipping,fall,rare", "$ap_offline,shipping,greenhouse,rare", "$ap_offline,shipping,island,turtlew,rare"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719648,shipsanity_crops", "719648,shipsanity_full", "719648,shipsanity_fullwf", "719648,shipsanity_all"],				
 					"map_locations":[
                       {
@@ -1934,8 +1934,8 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["summer,shipping"],
+					"sections": [{"access_rules": ["$ap|719742", "$ap_offline,summer,shipping"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719742,shipsanity_crops", "719742,shipsanity_full", "719742,shipsanity_fullwf", "719742,shipsanity_all"],			
 					"map_locations":[
                       {
@@ -1952,8 +1952,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["summer,taro","greenhouse,taro","island,turtlew,taro","island,turtlew,taro"],
+					"sections": [{"access_rules": ["$ap|719337", "$ap_offline,summer,taro", "$ap_offline,greenhouse,taro", "$ap_offline,island,turtlew,taro", "$ap_offline,island,turtlew,taro"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719337,cropsanity_on", "719337,island_tracking_on"],
 					"map_locations":[
                       {
@@ -1965,8 +1965,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,summer,taro","shipping,greenhouse,taro","shipping,island,turtlew,taro"],
+					"sections": [{"access_rules": ["$ap|719946", "$ap_offline,shipping,summer,taro", "$ap_offline,shipping,greenhouse,taro", "$ap_offline,shipping,island,turtlew,taro"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719946,island_tracking_on", "719946,shipsanity_crops", "719946,island_tracking_on", "719946,shipsanity_full", "719946,island_tracking_on", "719946,shipsanity_fullwf", "719946,island_tracking_on", "719946,shipsanity_all"],
 					"map_locations":[
                       {
@@ -1983,8 +1983,8 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["spring,shipping","greenhouse,shipping","summer,shipping","fall,shipping"],
+					"sections": [{"access_rules": ["$ap|719649", "$ap_offline,spring,shipping", "$ap_offline,greenhouse,shipping", "$ap_offline,summer,shipping", "$ap_offline,fall,shipping"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719649,shipsanity_crops", "719649,shipsanity_full", "719649,shipsanity_fullwf", "719649,shipsanity_all"],			
 					"map_locations":[
                       {
@@ -2001,8 +2001,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["summer,tomato","greenhouse,tomato","island,turtlew,tomato"],
+					"sections": [{"access_rules": ["$ap|719330", "$ap_offline,summer,tomato", "$ap_offline,greenhouse,tomato", "$ap_offline,island,turtlew,tomato"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719330,cropsanity_on"],
 					"map_locations":[
                       {
@@ -2014,8 +2014,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,summer,tomato","shipping,greenhouse,tomato","shipping,island,turtlew,tomato"],
+					"sections": [{"access_rules": ["$ap|719650", "$ap_offline,shipping,summer,tomato", "$ap_offline,shipping,greenhouse,tomato", "$ap_offline,shipping,island,turtlew,tomato"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719650,shipsanity_crops", "719650,shipsanity_full", "719650,shipsanity_fullwf", "719650,shipsanity_all"],				
 					"map_locations":[
                       {
@@ -2032,8 +2032,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["spring,tulip","greenhouse,tulip","island,turtlew,tulip"],
+					"sections": [{"access_rules": ["$ap|719331", "$ap_offline,spring,tulip", "$ap_offline,greenhouse,tulip", "$ap_offline,island,turtlew,tulip"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719331,cropsanity_on"],
 					"map_locations":[
                       {
@@ -2045,8 +2045,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,spring,tulip","shipping,greenhouse,tulip","shipping,island,turtlew,tulip"],
+					"sections": [{"access_rules": ["$ap|719651", "$ap_offline,shipping,spring,tulip", "$ap_offline,shipping,greenhouse,tulip", "$ap_offline,shipping,island,turtlew,tulip"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719651,shipsanity_crops", "719651,shipsanity_full", "719651,shipsanity_fullwf", "719651,shipsanity_all"],			
 					"map_locations":[
                       {
@@ -2063,8 +2063,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["spring,rice","greenhouse,rice","island,turtlew,rice"],
+					"sections": [{"access_rules": ["$ap|719332", "$ap_offline,spring,rice", "$ap_offline,greenhouse,rice", "$ap_offline,island,turtlew,rice"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719332,cropsanity_on"],
 					"map_locations":[
                       {
@@ -2076,8 +2076,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,spring,rice","shipping,greenhouse,rice","shipping,island,turtlew,rice"],
+					"sections": [{"access_rules": ["$ap|719652", "$ap_offline,shipping,spring,rice", "$ap_offline,shipping,greenhouse,rice", "$ap_offline,shipping,island,turtlew,rice"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719652,shipsanity_crops", "719652,shipsanity_full", "719652,shipsanity_fullwf", "719652,shipsanity_all"],			
 					"map_locations":[
                       {
@@ -2094,8 +2094,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["summer,wheat","greenhouse,wheat","fall,wheat","island,turtlew,wheat"],
+					"sections": [{"access_rules": ["$ap|719333", "$ap_offline,summer,wheat", "$ap_offline,greenhouse,wheat", "$ap_offline,fall,wheat", "$ap_offline,island,turtlew,wheat"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719333,cropsanity_on"],
 					"map_locations":[
                       {
@@ -2107,8 +2107,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,summer,wheat","shipping,greenhouse,wheat","shipping,fall,wheat","shipping,island,turtlew,wheat"],
+					"sections": [{"access_rules": ["$ap|719653", "$ap_offline,shipping,summer,wheat", "$ap_offline,shipping,greenhouse,wheat", "$ap_offline,shipping,fall,wheat", "$ap_offline,shipping,island,turtlew,wheat"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719653,shipsanity_crops", "719653,shipsanity_full", "719653,shipsanity_fullwf", "719653,shipsanity_all"],			
 					"map_locations":[
                       {
@@ -2125,8 +2125,8 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["spring,shipping"],
+					"sections": [{"access_rules": ["$ap|719743", "$ap_offline,spring,shipping"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719743,shipsanity_crops", "719743,shipsanity_full", "719743,shipsanity_fullwf", "719743,shipsanity_all"],				
 					"map_locations":[
                       {
@@ -2143,8 +2143,8 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["fall,shipping"],
+					"sections": [{"access_rules": ["$ap|719744", "$ap_offline,fall,shipping"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719744,shipsanity_crops", "719744,shipsanity_full", "719744,shipsanity_fullwf", "719744,shipsanity_all"],			
 					"map_locations":[
                       {
@@ -2161,8 +2161,8 @@
 				"children":[
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["winter,shipping"],
+					"sections": [{"access_rules": ["$ap|719745", "$ap_offline,winter,shipping"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719745,shipsanity_crops", "719745,shipsanity_full", "719745,shipsanity_fullwf", "719745,shipsanity_all"],			
 					"map_locations":[
                       {
@@ -2179,8 +2179,8 @@
 				"children":[
 				{
 					"name": "Harvested",
-					"sections": [{"item_count": 1}],
-					"access_rules":["fall,yam","greenhouse,yam","island,turtlew,yam"],
+					"sections": [{"access_rules": ["$ap|719334", "$ap_offline,fall,yam", "$ap_offline,greenhouse,yam", "$ap_offline,island,turtlew,yam"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719334,cropsanity_on"],
 					"map_locations":[
                       {
@@ -2192,8 +2192,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules":["shipping,fall,yam","shipping,greenhouse,yam","shipping,island,turtlew,yam"],
+					"sections": [{"access_rules": ["$ap|719654", "$ap_offline,shipping,fall,yam", "$ap_offline,shipping,greenhouse,yam", "$ap_offline,shipping,island,turtlew,yam"], "item_count": 1}],
+					"access_rules":[],
 					"visibility_rules": ["719654,shipsanity_crops", "719654,shipsanity_full", "719654,shipsanity_fullwf", "719654,shipsanity_all"],			
 					"map_locations":[
                       {

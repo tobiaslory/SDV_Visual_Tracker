@@ -11,6 +11,7 @@
                         "name": "Craft Cherry Bomb",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720401", "$ap_offline,mining:1"],
                                 "item_count": 1
                             }
                         ],
@@ -24,14 +25,13 @@
                                 "y": 40
                             }
                         ],
-                        "access_rules": [
-                            "mining:1"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Bomb",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720402", "$ap_offline,mining:6"],
                                 "item_count": 1
                             }
                         ],
@@ -45,14 +45,13 @@
                                 "y": 40
                             }
                         ],
-                        "access_rules": [
-                            "mining:6"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Mega Bomb",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720403", "$ap_offline,mining:8"],
                                 "item_count": 1
                             }
                         ],
@@ -66,14 +65,13 @@
                                 "y": 40
                             }
                         ],
-                        "access_rules": [
-                            "mining:8"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Gate",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720404", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -92,6 +90,7 @@
                         "name": "Craft Wood Fence",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720405", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -110,6 +109,7 @@
                         "name": "Craft Stone Fence",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720406", "$ap_offline,farming:2"],
                                 "item_count": 1
                             }
                         ],
@@ -123,14 +123,13 @@
                                 "y": 68
                             }
                         ],
-                        "access_rules": [
-                            "farming:2"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Iron Fence",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720407", "$ap_offline,farming:4"],
                                 "item_count": 1
                             }
                         ],
@@ -144,14 +143,13 @@
                                 "y": 68
                             }
                         ],
-                        "access_rules": [
-                            "farming:4"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Hardwood Fence",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720408", "$ap_offline,farming:6"],
                                 "item_count": 1
                             }
                         ],
@@ -165,14 +163,13 @@
                                 "y": 68
                             }
                         ],
-                        "access_rules": [
-                            "farming:6"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Sprinkler",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720409", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -191,6 +188,7 @@
                         "name": "Craft Quality Sprinkler",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720410", "$ap_offline,farming:6"],
                                 "item_count": 1
                             }
                         ],
@@ -204,14 +202,13 @@
                                 "y": 96
                             }
                         ],
-                        "access_rules": [
-                            "farming:6"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Iridium Sprinkler",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720411", "$ap_offline,farming:9"],
                                 "item_count": 1
                             }
                         ],
@@ -225,14 +222,13 @@
                                 "y": 96
                             }
                         ],
-                        "access_rules": [
-                            "farming:9"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Bee House",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720412", "$ap_offline,farming:3"],
                                 "item_count": 1
                             }
                         ],
@@ -246,14 +242,13 @@
                                 "y": 96
                             }
                         ],
-                        "access_rules": [
-                            "farming:3"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Cask",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720413", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -272,6 +267,7 @@
                         "name": "Craft Cheese Press",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720414", "$ap_offline,farming:6"],
                                 "item_count": 1
                             }
                         ],
@@ -285,14 +281,13 @@
                                 "y": 124
                             }
                         ],
-                        "access_rules": [
-                            "farming:6"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Keg",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720415", "$ap_offline,farming:8"],
                                 "item_count": 1
                             }
                         ],
@@ -306,14 +301,13 @@
                                 "y": 124
                             }
                         ],
-                        "access_rules": [
-                            "farming:8"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Loom",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720416", "$ap_offline,farming:7"],
                                 "item_count": 1
                             }
                         ],
@@ -327,14 +321,13 @@
                                 "y": 124
                             }
                         ],
-                        "access_rules": [
-                            "farming:7"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Mayonnaise Machine",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720417", "$ap_offline,farming:2"],
                                 "item_count": 1
                             }
                         ],
@@ -348,14 +341,13 @@
                                 "y": 152
                             }
                         ],
-                        "access_rules": [
-                            "farming:2"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Oil Maker",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720418", "$ap_offline,farming:8"],
                                 "item_count": 1
                             }
                         ],
@@ -369,14 +361,13 @@
                                 "y": 152
                             }
                         ],
-                        "access_rules": [
-                            "farming:8"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Preserves Jar",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720419", "$ap_offline,farming:4"],
                                 "item_count": 1
                             }
                         ],
@@ -390,14 +381,13 @@
                                 "y": 152
                             }
                         ],
-                        "access_rules": [
-                            "farming:4"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Basic Fertilizer",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720420", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -416,6 +406,7 @@
                         "name": "Craft Quality Fertilizer",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720421", "$ap_offline,farming:9"],
                                 "item_count": 1
                             }
                         ],
@@ -429,14 +420,13 @@
                                 "y": 180
                             }
                         ],
-                        "access_rules": [
-                            "farming:9"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Deluxe Fertilizer",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720422", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -455,6 +445,7 @@
                         "name": "Craft Speed-Gro",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720423", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -473,6 +464,7 @@
                         "name": "Craft Deluxe Speed-Gro",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720424", "$ap_offline,farming:8"],
                                 "item_count": 1
                             }
                         ],
@@ -486,14 +478,13 @@
                                 "y": 180
                             }
                         ],
-                        "access_rules": [
-                            "farming:8"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Hyper Speed-Gro",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720425", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -512,6 +503,7 @@
                         "name": "Craft Basic Retaining Soil",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720426", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -530,6 +522,7 @@
                         "name": "Craft Quality Retaining Soil",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720427", "$ap_offline,farming:7"],
                                 "item_count": 1
                             }
                         ],
@@ -543,14 +536,13 @@
                                 "y": 208
                             }
                         ],
-                        "access_rules": [
-                            "farming:7"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Deluxe Retaining Soil",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720428", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -569,6 +561,7 @@
                         "name": "Craft Tree Fertilizer",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720429", "$ap_offline,foraging:7"],
                                 "item_count": 1
                             }
                         ],
@@ -582,14 +575,13 @@
                                 "y": 236
                             }
                         ],
-                        "access_rules": [
-                            "foraging:7"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Spring Seeds",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720430", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -608,6 +600,7 @@
                         "name": "Craft Summer Seeds",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720431", "$ap_offline,foraging:4"],
                                 "item_count": 1
                             }
                         ],
@@ -621,14 +614,13 @@
                                 "y": 236
                             }
                         ],
-                        "access_rules": [
-                            "foraging:4"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Fall Seeds",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720432", "$ap_offline,foraging:6"],
                                 "item_count": 1
                             }
                         ],
@@ -642,14 +634,13 @@
                                 "y": 236
                             }
                         ],
-                        "access_rules": [
-                            "foraging:6"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Winter Seeds",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720433", "$ap_offline,foraging:7"],
                                 "item_count": 1
                             }
                         ],
@@ -663,14 +654,13 @@
                                 "y": 264
                             }
                         ],
-                        "access_rules": [
-                            "foraging:7"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Ancient Seeds",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720434", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -689,6 +679,7 @@
                         "name": "Craft Grass Starter",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720435", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -707,6 +698,7 @@
                         "name": "Craft Tea Sapling",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720436", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -725,6 +717,7 @@
                         "name": "Craft Fiber Seeds",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720437", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -743,6 +736,7 @@
                         "name": "Craft Wood Floor",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720438", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -761,6 +755,7 @@
                         "name": "Craft Rustic Plank Floor",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720439", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -779,6 +774,7 @@
                         "name": "Craft Straw Floor",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720440", "$ap_offline,strawfloorrecipe"],
                                 "item_count": 1
                             }
                         ],
@@ -792,14 +788,13 @@
                                 "y": 292
                             }
                         ],
-                        "access_rules": [
-                            "strawfloorrecipe"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Weathered Floor",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720441", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -818,6 +813,7 @@
                         "name": "Craft Crystal Floor",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720442", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -836,6 +832,7 @@
                         "name": "Craft Stone Floor",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720443", "$ap_offline,stonefloorrecipe"],
                                 "item_count": 1
                             }
                         ],
@@ -849,14 +846,13 @@
                                 "y": 320
                             }
                         ],
-                        "access_rules": [
-                            "stonefloorrecipe"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Stone Walkway Floor",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720444", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -875,6 +871,7 @@
                         "name": "Craft Brick Floor",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720445", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -893,6 +890,7 @@
                         "name": "Craft Wood Path",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720446", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -911,6 +909,7 @@
                         "name": "Craft Gravel Path",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720447", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -929,6 +928,7 @@
                         "name": "Craft Cobblestone Path",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720448", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -947,6 +947,7 @@
                         "name": "Craft Stepping Stone Path",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720449", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -965,6 +966,7 @@
                         "name": "Craft Crystal Path",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720450", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -983,6 +985,7 @@
                         "name": "Craft Spinner",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720451", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1001,6 +1004,7 @@
                         "name": "Craft Trap Bobber",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720452", "$ap_offline,fishing:6"],
                                 "item_count": 1
                             }
                         ],
@@ -1014,14 +1018,13 @@
                                 "y": 376
                             }
                         ],
-                        "access_rules": [
-                            "fishing:6"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Cork Bobber",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720453", "$ap_offline,fishing:7"],
                                 "item_count": 1
                             }
                         ],
@@ -1035,14 +1038,13 @@
                                 "y": 404
                             }
                         ],
-                        "access_rules": [
-                            "fishing:7"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Quality Bobber",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720454", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1061,6 +1063,7 @@
                         "name": "Craft Treasure Hunter",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720455", "$ap_offline,fishing:7"],
                                 "item_count": 1
                             }
                         ],
@@ -1074,14 +1077,13 @@
                                 "y": 404
                             }
                         ],
-                        "access_rules": [
-                            "fishing:7"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Dressed Spinner",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720456", "$ap_offline,fishing:8"],
                                 "item_count": 1
                             }
                         ],
@@ -1095,14 +1097,13 @@
                                 "y": 404
                             }
                         ],
-                        "access_rules": [
-                            "fishing:8"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Barbed Hook",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720457", "$ap_offline,fishing:8"],
                                 "item_count": 1
                             }
                         ],
@@ -1116,14 +1117,13 @@
                                 "y": 432
                             }
                         ],
-                        "access_rules": [
-                            "fishing:8"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Magnet",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720458", "$ap_offline,fishing:9"],
                                 "item_count": 1
                             }
                         ],
@@ -1137,14 +1137,13 @@
                                 "y": 432
                             }
                         ],
-                        "access_rules": [
-                            "fishing:9"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Bait",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720459", "$ap_offline,fishing:2"],
                                 "item_count": 1
                             }
                         ],
@@ -1158,14 +1157,13 @@
                                 "y": 432
                             }
                         ],
-                        "access_rules": [
-                            "fishing:2"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Wild Bait",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720460", "$ap_offline,$can_walk_to_mines_floor_5"],
                                 "item_count": 1
                             }
                         ],
@@ -1179,14 +1177,13 @@
                                 "y": 432
                             }
                         ],
-                        "access_rules": [
-                            "$can_walk_to_mines_floor_5"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Magic Bait",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720461", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1205,6 +1202,7 @@
                         "name": "Craft Crab Pot",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720462", "$ap_offline,fishing:3"],
                                 "item_count": 1
                             }
                         ],
@@ -1218,14 +1216,13 @@
                                 "y": 460
                             }
                         ],
-                        "access_rules": [
-                            "fishing:3"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Sturdy Ring",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720463", "$ap_offline,combat:1"],
                                 "item_count": 1
                             }
                         ],
@@ -1239,14 +1236,13 @@
                                 "y": 460
                             }
                         ],
-                        "access_rules": [
-                            "combat:1"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Warrior Ring",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720464", "$ap_offline,combat:4"],
                                 "item_count": 1
                             }
                         ],
@@ -1260,14 +1256,13 @@
                                 "y": 460
                             }
                         ],
-                        "access_rules": [
-                            "combat:4"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Ring of Yoba",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720465", "$ap_offline,combat:7"],
                                 "item_count": 1
                             }
                         ],
@@ -1281,14 +1276,13 @@
                                 "y": 488
                             }
                         ],
-                        "access_rules": [
-                            "combat:7"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Thorns Ring",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720466", "$ap_offline,combat:7"],
                                 "item_count": 1
                             }
                         ],
@@ -1302,14 +1296,13 @@
                                 "y": 488
                             }
                         ],
-                        "access_rules": [
-                            "combat:7"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Glowstone Ring",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720467", "$ap_offline,mining:4"],
                                 "item_count": 1
                             }
                         ],
@@ -1323,14 +1316,13 @@
                                 "y": 488
                             }
                         ],
-                        "access_rules": [
-                            "mining:4"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Iridium Band",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720468", "$ap_offline,combat:9"],
                                 "item_count": 1
                             }
                         ],
@@ -1344,14 +1336,13 @@
                                 "y": 488
                             }
                         ],
-                        "access_rules": [
-                            "combat:9"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Wedding Ring",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720469", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1370,6 +1361,7 @@
                         "name": "Craft Field Snack",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720470", "$ap_offline,foraging:1"],
                                 "item_count": 1
                             }
                         ],
@@ -1383,14 +1375,13 @@
                                 "y": 516
                             }
                         ],
-                        "access_rules": [
-                            "foraging:1"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Bug Steak",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720471", "$ap_offline,combat:1"],
                                 "item_count": 1
                             }
                         ],
@@ -1404,14 +1395,13 @@
                                 "y": 516
                             }
                         ],
-                        "access_rules": [
-                            "combat:1"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Life Elixir",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720472", "$ap_offline,combat:2"],
                                 "item_count": 1
                             }
                         ],
@@ -1425,14 +1415,13 @@
                                 "y": 516
                             }
                         ],
-                        "access_rules": [
-                            "combat:2"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Oil of Garlic",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720473", "$ap_offline,combat:6"],
                                 "item_count": 1
                             }
                         ],
@@ -1446,14 +1435,13 @@
                                 "y": 544
                             }
                         ],
-                        "access_rules": [
-                            "combat:6"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Monster Musk",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720474", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1472,6 +1460,7 @@
                         "name": "Craft Fairy Dust",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720475", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1490,6 +1479,7 @@
                         "name": "Craft Warp Totem: Beach",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720476", "$ap_offline,foraging:6"],
                                 "item_count": 1
                             }
                         ],
@@ -1503,14 +1493,13 @@
                                 "y": 544
                             }
                         ],
-                        "access_rules": [
-                            "foraging:6"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Warp Totem: Mountains",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720477", "$ap_offline,foraging:7"],
                                 "item_count": 1
                             }
                         ],
@@ -1524,14 +1513,13 @@
                                 "y": 572
                             }
                         ],
-                        "access_rules": [
-                            "foraging:7"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Warp Totem: Farm",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720478", "$ap_offline,foraging:8"],
                                 "item_count": 1
                             }
                         ],
@@ -1545,14 +1533,13 @@
                                 "y": 572
                             }
                         ],
-                        "access_rules": [
-                            "foraging:8"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Warp Totem: Desert",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720479", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1571,6 +1558,7 @@
                         "name": "Craft Warp Totem: Island",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720480", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1589,6 +1577,7 @@
                         "name": "Craft Rain Totem",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720481", "$ap_offline,foraging:9"],
                                 "item_count": 1
                             }
                         ],
@@ -1602,14 +1591,13 @@
                                 "y": 600
                             }
                         ],
-                        "access_rules": [
-                            "foraging:9"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Torch",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720482", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1628,6 +1616,7 @@
                         "name": "Craft Campfire",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720483", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1646,6 +1635,7 @@
                         "name": "Craft Wooden Brazier",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720484", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1664,6 +1654,7 @@
                         "name": "Craft Stone Brazier",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720485", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1682,6 +1673,7 @@
                         "name": "Craft Gold Brazier",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720486", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1700,6 +1692,7 @@
                         "name": "Craft Carved Brazier",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720487", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1718,6 +1711,7 @@
                         "name": "Craft Stump Brazier",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720488", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1736,6 +1730,7 @@
                         "name": "Craft Barrel Brazier",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720489", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1754,6 +1749,7 @@
                         "name": "Craft Skull Brazier",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720490", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1772,6 +1768,7 @@
                         "name": "Craft Marble Brazier",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720491", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1790,6 +1787,7 @@
                         "name": "Craft Wood Lamp-post",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720492", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1808,6 +1806,7 @@
                         "name": "Craft Iron Lamp-post",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720493", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1826,6 +1825,7 @@
                         "name": "Craft Jack-O-Lantern",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720494", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1844,6 +1844,7 @@
                         "name": "Craft Bone Mill",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720495", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1862,6 +1863,7 @@
                         "name": "Craft Charcoal Kiln",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720496", "$ap_offline,foraging:2"],
                                 "item_count": 1
                             }
                         ],
@@ -1875,14 +1877,13 @@
                                 "y": 684
                             }
                         ],
-                        "access_rules": [
-                            "foraging:2"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Crystalarium",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720497", "$ap_offline,mining:9"],
                                 "item_count": 1
                             }
                         ],
@@ -1896,14 +1897,13 @@
                                 "y": 712
                             }
                         ],
-                        "access_rules": [
-                            "mining:9"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Furnace",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720498", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1922,6 +1922,7 @@
                         "name": "Craft Geode Crusher",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720499", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1940,6 +1941,7 @@
                         "name": "Craft Heavy Tapper",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720500", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1958,6 +1960,7 @@
                         "name": "Craft Lightning Rod",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720501", "$ap_offline,foraging:6"],
                                 "item_count": 1
                             }
                         ],
@@ -1971,14 +1974,13 @@
                                 "y": 740
                             }
                         ],
-                        "access_rules": [
-                            "foraging:6"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Ostrich Incubator",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720502", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1997,6 +1999,7 @@
                         "name": "Craft Recycling Machine",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720503", "$ap_offline,fishing:4"],
                                 "item_count": 1
                             }
                         ],
@@ -2010,14 +2013,13 @@
                                 "y": 740
                             }
                         ],
-                        "access_rules": [
-                            "fishing:4"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Seed Maker",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720504", "$ap_offline,farming:9"],
                                 "item_count": 1
                             }
                         ],
@@ -2031,14 +2033,13 @@
                                 "y": 740
                             }
                         ],
-                        "access_rules": [
-                            "farming:9"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Slime Egg-Press",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720505", "$ap_offline,combat:6"],
                                 "item_count": 1
                             }
                         ],
@@ -2052,14 +2053,13 @@
                                 "y": 768
                             }
                         ],
-                        "access_rules": [
-                            "combat:6"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Slime Incubator",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720506", "$ap_offline,combat:8"],
                                 "item_count": 1
                             }
                         ],
@@ -2073,14 +2073,13 @@
                                 "y": 768
                             }
                         ],
-                        "access_rules": [
-                            "combat:8"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Solar Panel",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720507", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2099,6 +2098,7 @@
                         "name": "Craft Tapper",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720508", "$ap_offline,foraging:4"],
                                 "item_count": 1
                             }
                         ],
@@ -2112,14 +2112,13 @@
                                 "y": 768
                             }
                         ],
-                        "access_rules": [
-                            "foraging:4"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Worm Bin",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720509", "$ap_offline,fishing:4"],
                                 "item_count": 1
                             }
                         ],
@@ -2133,14 +2132,13 @@
                                 "y": 796
                             }
                         ],
-                        "access_rules": [
-                            "fishing:4"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Tub o' Flowers",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720510", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2159,6 +2157,7 @@
                         "name": "Craft Wicked Statue",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720511", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2177,6 +2176,7 @@
                         "name": "Craft Flute Block",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720512", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2195,6 +2195,7 @@
                         "name": "Craft Drum Block",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720513", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2213,6 +2214,7 @@
                         "name": "Craft Chest",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720514", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2231,6 +2233,7 @@
                         "name": "Craft Stone Chest",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720515", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2249,6 +2252,7 @@
                         "name": "Craft Wood Sign",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720516", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2267,6 +2271,7 @@
                         "name": "Craft Stone Sign",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720517", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2285,6 +2290,7 @@
                         "name": "Craft Dark Sign",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720518", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2303,6 +2309,7 @@
                         "name": "Craft Garden Pot",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720519", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2321,6 +2328,7 @@
                         "name": "Craft Scarecrow",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720520", "$ap_offline,farming:1"],
                                 "item_count": 1
                             }
                         ],
@@ -2334,14 +2342,13 @@
                                 "y": 852
                             }
                         ],
-                        "access_rules": [
-                            "farming:1"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Deluxe Scarecrow",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720521", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2360,6 +2367,7 @@
                         "name": "Craft Staircase",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720522", "$ap_offline,mining:2"],
                                 "item_count": 1
                             }
                         ],
@@ -2373,14 +2381,13 @@
                                 "y": 880
                             }
                         ],
-                        "access_rules": [
-                            "mining:2"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Explosive Ammo",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720523", "$ap_offline,combat:8"],
                                 "item_count": 1
                             }
                         ],
@@ -2394,14 +2401,13 @@
                                 "y": 880
                             }
                         ],
-                        "access_rules": [
-                            "combat:8"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Transmute (Fe)",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720524", "$ap_offline,mining:4"],
                                 "item_count": 1
                             }
                         ],
@@ -2415,14 +2421,13 @@
                                 "y": 880
                             }
                         ],
-                        "access_rules": [
-                            "mining:4"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Transmute (Au)",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720525", "$ap_offline,mining:7"],
                                 "item_count": 1
                             }
                         ],
@@ -2436,14 +2441,13 @@
                                 "y": 908
                             }
                         ],
-                        "access_rules": [
-                            "mining:7"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Mini-Jukebox",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720526", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2462,6 +2466,7 @@
                         "name": "Craft Mini-Obelisk",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720527", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2480,6 +2485,7 @@
                         "name": "Craft Farm Computer",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720528", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2498,6 +2504,7 @@
                         "name": "Craft Hopper",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720529", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2516,6 +2523,7 @@
                         "name": "Craft Cookout Kit",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720530", "$ap_offline,foraging:3"],
                                 "item_count": 1
                             }
                         ],
@@ -2529,14 +2537,13 @@
                                 "y": 936
                             }
                         ],
-                        "access_rules": [
-                            "foraging:3"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Fish Smoker",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720531", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2555,6 +2562,7 @@
                         "name": "Craft Dehydrator",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720532", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2573,6 +2581,7 @@
                         "name": "Craft Blue Grass Starter",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720533", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2591,6 +2600,7 @@
                         "name": "Craft Mystic Tree Seed",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720534", "$ap_offline,foraging_mastery"],
                                 "item_count": 1
                             }
                         ],
@@ -2604,14 +2614,13 @@
                                 "y": 964
                             }
                         ],
-                        "access_rules": [
-                            "foraging_mastery"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Sonar Bobber",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720535", "$ap_offline,fishing:6"],
                                 "item_count": 1
                             }
                         ],
@@ -2625,14 +2634,13 @@
                                 "y": 964
                             }
                         ],
-                        "access_rules": [
-                            "fishing:6"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Challenge Bait",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720536", "$ap_offline,fishing_mastery"],
                                 "item_count": 1
                             }
                         ],
@@ -2646,14 +2654,13 @@
                                 "y": 964
                             }
                         ],
-                        "access_rules": [
-                            "fishing_mastery"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Treasure Totem",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720537", "$ap_offline,foraging_mastery"],
                                 "item_count": 1
                             }
                         ],
@@ -2667,14 +2674,13 @@
                                 "y": 992
                             }
                         ],
-                        "access_rules": [
-                            "foraging_mastery"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Heavy Furnace",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720538", "$ap_offline,mining_mastery"],
                                 "item_count": 1
                             }
                         ],
@@ -2688,14 +2694,13 @@
                                 "y": 992
                             }
                         ],
-                        "access_rules": [
-                            "mining_mastery"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Deluxe Worm Bin",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720539", "$ap_offline,fishing:8"],
                                 "item_count": 1
                             }
                         ],
@@ -2709,14 +2714,13 @@
                                 "y": 992
                             }
                         ],
-                        "access_rules": [
-                            "fishing:8"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Mushroom Log",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720540", "$ap_offline,foraging:4"],
                                 "item_count": 1
                             }
                         ],
@@ -2730,14 +2734,13 @@
                                 "y": 992
                             }
                         ],
-                        "access_rules": [
-                            "foraging:4"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Big Chest",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720541", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2756,6 +2759,7 @@
                         "name": "Craft Big Stone Chest",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720542", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2774,6 +2778,7 @@
                         "name": "Craft Text Sign",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720543", "$ap_offline,textsignrecipe"],
                                 "item_count": 1
                             }
                         ],
@@ -2787,14 +2792,13 @@
                                 "y": 1020
                             }
                         ],
-                        "access_rules": [
-                            "textsignrecipe"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Tent Kit",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720544", "$ap_offline,foraging:8"],
                                 "item_count": 1
                             }
                         ],
@@ -2808,14 +2812,13 @@
                                 "y": 1020
                             }
                         ],
-                        "access_rules": [
-                            "foraging:8"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Statue Of The Dwarf King",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720545", "$ap_offline,mining_mastery"],
                                 "item_count": 1
                             }
                         ],
@@ -2829,14 +2832,13 @@
                                 "y": 1048
                             }
                         ],
-                        "access_rules": [
-                            "mining_mastery"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Statue Of Blessings",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720546", "$ap_offline,farming_mastery"],
                                 "item_count": 1
                             }
                         ],
@@ -2850,14 +2852,13 @@
                                 "y": 1048
                             }
                         ],
-                        "access_rules": [
-                            "farming_mastery"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Anvil",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720547", "$ap_offline,combat_mastery"],
                                 "item_count": 1
                             }
                         ],
@@ -2871,14 +2872,13 @@
                                 "y": 1048
                             }
                         ],
-                        "access_rules": [
-                            "combat_mastery"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Mini-Forge",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720548", "$ap_offline,combat_mastery"],
                                 "item_count": 1
                             }
                         ],
@@ -2892,14 +2892,13 @@
                                 "y": 1048
                             }
                         ],
-                        "access_rules": [
-                            "combat_mastery"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Deluxe Bait",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720549", "$ap_offline,fishing:4"],
                                 "item_count": 1
                             }
                         ],
@@ -2913,14 +2912,13 @@
                                 "y": 1076
                             }
                         ],
-                        "access_rules": [
-                            "fishing:4"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Bait Maker",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720550", "$ap_offline,fishing:6"],
                                 "item_count": 1
                             }
                         ],
@@ -2934,14 +2932,13 @@
                                 "y": 1076
                             }
                         ],
-                        "access_rules": [
-                            "fishing:6"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Craft Travel Core",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774402", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2960,6 +2957,7 @@
                         "name": "Craft Haste Elixir",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774403", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2978,6 +2976,7 @@
                         "name": "Craft Hero Elixir",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774404", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2996,6 +2995,7 @@
                         "name": "Craft Armor Elixir",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774405", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3014,6 +3014,7 @@
                         "name": "Craft Ginger Tincture",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774406", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3032,6 +3033,7 @@
                         "name": "Craft Glass Path",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774407", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3050,6 +3052,7 @@
                         "name": "Craft Glass Brazier",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774408", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3068,6 +3071,7 @@
                         "name": "Craft Glass Fence",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774409", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3086,6 +3090,7 @@
                         "name": "Craft Bone Path",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774410", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3104,6 +3109,7 @@
                         "name": "Craft Water Sifter",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774411", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3122,6 +3128,7 @@
                         "name": "Craft Wooden Display",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774412", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3140,6 +3147,7 @@
                         "name": "Craft Hardwood Display",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774413", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3158,6 +3166,7 @@
                         "name": "Craft Dwarf Gadget: Infinite Volcano Simulation",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774414", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3176,6 +3185,7 @@
                         "name": "Craft Grinder",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774415", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3194,6 +3204,7 @@
                         "name": "Craft Preservation Chamber",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774416", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3212,6 +3223,7 @@
                         "name": "Craft Hardwood Preservation Chamber",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774417", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3230,6 +3242,7 @@
                         "name": "Craft Ancient Battery Production Station",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774418", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3248,6 +3261,7 @@
                         "name": "Craft Neanderthal Skeleton",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774419", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3266,6 +3280,7 @@
                         "name": "Craft Pterodactyl Skeleton L",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774420", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3284,6 +3299,7 @@
                         "name": "Craft Pterodactyl Skeleton M",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774421", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3302,6 +3318,7 @@
                         "name": "Craft Pterodactyl Skeleton R",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774422", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3320,6 +3337,7 @@
                         "name": "Craft T-Rex Skeleton L",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774423", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3338,6 +3356,7 @@
                         "name": "Craft T-Rex Skeleton M",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774424", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3356,6 +3375,7 @@
                         "name": "Craft T-Rex Skeleton R",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774425", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3374,6 +3394,7 @@
                         "name": "Craft Restoration Table",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774426", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3392,6 +3413,7 @@
                         "name": "Craft Rusty Path",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774427", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3410,6 +3432,7 @@
                         "name": "Craft Rusty Brazier",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774428", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3428,6 +3451,7 @@
                         "name": "Craft Lucky Ring",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774429", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3446,6 +3470,7 @@
                         "name": "Craft Bone Fence",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774430", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3464,6 +3489,7 @@
                         "name": "Craft Bouquet",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774431", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3482,6 +3508,7 @@
                         "name": "Craft Trash Bin",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774432", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3500,6 +3527,7 @@
                         "name": "Craft Composter",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774433", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3518,6 +3546,7 @@
                         "name": "Craft Recycling Bin",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774434", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3536,6 +3565,7 @@
                         "name": "Craft Advanced Recycling Machine",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774435", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3554,6 +3584,7 @@
                         "name": "Craft Copper Slot Machine",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774440", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3572,6 +3603,7 @@
                         "name": "Craft Gold Slot Machine",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774441", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3590,6 +3622,7 @@
                         "name": "Craft Iridium Slot Machine",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774442", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3608,6 +3641,7 @@
                         "name": "Craft Radioactive Slot Machine",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774443", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3631,6 +3665,7 @@
                         "name": "Grass Starter Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720551", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3649,6 +3684,7 @@
                         "name": "Wood Floor Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720552", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3667,6 +3703,7 @@
                         "name": "Rustic Plank Floor Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720553", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3685,6 +3722,7 @@
                         "name": "Straw Floor Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720554", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3703,6 +3741,7 @@
                         "name": "Weathered Floor Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720555", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3721,6 +3760,7 @@
                         "name": "Crystal Floor Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720556", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3739,6 +3779,7 @@
                         "name": "Stone Floor Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720557", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3757,6 +3798,7 @@
                         "name": "Stone Walkway Floor Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720558", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3775,6 +3817,7 @@
                         "name": "Brick Floor Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720559", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3793,6 +3836,7 @@
                         "name": "Stepping Stone Path Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720560", "$ap_offline,$can_earn_money_modest"],
                                 "item_count": 1
                             }
                         ],
@@ -3806,14 +3850,13 @@
                                 "y": 1448
                             }
                         ],
-                        "access_rules": [
-                            "$can_earn_money_modest"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Crystal Path Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720561", "$ap_offline,$can_earn_money_modest"],
                                 "item_count": 1
                             }
                         ],
@@ -3827,14 +3870,13 @@
                                 "y": 1448
                             }
                         ],
-                        "access_rules": [
-                            "$can_earn_money_modest"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Wedding Ring Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720562", "$ap_offline,$tmsun", "$ap_offline,$tmmon", "$ap_offline,$tmtues", "$ap_offline,$tmwed", "$ap_offline,$tmthurs", "$ap_offline,$tmfri", "$ap_offline,$tmsat"],
                                 "item_count": 1
                             }
                         ],
@@ -3848,20 +3890,13 @@
                                 "y": 1448
                             }
                         ],
-                        "access_rules": [
-                            "$tmsun",
-                            "$tmmon",
-                            "$tmtues",
-                            "$tmwed",
-                            "$tmthurs",
-                            "$tmfri",
-                            "$tmsat"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Warp Totem: Island Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720563", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -3875,14 +3910,13 @@
                                 "y": 1476
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Wooden Brazier Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720564", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3901,6 +3935,7 @@
                         "name": "Stone Brazier Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720565", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3919,6 +3954,7 @@
                         "name": "Gold Brazier Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720566", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3937,6 +3973,7 @@
                         "name": "Carved Brazier Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720567", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3955,6 +3992,7 @@
                         "name": "Stump Brazier Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720568", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3973,6 +4011,7 @@
                         "name": "Barrel Brazier Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720569", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -3991,6 +4030,7 @@
                         "name": "Skull Brazier Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720570", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -4009,6 +4049,7 @@
                         "name": "Marble Brazier Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720571", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -4027,6 +4068,7 @@
                         "name": "Wood Lamp-post Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720572", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -4045,6 +4087,7 @@
                         "name": "Iron Lamp-post Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720573", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -4063,6 +4106,7 @@
                         "name": "Wicked Statue Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720574", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -4081,6 +4125,7 @@
                         "name": "Warp Totem: Desert Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720575", "$ap_offline,$can_access_desert"],
                                 "item_count": 1
                             }
                         ],
@@ -4094,14 +4139,13 @@
                                 "y": 1560
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_desert"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Deluxe Retaining Soil Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720576", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -4115,14 +4159,13 @@
                                 "y": 1560
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Fish Smoker Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720577", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -4141,6 +4184,7 @@
                         "name": "Dehydrator Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720578", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -4159,6 +4203,7 @@
                         "name": "Big Chest Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720579", "$ap_offline,$can_earn_money_substantial"],
                                 "item_count": 1
                             }
                         ],
@@ -4172,14 +4217,13 @@
                                 "y": 1588
                             }
                         ],
-                        "access_rules": [
-                            "$can_earn_money_substantial"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Big Stone Chest Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720580", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -4198,6 +4242,7 @@
                         "name": "Travel Core Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774452", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -4216,6 +4261,7 @@
                         "name": "Haste Elixir Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774453", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -4234,6 +4280,7 @@
                         "name": "Hero Elixir Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774454", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -4252,6 +4299,7 @@
                         "name": "Armor Elixir Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774455", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -4270,6 +4318,7 @@
                         "name": "Neanderthal Skeleton Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774616", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -4288,6 +4337,7 @@
                         "name": "Pterodactyl Skeleton L Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774617", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -4306,6 +4356,7 @@
                         "name": "Pterodactyl Skeleton M Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774618", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -4324,6 +4375,7 @@
                         "name": "Pterodactyl Skeleton R Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774619", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -4342,6 +4394,7 @@
                         "name": "T-Rex Skeleton L Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774620", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -4360,6 +4413,7 @@
                         "name": "T-Rex Skeleton M Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774621", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -4378,6 +4432,7 @@
                         "name": "T-Rex Skeleton R Recipe",
                         "sections": [
                             {
+                                "access_rules": ["$ap|774622", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],

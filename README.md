@@ -9,3 +9,9 @@ How to use this pack:
 4) Open PopTracker and choose the pack (folder-button to the top of Poptracker)
 5) You can enable autotracking via the "AP" button. Just insert the information provided by your Archipelago Room
 6) Have fun
+
+Logic:
+- While connected to Archipelago, "in logic" follows the Archipelago Stardew Valley world's own rules for your slot's options
+  (exported by _build/export_ap_logic.py and evaluated in scripts/ap/logic_engine.lua), including bundles, entrance randomization,
+  seasons, friendship and the "months passed" logic that AP ties to received progression items.
+- Without a connection (manual tracking) the older, simplified rules are used.

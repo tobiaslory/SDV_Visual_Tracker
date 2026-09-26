@@ -32,8 +32,13 @@ Tracker:AddItems("items/story_checks_items.json")
 Tracker:AddItems("items/craftsanity_recipes_items.json")
 Tracker:AddItems("items/book_power_items.json")
 Tracker:AddItems("items/mastery_items.json")
+-- Visibility toggles for sections added by _build/add_missing_locations.py
+Tracker:AddItems("items/extra_location_items.json")
+-- Hidden counter bumped by the AP logic engine to make PopTracker re-evaluate rules
+Tracker:AddItems("items/ap_logic_items.json")
 
 ScriptHost:LoadScript("scripts/logic.lua")
+ScriptHost:LoadScript("scripts/ap/logic_engine.lua")
 
 Tracker:AddLocations("locations/CommunityCenter.json")
 Tracker:AddLocations("locations/World.json")

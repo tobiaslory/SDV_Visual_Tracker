@@ -1,0 +1,10 @@
+[
+    {
+        "name": "AP Logic Revision",
+        "type": "consumable",
+        "img": "images/blank.png",
+        "codes": "ap_logic_rev",
+        "min_quantity": 0,
+        "max_quantity": 1000000
+    }
+]

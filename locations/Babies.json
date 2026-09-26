@@ -8,6 +8,7 @@
                 "name": "Have a Baby",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717704", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -26,6 +27,7 @@
                 "name": "Have Another Baby",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717705", "$ap_offline"],
                         "item_count": 1
                     }
                 ],

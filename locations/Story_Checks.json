@@ -8,6 +8,7 @@
                 "name": "The Mines Floor 10 Treasure",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717201", "$ap_offline,$has_at_least_copper_pickaxe,$has_weapon"],
                         "item_count": 1
                     }
                 ],
@@ -21,14 +22,13 @@
                         "y": 40
                     }
                 ],
-                "access_rules": [
-                    "$has_at_least_copper_pickaxe,$has_weapon"
-                ]
+                "access_rules": []
             },
             {
                 "name": "The Mines Floor 20 Treasure",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717202", "$ap_offline,$has_at_least_copper_pickaxe,$has_weapon"],
                         "item_count": 1
                     }
                 ],
@@ -42,14 +42,13 @@
                         "y": 40
                     }
                 ],
-                "access_rules": [
-                    "$has_at_least_copper_pickaxe,$has_weapon"
-                ]
+                "access_rules": []
             },
             {
                 "name": "The Mines Floor 40 Treasure",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717203", "$ap_offline,$has_at_least_copper_pickaxe,$has_weapon"],
                         "item_count": 1
                     }
                 ],
@@ -63,14 +62,13 @@
                         "y": 40
                     }
                 ],
-                "access_rules": [
-                    "$has_at_least_copper_pickaxe,$has_weapon"
-                ]
+                "access_rules": []
             },
             {
                 "name": "The Mines Floor 50 Treasure",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717204", "$ap_offline,$has_at_least_iron_pickaxe,$has_weapon"],
                         "item_count": 1
                     }
                 ],
@@ -84,14 +82,13 @@
                         "y": 40
                     }
                 ],
-                "access_rules": [
-                    "$has_at_least_iron_pickaxe,$has_weapon"
-                ]
+                "access_rules": []
             },
             {
                 "name": "The Mines Floor 60 Treasure",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717205", "$ap_offline,$has_at_least_iron_pickaxe,$has_weapon"],
                         "item_count": 1
                     }
                 ],
@@ -105,14 +102,13 @@
                         "y": 68
                     }
                 ],
-                "access_rules": [
-                    "$has_at_least_iron_pickaxe,$has_weapon"
-                ]
+                "access_rules": []
             },
             {
                 "name": "The Mines Floor 70 Treasure",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717206", "$ap_offline,$has_at_least_iron_pickaxe,$has_weapon"],
                         "item_count": 1
                     }
                 ],
@@ -126,14 +122,13 @@
                         "y": 68
                     }
                 ],
-                "access_rules": [
-                    "$has_at_least_iron_pickaxe,$has_weapon"
-                ]
+                "access_rules": []
             },
             {
                 "name": "The Mines Floor 80 Treasure",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717207", "$ap_offline,$has_at_least_iron_pickaxe,$has_weapon"],
                         "item_count": 1
                     }
                 ],
@@ -147,14 +142,13 @@
                         "y": 68
                     }
                 ],
-                "access_rules": [
-                    "$has_at_least_iron_pickaxe,$has_weapon"
-                ]
+                "access_rules": []
             },
             {
                 "name": "The Mines Floor 90 Treasure",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717208", "$ap_offline,$has_at_least_gold_pickaxe,$has_weapon"],
                         "item_count": 1
                     }
                 ],
@@ -168,14 +162,13 @@
                         "y": 68
                     }
                 ],
-                "access_rules": [
-                    "$has_at_least_gold_pickaxe,$has_weapon"
-                ]
+                "access_rules": []
             },
             {
                 "name": "The Mines Floor 100 Treasure",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717209", "$ap_offline,$has_at_least_gold_pickaxe,$has_weapon"],
                         "item_count": 1
                     }
                 ],
@@ -189,14 +182,13 @@
                         "y": 96
                     }
                 ],
-                "access_rules": [
-                    "$has_at_least_gold_pickaxe,$has_weapon"
-                ]
+                "access_rules": []
             },
             {
                 "name": "The Mines Floor 110 Treasure",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717210", "$ap_offline,$has_at_least_gold_pickaxe,$has_weapon"],
                         "item_count": 1
                     }
                 ],
@@ -210,14 +202,13 @@
                         "y": 96
                     }
                 ],
-                "access_rules": [
-                    "$has_at_least_gold_pickaxe,$has_weapon"
-                ]
+                "access_rules": []
             },
             {
                 "name": "The Mines Floor 120 Treasure",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717211", "$ap_offline,$has_at_least_gold_pickaxe,$has_weapon"],
                         "item_count": 1
                     }
                 ],
@@ -231,14 +222,13 @@
                         "y": 96
                     }
                 ],
-                "access_rules": [
-                    "$has_at_least_gold_pickaxe,$has_weapon"
-                ]
+                "access_rules": []
             },
             {
                 "name": "The Mines Entrance Cutscene",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717213", "$ap_offline,$can_walk_to_mines_floor_5"],
                         "item_count": 1
                     }
                 ],
@@ -252,14 +242,13 @@
                         "y": 96
                     }
                 ],
-                "access_rules": [
-                    "$can_walk_to_mines_floor_5"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Demetrius's Breakthrough",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717250", "$ap_offline,$can_earn_money_substantial"],
                         "item_count": 1
                     }
                 ],
@@ -273,14 +262,13 @@
                         "y": 124
                     }
                 ],
-                "access_rules": [
-                    "$can_earn_money_substantial"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Volcano Caldera Treasure",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717251", "$ap_offline,$can_access_island"],
                         "item_count": 1
                     }
                 ],
@@ -294,14 +282,13 @@
                         "y": 124
                     }
                 ],
-                "access_rules": [
-                    "$can_access_island"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Rat Problem Cutscene",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717252", "$ap_offline,$can_walk_to_mines_floor_5"],
                         "item_count": 1
                     }
                 ],
@@ -315,14 +302,13 @@
                         "y": 124
                     }
                 ],
-                "access_rules": [
-                    "$can_walk_to_mines_floor_5"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Krobus Stardrop",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717707", "$ap_offline,$can_access_sewer,$can_earn_money_modest"],
                         "item_count": 1
                     }
                 ],
@@ -336,9 +322,7 @@
                         "y": 124
                     }
                 ],
-                "access_rules": [
-                    "$can_access_sewer,$can_earn_money_modest"
-                ]
+                "access_rules": []
             }
         ]
     }

@@ -8,6 +8,7 @@
                 "name": "Earth Obelisk Blueprint",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722101", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -26,6 +27,7 @@
                 "name": "Water Obelisk Blueprint",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722102", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -44,6 +46,7 @@
                 "name": "Desert Obelisk Blueprint",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722103", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -62,6 +65,7 @@
                 "name": "Island Obelisk Blueprint",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722104", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -80,6 +84,7 @@
                 "name": "Junimo Hut Blueprint",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722105", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -98,6 +103,7 @@
                 "name": "Gold Clock Blueprint",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722106", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -116,6 +122,7 @@
                 "name": "Purchase Return Scepter",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722107", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -134,6 +141,7 @@
                 "name": "Pam House Blueprint",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722108", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -152,6 +160,7 @@
                 "name": "Forest To Beach Shortcut Blueprint",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722109", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -170,6 +179,7 @@
                 "name": "Mountain Shortcuts Blueprint",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722110", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -188,6 +198,7 @@
                 "name": "Town To Tide Pools Shortcut Blueprint",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722112", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -206,6 +217,7 @@
                 "name": "Tunnel To Backwoods Shortcut Blueprint",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722113", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -224,6 +236,7 @@
                 "name": "Purchase Horse Flute",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722115", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -242,6 +255,7 @@
                 "name": "Purchase Pierre's Missing Stocklist",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722116", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -260,6 +274,7 @@
                 "name": "Purchase Key To The Town",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722117", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -278,6 +293,7 @@
                 "name": "Purchase Mini-Shipping Bin",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722118", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -296,6 +312,7 @@
                 "name": "Purchase Exotic Double Bed",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722119", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -314,6 +331,7 @@
                 "name": "Purchase Golden Egg",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722120", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -332,6 +350,7 @@
                 "name": "Purchase Statue Of Endless Fortune",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722121", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -350,6 +369,7 @@
                 "name": "Purchase Catalogue",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722122", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -368,6 +388,7 @@
                 "name": "Purchase Furniture Catalogue",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722123", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -386,6 +407,7 @@
                 "name": "Purchase Joja Furniture Catalogue",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722124", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -404,6 +426,7 @@
                 "name": "Purchase Junimo Catalogue",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722125", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -422,6 +445,7 @@
                 "name": "Purchase Retro Catalogue",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722126", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -440,6 +464,7 @@
                 "name": "Find Trash Catalogue",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722127", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -458,6 +483,7 @@
                 "name": "Purchase Wizard Catalogue",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722128", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -476,6 +502,7 @@
                 "name": "Purchase Spouse Portrait",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722129", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -494,6 +521,7 @@
                 "name": "Purchase Abigail Portrait",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722130", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -512,6 +540,7 @@
                 "name": "Purchase Alex Portrait",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722131", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -530,6 +559,7 @@
                 "name": "Purchase Elliott Portrait",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722132", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -548,6 +578,7 @@
                 "name": "Purchase Emily Portrait",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722133", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -566,6 +597,7 @@
                 "name": "Purchase Haley Portrait",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722134", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -584,6 +616,7 @@
                 "name": "Purchase Harvey Portrait",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722135", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -602,6 +635,7 @@
                 "name": "Purchase Krobus Portrait",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722136", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -620,6 +654,7 @@
                 "name": "Purchase Leah Portrait",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722137", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -638,6 +673,7 @@
                 "name": "Purchase Maru Portrait",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722138", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -656,6 +692,7 @@
                 "name": "Purchase Penny Portrait",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722139", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -674,6 +711,7 @@
                 "name": "Purchase Sam Portrait",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722140", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -692,6 +730,7 @@
                 "name": "Purchase Sebastian Portrait",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722141", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -710,6 +749,7 @@
                 "name": "Purchase Shane Portrait",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722142", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -728,6 +768,7 @@
                 "name": "Purchase Tea Set",
                 "sections": [
                     {
+                        "access_rules": ["$ap|722143", "$ap_offline"],
                         "item_count": 1
                     }
                 ],

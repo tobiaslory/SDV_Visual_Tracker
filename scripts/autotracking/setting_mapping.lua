@@ -67,8 +67,10 @@ function applySettingsFromSlotData(slot_data)
     set_active("walnutsanity_on",     is_enabled(get_value(slot_data, "walnutsanity")))
     set_active("moviesanity_on",      is_enabled(get_value(slot_data, "moviesanity")))
     set_active("secretsanity_on",     is_enabled(get_value(slot_data, "secretsanity")))
+    -- Walnut purchase locations exist whenever Ginger Island is included
+    -- (there is no "ginger_island" slot_data key, only exclude_ginger_island).
     set_active("walnut_purchase_on",  is_enabled(get_value(slot_data, "walnutsanity"))
-                                        or is_enabled(get_value(slot_data, "ginger_island")))
+                                        or not is_enabled(get_value(slot_data, "exclude_ginger_island")))
     set_active("endgame_on",          is_enabled(get_value(slot_data, "include_endgame_locations")))
 
     -- Existing UI is built around progressive items whose stage codes
@@ -111,15 +113,19 @@ function applySettingsFromSlotData(slot_data)
 
     -- Shipsanity progressive item stages (CurrentStage is 0-indexed):
     --   0=None, 1=Crops, 2=Fish, 3=Full, 4=FullwF, 5=Everything.
-    -- AP integer values for shipsanity: 0=none, 1=crops, 2=fish, 3=full,
-    --   4=full_with_fish, 5=everything.
+    -- AP integer values for shipsanity (options.py): 0=none, 1=crops,
+    --   3=fish, 4=crops_and_fish, 5=full_shipment, 7=full_shipment_with_fish,
+    --   9=everything. crops_and_fish has no own stage; FullwF is the stage
+    --   whose codes cover both crop and fish sections (sections are gated on
+    --   their location id as well, so the wider stage shows nothing extra).
     local shipsanity = get_value(slot_data, "shipsanity")
     local ship_stage = 0
     if value_in(shipsanity, 1, "crops") then ship_stage = 1
-    elseif value_in(shipsanity, 2, "fish") then ship_stage = 2
-    elseif value_in(shipsanity, 3, "full_shipment") then ship_stage = 3
-    elseif value_in(shipsanity, 4, "full_shipment_with_fish") then ship_stage = 4
-    elseif value_in(shipsanity, 5, "everything") then ship_stage = 5
+    elseif value_in(shipsanity, 3, "fish") then ship_stage = 2
+    elseif value_in(shipsanity, 4, "crops_and_fish") then ship_stage = 4
+    elseif value_in(shipsanity, 5, "full_shipment") then ship_stage = 3
+    elseif value_in(shipsanity, 7, "full_shipment_with_fish") then ship_stage = 4
+    elseif value_in(shipsanity, 9, "everything") then ship_stage = 5
     end
     set_progressive_stage_by_code("shipsanity", ship_stage)
     set_active("shipsanity_on", is_enabled(shipsanity))
@@ -133,23 +139,30 @@ function applySettingsFromSlotData(slot_data)
     end
     set_progressive_stage_by_code("museumsanity", museum_stage)
 
-    -- Special Orders: 0=vanilla, 1=board, 2=board_qi (or string equivalents).
+    -- Special Orders are bit flags in AP (options.py SpecialOrderLocations):
+    -- 1 = board orders, 2 = Qi orders, 4/8 = short/very short. e.g. the
+    -- default board_short is 5, board_qi_very_short is 11.
     -- Pack stages: 0=auto, 1=vanilla, 2=board, 3=qi.
-    local board = get_value(slot_data, "special_order_locations")
-    local board_stage = 1   -- default to vanilla
-    if value_in(board, 1, "board") or table_contains(board, "board") then board_stage = 2
-    elseif value_in(board, 2, "board_qi") or table_contains(board, "qi") then board_stage = 3
+    local board = tonumber(get_value(slot_data, "special_order_locations")) or 0
+    local board_stage = 1   -- vanilla
+    if (board & 1) ~= 0 then
+        board_stage = ((board & 2) ~= 0) and 3 or 2
     end
     set_progressive_stage_by_code("board", board_stage)
 
-    -- Arcade machine shuffling.
+    -- Arcade machine shuffling: 0=disabled, 1=victories, 2=victories_easy,
+    -- 3=full_shuffling.
     local arcade = get_value(slot_data, "arcade_machine_locations")
     set_active("ashuffle",   is_enabled(arcade))
-    set_active("ashuffle2",  arcade == "full_shuffling")
+    set_active("ashuffle2",  value_in(arcade, 3, "full_shuffling"))
 
-    -- Tool / building / skill / elevator / backpack progression hints.
-    set_active("tshuffle",   is_enabled(get_value(slot_data, "tool_progression")))
-    set_active("bshuffle",   is_enabled(get_value(slot_data, "building_progression")))
+    -- Tool / building progression are bit flags too: bit 1 = progressive,
+    -- 2/4 = cheap/very cheap (vanilla_cheap = 2 is still vanilla).
+    local function progressive_bit(value)
+        return ((tonumber(value) or 0) & 1) ~= 0
+    end
+    set_active("tshuffle",   progressive_bit(get_value(slot_data, "tool_progression")))
+    set_active("bshuffle",   progressive_bit(get_value(slot_data, "building_progression")))
     set_active("eshuffleon", is_enabled(get_value(slot_data, "elevator_progression")))
     set_active("pshuffle",   is_enabled(get_value(slot_data, "backpack_progression")))
     set_active("sshuffle",   is_enabled(get_value(slot_data, "skill_progression")))
@@ -165,7 +178,7 @@ function applySettingsFromSlotData(slot_data)
     -- Festival locations toggle.
     local festival = get_value(slot_data, "festival_locations")
     set_active("festival_on", is_enabled(festival))
-    set_active("festival_hard", festival == "hard")
+    set_active("festival_hard", value_in(festival, 2, "hard"))
 
     -- Entrance Randomization: AP encodes as Choice (option_disabled=0 plus
     -- pelican_town/non_progression/buildings*/chaos). Any non-disabled

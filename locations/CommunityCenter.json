@@ -8,40 +8,126 @@
                 "name": "Crafts Room",
 	        	"sections": [
                     {
+                        "visibility_rules": ["717001", "$ap_offline"],
                         "name": "Spring Foraging Bundle",
                         "item_count": 1,
                         "access_rules": 
-                            ["$spring"]
+                            ["$ap|717001", "$ap_offline,$spring"]
                     },
                     {
+                        "visibility_rules": ["717002", "$ap_offline"],
                         "name": "Summer Foraging Bundle",
                         "item_count": 1,
                         "access_rules":
-                            ["$summer"]
+                            ["$ap|717002", "$ap_offline,$summer"]
                     },
                     {
+                        "visibility_rules": ["717003", "$ap_offline"],
                         "name": "Fall Foraging Bundle",
                         "item_count": 1,
                         "access_rules":
-                            ["$fall"]
+                            ["$ap|717003", "$ap_offline,$fall"]
                     },
                     {
+                        "visibility_rules": ["717004", "$ap_offline"],
                         "name": "Winter Foraging Bundle",
                         "item_count": 1,
                         "access_rules":
-                            ["$winter"]
+                            ["$ap|717004", "$ap_offline,$winter"]
                     },
                     {
+                        "visibility_rules": ["717005", "$ap_offline"],
                         "name": "Construction Bundle",
                         "item_count": 1,
                         "access_rules": 
-                            ["$can_chop_stumps"]
+                            ["$ap|717005", "$ap_offline,$can_chop_stumps"]
                     },
                     {
+                        "visibility_rules": ["717006", "$ap_offline"],
                         "name": "Exotic Foraging Bundle",
                         "item_count": 1,
                         "access_rules":
-                            ["$exoticforagebundle"]
+                            ["$ap|717006", "$ap_offline,$exoticforagebundle"]
+                    },
+                    {
+                        "access_rules": ["$ap|717038", "$ap_offline"],
+                        "name": "Forest Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717038"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717040", "$ap_offline"],
+                        "name": "Beach Foraging Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717040"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717041", "$ap_offline"],
+                        "name": "Mines Foraging Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717041"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717042", "$ap_offline"],
+                        "name": "Desert Foraging Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717042"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717043", "$ap_offline"],
+                        "name": "Island Foraging Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717043"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717044", "$ap_offline"],
+                        "name": "Sticky Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717044"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717045", "$ap_offline"],
+                        "name": "Wild Medicine Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717045"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717046", "$ap_offline"],
+                        "name": "Quality Foraging Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717046"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717159", "$ap_offline"],
+                        "name": "Green Rain Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717159"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717261", "$ap_offline"],
+                        "name": "Totems Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717261"
+                        ]
                     }
                 ],
                 "map_locations":[
@@ -56,39 +142,125 @@
                 "name": "Pantry",
                 "sections": [
                     {
+                        "visibility_rules": ["717007", "$ap_offline"],
                         "name": "Spring Crops Bundle",
                         "item_count": 1,
-                        "access_rules":["$spring"]
+                        "access_rules":["$ap|717007", "$ap_offline,$spring"]
                     },
                     {
+                        "visibility_rules": ["717008", "$ap_offline"],
                         "name": "Summer Crops Bundle",
                         "item_count": 1,
                         "access_rules": 
-                            ["$summer"]
+                            ["$ap|717008", "$ap_offline,$summer"]
                     },
                     {
+                        "visibility_rules": ["717009", "$ap_offline"],
                         "name": "Fall Crops Bundle",
                         "item_count": 1,
                         "access_rules": 
-                            ["$fall"]
+                            ["$ap|717009", "$ap_offline,$fall"]
                     },                   
                     {
+                        "visibility_rules": ["717010", "$ap_offline"],
                         "name": "Quality Crops Bundle",
                         "item_count": 1,
                         "access_rules": 
-                            ["$summer"]
+                            ["$ap|717010", "$ap_offline,$summer"]
                     },
                     {
+                        "visibility_rules": ["717011", "$ap_offline"],
                         "name": "Animal Bundle",
                         "item_count": 1,
                         "access_rules": 
-                            ["$animalbundle"]
+                            ["$ap|717011", "$ap_offline,$animalbundle"]
                     },
                     {
+                        "visibility_rules": ["717012", "$ap_offline"],
                         "name": "Artisan Bundle",
                         "item_count": 1,
                         "access_rules": 
-                            ["$artisanbundle"]
+                            ["$ap|717012", "$ap_offline,$artisanbundle"]
+                    },
+                    {
+                        "access_rules": ["$ap|717049", "$ap_offline"],
+                        "name": "Slime Farmer Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717049"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717050", "$ap_offline"],
+                        "name": "Rare Crops Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717050"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717051", "$ap_offline"],
+                        "name": "Fish Farmer's Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717051"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717052", "$ap_offline"],
+                        "name": "Garden Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717052"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717053", "$ap_offline"],
+                        "name": "Brewer's Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717053"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717054", "$ap_offline"],
+                        "name": "Orchard Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717054"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717055", "$ap_offline"],
+                        "name": "Island Crops Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717055"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717056", "$ap_offline"],
+                        "name": "Agronomist's Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717056"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717155", "$ap_offline"],
+                        "name": "Sommelier Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717155"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717156", "$ap_offline"],
+                        "name": "Dry Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717156"
+                        ]
                     }
                 ],
                 "map_locations":[
@@ -103,40 +275,166 @@
                 "name": "Fish Tank",
                 "sections":[
                     {
+                        "visibility_rules": ["717013", "$ap_offline"],
                         "name": "River Fish Bundle",
                         "item_count": 1,
                         "access_rules": 
-                            ["$can_fish,$fall"]
+                            ["$ap|717013", "$ap_offline,$can_fish,$fall"]
                     },
                     {
+                        "visibility_rules": ["717014", "$ap_offline"],
                         "name": "Lake Fish Bundle",
                         "item_count": 1,
                         "access_rules": 
-                            ["$can_fish,$summer"]
+                            ["$ap|717014", "$ap_offline,$can_fish,$summer"]
                     },
                     {
+                        "visibility_rules": ["717015", "$ap_offline"],
                         "name": "Ocean Fish Bundle",
                         "item_count": 1,
                         "access_rules": 
-                            ["$can_fish,$summer"]
+                            ["$ap|717015", "$ap_offline,$can_fish,$summer"]
                     },
                     {
+                        "visibility_rules": ["717016", "$ap_offline"],
                         "name": "Night Fishing Bundle",
                         "item_count": 1,
                         "access_rules": 
-                            ["$can_fish,$fall"]
+                            ["$ap|717016", "$ap_offline,$can_fish,$fall"]
                     },
                     {
+                        "visibility_rules": ["717017", "$ap_offline"],
                         "name": "Crab Pot Bundle",
                         "item_count": 1,
                         "access_rules": 
-                            ["$has_crab_pots"]
+                            ["$ap|717017", "$ap_offline,$has_crab_pots"]
                     },
                     {
+                        "visibility_rules": ["717018", "$ap_offline"],
                         "name": "Specialty Fish Bundle",
                         "item_count": 1,
                         "access_rules":
-                            ["$can_fish,$can_chop_logs,$can_access_desert,$summer"]
+                            ["$ap|717018", "$ap_offline,$can_fish,$can_chop_logs,$can_access_desert,$summer"]
+                    },
+                    {
+                        "access_rules": ["$ap|717039", "$ap_offline"],
+                        "name": "Deep Fishing Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717039"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717057", "$ap_offline"],
+                        "name": "Tackle Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717057"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717058", "$ap_offline"],
+                        "name": "Trash Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717058"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717059", "$ap_offline"],
+                        "name": "Spring Fishing Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717059"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717060", "$ap_offline"],
+                        "name": "Summer Fishing Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717060"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717061", "$ap_offline"],
+                        "name": "Fall Fishing Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717061"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717062", "$ap_offline"],
+                        "name": "Winter Fishing Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717062"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717063", "$ap_offline"],
+                        "name": "Rain Fishing Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717063"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717064", "$ap_offline"],
+                        "name": "Quality Fish Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717064"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717065", "$ap_offline"],
+                        "name": "Master Fisher's Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717065"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717066", "$ap_offline"],
+                        "name": "Legendary Fish Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717066"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717067", "$ap_offline"],
+                        "name": "Island Fish Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717067"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717068", "$ap_offline"],
+                        "name": "Master Baiter Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717068"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717157", "$ap_offline"],
+                        "name": "Fish Smoker Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717157"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717160", "$ap_offline"],
+                        "name": "Specific Fishing Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717160"
+                        ]
                     }
                 ],
                 "map_locations":[
@@ -151,20 +449,72 @@
                 "name": "Boiler Room",
                 "sections": [
                     {
+                        "visibility_rules": ["717019", "$ap_offline"],
                         "name": "Blacksmith's Bundle",
                         "item_count": 1,
                         "access_rules": 
-                            ["$can_mine_gold"]
+                            ["$ap|717019", "$ap_offline,$can_mine_gold"]
                     },
                     {
+                        "visibility_rules": ["717020", "$ap_offline"],
                         "name": "Geologist's Bundle",
                         "item_count": 1,
                         "access_rules": 
-                            ["$can_mine_gold"]
+                            ["$ap|717020", "$ap_offline,$can_mine_gold"]
                     },
                     {
+                        "visibility_rules": ["717021", "$ap_offline"],
+                        "access_rules": ["$ap|717021", "$ap_offline"],
                         "name": "Adventurer's Bundle",
                         "item_count": 1
+                    },
+                    {
+                        "access_rules": ["$ap|717047", "$ap_offline"],
+                        "name": "Paleontologist's Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717047"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717048", "$ap_offline"],
+                        "name": "Archaeologist's Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717048"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717069", "$ap_offline"],
+                        "name": "Recycling Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717069"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717070", "$ap_offline"],
+                        "name": "Treasure Hunter's Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717070"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717071", "$ap_offline"],
+                        "name": "Engineer's Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717071"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717072", "$ap_offline"],
+                        "name": "Demolition Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717072"
+                        ]
                     }
                 ],
                 "map_locations": [
@@ -179,34 +529,111 @@
                 "name": "Bulletin Board",
                 "sections": [
                     {
+                        "visibility_rules": ["717022", "$ap_offline"],
                         "name": "Chef's Bundle",
                         "item_count": 1,
                         "access_rules":
-                            ["$chefbundle"]
+                            ["$ap|717022", "$ap_offline,$chefbundle"]
                     },
                     {
+                        "visibility_rules": ["717023", "$ap_offline"],
                         "name": "Dye Bundle",
                         "item_count": 1,
                         "access_rules":
-                            ["$dyebundle"]
+                            ["$ap|717023", "$ap_offline,$dyebundle"]
                     },
                     {
+                        "visibility_rules": ["717024", "$ap_offline"],
                         "name": "Field Research Bundle",
                         "item_count": 1,
                         "access_rules":
-                            ["$fieldresearchbundle"]
+                            ["$ap|717024", "$ap_offline,$fieldresearchbundle"]
                     },
                     {
+                        "visibility_rules": ["717025", "$ap_offline"],
                         "name": "Fodder Bundle",
                         "item_count": 1,
                         "access_rules":
-                            ["$fall"]
+                            ["$ap|717025", "$ap_offline,$fall"]
                     },
                     {
+                        "visibility_rules": ["717026", "$ap_offline"],
                         "name": "Enchanter's Bundle",
                         "item_count": 1,
                         "access_rules":
-                            ["$enchantbundle"]
+                            ["$ap|717026", "$ap_offline,$enchantbundle"]
+                    },
+                    {
+                        "access_rules": ["$ap|717073", "$ap_offline"],
+                        "name": "Children's Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717073"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717074", "$ap_offline"],
+                        "name": "Forager's Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717074"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717075", "$ap_offline"],
+                        "name": "Home Cook's Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717075"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717076", "$ap_offline"],
+                        "name": "Bartender's Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717076"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717151", "$ap_offline"],
+                        "name": "Helper's Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717151"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717152", "$ap_offline"],
+                        "name": "Spirit's Eve Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717152"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717153", "$ap_offline"],
+                        "name": "Winter Star Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717153"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717154", "$ap_offline"],
+                        "name": "Calico Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717154"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717158", "$ap_offline"],
+                        "name": "Raccoon Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717158"
+                        ]
                     }
                 ],
                 "map_locations": [
@@ -221,9 +648,227 @@
                 "name": "Vault",
                 "sections": [
                     {
+                        "visibility_rules": ["$ap_offline"],
+                        "access_rules": ["$ap_any|717027|717028|717029|717030|717077|717078|717079|717080|717081|717082|717083|717084|717085|717086|717087|717088|717089|717090|717091|717092|717093|717094|717095|717096|717097|717098|717099|717100", "$ap_offline"],
                         "name": "Bundles",
                         "clear_as_group": false,
                         "item_count": 4
+                    },
+                    {
+                        "access_rules": ["$ap|717027", "$ap_offline"],
+                        "name": "2,500g Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717027"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717028", "$ap_offline"],
+                        "name": "5,000g Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717028"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717029", "$ap_offline"],
+                        "name": "10,000g Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717029"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717030", "$ap_offline"],
+                        "name": "25,000g Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717030"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717077", "$ap_offline"],
+                        "name": "250g Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717077"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717078", "$ap_offline"],
+                        "name": "500g Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717078"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717079", "$ap_offline"],
+                        "name": "1,000g Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717079"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717080", "$ap_offline"],
+                        "name": "2,000g Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717080"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717082", "$ap_offline"],
+                        "name": "1,500g Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717082"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717083", "$ap_offline"],
+                        "name": "3,000g Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717083"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717084", "$ap_offline"],
+                        "name": "3,500g Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717084"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717085", "$ap_offline"],
+                        "name": "4,500g Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717085"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717086", "$ap_offline"],
+                        "name": "6,000g Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717086"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717087", "$ap_offline"],
+                        "name": "7,000g Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717087"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717088", "$ap_offline"],
+                        "name": "9,000g Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717088"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717089", "$ap_offline"],
+                        "name": "14,000g Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717089"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717090", "$ap_offline"],
+                        "name": "15,000g Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717090"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717091", "$ap_offline"],
+                        "name": "18,000g Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717091"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717092", "$ap_offline"],
+                        "name": "20,000g Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717092"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717093", "$ap_offline"],
+                        "name": "35,000g Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717093"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717094", "$ap_offline"],
+                        "name": "40,000g Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717094"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717095", "$ap_offline"],
+                        "name": "45,000g Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717095"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717096", "$ap_offline"],
+                        "name": "100,000g Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717096"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717097", "$ap_offline"],
+                        "name": "Gambler's Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717097"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717098", "$ap_offline"],
+                        "name": "Carnival Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717098"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717099", "$ap_offline"],
+                        "name": "Walnut Hunter Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717099"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717100", "$ap_offline"],
+                        "name": "Qi's Helper Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717100"
+                        ]
                     }
                 ],
                 "map_locations": [
@@ -238,26 +883,32 @@
                 "name": "Complete Rooms",
                 "sections":[
                     {
+                        "access_rules": ["$ap|717032", "$ap_offline"],
                         "name": "Complete Crafts Room",
                         "item_count": 1   
                     },
                     {
+                        "access_rules": ["$ap|717033", "$ap_offline"],
                         "name": "Complete Pantry",
                         "item_count": 1
                     },
                     {
+                        "access_rules": ["$ap|717034", "$ap_offline"],
                         "name": "Complete Fish Tank",
                         "item_count": 1
                     },
                     {
+                        "access_rules": ["$ap|717035", "$ap_offline"],
                         "name": "Complete Boiler Room",
                         "item_count": 1
                     },
                     {
+                        "access_rules": ["$ap|717036", "$ap_offline"],
                         "name": "Complete Bulletin Board",
                         "item_count": 1
                     },
                     {
+                        "access_rules": ["$ap|717037", "$ap_offline"],
                         "name": "Complete Vault",
                         "item_count": 1
                     }
@@ -267,6 +918,102 @@
                         "map":"Community Center",
                         "x": 1040,
                         "y": 168
+                    }
+                ]
+            },
+            {
+                "name": "Raccoon Requests",
+                "sections": [
+                    {
+                        "access_rules": ["$ap|720701", "$ap_offline"],
+                        "name": "Raccoon Request 1",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720701"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720702", "$ap_offline"],
+                        "name": "Raccoon Request 2",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720702"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720703", "$ap_offline"],
+                        "name": "Raccoon Request 3",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720703"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720704", "$ap_offline"],
+                        "name": "Raccoon Request 4",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720704"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720705", "$ap_offline"],
+                        "name": "Raccoon Request 5",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720705"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720706", "$ap_offline"],
+                        "name": "Raccoon Request 6",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720706"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720707", "$ap_offline"],
+                        "name": "Raccoon Request 7",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720707"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720708", "$ap_offline"],
+                        "name": "Raccoon Request 8",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720708"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Community Center",
+                        "x": 1040,
+                        "y": 250
+                    }
+                ]
+            },
+            {
+                "name": "Abandoned JojaMart",
+                "sections": [
+                    {
+                        "access_rules": ["$ap|717031", "$ap_offline"],
+                        "name": "The Missing Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717031"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Community Center",
+                        "x": 1040,
+                        "y": 330
                     }
                 ]
             }

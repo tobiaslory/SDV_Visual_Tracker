@@ -10,66 +10,66 @@
                     {
                         "name": "Floor 10",
                         "item_count": 1,
-                        "access_rules": ["$can_walk_to_mines_floor_5"]
+                        "access_rules": ["$ap|717201", "$ap_offline,$can_walk_to_mines_floor_5"]
                     },
                     {
                         "name": "Floor 20",
                         "item_count": 1,
-                        "access_rules": ["$can_walk_to_mines_floor_5"]
+                        "access_rules": ["$ap|717202", "$ap_offline,$can_walk_to_mines_floor_5"]
                     },
                     {
                         "name": "Floor 40",
                         "item_count": 1,
                         "access_rules": 
-                            ["$can_mine_copper"]
+                            ["$ap|717203", "$ap_offline,$can_mine_copper"]
                     },
                     {
                         "name": "Floor 50",
                         "item_count": 1,
                         "access_rules": 
-                            ["$can_mine_iron"]
+                            ["$ap|717204", "$ap_offline,$can_mine_iron"]
                     },
                     {
                         "name": "Floor 60",
                         "item_count": 1,
                         "access_rules": 
-                            ["$can_mine_iron"]
+                            ["$ap|717205", "$ap_offline,$can_mine_iron"]
                     },
                     {
                         "name": "Floor 70",
                         "item_count": 1,
                         "access_rules": 
-                            ["$can_mine_iron"]
+                            ["$ap|717206", "$ap_offline,$can_mine_iron"]
                     },
                     {
                         "name": "Floor 80",
                         "item_count": 1,
                         "access_rules": 
-                            ["$can_mine_gold"]
+                            ["$ap|717207", "$ap_offline,$can_mine_gold"]
                     },
                     {
                         "name": "Floor 90",
                         "item_count": 1,
                         "access_rules": 
-                            ["$can_mine_gold"]
+                            ["$ap|717208", "$ap_offline,$can_mine_gold"]
                     },
                     {
                         "name": "Floor 100",
                         "item_count": 1,
                         "access_rules": 
-                            ["$can_mine_gold"]
+                            ["$ap|717209", "$ap_offline,$can_mine_gold"]
                     },                    
                     {
                         "name": "Floor 110",
                         "item_count": 1,
                         "access_rules": 
-                            ["$can_mine_gold"]
+                            ["$ap|717210", "$ap_offline,$can_mine_gold"]
                     },
                     {
                         "name": "Floor 120",
                         "item_count": 1,
                         "access_rules":
-                            ["$can_mine_gold"]
+                            ["$ap|717211", "$ap_offline,$can_mine_gold"]
                     }
                 ],
                 "map_locations":[
@@ -89,28 +89,28 @@
                         "clear_as_group": false,
                         "item_count": 4,
                         "access_rules":
-                            ["$can_walk_to_mines_floor_5"]
+                            ["$ap_any|717213|717214|717215|717216", "$ap_offline,$can_walk_to_mines_floor_5"]
                     },
                     {
                         "name": "Floors 25-40",
                         "clear_as_group": false,
                         "item_count": 4,
                         "access_rules":
-                            ["$has_at_least_copper_pickaxe,$has_weapon,$has_at_least_elevator_15"]
+                            ["$ap_any|717217|717218|717219|717220", "$ap_offline,$has_at_least_copper_pickaxe,$has_weapon,$has_at_least_elevator_15"]
                     },
                     {
                         "name": "Floors 45-80",
                         "clear_as_group": false,
                         "item_count": 8,
                         "access_rules":
-                            ["$has_at_least_iron_pickaxe,$has_weapon,$has_at_least_elevator_35"]
+                            ["$ap_any|717221|717222|717223|717224|717225|717226|717227|717228", "$ap_offline,$has_at_least_iron_pickaxe,$has_weapon,$has_at_least_elevator_35"]
                     },
                     {
                         "name": "Floors 85-120",
                         "clear_as_group": false,
                         "item_count": 8,
                         "access_rules":
-                            ["$has_at_least_gold_pickaxe,$has_weapon,$has_at_least_elevator_75"]
+                            ["$ap_any|717229|717230|717231|717232|717233|717234|717235|717236", "$ap_offline,$has_at_least_gold_pickaxe,$has_weapon,$has_at_least_elevator_75"]
                     }
                 ],
                 "map_locations":[
@@ -126,12 +126,34 @@
                 "visibility_rules":["pshuffle"],
                 "sections":[
                     {
+                        "access_rules": ["$ap_any|717101|717175|717176|717177|717178|717179|717180|717181|717182|717183|717184|717185|717187", "$ap_offline"],
                         "name": "Large Pack",
                         "item_count": 1
                     },
                     {
+                        "access_rules": ["$ap_any|717102|717188|717189|717190|717191|717192|717193|717194|717195|717196|717197|717198|717199", "$ap_offline"],
                         "name": "Deluxe Pack",
                         "item_count": 1
+                    },
+                    {
+                        "access_rules": ["$ap_any|717161|717162|717163|717164|717165|717166|717167|717168|717169|717170|717171|717172|717174", "$ap_offline"],
+                        "name": "Small Pack",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717161",
+                            "717162",
+                            "717163",
+                            "717164",
+                            "717165",
+                            "717166",
+                            "717167",
+                            "717168",
+                            "717169",
+                            "717170",
+                            "717171",
+                            "717172",
+                            "717174"
+                        ]
                     }
                 ],
                 "map_locations":[
@@ -146,9 +168,10 @@
                 "name": "Grim Reaper Statue",
                 "visibility_rules":["tshuffle"],
                 "access_rules":
-                    ["$has_bridge"],
+                    [],
                 "sections":[
                     {
+                        "access_rules": ["$ap|717212", "$ap_offline,$has_bridge"],
                         "name": "Golden Scythe",
                         "item_count": 1
                     }
@@ -166,10 +189,12 @@
                 "visibility_rules": ["tshuffle"],
                 "sections":[
                     {
+                        "access_rules": ["$ap|717123", "$ap_offline"],
                         "name": "Purchase Training Rod",
                         "item_count": 1
                     },
                     {
+                        "access_rules": ["$ap|717124", "$ap_offline"],
                         "name": "Bamboo Pole Cutscene",
                         "item_count": 1
                     },
@@ -177,13 +202,13 @@
                         "name": "Purchase Fiberglass Rod",
                         "item_count": 1,
                         "access_rules":
-                            ["$can_fish"]
+                            ["$ap|717125", "$ap_offline,$can_fish"]
                     },
                     {
                         "name": "Purchase Iridium Rod",
                         "item_count": 1,
                         "access_rules":
-                            ["$can_fish"]
+                            ["$ap|717126", "$ap_offline,$can_fish"]
                     }
                 ],
                 "map_locations":[
@@ -203,28 +228,28 @@
                         "clear_as_group": false,
                         "item_count": 5,
                         "access_rules":
-                            ["mining:1"]
+                            ["$ap_any|717103|717107|717111|717115|717119", "$ap_offline,mining:1"]
                     },
                     {
                         "name": "Iron Tool Upgrades",
                         "clear_as_group": false,
                         "item_count": 5,
                         "access_rules":
-                            ["$has_at_least_copper_hoe,furnacerecipe,$can_walk_to_mines_floor_45,$can_earn_money_modest", "$has_at_least_copper_pickaxe,furnacerecipe,$can_walk_to_mines_floor_45,$can_earn_money_modest", "$has_at_least_copper_axe,furnacerecipe,$can_walk_to_mines_floor_45,$can_earn_money_modest", "$has_at_least_copper_can,furnacerecipe,$can_walk_to_mines_floor_45,$can_earn_money_modest", "$has_at_least_copper_trash,furnacerecipe,$can_walk_to_mines_floor_45,$can_earn_money_modest"]
+                            ["$ap_any|717104|717108|717112|717116|717120", "$ap_offline,$has_at_least_copper_hoe,furnacerecipe,$can_walk_to_mines_floor_45,$can_earn_money_modest", "$ap_offline,$has_at_least_copper_pickaxe,furnacerecipe,$can_walk_to_mines_floor_45,$can_earn_money_modest", "$ap_offline,$has_at_least_copper_axe,furnacerecipe,$can_walk_to_mines_floor_45,$can_earn_money_modest", "$ap_offline,$has_at_least_copper_can,furnacerecipe,$can_walk_to_mines_floor_45,$can_earn_money_modest", "$ap_offline,$has_at_least_copper_trash,furnacerecipe,$can_walk_to_mines_floor_45,$can_earn_money_modest"]
                     },
                     {
                         "name": "Gold Tool Upgrades",
                         "clear_as_group": false,
                         "item_count": 5,
                         "access_rules":
-                            ["$has_at_least_steel_hoe,furnacerecipe,$can_walk_to_mines_floor_85,$can_earn_money_modest", "$has_at_least_steel_pickaxe,furnacerecipe,$can_walk_to_mines_floor_85,$can_earn_money_modest", "$has_at_least_steel_axe,furnacerecipe,$can_walk_to_mines_floor_85,$can_earn_money_modest", "$has_at_least_steel_can,furnacerecipe,$can_walk_to_mines_floor_85,$can_earn_money_modest", "$has_at_least_steel_trash,furnacerecipe,$can_walk_to_mines_floor_85,$can_earn_money_modest"]
+                            ["$ap_any|717105|717109|717113|717117|717121", "$ap_offline,$has_at_least_steel_hoe,furnacerecipe,$can_walk_to_mines_floor_85,$can_earn_money_modest", "$ap_offline,$has_at_least_steel_pickaxe,furnacerecipe,$can_walk_to_mines_floor_85,$can_earn_money_modest", "$ap_offline,$has_at_least_steel_axe,furnacerecipe,$can_walk_to_mines_floor_85,$can_earn_money_modest", "$ap_offline,$has_at_least_steel_can,furnacerecipe,$can_walk_to_mines_floor_85,$can_earn_money_modest", "$ap_offline,$has_at_least_steel_trash,furnacerecipe,$can_walk_to_mines_floor_85,$can_earn_money_modest"]
                     },
                     {
                         "name": "Iridium Tool Upgrades",
                         "clear_as_group": false,
                         "item_count": 5,
                         "access_rules":
-                            ["$has_at_least_gold_hoe,furnacerecipe,$can_mine_iridium,$can_earn_money_substantial", "$has_at_least_gold_pickaxe,furnacerecipe,$can_mine_iridium,$can_earn_money_substantial", "$has_at_least_gold_axe,furnacerecipe,$can_mine_iridium,$can_earn_money_substantial", "$has_at_least_gold_can,furnacerecipe,$can_mine_iridium,$can_earn_money_substantial", "$has_at_least_gold_trash,furnacerecipe,$can_mine_iridium,$can_earn_money_substantial"]
+                            ["$ap_any|717106|717110|717114|717118|717122", "$ap_offline,$has_at_least_gold_hoe,furnacerecipe,$can_mine_iridium,$can_earn_money_substantial", "$ap_offline,$has_at_least_gold_pickaxe,furnacerecipe,$can_mine_iridium,$can_earn_money_substantial", "$ap_offline,$has_at_least_gold_axe,furnacerecipe,$can_mine_iridium,$can_earn_money_substantial", "$ap_offline,$has_at_least_gold_can,furnacerecipe,$can_mine_iridium,$can_earn_money_substantial", "$ap_offline,$has_at_least_gold_trash,furnacerecipe,$can_mine_iridium,$can_earn_money_substantial"]
                     }
                 ],
                 "map_locations":[
@@ -299,45 +324,55 @@
                 "visibility_rules": ["bshuffle"],
                 "sections":[
                     {
+                        "access_rules": ["$ap_any|717404|717405|717406", "$ap_offline"],
                         "name": "Purchase Barn Upgrades",
                         "clear_as_group": false,
                         "item_count": 3
                     },
                     {
+                        "access_rules": ["$ap_any|717401|717402|717403", "$ap_offline"],
                         "name": "Purchase Coop Upgrades",
                         "clear_as_group": false,
                         "item_count": 3
                     },
                     {
+                        "access_rules": ["$ap|717407", "$ap_offline"],
                         "name": "Purchase Well",
                         "item_count":1
                     },
                     {
+                        "access_rules": ["$ap|717408", "$ap_offline"],
                         "name": "Purchase Silo",
                         "item_count":1
                     },
                     {
+                        "access_rules": ["$ap|717409", "$ap_offline"],
                         "name": "Purchase Mill",
                         "item_count":1
                     },
                     {
+                        "access_rules": ["$ap_any|717410|717411", "$ap_offline"],
                         "name": "Purchase Shed Upgrades",
                         "clear_as_group": false,
                         "item_count": 2
                     },
                     {
+                        "access_rules": ["$ap|717412", "$ap_offline"],
                         "name": "Purchase Fish Pond",
                         "item_count": 1
                     },
                     {
+                        "access_rules": ["$ap|717413", "$ap_offline"],
                         "name": "Purchase Stable",
                         "item_count": 1
                     },
                     {
+                        "access_rules": ["$ap|717414", "$ap_offline"],
                         "name": "Purchase Slime Hutch",
                         "item_count": 1
                     },
                     {
+                        "access_rules": ["$ap|717415", "$ap_offline"],
                         "name": "Purchase Shipping Bin",
                         "item_count": 1
                     }
@@ -352,12 +387,12 @@
             },
             {
                 "name": "Old Master Cannoli",
-                "visibility_rules":["secretsanity_on"],
+                "visibility_rules":["717701,secretsanity_on"],
                 "sections":[
                     {
                         "name": "Give a Sweet Gem Berry",
                         "access_rules":
-                                ["$can_chop_logs"],
+                                ["$ap|717701", "$ap_offline,$can_chop_logs"],
                         "item_count": 1
                     }
                 ],
@@ -373,6 +408,7 @@
                 "name": "Beach Bridge Repair",
                 "sections":[
                     {
+                        "access_rules": ["$ap|717702", "$ap_offline"],
                         "name": "Bring 300 Wood",
                         "item_count": 1
                     }
@@ -387,9 +423,10 @@
             },
             {
                 "name": "The Galaxy Sword",
-                "access_rules":["$can_access_desert"],
+                "access_rules":[],
                 "sections":[
                     {
+                        "access_rules": ["$ap|717703", "$ap_offline,$can_access_desert"],
                         "name": "Offer a Prismatic Shard",
                         "item_count":1
                     }
@@ -407,43 +444,43 @@
                 "sections":[
                     {
                         "name": "Monday",
-                        "access_rules":["$tmmon"],
+                        "access_rules":["$ap_any|717911|717912|717913|717914|717915|717916|717917|717918|717919|717920", "$ap_offline,$tmmon"],
                         "clear_as_group":false,
                         "item_count": 1
                     },
                     {
                         "name": "Tuesday",
-                        "access_rules":["$tmtues"],
+                        "access_rules":["$ap_any|717921|717922|717923|717924|717925|717926|717927|717928|717929|717930", "$ap_offline,$tmtues"],
                         "clear_as_group":false,
                         "item_count":1
                     },
                     {
                         "name": "Wednesday",
-                        "access_rules":["$tmwed"],
+                        "access_rules":["$ap_any|717931|717932|717933|717934|717935|717936|717937|717938|717939|717940", "$ap_offline,$tmwed"],
                         "clear_as_group":false,
                         "item_count":1
                     },
                     {
                         "name": "Thursday",
-                        "access_rules":["$tmthurs"],
+                        "access_rules":["$ap_any|717941|717942|717943|717944|717945|717946|717947|717948|717949|717950", "$ap_offline,$tmthurs"],
                         "clear_as_group":false,
                         "item_count":1
                     },
                     {
                         "name": "Friday",
-                        "access_rules":["$tmfri"],
+                        "access_rules":["$ap_any|717951|717952|717953|717954|717955|717956|717957|717958|717959|717960", "$ap_offline,$tmfri"],
                         "clear_as_group":false,
                         "item_count":1
                     },
                     {
                         "name": "Saturday",
-                        "access_rules":["$tmsat"],
+                        "access_rules":["$ap_any|717961|717962|717963|717964|717965|717966|717967|717968|717969|717970", "$ap_offline,$tmsat"],
                         "clear_as_group":false,
                         "item_count":1
                     },
                     {
                         "name": "Sunday",
-                        "access_rules":["$tmsun"],
+                        "access_rules":["$ap_any|717901|717902|717903|717904|717905|717906|717907|717908|717909|717910|717971|717972|717973", "$ap_offline,$tmsun"],
                         "clear_as_group":false,
                         "item_count":1
                     }
@@ -477,10 +514,10 @@
             },
             {
                 "name": "Pot of Gold",
-                "visibility_rules":["secretsanity_on"],
+                "visibility_rules":["717708,secretsanity_on"],
                 "sections":[
                     {
-                        "access_rules":["spring"],
+                        "access_rules":["$ap|717708", "$ap_offline,spring"],
                         "name": "Find the Pot of Gold!",
                         "item_count": 1
                     }
@@ -525,7 +562,7 @@
                         "name": "Buy from Krobus",
                         "item_count": 1,
                         "visibility_rules": ["717707"],
-                        "access_rules": ["$can_access_sewer,$can_earn_money_modest"]
+                        "access_rules": ["$ap|717707", "$ap_offline,$can_access_sewer,$can_earn_money_modest"]
                     }
                 ],
                 "map_locations":[
@@ -543,7 +580,7 @@
                         "name": "Ship enough to trigger",
                         "item_count": 1,
                         "visibility_rules": ["717250"],
-                        "access_rules": ["$can_earn_money_substantial"]
+                        "access_rules": ["$ap|717250", "$ap_offline,$can_earn_money_substantial"]
                     }
                 ],
                 "map_locations":[
@@ -561,7 +598,7 @@
                         "name": "Reach the Caldera",
                         "item_count": 1,
                         "visibility_rules": ["717251"],
-                        "access_rules": ["$can_access_island"]
+                        "access_rules": ["$ap|717251", "$ap_offline,$can_access_island"]
                     }
                 ],
                 "map_locations":[
@@ -579,7 +616,7 @@
                         "name": "Trigger via reading note",
                         "item_count": 1,
                         "visibility_rules": ["717252"],
-                        "access_rules": ["$can_walk_to_mines_floor_5"]
+                        "access_rules": ["$ap|717252", "$ap_offline,$can_walk_to_mines_floor_5"]
                     }
                 ],
                 "map_locations":[
@@ -587,6 +624,2566 @@
                         "map": "Stardew Valley",
                         "x": 720,
                         "y": 290
+                    }
+                ]
+            },
+            {
+                "name": "Trash Bear",
+                "sections": [
+                    {
+                        "access_rules": ["$ap|717253", "$ap_offline"],
+                        "name": "Trash Bear Foraging",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717253"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717254", "$ap_offline"],
+                        "name": "Trash Bear Cooking",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717254"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717255", "$ap_offline"],
+                        "name": "Trash Bear Farming",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717255"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|717256", "$ap_offline"],
+                        "name": "Trash Bear Fishing",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717256"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stardew Valley",
+                        "x": 250,
+                        "y": 330
+                    }
+                ]
+            },
+            {
+                "name": "Willy's Boat",
+                "sections": [
+                    {
+                        "access_rules": ["$ap|719201", "$ap_offline"],
+                        "name": "Repair Ticket Machine",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719201"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719202", "$ap_offline"],
+                        "name": "Repair Boat Hull",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719202"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719203", "$ap_offline"],
+                        "name": "Repair Boat Anchor",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719203"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stardew Valley",
+                        "x": 640,
+                        "y": 500
+                    }
+                ]
+            },
+            {
+                "name": "Spouse Stardrop",
+                "sections": [
+                    {
+                        "access_rules": ["$ap|717706", "$ap_offline"],
+                        "name": "Spouse Stardrop",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717706"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stardew Valley",
+                        "x": 333,
+                        "y": 240
+                    }
+                ]
+            },
+            {
+                "name": "Professor Snail Cave",
+                "sections": [
+                    {
+                        "access_rules": ["$ap|719215", "$ap_offline"],
+                        "name": "Open Professor Snail Cave",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719215"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stardew Valley",
+                        "x": 45,
+                        "y": 45
+                    }
+                ]
+            },
+            {
+                "name": "Island Field Office",
+                "sections": [
+                    {
+                        "access_rules": ["$ap|719216", "$ap_offline"],
+                        "name": "Complete Island Field Office",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719216"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stardew Valley",
+                        "x": 60,
+                        "y": 45
+                    }
+                ]
+            },
+            {
+                "name": "Shipsanity A",
+                "sections": [
+                    {
+                        "access_rules": ["$ap|719858", "$ap_offline"],
+                        "name": "Shipsanity: Acorn",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719858"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719449", "$ap_offline"],
+                        "name": "Shipsanity: Aged Roe",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719449"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719859", "$ap_offline"],
+                        "name": "Shipsanity: Amaranth Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719859"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719860", "$ap_offline"],
+                        "name": "Shipsanity: Ancient Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719860"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719861", "$ap_offline"],
+                        "name": "Shipsanity: Apple Sapling",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719861"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719862", "$ap_offline"],
+                        "name": "Shipsanity: Apricot Sapling",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719862"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719863", "$ap_offline"],
+                        "name": "Shipsanity: Artichoke Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719863"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719422", "$ap_offline"],
+                        "name": "Shipsanity: Artifact Trove",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719422"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stardew Valley",
+                        "x": 395,
+                        "y": 232
+                    }
+                ]
+            },
+            {
+                "name": "Shipsanity B",
+                "sections": [
+                    {
+                        "access_rules": ["$ap|719547", "$ap_offline"],
+                        "name": "Shipsanity: Bait",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719547"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719968", "$ap_offline"],
+                        "name": "Shipsanity: Banana Sapling",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719968"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719548", "$ap_offline"],
+                        "name": "Shipsanity: Barbed Hook",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719548"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719549", "$ap_offline"],
+                        "name": "Shipsanity: Basic Fertilizer",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719549"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719550", "$ap_offline"],
+                        "name": "Shipsanity: Basic Retaining Soil",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719550"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719837", "$ap_offline"],
+                        "name": "Shipsanity: Bat Wing",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719837"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719747", "$ap_offline"],
+                        "name": "Shipsanity: Battery Pack",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719747"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719864", "$ap_offline"],
+                        "name": "Shipsanity: Bean Starter",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719864"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719450", "$ap_offline"],
+                        "name": "Shipsanity: Beer",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719450"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719865", "$ap_offline"],
+                        "name": "Shipsanity: Beet Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719865"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720864", "$ap_offline"],
+                        "name": "Shipsanity: Blue Grass Starter",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720864"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719551", "$ap_offline"],
+                        "name": "Shipsanity: Blue Slime Egg",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719551"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719866", "$ap_offline"],
+                        "name": "Shipsanity: Blueberry Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719866"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719867", "$ap_offline"],
+                        "name": "Shipsanity: Bok Choy Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719867"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719552", "$ap_offline"],
+                        "name": "Shipsanity: Bomb",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719552"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719838", "$ap_offline"],
+                        "name": "Shipsanity: Bone Fragment",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719838"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719844", "$ap_offline"],
+                        "name": "Shipsanity: Bouquet",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719844"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719553", "$ap_offline"],
+                        "name": "Shipsanity: Brick Floor",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719553"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720828", "$ap_offline"],
+                        "name": "Shipsanity: Broccoli Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720828"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719913", "$ap_offline"],
+                        "name": "Shipsanity: Broken CD",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719913"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719914", "$ap_offline"],
+                        "name": "Shipsanity: Broken Glasses",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719914"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719919", "$ap_offline"],
+                        "name": "Shipsanity: Bug Meat",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719919"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719554", "$ap_offline"],
+                        "name": "Shipsanity: Bug Steak",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719554"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720863", "$ap_offline"],
+                        "name": "Shipsanity: Butterfly Powder",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720863"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stardew Valley",
+                        "x": 408,
+                        "y": 232
+                    }
+                ]
+            },
+            {
+                "name": "Shipsanity C",
+                "sections": [
+                    {
+                        "access_rules": ["$ap|719868", "$ap_offline"],
+                        "name": "Shipsanity: Cactus Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719868"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720806", "$ap_offline"],
+                        "name": "Shipsanity: Calico Egg",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720806"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720824", "$ap_offline"],
+                        "name": "Shipsanity: Carrot Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720824"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719869", "$ap_offline"],
+                        "name": "Shipsanity: Cauliflower Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719869"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720859", "$ap_offline"],
+                        "name": "Shipsanity: Cave Jelly",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720859"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719451", "$ap_offline"],
+                        "name": "Shipsanity: Caviar",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719451"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720823", "$ap_offline"],
+                        "name": "Shipsanity: Challenge Bait",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720823"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719452", "$ap_offline"],
+                        "name": "Shipsanity: Cheese",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719452"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719555", "$ap_offline"],
+                        "name": "Shipsanity: Cherry Bomb",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719555"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719870", "$ap_offline"],
+                        "name": "Shipsanity: Cherry Sapling",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719870"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719957", "$ap_offline"],
+                        "name": "Shipsanity: Cinder Shard",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719957"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719748", "$ap_offline"],
+                        "name": "Shipsanity: Clay",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719748"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719453", "$ap_offline"],
+                        "name": "Shipsanity: Cloth",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719453"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719774", "$ap_offline"],
+                        "name": "Shipsanity: Coal",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719774"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719556", "$ap_offline"],
+                        "name": "Shipsanity: Cobblestone Path",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719556"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719454", "$ap_offline"],
+                        "name": "Shipsanity: Coffee",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719454"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719557", "$ap_offline"],
+                        "name": "Shipsanity: Cookout Kit",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719557"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719749", "$ap_offline"],
+                        "name": "Shipsanity: Copper Bar",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719749"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719775", "$ap_offline"],
+                        "name": "Shipsanity: Copper Ore",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719775"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719558", "$ap_offline"],
+                        "name": "Shipsanity: Cork Bobber",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719558"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719872", "$ap_offline"],
+                        "name": "Shipsanity: Corn Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719872"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719559", "$ap_offline"],
+                        "name": "Shipsanity: Crab Pot",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719559"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719873", "$ap_offline"],
+                        "name": "Shipsanity: Cranberry Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719873"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719560", "$ap_offline"],
+                        "name": "Shipsanity: Crystal Floor",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719560"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719561", "$ap_offline"],
+                        "name": "Shipsanity: Crystal Path",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719561"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719839", "$ap_offline"],
+                        "name": "Shipsanity: Curiosity Lure",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719839"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stardew Valley",
+                        "x": 421,
+                        "y": 232
+                    }
+                ]
+            },
+            {
+                "name": "Shipsanity D-E",
+                "sections": [
+                    {
+                        "access_rules": ["$ap|720810", "$ap_offline"],
+                        "name": "Shipsanity: Deluxe Bait",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720810"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719937", "$ap_offline"],
+                        "name": "Shipsanity: Deluxe Fertilizer",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719937"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719938", "$ap_offline"],
+                        "name": "Shipsanity: Deluxe Retaining Soil",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719938"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719562", "$ap_offline"],
+                        "name": "Shipsanity: Deluxe Speed-Gro",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719562"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719455", "$ap_offline"],
+                        "name": "Shipsanity: Dinosaur Mayonnaise",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719455"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719958", "$ap_offline"],
+                        "name": "Shipsanity: Dragon Tooth",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719958"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719563", "$ap_offline"],
+                        "name": "Shipsanity: Dressed Spinner",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719563"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720818", "$ap_offline"],
+                        "name": "Shipsanity: Dried Fruit",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720818"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720819", "$ap_offline"],
+                        "name": "Shipsanity: Dried Mushrooms",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720819"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719915", "$ap_offline"],
+                        "name": "Shipsanity: Driftwood",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719915"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719564", "$ap_offline"],
+                        "name": "Shipsanity: Drum Block",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719564"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719401", "$ap_offline"],
+                        "name": "Shipsanity: Duck Egg",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719401"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719402", "$ap_offline"],
+                        "name": "Shipsanity: Duck Feather",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719402"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719456", "$ap_offline"],
+                        "name": "Shipsanity: Duck Mayonnaise",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719456"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719403", "$ap_offline"],
+                        "name": "Shipsanity: Egg",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719403"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719404", "$ap_offline"],
+                        "name": "Shipsanity: Egg (Brown)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719404"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719874", "$ap_offline"],
+                        "name": "Shipsanity: Eggplant Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719874"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719845", "$ap_offline"],
+                        "name": "Shipsanity: Energy Tonic",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719845"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719962", "$ap_offline"],
+                        "name": "Shipsanity: Enricher",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719962"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719565", "$ap_offline"],
+                        "name": "Shipsanity: Explosive Ammo",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719565"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stardew Valley",
+                        "x": 434,
+                        "y": 232
+                    }
+                ]
+            },
+            {
+                "name": "Shipsanity F",
+                "sections": [
+                    {
+                        "access_rules": ["$ap|719939", "$ap_offline"],
+                        "name": "Shipsanity: Fairy Dust",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719939"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719875", "$ap_offline"],
+                        "name": "Shipsanity: Fairy Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719875"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719876", "$ap_offline"],
+                        "name": "Shipsanity: Fall Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719876"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720805", "$ap_offline"],
+                        "name": "Shipsanity: Far Away Stone",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720805"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719750", "$ap_offline"],
+                        "name": "Shipsanity: Fiber",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719750"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719566", "$ap_offline"],
+                        "name": "Shipsanity: Fiber Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719566"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719567", "$ap_offline"],
+                        "name": "Shipsanity: Field Snack",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719567"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720804", "$ap_offline"],
+                        "name": "Shipsanity: Fireworks (Green)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720804"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720803", "$ap_offline"],
+                        "name": "Shipsanity: Fireworks (Purple)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720803"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720802", "$ap_offline"],
+                        "name": "Shipsanity: Fireworks (Red)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720802"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719568", "$ap_offline"],
+                        "name": "Shipsanity: Flute Block",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719568"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719922", "$ap_offline"],
+                        "name": "Shipsanity: Fossilized Leg",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719922"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719923", "$ap_offline"],
+                        "name": "Shipsanity: Fossilized Ribs",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719923"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719924", "$ap_offline"],
+                        "name": "Shipsanity: Fossilized Skull",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719924"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719925", "$ap_offline"],
+                        "name": "Shipsanity: Fossilized Spine",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719925"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719926", "$ap_offline"],
+                        "name": "Shipsanity: Fossilized Tail",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719926"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719785", "$ap_offline"],
+                        "name": "Shipsanity: Frozen Geode",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719785"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stardew Valley",
+                        "x": 395,
+                        "y": 245
+                    }
+                ]
+            },
+            {
+                "name": "Shipsanity G-H",
+                "sections": [
+                    {
+                        "access_rules": ["$ap|719964", "$ap_offline"],
+                        "name": "Shipsanity: Galaxy Soul",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719964"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719877", "$ap_offline"],
+                        "name": "Shipsanity: Garlic Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719877"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719569", "$ap_offline"],
+                        "name": "Shipsanity: Gate",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719569"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719788", "$ap_offline"],
+                        "name": "Shipsanity: Geode",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719788"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719457", "$ap_offline"],
+                        "name": "Shipsanity: Goat Cheese",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719457"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719405", "$ap_offline"],
+                        "name": "Shipsanity: Goat Milk",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719405"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719751", "$ap_offline"],
+                        "name": "Shipsanity: Gold Bar",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719751"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719790", "$ap_offline"],
+                        "name": "Shipsanity: Gold Ore",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719790"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720856", "$ap_offline"],
+                        "name": "Shipsanity: Golden Animal Cracker",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720856"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719920", "$ap_offline"],
+                        "name": "Shipsanity: Golden Egg",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719920"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720857", "$ap_offline"],
+                        "name": "Shipsanity: Golden Mystery Box",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720857"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719846", "$ap_offline"],
+                        "name": "Shipsanity: Golden Pumpkin",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719846"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720809", "$ap_offline"],
+                        "name": "Shipsanity: Golden Tag",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720809"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719878", "$ap_offline"],
+                        "name": "Shipsanity: Grape Starter",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719878"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719879", "$ap_offline"],
+                        "name": "Shipsanity: Grass Starter",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719879"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719570", "$ap_offline"],
+                        "name": "Shipsanity: Gravel Path",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719570"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719847", "$ap_offline"],
+                        "name": "Shipsanity: Green Algae",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719847"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719571", "$ap_offline"],
+                        "name": "Shipsanity: Green Slime Egg",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719571"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719458", "$ap_offline"],
+                        "name": "Shipsanity: Green Tea",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719458"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719752", "$ap_offline"],
+                        "name": "Shipsanity: Hardwood",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719752"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719572", "$ap_offline"],
+                        "name": "Shipsanity: Hardwood Fence",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719572"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719848", "$ap_offline"],
+                        "name": "Shipsanity: Hay",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719848"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719459", "$ap_offline"],
+                        "name": "Shipsanity: Honey",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719459"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719880", "$ap_offline"],
+                        "name": "Shipsanity: Hops Starter",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719880"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719940", "$ap_offline"],
+                        "name": "Shipsanity: Hyper Speed-Gro",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719940"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stardew Valley",
+                        "x": 408,
+                        "y": 245
+                    }
+                ]
+            },
+            {
+                "name": "Shipsanity I-L",
+                "sections": [
+                    {
+                        "access_rules": ["$ap|719753", "$ap_offline"],
+                        "name": "Shipsanity: Iridium Bar",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719753"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719794", "$ap_offline"],
+                        "name": "Shipsanity: Iridium Ore",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719794"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719573", "$ap_offline"],
+                        "name": "Shipsanity: Iridium Sprinkler",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719573"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719754", "$ap_offline"],
+                        "name": "Shipsanity: Iron Bar",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719754"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719574", "$ap_offline"],
+                        "name": "Shipsanity: Iron Fence",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719574"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719795", "$ap_offline"],
+                        "name": "Shipsanity: Iron Ore",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719795"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719575", "$ap_offline"],
+                        "name": "Shipsanity: Jack-O-Lantern",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719575"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719881", "$ap_offline"],
+                        "name": "Shipsanity: Jazz Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719881"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719460", "$ap_offline"],
+                        "name": "Shipsanity: Jelly",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719460"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719916", "$ap_offline"],
+                        "name": "Shipsanity: Joja Cola",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719916"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719967", "$ap_offline"],
+                        "name": "Shipsanity: Journal Scrap",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719967"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719461", "$ap_offline"],
+                        "name": "Shipsanity: Juice",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719461"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719882", "$ap_offline"],
+                        "name": "Shipsanity: Kale Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719882"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719407", "$ap_offline"],
+                        "name": "Shipsanity: Large Egg",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719407"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719408", "$ap_offline"],
+                        "name": "Shipsanity: Large Egg (Brown)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719408"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719406", "$ap_offline"],
+                        "name": "Shipsanity: Large Goat Milk",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719406"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719409", "$ap_offline"],
+                        "name": "Shipsanity: Large Milk",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719409"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719576", "$ap_offline"],
+                        "name": "Shipsanity: Lead Bobber",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719576"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719577", "$ap_offline"],
+                        "name": "Shipsanity: Life Elixir",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719577"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stardew Valley",
+                        "x": 421,
+                        "y": 245
+                    }
+                ]
+            },
+            {
+                "name": "Shipsanity M",
+                "sections": [
+                    {
+                        "access_rules": ["$ap|719941", "$ap_offline"],
+                        "name": "Shipsanity: Magic Bait",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719941"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719849", "$ap_offline"],
+                        "name": "Shipsanity: Magic Rock Candy",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719849"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719804", "$ap_offline"],
+                        "name": "Shipsanity: Magma Geode",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719804"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719578", "$ap_offline"],
+                        "name": "Shipsanity: Magnet",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719578"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719883", "$ap_offline"],
+                        "name": "Shipsanity: Mahogany Seed",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719883"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719969", "$ap_offline"],
+                        "name": "Shipsanity: Mango Sapling",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719969"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719884", "$ap_offline"],
+                        "name": "Shipsanity: Maple Seed",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719884"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719462", "$ap_offline"],
+                        "name": "Shipsanity: Maple Syrup",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719462"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719463", "$ap_offline"],
+                        "name": "Shipsanity: Mayonnaise",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719463"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719464", "$ap_offline"],
+                        "name": "Shipsanity: Mead",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719464"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719579", "$ap_offline"],
+                        "name": "Shipsanity: Mega Bomb",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719579"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719885", "$ap_offline"],
+                        "name": "Shipsanity: Melon Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719885"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719410", "$ap_offline"],
+                        "name": "Shipsanity: Milk",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719410"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720807", "$ap_offline"],
+                        "name": "Shipsanity: Mixed Flower Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720807"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719886", "$ap_offline"],
+                        "name": "Shipsanity: Mixed Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719886"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719580", "$ap_offline"],
+                        "name": "Shipsanity: Monster Musk",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719580"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720811", "$ap_offline"],
+                        "name": "Shipsanity: Moss",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720811"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720812", "$ap_offline"],
+                        "name": "Shipsanity: Mossy Seed",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720812"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719966", "$ap_offline"],
+                        "name": "Shipsanity: Movie Ticket",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719966"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719927", "$ap_offline"],
+                        "name": "Shipsanity: Mummified Bat",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719927"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719928", "$ap_offline"],
+                        "name": "Shipsanity: Mummified Frog",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719928"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719850", "$ap_offline"],
+                        "name": "Shipsanity: Muscle Remedy",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719850"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719970", "$ap_offline"],
+                        "name": "Shipsanity: Mushroom Tree Seed",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719970"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720808", "$ap_offline"],
+                        "name": "Shipsanity: Mystery Box",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720808"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720816", "$ap_offline"],
+                        "name": "Shipsanity: Mystic Syrup",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720816"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720815", "$ap_offline"],
+                        "name": "Shipsanity: Mystic Tree Seed",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720815"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stardew Valley",
+                        "x": 434,
+                        "y": 245
+                    }
+                ]
+            },
+            {
+                "name": "Shipsanity O-Q",
+                "sections": [
+                    {
+                        "access_rules": ["$ap|719465", "$ap_offline"],
+                        "name": "Shipsanity: Oak Resin",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719465"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719755", "$ap_offline"],
+                        "name": "Shipsanity: Oil",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719755"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719581", "$ap_offline"],
+                        "name": "Shipsanity: Oil of Garlic",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719581"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719813", "$ap_offline"],
+                        "name": "Shipsanity: Omni Geode",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719813"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719887", "$ap_offline"],
+                        "name": "Shipsanity: Orange Sapling",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719887"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719921", "$ap_offline"],
+                        "name": "Shipsanity: Ostrich Egg",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719921"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719466", "$ap_offline"],
+                        "name": "Shipsanity: Pale Ale",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719466"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719888", "$ap_offline"],
+                        "name": "Shipsanity: Parsnip Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719888"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719889", "$ap_offline"],
+                        "name": "Shipsanity: Peach Sapling",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719889"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719851", "$ap_offline"],
+                        "name": "Shipsanity: Pearl",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719851"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719890", "$ap_offline"],
+                        "name": "Shipsanity: Pepper Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719890"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719467", "$ap_offline"],
+                        "name": "Shipsanity: Pickles",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719467"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719934", "$ap_offline"],
+                        "name": "Shipsanity: Pina Colada",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719934"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719891", "$ap_offline"],
+                        "name": "Shipsanity: Pine Cone",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719891"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719468", "$ap_offline"],
+                        "name": "Shipsanity: Pine Tar",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719468"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719971", "$ap_offline"],
+                        "name": "Shipsanity: Pineapple Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719971"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719892", "$ap_offline"],
+                        "name": "Shipsanity: Pomegranate Sapling",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719892"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719893", "$ap_offline"],
+                        "name": "Shipsanity: Poppy Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719893"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719894", "$ap_offline"],
+                        "name": "Shipsanity: Potato Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719894"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720830", "$ap_offline"],
+                        "name": "Shipsanity: Powdermelon Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720830"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719963", "$ap_offline"],
+                        "name": "Shipsanity: Pressure Nozzle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719963"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720821", "$ap_offline"],
+                        "name": "Shipsanity: Prize Ticket",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720821"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719895", "$ap_offline"],
+                        "name": "Shipsanity: Pumpkin Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719895"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719582", "$ap_offline"],
+                        "name": "Shipsanity: Purple Slime Egg",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719582"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719972", "$ap_offline"],
+                        "name": "Shipsanity: Qi Bean",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719972"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719959", "$ap_offline"],
+                        "name": "Shipsanity: Qi Seasoning",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719959"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719583", "$ap_offline"],
+                        "name": "Shipsanity: Quality Bobber",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719583"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719584", "$ap_offline"],
+                        "name": "Shipsanity: Quality Fertilizer",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719584"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719585", "$ap_offline"],
+                        "name": "Shipsanity: Quality Retaining Soil",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719585"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719586", "$ap_offline"],
+                        "name": "Shipsanity: Quality Sprinkler",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719586"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stardew Valley",
+                        "x": 395,
+                        "y": 258
+                    }
+                ]
+            },
+            {
+                "name": "Shipsanity R",
+                "sections": [
+                    {
+                        "access_rules": ["$ap|719411", "$ap_offline"],
+                        "name": "Shipsanity: Rabbit's Foot",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719411"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719960", "$ap_offline"],
+                        "name": "Shipsanity: Radioactive Bar",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719960"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719961", "$ap_offline"],
+                        "name": "Shipsanity: Radioactive Ore",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719961"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719896", "$ap_offline"],
+                        "name": "Shipsanity: Radish Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719896"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719587", "$ap_offline"],
+                        "name": "Shipsanity: Rain Totem",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719587"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720817", "$ap_offline"],
+                        "name": "Shipsanity: Raisins",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720817"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719897", "$ap_offline"],
+                        "name": "Shipsanity: Rare Seed",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719897"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719898", "$ap_offline"],
+                        "name": "Shipsanity: Red Cabbage Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719898"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719588", "$ap_offline"],
+                        "name": "Shipsanity: Red Slime Egg",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719588"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719756", "$ap_offline"],
+                        "name": "Shipsanity: Refined Quartz",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719756"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719899", "$ap_offline"],
+                        "name": "Shipsanity: Rhubarb Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719899"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719757", "$ap_offline"],
+                        "name": "Shipsanity: Rice",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719757"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719900", "$ap_offline"],
+                        "name": "Shipsanity: Rice Shoot",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719900"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720860", "$ap_offline"],
+                        "name": "Shipsanity: River Jelly",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720860"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719412", "$ap_offline"],
+                        "name": "Shipsanity: Roe",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719412"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719852", "$ap_offline"],
+                        "name": "Shipsanity: Rotten Plant",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719852"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719589", "$ap_offline"],
+                        "name": "Shipsanity: Rustic Plank Floor",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719589"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stardew Valley",
+                        "x": 408,
+                        "y": 258
+                    }
+                ]
+            },
+            {
+                "name": "Shipsanity S",
+                "sections": [
+                    {
+                        "access_rules": ["$ap|719758", "$ap_offline"],
+                        "name": "Shipsanity: Sap",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719758"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720858", "$ap_offline"],
+                        "name": "Shipsanity: Sea Jelly",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720858"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719853", "$ap_offline"],
+                        "name": "Shipsanity: Seaweed",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719853"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719857", "$ap_offline"],
+                        "name": "Shipsanity: Secret Note",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719857"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719840", "$ap_offline"],
+                        "name": "Shipsanity: Slime",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719840"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720832", "$ap_offline"],
+                        "name": "Shipsanity: Smoked Fish",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720832"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719929", "$ap_offline"],
+                        "name": "Shipsanity: Snake Skull",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719929"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719930", "$ap_offline"],
+                        "name": "Shipsanity: Snake Vertebrae",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719930"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719917", "$ap_offline"],
+                        "name": "Shipsanity: Soggy Newspaper",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719917"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719841", "$ap_offline"],
+                        "name": "Shipsanity: Solar Essence",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719841"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720813", "$ap_offline"],
+                        "name": "Shipsanity: Sonar Bobber",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720813"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719901", "$ap_offline"],
+                        "name": "Shipsanity: Spangle Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719901"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719590", "$ap_offline"],
+                        "name": "Shipsanity: Speed-Gro",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719590"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719591", "$ap_offline"],
+                        "name": "Shipsanity: Spinner",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719591"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719902", "$ap_offline"],
+                        "name": "Shipsanity: Spring Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719902"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719592", "$ap_offline"],
+                        "name": "Shipsanity: Sprinkler",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719592"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719842", "$ap_offline"],
+                        "name": "Shipsanity: Squid Ink",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719842"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720820", "$ap_offline"],
+                        "name": "Shipsanity: Stardrop Tea",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720820"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719903", "$ap_offline"],
+                        "name": "Shipsanity: Starfruit Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719903"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719593", "$ap_offline"],
+                        "name": "Shipsanity: Stepping Stone Path",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719593"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719759", "$ap_offline"],
+                        "name": "Shipsanity: Stone",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719759"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719594", "$ap_offline"],
+                        "name": "Shipsanity: Stone Fence",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719594"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719595", "$ap_offline"],
+                        "name": "Shipsanity: Stone Floor",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719595"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719596", "$ap_offline"],
+                        "name": "Shipsanity: Stone Walkway Floor",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719596"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719597", "$ap_offline"],
+                        "name": "Shipsanity: Straw Floor",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719597"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719904", "$ap_offline"],
+                        "name": "Shipsanity: Strawberry Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719904"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719760", "$ap_offline"],
+                        "name": "Shipsanity: Sugar",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719760"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719905", "$ap_offline"],
+                        "name": "Shipsanity: Summer Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719905"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720826", "$ap_offline"],
+                        "name": "Shipsanity: Summer Squash Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720826"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719906", "$ap_offline"],
+                        "name": "Shipsanity: Sunflower Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719906"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stardew Valley",
+                        "x": 421,
+                        "y": 258
+                    }
+                ]
+            },
+            {
+                "name": "Shipsanity T-V",
+                "sections": [
+                    {
+                        "access_rules": ["$ap|720867", "$ap_offline"],
+                        "name": "Shipsanity: Targeted Bait",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720867"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719973", "$ap_offline"],
+                        "name": "Shipsanity: Taro Tuber",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719973"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719907", "$ap_offline"],
+                        "name": "Shipsanity: Tea Sapling",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719907"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719746", "$ap_offline"],
+                        "name": "Shipsanity: Tea Set",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719746"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720814", "$ap_offline"],
+                        "name": "Shipsanity: Tent Kit",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720814"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719965", "$ap_offline"],
+                        "name": "Shipsanity: Tiger Slime Egg",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719965"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719908", "$ap_offline"],
+                        "name": "Shipsanity: Tomato Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719908"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719598", "$ap_offline"],
+                        "name": "Shipsanity: Torch",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719598"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719599", "$ap_offline"],
+                        "name": "Shipsanity: Trap Bobber",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719599"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719918", "$ap_offline"],
+                        "name": "Shipsanity: Trash",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719918"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719448", "$ap_offline"],
+                        "name": "Shipsanity: Treasure Chest",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719448"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719600", "$ap_offline"],
+                        "name": "Shipsanity: Treasure Hunter",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719600"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|720822", "$ap_offline"],
+                        "name": "Shipsanity: Treasure Totem",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720822"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719601", "$ap_offline"],
+                        "name": "Shipsanity: Tree Fertilizer",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719601"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719413", "$ap_offline"],
+                        "name": "Shipsanity: Truffle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719413"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719469", "$ap_offline"],
+                        "name": "Shipsanity: Truffle Oil",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719469"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719909", "$ap_offline"],
+                        "name": "Shipsanity: Tulip Bulb",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719909"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719761", "$ap_offline"],
+                        "name": "Shipsanity: Vinegar",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719761"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719414", "$ap_offline"],
+                        "name": "Shipsanity: Void Egg",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719414"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719843", "$ap_offline"],
+                        "name": "Shipsanity: Void Essence",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719843"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719854", "$ap_offline"],
+                        "name": "Shipsanity: Void Ghost Pendant",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719854"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719470", "$ap_offline"],
+                        "name": "Shipsanity: Void Mayonnaise",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719470"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stardew Valley",
+                        "x": 434,
+                        "y": 258
+                    }
+                ]
+            },
+            {
+                "name": "Shipsanity W-Y",
+                "sections": [
+                    {
+                        "access_rules": ["$ap|719602", "$ap_offline"],
+                        "name": "Shipsanity: Warp Totem: Beach",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719602"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719603", "$ap_offline"],
+                        "name": "Shipsanity: Warp Totem: Desert",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719603"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719604", "$ap_offline"],
+                        "name": "Shipsanity: Warp Totem: Farm",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719604"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719605", "$ap_offline"],
+                        "name": "Shipsanity: Warp Totem: Island",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719605"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719606", "$ap_offline"],
+                        "name": "Shipsanity: Warp Totem: Mountains",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719606"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719607", "$ap_offline"],
+                        "name": "Shipsanity: Weathered Floor",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719607"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719762", "$ap_offline"],
+                        "name": "Shipsanity: Wheat Flour",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719762"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719910", "$ap_offline"],
+                        "name": "Shipsanity: Wheat Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719910"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719855", "$ap_offline"],
+                        "name": "Shipsanity: White Algae",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719855"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719608", "$ap_offline"],
+                        "name": "Shipsanity: Wild Bait",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719608"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719856", "$ap_offline"],
+                        "name": "Shipsanity: Wilted Bouquet",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719856"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719471", "$ap_offline"],
+                        "name": "Shipsanity: Wine",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719471"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719911", "$ap_offline"],
+                        "name": "Shipsanity: Winter Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719911"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719763", "$ap_offline"],
+                        "name": "Shipsanity: Wood",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719763"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719609", "$ap_offline"],
+                        "name": "Shipsanity: Wood Fence",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719609"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719610", "$ap_offline"],
+                        "name": "Shipsanity: Wood Floor",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719610"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719611", "$ap_offline"],
+                        "name": "Shipsanity: Wood Path",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719611"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719415", "$ap_offline"],
+                        "name": "Shipsanity: Wool",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719415"
+                        ]
+                    },
+                    {
+                        "access_rules": ["$ap|719912", "$ap_offline"],
+                        "name": "Shipsanity: Yam Seeds",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "719912"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stardew Valley",
+                        "x": 395,
+                        "y": 271
                     }
                 ]
             }

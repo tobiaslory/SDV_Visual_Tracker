@@ -8,6 +8,7 @@
                 "name": "Coop Blueprint",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717401", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -26,6 +27,7 @@
                 "name": "Big Coop Blueprint",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717402", "$ap_offline,coop:1"],
                         "item_count": 1
                     }
                 ],
@@ -39,14 +41,13 @@
                         "y": 40
                     }
                 ],
-                "access_rules": [
-                    "coop:1"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Deluxe Coop Blueprint",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717403", "$ap_offline,coop:2"],
                         "item_count": 1
                     }
                 ],
@@ -60,14 +61,13 @@
                         "y": 40
                     }
                 ],
-                "access_rules": [
-                    "coop:2"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Barn Blueprint",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717404", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -86,6 +86,7 @@
                 "name": "Big Barn Blueprint",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717405", "$ap_offline,barn:1"],
                         "item_count": 1
                     }
                 ],
@@ -99,14 +100,13 @@
                         "y": 68
                     }
                 ],
-                "access_rules": [
-                    "barn:1"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Deluxe Barn Blueprint",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717406", "$ap_offline,barn:2"],
                         "item_count": 1
                     }
                 ],
@@ -120,14 +120,13 @@
                         "y": 68
                     }
                 ],
-                "access_rules": [
-                    "barn:2"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Well Blueprint",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717407", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -146,6 +145,7 @@
                 "name": "Silo Blueprint",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717408", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -164,6 +164,7 @@
                 "name": "Mill Blueprint",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717409", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -182,6 +183,7 @@
                 "name": "Shed Blueprint",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717410", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -200,6 +202,7 @@
                 "name": "Big Shed Blueprint",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717411", "$ap_offline,shed"],
                         "item_count": 1
                     }
                 ],
@@ -213,14 +216,13 @@
                         "y": 96
                     }
                 ],
-                "access_rules": [
-                    "shed"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Fish Pond Blueprint",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717412", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -239,6 +241,7 @@
                 "name": "Stable Blueprint",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717413", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -257,6 +260,7 @@
                 "name": "Slime Hutch Blueprint",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717414", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -275,6 +279,7 @@
                 "name": "Shipping Bin Blueprint",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717415", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -293,6 +298,7 @@
                 "name": "Kitchen Blueprint",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717416", "$ap_offline,house:1"],
                         "item_count": 1
                     }
                 ],
@@ -306,14 +312,13 @@
                         "y": 124
                     }
                 ],
-                "access_rules": [
-                    "house:1"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Kids Room Blueprint",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717417", "$ap_offline,house:2"],
                         "item_count": 1
                     }
                 ],
@@ -327,14 +332,13 @@
                         "y": 152
                     }
                 ],
-                "access_rules": [
-                    "house:2"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Cellar Blueprint",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717418", "$ap_offline,house:1"],
                         "item_count": 1
                     }
                 ],
@@ -348,14 +352,13 @@
                         "y": 152
                     }
                 ],
-                "access_rules": [
-                    "house:1"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Pet Bowl Blueprint",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717419", "$ap_offline"],
                         "item_count": 1
                     }
                 ],

@@ -11,6 +11,7 @@
                         "name": "Blue Bow",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721608", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -29,6 +30,7 @@
                         "name": "Butterfly Bow",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721615", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -47,6 +49,7 @@
                         "name": "Cone Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721619", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -65,6 +68,7 @@
                         "name": "Copper Pan",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721621", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -83,6 +87,7 @@
                         "name": "Daisy",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721625", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -101,6 +106,7 @@
                         "name": "Dark Velvet Bow",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721628", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -119,6 +125,7 @@
                         "name": "Delicate Bow",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721629", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -137,6 +144,7 @@
                         "name": "Fedora",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721638", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -155,6 +163,7 @@
                         "name": "Good Ol' Cap",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721652", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -173,6 +182,7 @@
                         "name": "Jester Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721660", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -191,6 +201,7 @@
                         "name": "Leprechaun Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721665", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -209,6 +220,7 @@
                         "name": "Mouse Ears",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721671", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -227,6 +239,7 @@
                         "name": "Mummy Mask",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721673", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -245,6 +258,7 @@
                         "name": "Paper Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721679", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -263,6 +277,7 @@
                         "name": "Pink Bow",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721683", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -281,6 +296,7 @@
                         "name": "Sailor's Cap",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721694", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -299,6 +315,7 @@
                         "name": "Sou'wester",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721699", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -317,6 +334,7 @@
                         "name": "Tiara",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721710", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -335,6 +353,7 @@
                         "name": "Top Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721712", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -353,6 +372,7 @@
                         "name": "Tropiclip",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721715", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -376,6 +396,7 @@
                         "name": "Beanie",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721605", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -394,6 +415,7 @@
                         "name": "Blobfish Mask",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721606", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -412,6 +434,7 @@
                         "name": "Bridal Veil",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721613", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -430,6 +453,7 @@
                         "name": "Dinosaur Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721632", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -448,6 +472,7 @@
                         "name": "Fashion Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721637", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -466,6 +491,7 @@
                         "name": "Fishing Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721639", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -484,6 +510,7 @@
                         "name": "Flat Topped Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721640", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -502,6 +529,7 @@
                         "name": "Floppy Beanie",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721641", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -520,6 +548,7 @@
                         "name": "Forager's Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721642", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -538,6 +567,7 @@
                         "name": "Goggles",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721648", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -556,6 +586,7 @@
                         "name": "Golden Mask",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721651", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -574,6 +605,7 @@
                         "name": "Hair Bone",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721655", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -592,6 +624,7 @@
                         "name": "Logo Cap",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721667", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -610,6 +643,7 @@
                         "name": "Party Hat (Blue)",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721680", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -628,6 +662,7 @@
                         "name": "Party Hat (Green)",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721681", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -646,6 +681,7 @@
                         "name": "Party Hat (Red)",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721682", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -664,6 +700,7 @@
                         "name": "Pirate Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721684", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -682,6 +719,7 @@
                         "name": "Propeller Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721687", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -700,6 +738,7 @@
                         "name": "Pumpkin Mask",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721688", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -718,6 +757,7 @@
                         "name": "Qi Mask",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721689", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -736,6 +776,7 @@
                         "name": "Radioactive Goggles",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721691", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -754,6 +795,7 @@
                         "name": "Spotted Headscarf",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721702", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -772,6 +814,7 @@
                         "name": "Star Helmet",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721705", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -790,6 +833,7 @@
                         "name": "Sunglasses",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721708", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -808,6 +852,7 @@
                         "name": "Swashbuckler Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721709", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -826,6 +871,7 @@
                         "name": "Totem Mask",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721713", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -844,6 +890,7 @@
                         "name": "Warrior Helmet",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721717", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -862,6 +909,7 @@
                         "name": "Wearable Dwarf Helm",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721719", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -880,6 +928,7 @@
                         "name": "White Turban",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721721", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -898,6 +947,7 @@
                         "name": "Witch Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721722", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -921,6 +971,7 @@
                         "name": "Blue Bonnet",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721607", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -939,6 +990,7 @@
                         "name": "Blue Ribbon",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721610", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -957,6 +1009,7 @@
                         "name": "Bluebird Mask",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721611", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -975,6 +1028,7 @@
                         "name": "Bucket Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721614", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -993,6 +1047,7 @@
                         "name": "Cat Ears",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721616", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1011,6 +1066,7 @@
                         "name": "Cool Cap",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721620", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1029,6 +1085,7 @@
                         "name": "Deluxe Cowboy Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721630", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1047,6 +1104,7 @@
                         "name": "Earmuffs",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721633", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1065,6 +1123,7 @@
                         "name": "Emily's Magic Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721635", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1083,6 +1142,7 @@
                         "name": "Frog Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721643", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1101,6 +1161,7 @@
                         "name": "Gold Pan",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721649", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1119,6 +1180,7 @@
                         "name": "Governor's Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721653", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1137,6 +1199,7 @@
                         "name": "Green Turban",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721654", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1155,6 +1218,7 @@
                         "name": "Hunter's Cap",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721657", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1173,6 +1237,7 @@
                         "name": "Iridium Pan",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721659", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1191,6 +1256,7 @@
                         "name": "Lucky Bow",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721668", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1209,6 +1275,7 @@
                         "name": "Mr. Qi's Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721672", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1227,6 +1294,7 @@
                         "name": "Official Cap",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721676", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1245,6 +1313,7 @@
                         "name": "Polka Bow",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721686", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1263,6 +1332,7 @@
                         "name": "Raccoon Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721690", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1281,6 +1351,7 @@
                         "name": "Red Fez",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721693", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1299,6 +1370,7 @@
                         "name": "Santa Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721695", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1317,6 +1389,7 @@
                         "name": "Skeleton Mask",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721696", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1335,6 +1408,7 @@
                         "name": "Small Cap",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721697", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1353,6 +1427,7 @@
                         "name": "Sports Cap",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721701", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1371,6 +1446,7 @@
                         "name": "Squid Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721703", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1389,6 +1465,7 @@
                         "name": "Steel Pan",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721706", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1407,6 +1484,7 @@
                         "name": "Straw Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721707", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1425,6 +1503,7 @@
                         "name": "Trucker Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721716", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1448,6 +1527,7 @@
                         "name": "Bowler Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721612", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1466,6 +1546,7 @@
                         "name": "Cowgal Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721623", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1484,6 +1565,7 @@
                         "name": "Cowpoke Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721624", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1502,6 +1584,7 @@
                         "name": "Gil's Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721645", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1520,6 +1603,7 @@
                         "name": "Hard Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721656", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1538,6 +1622,7 @@
                         "name": "Infinity Crown",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721658", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1556,6 +1641,7 @@
                         "name": "Magic Cowboy Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721669", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1574,6 +1660,7 @@
                         "name": "Magic Turban",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721670", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1592,6 +1679,7 @@
                         "name": "Plum Chapeau",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721685", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1610,6 +1698,7 @@
                         "name": "Space Helmet",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721700", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1628,6 +1717,7 @@
                         "name": "Watermelon Band",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721718", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1646,6 +1736,7 @@
                         "name": "White Bow",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721720", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1669,6 +1760,7 @@
                         "name": "Abigail's Bow",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721602", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1687,6 +1779,7 @@
                         "name": "Blue Cowboy Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721609", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1705,6 +1798,7 @@
                         "name": "Dark Ballcap",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721626", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1723,6 +1817,7 @@
                         "name": "Dark Cowboy Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721627", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1741,6 +1836,7 @@
                         "name": "Deluxe Pirate Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721631", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1759,6 +1855,7 @@
                         "name": "Garbage Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721644", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1777,6 +1874,7 @@
                         "name": "Golden Helmet",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721650", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1795,6 +1893,7 @@
                         "name": "Joja Cap",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721661", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1813,6 +1912,7 @@
                         "name": "Laurel Wreath Crown",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721664", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1831,6 +1931,7 @@
                         "name": "Living Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721666", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1849,6 +1950,7 @@
                         "name": "Mushroom Cap",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721674", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1867,6 +1969,7 @@
                         "name": "Mystery Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721675", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1885,6 +1988,7 @@
                         "name": "Red Cowboy Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721692", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1903,6 +2007,7 @@
                         "name": "Squire's Helmet",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721704", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1921,6 +2026,7 @@
                         "name": "Tiger Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721711", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1939,6 +2045,7 @@
                         "name": "Tricorn Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721714", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1962,6 +2069,7 @@
                         "name": "Arcane Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721603", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1980,6 +2088,7 @@
                         "name": "Archer's Cap",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721604", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1998,6 +2107,7 @@
                         "name": "Chef Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721617", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2016,6 +2126,7 @@
                         "name": "Chicken Mask",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721618", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2034,6 +2145,7 @@
                         "name": "Cowboy Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721622", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2052,6 +2164,7 @@
                         "name": "Eye Patch",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721636", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2070,6 +2183,7 @@
                         "name": "Gnome's Cap",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721646", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2088,6 +2202,7 @@
                         "name": "Goblin Mask",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721647", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2106,6 +2221,7 @@
                         "name": "Knight's Helmet",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721663", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2124,6 +2240,7 @@
                         "name": "Pageboy Cap",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721677", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2142,6 +2259,7 @@
                         "name": "Sombrero",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721698", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2165,6 +2283,7 @@
                         "name": "???",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721601", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2183,6 +2302,7 @@
                         "name": "Elegant Turban",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721634", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2201,6 +2321,7 @@
                         "name": "Junimo Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721662", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -2224,6 +2345,7 @@
                         "name": "Panda Hat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721678", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],

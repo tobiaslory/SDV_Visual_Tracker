@@ -6,11 +6,11 @@
         "children":[
             {
                 "name": "Junimo Kart",
-				"access_rules":["$has_skull_key"],
+				"access_rules":[],
                 "children":[
                   {
 					"name": "Crumble Cavern",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|717612", "$ap_offline,$has_skull_key"], "item_count": 1}],
 					"visibility_rules": ["717612"],
 					"map_locations":[
                       {
@@ -22,7 +22,7 @@
 				  },
 				  {
 					"name": "Slippery Slopes",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|717613", "$ap_offline,$has_skull_key"], "item_count": 1}],
 					"visibility_rules": ["717613"],
 					"map_locations":[
                       {
@@ -34,7 +34,7 @@
 				  },
 				  {
 					"name": "Secret Level",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|717614", "$ap_offline,$has_skull_key"], "item_count": 1}],
 					"visibility_rules": ["717614"],
 					"map_locations":[
                       {
@@ -46,7 +46,7 @@
 				  },
 				  {
 					"name": "The Gem Sea Giant",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|717615", "$ap_offline,$has_skull_key"], "item_count": 1}],
 					"visibility_rules": ["717615"],
 					"map_locations":[
                       {
@@ -58,7 +58,7 @@
 				  },
 				  {
 					"name": "Slomp's Stomp",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|717616", "$ap_offline,$has_skull_key"], "item_count": 1}],
 					"visibility_rules": ["717616"],
 					"map_locations":[
                       {
@@ -70,7 +70,7 @@
 				  },
 				  {
 					"name": "Ghastly Galleon",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|717617", "$ap_offline,$has_skull_key"], "item_count": 1}],
 					"visibility_rules": ["717617"],
 					"map_locations":[
                       {
@@ -82,7 +82,7 @@
 				  },
 				  {
 					"name": "Glowshroom Grotto",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|717618", "$ap_offline,$has_skull_key"], "item_count": 1}],
 					"visibility_rules": ["717618"],
 					"map_locations":[
                       {
@@ -94,7 +94,7 @@
 				  },
 				  {
 					"name": "Red Hot Rollercoaster",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|717619", "$ap_offline,$has_skull_key"], "item_count": 1}],
 					"visibility_rules": ["717619"],
 					"map_locations":[
                       {
@@ -106,7 +106,7 @@
 				  },
 				  {
 					"name": "Sunset Speedway",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|717621", "$ap_offline,$has_skull_key"], "item_count": 1}],
 					"visibility_rules": ["717621"],
 					"map_locations":[
                       {
@@ -122,11 +122,13 @@
                 "name": "JotPK Boots",
 				"sections": [
 					{
+						"access_rules": ["$ap|717601", "$ap_offline"],
 						"name": "Boots Upgrade 1",
 						"item_count": 1,
 						"visibility_rules": ["717601"]
 					},
 					{
+						"access_rules": ["$ap|717602", "$ap_offline"],
 						"name": "Boots Upgrade 2",
 						"item_count": 1,
 						"visibility_rules": ["717602"]
@@ -144,21 +146,25 @@
                 "name": "JotPK Guns",
 				"sections": [
 					{
+						"access_rules": ["$ap|717603", "$ap_offline"],
 						"name": "Gun Upgrade 1",
 						"item_count": 1,
 						"visibility_rules": ["717603"]
 					},
 					{
+						"access_rules": ["$ap|717604", "$ap_offline"],
 						"name": "Gun Upgrade 2",
 						"item_count": 1,
 						"visibility_rules": ["717604"]
 					},
 					{
+						"access_rules": ["$ap|717605", "$ap_offline"],
 						"name": "Gun Upgrade 3",
 						"item_count": 1,
 						"visibility_rules": ["717605"]
 					},
 					{
+						"access_rules": ["$ap|717606", "$ap_offline"],
 						"name": "Super Gun",
 						"item_count": 1,
 						"visibility_rules": ["717606"]
@@ -176,16 +182,19 @@
                 "name": "JotPK Ammo",
 				"sections": [
 					{
+						"access_rules": ["$ap|717607", "$ap_offline"],
 						"name": "Ammo Upgrade 1",
 						"item_count": 1,
 						"visibility_rules": ["717607"]
 					},
 					{
+						"access_rules": ["$ap|717608", "$ap_offline"],
 						"name": "Ammo Upgrade 2",
 						"item_count": 1,
 						"visibility_rules": ["717608"]
 					},
 					{
+						"access_rules": ["$ap|717609", "$ap_offline"],
 						"name": "Ammo Upgrade 3",
 						"item_count": 1,
 						"visibility_rules": ["717609"]
@@ -204,7 +213,7 @@
                 "children":[
                   {
 					"name": "Boss Cowboy 1",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|717610", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["717610"],
 					"map_locations":[
                       {
@@ -216,7 +225,7 @@
 				  },
 				  {
 					"name": "Boss Cowboy 2",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|717611", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["717611"],
 					"map_locations":[
                       {
@@ -228,7 +237,7 @@
 				  },
 				  {
 					"name": "Beat Fector",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|717620", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["717620"],
 					"map_locations":[
                       {

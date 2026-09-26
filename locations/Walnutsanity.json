@@ -11,6 +11,7 @@
                         "name": "Open Golden Coconut",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721101", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -24,14 +25,13 @@
                                 "y": 40
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Banana Altar",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721108", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -45,14 +45,13 @@
                                 "y": 40
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Leo's Tree",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721109", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -66,14 +65,13 @@
                                 "y": 40
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Gem Birds Shrine",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721111", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -87,14 +85,13 @@
                                 "y": 40
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Gourmand Frog Melon",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721117", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -108,14 +105,13 @@
                                 "y": 68
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Gourmand Frog Wheat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721118", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -129,14 +125,13 @@
                                 "y": 68
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Gourmand Frog Garlic",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721119", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -150,14 +145,13 @@
                                 "y": 68
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Whack A Mole",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721127", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -171,14 +165,13 @@
                                 "y": 68
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Colored Crystals",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721140", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -192,14 +185,13 @@
                                 "y": 96
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Complete Large Animal Collection",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721154", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -213,14 +205,13 @@
                                 "y": 96
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Complete Snake Collection",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721155", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -234,14 +225,13 @@
                                 "y": 96
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Complete Mummified Frog Collection",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721156", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -255,14 +245,13 @@
                                 "y": 96
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Complete Mummified Bat Collection",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721157", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -276,14 +265,13 @@
                                 "y": 124
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Purple Flowers Island Survey",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721158", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -297,14 +285,13 @@
                                 "y": 124
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Purple Starfish Island Survey",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721159", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -318,14 +305,13 @@
                                 "y": 124
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Protruding Tree Walnut",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721162", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -339,14 +325,13 @@
                                 "y": 124
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Starfish Tide Pool",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721188", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -360,14 +345,13 @@
                                 "y": 152
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Mermaid Song",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721190", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -381,14 +365,13 @@
                                 "y": 152
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Pirate Darts 1",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721191", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -402,14 +385,13 @@
                                 "y": 152
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Pirate Darts 2",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721192", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -423,14 +405,13 @@
                                 "y": 152
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Pirate Darts 3",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721193", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -444,9 +425,7 @@
                                 "y": 180
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     }
                 ]
             },
@@ -457,6 +436,7 @@
                         "name": "Jungle Bush",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721107", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -470,14 +450,13 @@
                                 "y": 244
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Gem Birds Bush",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721110", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -491,14 +470,13 @@
                                 "y": 244
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Shipwreck Bush",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721126", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -512,14 +490,13 @@
                                 "y": 244
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Bush Behind Coconut Tree",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721132", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -533,14 +510,13 @@
                                 "y": 244
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Walnut Room Bush",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721134", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -554,14 +530,13 @@
                                 "y": 272
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Coast Bush",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721135", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -575,14 +550,13 @@
                                 "y": 272
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Bush Behind Mahogany Tree",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721137", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -596,14 +570,13 @@
                                 "y": 272
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Below Colored Crystals Cave Bush",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721139", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -617,14 +590,13 @@
                                 "y": 272
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Cliff Edge Bush",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721141", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -638,14 +610,13 @@
                                 "y": 300
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Farm Parrot Express Bush",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721143", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -659,14 +630,13 @@
                                 "y": 300
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Farmhouse Cliff Bush",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721144", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -680,14 +650,13 @@
                                 "y": 300
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Grove Bush",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721146", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -701,14 +670,13 @@
                                 "y": 300
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Above Dig Site Bush",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721151", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -722,14 +690,13 @@
                                 "y": 328
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Above Field Office Bush 1",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721152", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -743,14 +710,13 @@
                                 "y": 328
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Above Field Office Bush 2",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721153", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -764,14 +730,13 @@
                                 "y": 328
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Bush Behind Volcano Tree",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721160", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -785,14 +750,13 @@
                                 "y": 328
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Hidden Passage Bush",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721165", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -806,14 +770,13 @@
                                 "y": 356
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Secret Beach Bush 1",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721166", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -827,14 +790,13 @@
                                 "y": 356
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Secret Beach Bush 2",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721167", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -848,14 +810,13 @@
                                 "y": 356
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Forge Entrance Bush",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721185", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -869,14 +830,13 @@
                                 "y": 356
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Forge Exit Bush",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721186", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -890,14 +850,13 @@
                                 "y": 384
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Cliff Over Island South Bush",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721187", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -911,9 +870,7 @@
                                 "y": 384
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     }
                 ]
             },
@@ -924,6 +881,7 @@
                         "name": "Journal Scrap #6",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721120", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -937,14 +895,13 @@
                                 "y": 448
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Starfish Triangle",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721128", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -958,14 +915,13 @@
                                 "y": 448
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Starfish Diamond",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721129", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -979,14 +935,13 @@
                                 "y": 448
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "X in the sand",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721130", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1000,14 +955,13 @@
                                 "y": 448
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Diamond Of Indents",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721131", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1021,14 +975,13 @@
                                 "y": 476
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Journal Scrap #4",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721133", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1042,14 +995,13 @@
                                 "y": 476
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Circle Of Grass",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721138", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1063,14 +1015,13 @@
                                 "y": 476
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Diamond Of Pebbles",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721142", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1084,14 +1035,13 @@
                                 "y": 476
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Big Circle Of Stones",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721145", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1105,14 +1055,13 @@
                                 "y": 504
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Diamond Of Grass",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721147", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1126,14 +1075,13 @@
                                 "y": 504
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Small Circle Of Stones",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721148", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1147,14 +1095,13 @@
                                 "y": 504
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Patch Of Sand",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721149", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1168,14 +1115,13 @@
                                 "y": 504
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Crooked Circle Of Stones",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721150", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1189,14 +1135,13 @@
                                 "y": 532
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Arc Of Stones",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721161", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1210,14 +1155,13 @@
                                 "y": 532
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Journal Scrap #10",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721163", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1231,14 +1175,13 @@
                                 "y": 532
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Northmost Point Circle Of Stones",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721164", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1252,14 +1195,13 @@
                                 "y": 532
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Diamond Of Yellow Starfish",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721189", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1273,14 +1215,13 @@
                                 "y": 560
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Pirate Cove Patch Of Sand",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721194", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1294,9 +1235,7 @@
                                 "y": 560
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     }
                 ]
             },
@@ -1307,6 +1246,7 @@
                         "name": "Fishing Walnut 1",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721102", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1320,14 +1260,13 @@
                                 "y": 624
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Fishing Walnut 2",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721103", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1341,14 +1280,13 @@
                                 "y": 624
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Fishing Walnut 3",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721104", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1362,14 +1300,13 @@
                                 "y": 624
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Fishing Walnut 4",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721105", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1383,14 +1320,13 @@
                                 "y": 624
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Fishing Walnut 5",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721106", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1404,14 +1340,13 @@
                                 "y": 652
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Harvesting Walnut 1",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721112", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1425,14 +1360,13 @@
                                 "y": 652
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Harvesting Walnut 2",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721113", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1446,14 +1380,13 @@
                                 "y": 652
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Harvesting Walnut 3",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721114", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1467,14 +1400,13 @@
                                 "y": 652
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Harvesting Walnut 4",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721115", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1488,14 +1420,13 @@
                                 "y": 680
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Harvesting Walnut 5",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721116", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1509,14 +1440,13 @@
                                 "y": 680
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Mussel Node Walnut 1",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721121", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1530,14 +1460,13 @@
                                 "y": 680
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Mussel Node Walnut 2",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721122", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1551,14 +1480,13 @@
                                 "y": 680
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Mussel Node Walnut 3",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721123", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1572,14 +1500,13 @@
                                 "y": 708
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Mussel Node Walnut 4",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721124", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1593,14 +1520,13 @@
                                 "y": 708
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Mussel Node Walnut 5",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721125", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1614,14 +1540,13 @@
                                 "y": 708
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Tiger Slime Walnut",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721136", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1635,14 +1560,13 @@
                                 "y": 708
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Volcano Rocks Walnut 1",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721168", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1656,14 +1580,13 @@
                                 "y": 736
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Volcano Rocks Walnut 2",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721169", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1677,14 +1600,13 @@
                                 "y": 736
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Volcano Rocks Walnut 3",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721170", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1698,14 +1620,13 @@
                                 "y": 736
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Volcano Rocks Walnut 4",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721171", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1719,14 +1640,13 @@
                                 "y": 736
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Volcano Rocks Walnut 5",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721172", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1740,14 +1660,13 @@
                                 "y": 764
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Volcano Monsters Walnut 1",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721173", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1761,14 +1680,13 @@
                                 "y": 764
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Volcano Monsters Walnut 2",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721174", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1782,14 +1700,13 @@
                                 "y": 764
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Volcano Monsters Walnut 3",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721175", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1803,14 +1720,13 @@
                                 "y": 764
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Volcano Monsters Walnut 4",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721176", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1824,14 +1740,13 @@
                                 "y": 792
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Volcano Monsters Walnut 5",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721177", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1845,14 +1760,13 @@
                                 "y": 792
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Volcano Crates Walnut 1",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721178", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1866,14 +1780,13 @@
                                 "y": 792
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Volcano Crates Walnut 2",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721179", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1887,14 +1800,13 @@
                                 "y": 792
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Volcano Crates Walnut 3",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721180", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1908,14 +1820,13 @@
                                 "y": 820
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Volcano Crates Walnut 4",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721181", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1929,14 +1840,13 @@
                                 "y": 820
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Volcano Crates Walnut 5",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721182", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1950,14 +1860,13 @@
                                 "y": 820
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Volcano Common Chest Walnut",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721183", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1971,14 +1880,13 @@
                                 "y": 820
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Volcano Rare Chest Walnut",
                         "sections": [
                             {
+                                "access_rules": ["$ap|721184", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -1992,9 +1900,7 @@
                                 "y": 848
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     }
                 ]
             }

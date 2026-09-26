@@ -9,6 +9,7 @@
 		"visibility_rules": ["717501"],
                 "sections":[
                     {
+                        "access_rules": ["$ap|717501", "$ap_offline"],
                         "name": "Talk to the NPCs!",
                         "item_count": 1
                     }
@@ -26,6 +27,7 @@
 		"visibility_rules": ["717502"],
                 "sections":[
                     {
+                        "access_rules": ["$ap|717502", "$ap_offline"],
                         "name": "Give anyone a gift",
                         "item_count": 1
                     }
@@ -43,6 +45,7 @@
 		"visibility_rules": ["717503"],
                 "sections": [
                     {
+                        "access_rules": ["$ap|717503", "$ap_offline"],
                         "name": "Cultivate and Harvest a Parsnip",
                         "item_count": 1
                     }
@@ -58,9 +61,10 @@
             {
                 "name": "Raising Animals",
 		"visibility_rules": ["717504"],
-		"access_rules":["$has_coop"],
+		"access_rules":[],
                 "sections":[
                     {
+                        "access_rules": ["$ap|717504", "$ap_offline,$has_coop"],
                         "name": "Build a Coop",
                         "item_count": 1
                     }
@@ -78,6 +82,7 @@
 		"visibility_rules": ["717506"],
                 "sections":[
                     {
+                        "access_rules": ["$ap|717506", "$ap_offline"],
                         "name": "Donate an item to the Museum",
                         "item_count": 1
                     }
@@ -93,9 +98,10 @@
             {
                 "name": "Advancement",
 		"visibility_rules": ["717505"],
-		"access_rules": ["farming:1,$can_walk_to_mines_floor_45"],
+		"access_rules": [],
                 "sections":[
                   {
+                    "access_rules": ["$ap|717505", "$ap_offline,farming:1,$can_walk_to_mines_floor_45"],
                     "item_count": 1,
                     "name": "Reach Farming 1 and build a Scarecrow"
                   }
@@ -113,6 +119,7 @@
 		"visibility_rules": ["717507"],
                 "sections":[
                     {
+                        "access_rules": ["$ap|717507", "$ap_offline"],
                         "name": "Enter the Wizard's Tower",
                         "item_count": 1
                     }
@@ -128,9 +135,10 @@
             {
                 "name": "Forging Ahead",
 		"visibility_rules": ["717508"],
-		"access_rules": ["$can_walk_to_mines_floor_5,furnacerecipe"],
+		"access_rules": [],
                 "sections":[
                     {
+                        "access_rules": ["$ap|717508", "$ap_offline,$can_walk_to_mines_floor_5,furnacerecipe"],
                         "name": "Craft a Furnace",
                         "item_count": 1
                     }
@@ -146,9 +154,10 @@
             {
                 "name": "Smelting",
 		"visibility_rules": ["717509"],
-		"access_rules": ["$can_walk_to_mines_floor_5,furnacerecipe"],
+		"access_rules": [],
                 "sections":[
                     {
+                        "access_rules": ["$ap|717509", "$ap_offline,$can_walk_to_mines_floor_5,furnacerecipe"],
                         "name": "Smelt a Copper Bar",
                         "item_count": 1
                     }
@@ -164,9 +173,10 @@
             {
                 "name": "Initiation",
 		"visibility_rules": ["717510"],
-		"access_rules": ["$can_walk_to_mines_floor_5"],
+		"access_rules": [],
                 "sections":[
                     {
+                        "access_rules": ["$ap|717510", "$ap_offline,$can_walk_to_mines_floor_5"],
                         "name": "Slay 10 green slimes",
                         "item_count":1
                     }
@@ -182,9 +192,10 @@
             {
                 "name": "Robin's Lost Axe",
 		"visibility_rules": ["717511"],
-		"access_rules":["$spring"],
+		"access_rules":[],
                 "sections":[
                     {
+                        "access_rules": ["$ap|717511", "$ap_offline,$spring"],
                         "name": "Deliver it!",
                         "item_count":1
                     }
@@ -200,9 +211,10 @@
             {
                 "name": "Jodi's Request",
 		"visibility_rules": ["717512"],
-		"access_rules":["$spring"],
+		"access_rules":[],
                 "sections":[
                     {
+                        "access_rules": ["$ap|717512", "$ap_offline,$spring"],
                         "name": "Deliver it!",
                         "item_count":1
                     }
@@ -218,9 +230,10 @@
             {
                 "name": "Mayor's 'Shorts'",
 		"visibility_rules": ["717513"],
-                "access_rules":["$summer"],
+                "access_rules":[],
                 "sections":[
                     {
+                        "access_rules": ["$ap|717513", "$ap_offline,$summer"],
                         "name": "Deliver it!",
                         "item_count":1
                     }
@@ -236,9 +249,10 @@
             {
                 "name": "Blackberry Basket",
 		"visibility_rules": ["717514"],
-                "access_rules":["$fall"],
+                "access_rules":[],
                 "sections":[
                     {
+                        "access_rules": ["$ap|717514", "$ap_offline,$fall"],
                         "name": "Deliver it!",
                         "item_count":1
                     }
@@ -256,6 +270,7 @@
 		"visibility_rules": ["717515"],
                 "sections":[
                     {
+                        "access_rules": ["$ap|717515", "$ap_offline"],
                         "name": "Bring Marnie a Cave Carrot",
                         "item_count": 1
                     }
@@ -271,9 +286,10 @@
             {
                 "name": "Pam is Thirsty",
 		"visibility_rules": ["717516"],
-                "access_rules":["$summer,$can_brew"],
+                "access_rules":[],
                 "sections":[
                     {
+                        "access_rules": ["$ap|717516", "$ap_offline,$summer,$can_brew"],
                         "name": "Deliver it!",
                         "item_count":1
                     }
@@ -289,9 +305,10 @@
             {
                 "name": "A Dark Reagent",
 		"visibility_rules": ["717517"],
-                "access_rules":["$winter"],
+                "access_rules":[],
                 "sections":[
                     {
+                        "access_rules": ["$ap|717517", "$ap_offline,$winter"],
                         "name": "Deliver it!",
                         "item_count":1
                     }
@@ -307,9 +324,10 @@
             {
                 "name": "Cow's Delight",
 		"visibility_rules": ["717518"],
-                "access_rules":["$fall"],
+                "access_rules":[],
                 "sections":[
                     {
+                        "access_rules": ["$ap|717518", "$ap_offline,$fall"],
                         "name": "Deliver it!",
                         "item_count":1
                     }
@@ -325,9 +343,10 @@
             {
                 "name": "The Skull Key",
 		"visibility_rules": ["717519"],
-		"access_rules": ["$can_access_desert,$has_skull_key"],
+		"access_rules": [],
                 "sections":[
                   {
+                    "access_rules": ["$ap|717519", "$ap_offline,$can_access_desert,$has_skull_key"],
                     "item_count": 1,
                     "name": "Unlock the Skull Cavern"
                   }
@@ -343,9 +362,10 @@
             {
                 "name": "Crop Research",
 		"visibility_rules": ["717520"],
-                "access_rules":["$summer"],
+                "access_rules":[],
                 "sections":[
                     {
+                        "access_rules": ["$ap|717520", "$ap_offline,$summer"],
                         "name": "Deliver it!",
                         "item_count":1
                     }
@@ -361,9 +381,10 @@
             {
                 "name": "Knee Therapy",
 		"visibility_rules": ["717521"],
-                "access_rules":["$summer"],
+                "access_rules":[],
                 "sections":[
                     {
+                        "access_rules": ["$ap|717521", "$ap_offline,$summer"],
                         "name": "Deliver it!",
                         "item_count":1
                     }
@@ -379,9 +400,10 @@
             {
                 "name": "Robin's Request",
 		"visibility_rules": ["717522"],
-		"access_rules": ["$can_chop_stumps,$winter"],
+		"access_rules": [],
                 "sections":[
                   {
+                    "access_rules": ["$ap|717522", "$ap_offline,$can_chop_stumps,$winter"],
                     "item_count": 1,
                     "name": "Deliver it!"
                   }
@@ -399,7 +421,7 @@
 		"visibility_rules": ["717523"],
                 "sections":[
                   {
-                    "access_rules": [ "$can_access_desert,$has_skull_key" ],
+                    "access_rules": ["$ap|717523", "$ap_offline,$can_access_desert,$has_skull_key"],
                     "item_count": 1,
                     "name": "Reach level 25 of the Skull Cavern"
                   }
@@ -415,9 +437,10 @@
             {
                 "name": "The Mysterious Qi",
 		"visibility_rules": ["717524"],
-		"access_rules": ["$can_access_desert"],
+		"access_rules": [],
                 "sections":[
                   {
+                    "access_rules": ["$ap|717524", "$ap_offline,$can_access_desert"],
                     "item_count": 1,
                     "name": "Follow Qi's Instructions"
                   }
@@ -433,9 +456,10 @@
             {
                 "name": "Carving Pumpkins",
 		"visibility_rules": ["717525"],
-                "access_rules":["$fall"],
+                "access_rules":[],
                 "sections":[
                     {
+                        "access_rules": ["$ap|717525", "$ap_offline,$fall"],
                         "name": "Deliver it!",
                         "item_count":1
                     }
@@ -451,9 +475,10 @@
             {
                 "name": "A Winter Mystery",
 		"visibility_rules": ["717526"],
-                "access_rules":["$winter"],
+                "access_rules":[],
                 "sections":[
                     {
+                        "access_rules": ["$ap|717526", "$ap_offline,$winter"],
                         "name": "Meet Krobus!",
                         "item_count":1
                     }
@@ -469,9 +494,10 @@
             {
                 "name": "Strange Note",
 		"visibility_rules": ["717527"],
-		"access_rules": ["$secret_notes,$can_chop_logs"],
+		"access_rules": [],
                 "sections":[
                   {
+                    "access_rules": ["$ap|717527", "$ap_offline,$secret_notes,$can_chop_logs"],
                     "item_count": 1,
                     "name": "Bring Maple Syrup to the Secret Woods"
                   }
@@ -487,9 +513,10 @@
             {
                 "name": "Cryptic Note",
 		"visibility_rules": ["717528"],
-		"access_rules": [ "$can_access_desert,$has_skull_key,$secret_notes" ],
+		"access_rules": [],
                 "sections":[
                   {
+                    "access_rules": ["$ap|717528", "$ap_offline,$can_access_desert,$has_skull_key,$secret_notes"],
                     "item_count": 1,
                     "name": "Reach Level 100 of the Skull Cavern"
                   }
@@ -505,9 +532,10 @@
             {
                 "name": "Fresh Fruit",
 		"visibility_rules": ["717529"],
-		"access_rules":["$spring"],
+		"access_rules":[],
                 "sections":[
                     {
+                        "access_rules": ["$ap|717529", "$ap_offline,$spring"],
                         "name": "Deliver it!",
                         "item_count":1
                     }
@@ -523,9 +551,10 @@
             {
                 "name": "Aquatic Research",
 		"visibility_rules": ["717530"],
-		"access_rules":["$summer,$can_fish"],
+		"access_rules":[],
                 "sections":[
                   {
+                    "access_rules": ["$ap|717530", "$ap_offline,$summer,$can_fish"],
                     "item_count": 1,
                     "name": "Deliver it!"
                   }
@@ -541,9 +570,10 @@
             {
                 "name": "A Soldier's Star",
 		"visibility_rules": ["717531"],
-		"access_rules": ["$summer,$can_earn_money_substantial"],
+		"access_rules": [],
                 "sections":[
                   {
+                    "access_rules": ["$ap|717531", "$ap_offline,$summer,$can_earn_money_substantial"],
                     "item_count": 1,
                     "name": "Deliver it!"
                   }
@@ -559,9 +589,10 @@
             {
                 "name": "Mayor's Need",
 		"visibility_rules": ["717532"],
-		"access_rules": ["$has_deluxe_barn,summer"],
+		"access_rules": [],
                 "sections":[
                   {
+                    "access_rules": ["$ap|717532", "$ap_offline,$has_deluxe_barn,summer"],
                     "item_count": 1,
                     "name": "Deliver it!"
                   }
@@ -577,9 +608,10 @@
             {
                 "name": "Wanted: Lobster",
 		"visibility_rules": ["717533"],
-		"access_rules": ["$has_crab_pots","fall"],
+		"access_rules": [],
                 "sections":[
                   {
+                    "access_rules": ["$ap|717533", "$ap_offline,$has_crab_pots", "$ap_offline,fall"],
                     "item_count": 1,
                     "name": "Deliver it!"
                   }
@@ -595,9 +627,10 @@
             {
                 "name": "Pam Needs Juice",
 		"visibility_rules": ["717534"],
-		"access_rules": ["fall"],
+		"access_rules": [],
                 "sections":[
                     {
+                        "access_rules": ["$ap|717534", "$ap_offline,fall"],
                         "name": "Deliver it!",
                         "item_count":1
                     }
@@ -613,9 +646,10 @@
             {
                 "name": "Fish Casserole",
 		"visibility_rules": ["717535"],
-		"access_rules": [ "$can_fish" ],
+		"access_rules": [],
                 "sections":[
                   {
+                    "access_rules": ["$ap|717535", "$ap_offline,$can_fish"],
                     "item_count": 1,
                     "name": "Bring a Largemouth Bass to dinner"
                   }
@@ -631,9 +665,10 @@
             {
                 "name": "Catch a Squid",
 		"visibility_rules": ["717536"],
-		"access_rules": ["$can_fish,winter"],
+		"access_rules": [],
                 "sections":[
                   {
+                    "access_rules": ["$ap|717536", "$ap_offline,$can_fish,winter"],
                     "item_count": 1,
                     "name": "Deliver it!"
                   }
@@ -649,9 +684,10 @@
             {
                 "name": "Fish Stew",
 		"visibility_rules": ["717537"],
-		"access_rules": [ "$can_fish,winter" ],
+		"access_rules": [],
                 "sections":[
                   {
+                    "access_rules": ["$ap|717537", "$ap_offline,$can_fish,winter"],
                     "item_count": 1,
                     "name": "Deliver it!"
                   }
@@ -667,9 +703,10 @@
             {
                 "name": "Pierre's Notice",
 		"visibility_rules": ["717538"],
-		"access_rules": ["$can_cook,spring"],
+		"access_rules": [],
                 "sections":[
                   {
+                    "access_rules": ["$ap|717538", "$ap_offline,$can_cook,spring"],
                     "item_count": 1,
                     "name": "Deliver it!"
                   }
@@ -685,9 +722,10 @@
             {
                 "name": "Clint's Attempt",
 		"visibility_rules": ["717539"],
-		"access_rules": ["winter"],
+		"access_rules": [],
                 "sections":[
                     {
+                      "access_rules": ["$ap|717539", "$ap_offline,winter"],
                       "item_count": 1,
                       "name": "Deliver it!"
                     }
@@ -703,9 +741,10 @@
             {
                 "name": "A Favor for Clint",
 		"visibility_rules": ["717540"],
-		"access_rules": ["winter"],
+		"access_rules": [],
                 "sections":[
                     {
+                        "access_rules": ["$ap|717540", "$ap_offline,winter"],
                         "name": "Deliver it!",
                         "item_count":1
                     }
@@ -721,9 +760,10 @@
             {
                 "name": "Staff of Power",
 		"visibility_rules": ["717541"],
-		"access_rules": [ "$can_mine_iridium,winter" ],
+		"access_rules": [],
                 "sections":[
                   {
+                    "access_rules": ["$ap|717541", "$ap_offline,$can_mine_iridium,winter"],
                     "item_count": 1,
                     "name": "Deliver it!"
                   }
@@ -739,9 +779,10 @@
             {
                 "name": "Granny's Gift",
 		"visibility_rules": ["717542"],
-		"access_rules": ["spring"],
+		"access_rules": [],
                 "sections":[
                     {
+                        "access_rules": ["$ap|717542", "$ap_offline,spring"],
                         "name": "Deliver it!",
                         "item_count":1
                     }
@@ -757,9 +798,10 @@
             {
                 "name": "Exotic Spirits",
 		"visibility_rules": ["717543"],
-		"access_rules":["$can_access_desert,$winter","$can_access_island,$winter"],
+		"access_rules":[],
                 "sections":[
                     {
+                      "access_rules": ["$ap|717543", "$ap_offline,$can_access_desert,$winter", "$ap_offline,$can_access_island,$winter"],
                       "name": "Deliver it!",
                       "item_count": 1
                      }
@@ -775,9 +817,10 @@
             {
                 "name": "Catch a Lingcod",
 		"visibility_rules": ["717544"],
-		"access_rules": ["$can_fish,winter"],
+		"access_rules": [],
                 "sections":[
                   {
+                    "access_rules": ["$ap|717544", "$ap_offline,$can_fish,winter"],
                     "item_count": 1,
                     "name": "Deliver it!"
                   }
@@ -794,18 +837,22 @@
                 "name": "Delivery 1-4",
                 "sections":[
                     {
+                        "access_rules": ["$ap|717841", "$ap_offline"],
                         "name": "Item Delivery 1",
                         "visibility_rules":["717841,$quests1"]
                     },
                     {
+                        "access_rules": ["$ap|717842", "$ap_offline"],
                         "name": "Item Delivery 2",
                         "visibility_rules":["717842,$quests2"]
                     },
                     {
+                        "access_rules": ["$ap|717843", "$ap_offline"],
                         "name": "Item Delivery 3",
                         "visibility_rules":["717843,$quests3"]
                     },
                     {
+                        "access_rules": ["$ap|717844", "$ap_offline"],
                         "name": "Item Delivery 4",
                         "visibility_rules":["717844,$quests4"]
                     }
@@ -820,9 +867,10 @@
             },
             {
                 "name": "Fishing 1",
-                "access_rules":["$can_fish"],
+                "access_rules":[],
                 "sections":[
                     {
+                        "access_rules": ["$ap|717821", "$ap_offline,$can_fish"],
                         "name": "Fishing 1",
                         "visibility_rules":["717821,$quests5"]
                     }
@@ -839,6 +887,7 @@
                 "name": "Gathering 1",
                 "sections":[
                     {
+                        "access_rules": ["$ap|717801", "$ap_offline"],
                         "name": "Gathering 1",
                         "visibility_rules":["717801,$quests6"]
                     }
@@ -855,6 +904,7 @@
                 "name": "Slay Monsters 1",
                 "sections":[
                     {
+                        "access_rules": ["$ap|717811", "$ap_offline"],
                         "name": "Slay Monsters 1",
                         "visibility_rules":["717811,$quests7"]
                     }
@@ -871,18 +921,22 @@
                 "name": "Delivery 5-8",
                 "sections":[
                     {
+                        "access_rules": ["$ap|717845", "$ap_offline"],
                         "name": "Item Delivery 5",
                         "visibility_rules":["717845,$quests8"]
                     },
                     {
+                        "access_rules": ["$ap|717846", "$ap_offline"],
                         "name": "Item Delivery 6",
                         "visibility_rules":["717846,$quests9"]
                     },
                     {
+                        "access_rules": ["$ap|717847", "$ap_offline"],
                         "name": "Item Delivery 7",
                         "visibility_rules":["717847,$quests10"]
                     },
                     {
+                        "access_rules": ["$ap|717848", "$ap_offline"],
                         "name": "Item Delivery 8",
                         "visibility_rules":["717848,$quests11"]
                     }
@@ -897,9 +951,10 @@
             },
             {
                 "name": "Fishing 2",
-                "access_rules":["$can_fish"],
+                "access_rules":[],
                 "sections":[
                     {
+                        "access_rules": ["$ap|717822", "$ap_offline,$can_fish"],
                         "name": "Fishing 2",
                         "visibility_rules":["717822,$quests12"]
                     }
@@ -916,6 +971,7 @@
                 "name": "Gathering 2",
                 "sections":[
                     {
+                        "access_rules": ["$ap|717802", "$ap_offline"],
                         "name": "Gathering 2",
                         "visibility_rules":["717802,$quests13"]
                     }
@@ -932,6 +988,7 @@
                 "name": "Slay Monsters 2",
                 "sections":[
                     {
+                        "access_rules": ["$ap|717812", "$ap_offline"],
                         "name": "Slay Monsters 2",
                         "visibility_rules":["717812,$quests14"]
                     }
@@ -948,18 +1005,22 @@
                 "name": "Delivery 9-12",
                 "sections":[
                     {
+                        "access_rules": ["$ap|717849", "$ap_offline"],
                         "name": "Item Delivery 9",
                         "visibility_rules":["717849,$quests15"]
                     },
                     {
+                        "access_rules": ["$ap|717850", "$ap_offline"],
                         "name": "Item Delivery 10",
                         "visibility_rules":["717850,$quests16"]
                     },
                     {
+                        "access_rules": ["$ap|717851", "$ap_offline"],
                         "name": "Item Delivery 11",
                         "visibility_rules":["717851,$quests17"]
                     },
                     {
+                        "access_rules": ["$ap|717852", "$ap_offline"],
                         "name": "Item Delivery 12",
                         "visibility_rules":["717852,$quests18"]
                     }
@@ -974,9 +1035,10 @@
             },
             {
                 "name": "Fishing 3",
-                "access_rules":["$can_fish"],
+                "access_rules":[],
                 "sections":[
                     {
+                        "access_rules": ["$ap|717823", "$ap_offline,$can_fish"],
                         "name": "Fishing 3",
                         "visibility_rules":["717823,$quests19"]
                     }
@@ -993,6 +1055,7 @@
                 "name": "Gathering 3",
                 "sections":[
                     {
+                        "access_rules": ["$ap|717803", "$ap_offline"],
                         "name": "Gathering 3",
                         "visibility_rules":["717803,$quests20"]
                     }
@@ -1009,6 +1072,7 @@
                 "name": "Slay Monsters 3",
                 "sections":[
                     {
+                        "access_rules": ["$ap|717813", "$ap_offline"],
                         "name": "Slay Monsters 3",
                         "visibility_rules":["717813,$quests21"]
                     }
@@ -1025,18 +1089,22 @@
                 "name": "Delivery 13-16",
                 "sections":[
                     {
+                        "access_rules": ["$ap|717853", "$ap_offline"],
                         "name": "Item Delivery 13",
                         "visibility_rules":["717853,$quests22"]
                     },
                     {
+                        "access_rules": ["$ap|717854", "$ap_offline"],
                         "name": "Item Delivery 14",
                         "visibility_rules":["717854,$quests23"]
                     },
                     {
+                        "access_rules": ["$ap|717855", "$ap_offline"],
                         "name": "Item Delivery 15",
                         "visibility_rules":["717855,$quests24"]
                     },
                     {
+                        "access_rules": ["$ap|717856", "$ap_offline"],
                         "name": "Item Delivery 16",
                         "visibility_rules":["717856,$quests25"]
                     }
@@ -1051,9 +1119,10 @@
             },
             {
                 "name": "Fishing 4",
-                "access_rules":["$can_fish"],
+                "access_rules":[],
                 "sections":[
                     {
+                        "access_rules": ["$ap|717824", "$ap_offline,$can_fish"],
                         "name": "Fishing 4",
                         "visibility_rules":["717824,$quests26"]
                     }
@@ -1070,6 +1139,7 @@
                 "name": "Gathering 4",
                 "sections":[
                     {
+                        "access_rules": ["$ap|717804", "$ap_offline"],
                         "name": "Gathering 4",
                         "visibility_rules":["717804,$quests27"]
                     }
@@ -1086,6 +1156,7 @@
                 "name": "Slay Monsters 4",
                 "sections":[
                     {
+                        "access_rules": ["$ap|717814", "$ap_offline"],
                         "name": "Slay Monsters 4",
                         "visibility_rules":["717814,$quests28"]
                     }
@@ -1102,18 +1173,22 @@
                 "name": "Delivery 17-20",
                 "sections":[
                     {
+                        "access_rules": ["$ap|717857", "$ap_offline"],
                         "name": "Item Delivery 17",
                         "visibility_rules":["717857,$quests29"]
                     },
                     {
+                        "access_rules": ["$ap|717858", "$ap_offline"],
                         "name": "Item Delivery 18",
                         "visibility_rules":["717858,$quests30"]
                     },
                     {
+                        "access_rules": ["$ap|717859", "$ap_offline"],
                         "name": "Item Delivery 19",
                         "visibility_rules":["717859,$quests31"]
                     },
                     {
+                        "access_rules": ["$ap|717860", "$ap_offline"],
                         "name": "Item Delivery 20",
                         "visibility_rules":["717860,$quests32"]
                     }
@@ -1128,9 +1203,10 @@
             },
             {
                 "name": "Fishing 5",
-                "access_rules":["$can_fish"],
+                "access_rules":[],
                 "sections":[
                     {
+                        "access_rules": ["$ap|717825", "$ap_offline,$can_fish"],
                         "name": "Fishing 5",
                         "visibility_rules":["717825,$quests33"]
                     }
@@ -1147,6 +1223,7 @@
                 "name": "Gathering 5",
                 "sections":[
                     {
+                        "access_rules": ["$ap|717805", "$ap_offline"],
                         "name": "Gathering 5",
                         "visibility_rules":["717805,$quests34"]
                     }
@@ -1163,6 +1240,7 @@
                 "name": "Slay Monsters 5",
                 "sections":[
                     {
+                        "access_rules": ["$ap|717815", "$ap_offline"],
                         "name": "Slay Monsters 5",
                         "visibility_rules":["717815,$quests35"]
                     }
@@ -1179,18 +1257,22 @@
                 "name": "Delivery 21-24",
                 "sections":[
                     {
+                        "access_rules": ["$ap|717861", "$ap_offline"],
                         "name": "Item Delivery 21",
                         "visibility_rules":["717861,$quests36"]
                     },
                     {
+                        "access_rules": ["$ap|717862", "$ap_offline"],
                         "name": "Item Delivery 22",
                         "visibility_rules":["717862,$quests37"]
                     },
                     {
+                        "access_rules": ["$ap|717863", "$ap_offline"],
                         "name": "Item Delivery 23",
                         "visibility_rules":["717863,$quests38"]
                     },
                     {
+                        "access_rules": ["$ap|717864", "$ap_offline"],
                         "name": "Item Delivery 24",
                         "visibility_rules":["717864,$quests39"]
                     }
@@ -1205,9 +1287,10 @@
             },
             {
                 "name": "Fishing 6",
-                "access_rules":["$can_fish"],
+                "access_rules":[],
                 "sections":[
                     {
+                        "access_rules": ["$ap|717826", "$ap_offline,$can_fish"],
                         "name": "Fishing 6",
                         "visibility_rules":["717826,$quests40"]
                     }
@@ -1224,6 +1307,7 @@
                 "name": "Gathering 6",
                 "sections":[
                     {
+                        "access_rules": ["$ap|717806", "$ap_offline"],
                         "name": "Gathering 6",
                         "visibility_rules":["717806,$quests41"]
                     }
@@ -1240,6 +1324,7 @@
                 "name": "Slay Monsters 6",
                 "sections":[
                     {
+                        "access_rules": ["$ap|717816", "$ap_offline"],
                         "name": "Slay Monsters 6",
                         "visibility_rules":["717816,$quests42"]
                     }
@@ -1256,18 +1341,22 @@
                 "name": "Delivery 25-28",
                 "sections":[
                     {
+                        "access_rules": ["$ap|717865", "$ap_offline"],
                         "name": "Item Delivery 25",
                         "visibility_rules":["717865,$quests43"]
                     },
                     {
+                        "access_rules": ["$ap|717866", "$ap_offline"],
                         "name": "Item Delivery 26",
                         "visibility_rules":["717866,$quests44"]
                     },
                     {
+                        "access_rules": ["$ap|717867", "$ap_offline"],
                         "name": "Item Delivery 27",
                         "visibility_rules":["717867,$quests45"]
                     },
                     {
+                        "access_rules": ["$ap|717868", "$ap_offline"],
                         "name": "Item Delivery 28",
                         "visibility_rules":["717868,$quests46"]
                     }
@@ -1282,9 +1371,10 @@
             },
             {
                 "name": "Fishing 7",
-                "access_rules":["$can_fish"],
+                "access_rules":[],
                 "sections":[
                     {
+                        "access_rules": ["$ap|717827", "$ap_offline,$can_fish"],
                         "name": "Fishing 7",
                         "visibility_rules":["717827,$quests47"]
                     }
@@ -1301,6 +1391,7 @@
                 "name": "Gathering 7",
                 "sections":[
                     {
+                        "access_rules": ["$ap|717807", "$ap_offline"],
                         "name": "Gathering 7",
                         "visibility_rules":["717807,$quests48"]
                     }
@@ -1317,6 +1408,7 @@
                 "name": "Slay Monsters 7",
                 "sections":[
                     {
+                        "access_rules": ["$ap|717817", "$ap_offline"],
                         "name": "Slay Monsters 7",
                         "visibility_rules":["717817,$quests49"]
                     }
@@ -1333,18 +1425,22 @@
                 "name": "Delivery 29-32",
                 "sections":[
                     {
+                        "access_rules": ["$ap|717869", "$ap_offline"],
                         "name": "Item Delivery 29",
                         "visibility_rules":["717869,$quests50"]
                     },
                     {
+                        "access_rules": ["$ap|717870", "$ap_offline"],
                         "name": "Item Delivery 30",
                         "visibility_rules":["717870,$quests51"]
                     },
                     {
+                        "access_rules": ["$ap|717871", "$ap_offline"],
                         "name": "Item Delivery 31",
                         "visibility_rules":["717871,$quests52"]
                     },
                     {
+                        "access_rules": ["$ap|717872", "$ap_offline"],
                         "name": "Item Delivery 32",
                         "visibility_rules":["717872,$quests53"]
                     }
@@ -1359,9 +1455,10 @@
             },
             {
                 "name": "Fishing 8",
-                "access_rules":["$can_fish"],
+                "access_rules":[],
                 "sections":[
                     {
+                        "access_rules": ["$ap|717828", "$ap_offline,$can_fish"],
                         "name": "Fishing 8",
                         "visibility_rules":["717828,$quests54"]
                     }
@@ -1378,6 +1475,7 @@
                 "name": "Gathering 8",
                 "sections":[
                     {
+                        "access_rules": ["$ap|717808", "$ap_offline"],
                         "name": "Gathering 8",
                         "visibility_rules":["717808,$quests55"]
                     }
@@ -1394,6 +1492,7 @@
                 "name": "Slay Monsters 8",
                 "sections":[
                     {
+                        "access_rules": ["$ap|717818", "$ap_offline"],
                         "name": "Slay Monsters 8",
                         "visibility_rules":["717818,$quests56"]
                     }
@@ -1403,6 +1502,146 @@
                         "map":"Help Wanted!",
                         "x":450,
                         "y":192
+                    }
+                ]
+            },
+            {
+                "name": "Dark Talisman",
+                "sections": [
+                    {
+                        "access_rules": ["$ap|717546", "$ap_offline"],
+                        "name": "Complete the quest",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717546"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stardew Valley",
+                        "x": 465,
+                        "y": 437
+                    }
+                ]
+            },
+            {
+                "name": "Goblin Problem",
+                "sections": [
+                    {
+                        "access_rules": ["$ap|717547", "$ap_offline"],
+                        "name": "Complete the quest",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717547"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stardew Valley",
+                        "x": 160,
+                        "y": 318
+                    }
+                ]
+            },
+            {
+                "name": "Magic Ink",
+                "sections": [
+                    {
+                        "access_rules": ["$ap|717548", "$ap_offline"],
+                        "name": "Complete the quest",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717548"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stardew Valley",
+                        "x": 185,
+                        "y": 318
+                    }
+                ]
+            },
+            {
+                "name": "The Giant Stump",
+                "sections": [
+                    {
+                        "access_rules": ["$ap|717549", "$ap_offline"],
+                        "name": "Complete the quest",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717549"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stardew Valley",
+                        "x": 75,
+                        "y": 285
+                    }
+                ]
+            },
+            {
+                "name": "Rat Problem",
+                "sections": [
+                    {
+                        "access_rules": ["$ap|717551", "$ap_offline"],
+                        "name": "Complete the quest",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717551"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stardew Valley",
+                        "x": 735,
+                        "y": 290
+                    }
+                ]
+            },
+            {
+                "name": "Feeding Animals",
+                "sections": [
+                    {
+                        "access_rules": ["$ap|717550", "$ap_offline"],
+                        "name": "Complete the quest",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717550"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stardew Valley",
+                        "x": 363,
+                        "y": 237
+                    }
+                ]
+            },
+            {
+                "name": "The Pirate's Wife",
+                "sections": [
+                    {
+                        "access_rules": ["$ap|717545", "$ap_offline"],
+                        "name": "Complete the quest",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717545"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stardew Valley",
+                        "x": 30,
+                        "y": 45
                     }
                 ]
             }

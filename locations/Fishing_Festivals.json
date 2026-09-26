@@ -3,17 +3,17 @@
         "name": "Fishing Festivals",
         "chest_unopened_img": "images/QuestNew.png",
         "chest_opened_img": "images/QuestDone.png",
-		"access_rules":["Bamboorod"],
+		"access_rules":[],
         "children":[
             {
                 "name": "Trout Derby",
-				"access_rules":["summer"],
+				"access_rules":[],
                 "children":[
                   {
 					"name": "Trout Derby Reward 1",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"access_rules": ["$ap|719074", "$ap_offline,Bamboorod,summer,$summer"], "item_count": 1,}],
 					"visibility_rules": ["719074"],
-					"access_rules": ["$summer"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Fishing Festivals",
@@ -24,9 +24,9 @@
 				  },
 				  {
 					"name": "Trout Derby Reward 2",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"access_rules": ["$ap|719075", "$ap_offline,Bamboorod,summer,$summer"], "item_count": 1,}],
 					"visibility_rules": ["719075"],
-					"access_rules": ["$summer"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Fishing Festivals",
@@ -37,9 +37,9 @@
 				  },
 				  {
 					"name": "Trout Derby Reward 3",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"access_rules": ["$ap|719076", "$ap_offline,Bamboorod,summer,$summer"], "item_count": 1,}],
 					"visibility_rules": ["719076"],
-					"access_rules": ["$summer"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Fishing Festivals",
@@ -50,9 +50,9 @@
 				  },
 				  {
 					"name": "Trout Derby Reward 4",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"access_rules": ["$ap|719077", "$ap_offline,Bamboorod,summer,$summer"], "item_count": 1,}],
 					"visibility_rules": ["719077"],
-					"access_rules": ["$summer"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Fishing Festivals",
@@ -63,9 +63,9 @@
 				  },
 				  {
 					"name": "Trout Derby Reward 5",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"access_rules": ["$ap|719078", "$ap_offline,Bamboorod,summer,$summer"], "item_count": 1,}],
 					"visibility_rules": ["719078"],
-					"access_rules": ["$summer"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Fishing Festivals",
@@ -76,9 +76,9 @@
 				  },
 				  {
 					"name": "Trout Derby Reward 6",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"access_rules": ["$ap|719079", "$ap_offline,Bamboorod,summer,$summer"], "item_count": 1,}],
 					"visibility_rules": ["719079"],
-					"access_rules": ["$summer"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Fishing Festivals",
@@ -89,9 +89,9 @@
 				  },
 				  {
 					"name": "Trout Derby Reward 7",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"access_rules": ["$ap|719080", "$ap_offline,Bamboorod,summer,$summer"], "item_count": 1,}],
 					"visibility_rules": ["719080"],
-					"access_rules": ["$summer"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Fishing Festivals",
@@ -102,9 +102,9 @@
 				  },
 				  {
 					"name": "Trout Derby Reward 8",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"access_rules": ["$ap|719081", "$ap_offline,Bamboorod,summer,$summer"], "item_count": 1,}],
 					"visibility_rules": ["719081"],
-					"access_rules": ["$summer"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Fishing Festivals",
@@ -115,9 +115,9 @@
 				  },
 				  {
 					"name": "Trout Derby Reward 9",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"access_rules": ["$ap|719082", "$ap_offline,Bamboorod,summer,$summer"], "item_count": 1,}],
 					"visibility_rules": ["719082"],
-					"access_rules": ["$summer"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Fishing Festivals",
@@ -128,9 +128,9 @@
 				  },
 				  {
 					"name": "Trout Derby Reward 10",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"access_rules": ["$ap|719083", "$ap_offline,Bamboorod,summer,$summer"], "item_count": 1,}],
 					"visibility_rules": ["719083"],
-					"access_rules": ["$summer"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Fishing Festivals",
@@ -143,13 +143,13 @@
             },
 			{
                 "name": "SquidFest",
-				"access_rules":["winter"],
+				"access_rules":[],
                 "children":[
                   {
 					"name": "SquidFest Day 1 Copper",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"access_rules": ["$ap|719084", "$ap_offline,Bamboorod,winter,$winter"], "item_count": 1,}],
 					"visibility_rules": ["719084"],
-					"access_rules": ["$winter"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Fishing Festivals",
@@ -160,9 +160,9 @@
 				  },
 				  {
 					"name": "SquidFest Day 1 Iron",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"access_rules": ["$ap|719085", "$ap_offline,Bamboorod,winter,$winter"], "item_count": 1,}],
 					"visibility_rules": ["719085"],
-					"access_rules": ["$winter"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Fishing Festivals",
@@ -173,9 +173,9 @@
 				  },
 				  {
 					"name": "SquidFest Day 1 Gold",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"access_rules": ["$ap|719086", "$ap_offline,Bamboorod,winter,$winter"], "item_count": 1,}],
 					"visibility_rules": ["719086"],
-					"access_rules": ["$winter"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Fishing Festivals",
@@ -186,9 +186,9 @@
 				  },
 				  {
 					"name": "SquidFest Day 1 Iridium",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"access_rules": ["$ap|719087", "$ap_offline,Bamboorod,winter,$winter"], "item_count": 1,}],
 					"visibility_rules": ["719087"],
-					"access_rules": ["$winter"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Fishing Festivals",
@@ -199,9 +199,9 @@
 				  },
 				  {
 					"name": "SquidFest Day 2 Copper",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"access_rules": ["$ap|719088", "$ap_offline,Bamboorod,winter,$winter"], "item_count": 1,}],
 					"visibility_rules": ["719088"],
-					"access_rules": ["$winter"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Fishing Festivals",
@@ -212,9 +212,9 @@
 				  },
 				  {
 					"name": "SquidFest Day 2 Iron",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"access_rules": ["$ap|719089", "$ap_offline,Bamboorod,winter,$winter"], "item_count": 1,}],
 					"visibility_rules": ["719089"],
-					"access_rules": ["$winter"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Fishing Festivals",
@@ -225,9 +225,9 @@
 				  },
 				  {
 					"name": "SquidFest Day 2 Gold",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"access_rules": ["$ap|719090", "$ap_offline,Bamboorod,winter,$winter"], "item_count": 1,}],
 					"visibility_rules": ["719090"],
-					"access_rules": ["$winter"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Fishing Festivals",
@@ -238,9 +238,9 @@
 				  },
 				  {
 					"name": "SquidFest Day 2 Iridium",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"access_rules": ["$ap|719091", "$ap_offline,Bamboorod,winter,$winter"], "item_count": 1,}],
 					"visibility_rules": ["719091"],
-					"access_rules": ["$winter"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Fishing Festivals",

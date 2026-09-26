@@ -9,8 +9,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fall","Bamboorod,winter"],
+					"sections": [{"access_rules": ["$ap|718030", "$ap_offline,Bamboorod,fall", "$ap_offline,Bamboorod,winter"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718030,fishsanity_on"],
 					"map_locations":[
                       {
@@ -22,8 +22,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fall,shipping","Bamboorod,winter,shipping"],					
+					"sections": [{"access_rules": ["$ap|719655", "$ap_offline,Bamboorod,fall,shipping", "$ap_offline,Bamboorod,winter,shipping"], "item_count": 1}],
+					"access_rules": [],					
 					"visibility_rules": ["719655,shipsanity_fish", "719655,shipsanity_fullwf", "719655,shipsanity_all"],					
 					"map_locations":[
                       {
@@ -40,8 +40,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,spring","rod,fall"],
+					"sections": [{"access_rules": ["$ap|718004", "$ap_offline,rod,spring", "$ap_offline,rod,fall"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718004,fishsanity_on"],
 					"map_locations":[
                       {
@@ -53,8 +53,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,spring,shipping","rod,fall,shipping"],					
+					"sections": [{"access_rules": ["$ap|719656", "$ap_offline,rod,spring,shipping", "$ap_offline,rod,fall,shipping"], "item_count": 1}],
+					"access_rules": [],					
 					"visibility_rules": ["719656,shipsanity_fish", "719656,shipsanity_fullwf", "719656,shipsanity_all"],								
 					"map_locations":[
                       {
@@ -71,8 +71,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,spring","Bamboorod,fall"],
+					"sections": [{"access_rules": ["$ap|718034", "$ap_offline,Bamboorod,spring", "$ap_offline,Bamboorod,fall"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718034,fishsanity_on"],
 					"map_locations":[
                       {
@@ -84,8 +84,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],	
-					"access_rules": ["Bamboorod,spring,shipping","Bamboorod,fall,shipping"],					
+					"sections": [{"access_rules": ["$ap|719669", "$ap_offline,Bamboorod,spring,shipping", "$ap_offline,Bamboorod,fall,shipping"], "item_count": 1}],	
+					"access_rules": [],					
 					"visibility_rules": ["719669,shipsanity_fish", "719669,shipsanity_fullwf", "719669,shipsanity_all"],								
 					"map_locations":[
                       {
@@ -102,8 +102,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,spring","Bamboorod,summer"],
+					"sections": [{"access_rules": ["$ap|718021", "$ap_offline,Bamboorod,spring", "$ap_offline,Bamboorod,summer"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718021,fishsanity_on"],
 					"map_locations":[
                       {
@@ -115,8 +115,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],	
-					"access_rules": ["Bamboorod,spring,shipping","Bamboorod,summer,shipping"],					
+					"sections": [{"access_rules": ["$ap|719670", "$ap_offline,Bamboorod,spring,shipping", "$ap_offline,Bamboorod,summer,shipping"], "item_count": 1}],	
+					"access_rules": [],					
 					"visibility_rules": ["719670,shipsanity_fish", "719670,shipsanity_fullwf", "719670,shipsanity_all"],					
 					"map_locations":[
                       {
@@ -133,8 +133,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,spring","Bamboorod,summer","Bamboorod,winter"],
+					"sections": [{"access_rules": ["$ap|718022", "$ap_offline,Bamboorod,spring", "$ap_offline,Bamboorod,summer", "$ap_offline,Bamboorod,winter"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718022,fishsanity_on"],
 					"map_locations":[
                       {
@@ -146,8 +146,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],		
-					"access_rules": ["Bamboorod,spring,shipping","Bamboorod,summer,shipping","Bamboorod,winter,shipping"],
+					"sections": [{"access_rules": ["$ap|719673", "$ap_offline,Bamboorod,spring,shipping", "$ap_offline,Bamboorod,summer,shipping", "$ap_offline,Bamboorod,winter,shipping"], "item_count": 1}],		
+					"access_rules": [],
 					"visibility_rules": ["719673,shipsanity_fish", "719673,shipsanity_fullwf", "719673,shipsanity_all"],						
 					"map_locations":[
                       {
@@ -164,8 +164,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,spring","rod,winter"],
+					"sections": [{"access_rules": ["$ap|718002", "$ap_offline,rod,spring", "$ap_offline,rod,winter"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718002,fishsanity_on"],
 					"map_locations":[
                       {
@@ -177,8 +177,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,spring,shipping","rod,winter,shipping"],
+					"sections": [{"access_rules": ["$ap|719674", "$ap_offline,rod,spring,shipping", "$ap_offline,rod,winter,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719674,shipsanity_fish", "719674,shipsanity_fullwf", "719674,shipsanity_all"],						
 					"map_locations":[
                       {
@@ -195,8 +195,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,summer","Bamboorod,winter"],
+					"sections": [{"access_rules": ["$ap|718047", "$ap_offline,Bamboorod,summer", "$ap_offline,Bamboorod,winter"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718047,fishsanity_on"],
 					"map_locations":[
                       {
@@ -208,8 +208,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,summer,shipping","Bamboorod,winter,shipping"],					
+					"sections": [{"access_rules": ["$ap|719685", "$ap_offline,Bamboorod,summer,shipping", "$ap_offline,Bamboorod,winter,shipping"], "item_count": 1}],
+					"access_rules": [],					
 					"visibility_rules": ["719685,shipsanity_fish", "719685,shipsanity_fullwf", "719685,shipsanity_all"],						
 					"map_locations":[
                       {
@@ -226,8 +226,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,summer"],
+					"sections": [{"access_rules": ["$ap|718039", "$ap_offline,Bamboorod,summer"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718039,fishsanity_on"],
 					"map_locations":[
                       {
@@ -239,8 +239,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,summer,shipping"],
+					"sections": [{"access_rules": ["$ap|719690", "$ap_offline,Bamboorod,summer,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719690,shipsanity_fish", "719690,shipsanity_fullwf", "719690,shipsanity_all"],						
 					"map_locations":[
                       {
@@ -257,8 +257,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,summer","Bamboorod,winter"],
+					"sections": [{"access_rules": ["$ap|718026", "$ap_offline,Bamboorod,summer", "$ap_offline,Bamboorod,winter"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718026,fishsanity_on"],
 					"map_locations":[
                       {
@@ -270,8 +270,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],	
-					"access_rules": ["Bamboorod,summer,shipping","Bamboorod,winter,shipping"],
+					"sections": [{"access_rules": ["$ap|719692", "$ap_offline,Bamboorod,summer,shipping", "$ap_offline,Bamboorod,winter,shipping"], "item_count": 1}],	
+					"access_rules": [],
 					"visibility_rules": ["719692,shipsanity_fish", "719692,shipsanity_fullwf", "719692,shipsanity_all"],						
 					"map_locations":[
                       {
@@ -288,8 +288,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,summer","rod,fall"],
+					"sections": [{"access_rules": ["$ap|718010", "$ap_offline,rod,summer", "$ap_offline,rod,fall"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718010,fishsanity_on"],
 					"map_locations":[
                       {
@@ -301,8 +301,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,summer,shipping","rod,fall,shipping"],					
+					"sections": [{"access_rules": ["$ap|719693", "$ap_offline,rod,summer,shipping", "$ap_offline,rod,fall,shipping"], "item_count": 1}],
+					"access_rules": [],					
 					"visibility_rules": ["719693,shipsanity_fish", "719693,shipsanity_fullwf", "719693,shipsanity_all"],						
 					"map_locations":[
                       {
@@ -319,8 +319,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,spring","rod,fall","rod,winter"],
+					"sections": [{"access_rules": ["$ap|718005", "$ap_offline,rod,spring", "$ap_offline,rod,fall", "$ap_offline,rod,winter"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718005,fishsanity_on"],
 					"map_locations":[
                       {
@@ -332,8 +332,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],	
-					"access_rules": ["rod,spring,shipping","rod,fall,shipping","rod,winter,shipping"],					
+					"sections": [{"access_rules": ["$ap|719696", "$ap_offline,rod,spring,shipping", "$ap_offline,rod,fall,shipping", "$ap_offline,rod,winter,shipping"], "item_count": 1}],	
+					"access_rules": [],					
 					"visibility_rules": ["719696,shipsanity_fish", "719696,shipsanity_fullwf", "719696,shipsanity_all"],						
 					"map_locations":[
                       {
@@ -350,8 +350,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,fall","rod,winter"],
+					"sections": [{"access_rules": ["$ap|718011", "$ap_offline,rod,fall", "$ap_offline,rod,winter"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718011,fishsanity_on"],
 					"map_locations":[
                       {
@@ -363,8 +363,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,fall,shipping","rod,winter,shipping"],
+					"sections": [{"access_rules": ["$ap|719698", "$ap_offline,rod,fall,shipping", "$ap_offline,rod,winter,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719698,shipsanity_fish", "719698,shipsanity_fullwf", "719698,shipsanity_all"],						
 					"map_locations":[
                       {
@@ -381,8 +381,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,winter"],
+					"sections": [{"access_rules": ["$ap|718036", "$ap_offline,Bamboorod,winter"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718036,fishsanity_on"],
 					"map_locations":[
                       {
@@ -394,8 +394,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,winter,shipping"],
+					"sections": [{"access_rules": ["$ap|719705", "$ap_offline,Bamboorod,winter,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719705,shipsanity_fish", "719705,shipsanity_fullwf", "719705,shipsanity_all"],						
 					"map_locations":[
                       {
@@ -412,8 +412,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,summer","Bamboorod,fall","Bamboorod,winter"],
+					"sections": [{"access_rules": ["$ap|718041", "$ap_offline,Bamboorod,summer", "$ap_offline,Bamboorod,fall", "$ap_offline,Bamboorod,winter"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718041,fishsanity_on"],
 					"map_locations":[
                       {
@@ -425,8 +425,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,summer,shipping","Bamboorod,fall,shipping","Bamboorod,winter,shipping"],
+					"sections": [{"access_rules": ["$ap|719709", "$ap_offline,Bamboorod,summer,shipping", "$ap_offline,Bamboorod,fall,shipping", "$ap_offline,Bamboorod,winter,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719709,shipsanity_fish", "719709,shipsanity_fullwf", "719709,shipsanity_all"],						
 					"map_locations":[
                       {
@@ -443,8 +443,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,summer","Bamboorod,fall"],
+					"sections": [{"access_rules": ["$ap|718019", "$ap_offline,Bamboorod,summer", "$ap_offline,Bamboorod,fall"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718019,fishsanity_on"],
 					"map_locations":[
                       {
@@ -456,8 +456,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],		
-					"access_rules": ["Bamboorod,summer,shipping","Bamboorod,fall,shipping"],
+					"sections": [{"access_rules": ["$ap|719711", "$ap_offline,Bamboorod,summer,shipping", "$ap_offline,Bamboorod,fall,shipping"], "item_count": 1}],		
+					"access_rules": [],
 					"visibility_rules": ["719711,shipsanity_fish", "719711,shipsanity_fullwf", "719711,shipsanity_all"],						
 					"map_locations":[
                       {
@@ -474,8 +474,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,summer","Bamboorod,winter"],
+					"sections": [{"access_rules": ["$ap|718033", "$ap_offline,Bamboorod,summer", "$ap_offline,Bamboorod,winter"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718033,fishsanity_on"],
 					"map_locations":[
                       {
@@ -487,8 +487,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],		
-					"access_rules": ["Bamboorod,summer,shipping","Bamboorod,winter,shipping"],
+					"sections": [{"access_rules": ["$ap|719712", "$ap_offline,Bamboorod,summer,shipping", "$ap_offline,Bamboorod,winter,shipping"], "item_count": 1}],		
+					"access_rules": [],
 					"visibility_rules": ["719712,shipsanity_fish", "719712,shipsanity_fullwf", "719712,shipsanity_all"],						
 					"map_locations":[
                       {
@@ -505,8 +505,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,desert"],
+					"sections": [{"access_rules": ["$ap|718031", "$ap_offline,Bamboorod,desert"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718031,fishsanity_on"],
 					"map_locations":[
                       {
@@ -518,8 +518,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,desert,shipping"],
+					"sections": [{"access_rules": ["$ap|719695", "$ap_offline,Bamboorod,desert,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719695,shipsanity_fish", "719695,", "719695,shipsanity_fullwf", "719695,shipsanity_all"],						
 					"map_locations":[
                       {
@@ -536,8 +536,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,desert,fishing:4"],
+					"sections": [{"access_rules": ["$ap|718045", "$ap_offline,Bamboorod,desert,fishing:4"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718045,fishsanity_on"],
 					"map_locations":[
                       {
@@ -549,8 +549,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],	
-					"access_rules": ["Bamboorod,desert,fishing:4,shipping"],
+					"sections": [{"access_rules": ["$ap|719697", "$ap_offline,Bamboorod,desert,fishing:4,shipping"], "item_count": 1}],	
+					"access_rules": [],
 					"visibility_rules": ["719697,shipsanity_fish", "719697,shipsanity_fullwf", "719697,shipsanity_all"],						
 					"map_locations":[
                       {
@@ -567,8 +567,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod"],
+					"sections": [{"access_rules": ["$ap|718009", "$ap_offline,rod"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718009,fishsanity_on"],
 					"map_locations":[
                       {
@@ -580,8 +580,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,shipping"],
+					"sections": [{"access_rules": ["$ap|719659", "$ap_offline,rod,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719659,shipsanity_fish", "719659,shipsanity_fullwf", "719659,shipsanity_all"],						
 					"map_locations":[
                       {
@@ -598,8 +598,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,spring","Bamboorod,fall"],
+					"sections": [{"access_rules": ["$ap|718035", "$ap_offline,Bamboorod,spring", "$ap_offline,Bamboorod,fall"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718035,fishsanity_on"],
 					"map_locations":[
                       {
@@ -611,8 +611,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,spring,shipping","Bamboorod,fall,shipping"],
+					"sections": [{"access_rules": ["$ap|719662", "$ap_offline,Bamboorod,spring,shipping", "$ap_offline,Bamboorod,fall,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719662,shipsanity_fish", "719662,shipsanity_fullwf", "719662,shipsanity_all"],						
 					"map_locations":[
                       {
@@ -629,8 +629,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,summer"],
+					"sections": [{"access_rules": ["$ap|718038", "$ap_offline,Bamboorod,summer"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718038,fishsanity_on"],
 					"map_locations":[
                       {
@@ -642,8 +642,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,summer,shipping"],
+					"sections": [{"access_rules": ["$ap|719668", "$ap_offline,Bamboorod,summer,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719668,shipsanity_fish", "719668,shipsanity_fullwf", "719668,shipsanity_all"],						
 					"map_locations":[
                       {
@@ -660,8 +660,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod"],
+					"sections": [{"access_rules": ["$ap|718071", "$ap_offline,Bamboorod"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718071,fishsanity_on"],
 					"map_locations":[
                       {
@@ -673,8 +673,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,shipping"],
+					"sections": [{"access_rules": ["$ap|720801", "$ap_offline,Bamboorod,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["720801,shipsanity_fish", "720801,shipsanity_fullwf", "720801,shipsanity_all"],						
 					"map_locations":[
                       {
@@ -691,8 +691,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,summer","Bamboorod,winter"],
+					"sections": [{"access_rules": ["$ap|718027", "$ap_offline,Bamboorod,summer", "$ap_offline,Bamboorod,winter"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718027,fishsanity_on"],
 					"map_locations":[
                       {
@@ -704,8 +704,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,summer,shipping","Bamboorod,winter,shipping"],
+					"sections": [{"access_rules": ["$ap|719689", "$ap_offline,Bamboorod,summer,shipping", "$ap_offline,Bamboorod,winter,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719689,shipsanity_fish", "719689,shipsanity_fullwf", "719689,shipsanity_all"],						
 					"map_locations":[
                       {
@@ -722,8 +722,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fall"],
+					"sections": [{"access_rules": ["$ap|718017", "$ap_offline,Bamboorod,fall"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718017,fishsanity_on"],
 					"map_locations":[
                       {
@@ -735,8 +735,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],	
-					"access_rules": ["Bamboorod,fall,shipping"],
+					"sections": [{"access_rules": ["$ap|719694", "$ap_offline,Bamboorod,fall,shipping"], "item_count": 1}],	
+					"access_rules": [],
 					"visibility_rules": ["719694,shipsanity_fish", "719694,shipsanity_fullwf", "719694,shipsanity_all"],						
 					"map_locations":[
                       {
@@ -753,8 +753,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,spring","rod,summer","rod,winter"],
+					"sections": [{"access_rules": ["$ap|718014", "$ap_offline,rod,spring", "$ap_offline,rod,summer", "$ap_offline,rod,winter"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718014,fishsanity_on"],
 					"map_locations":[
                       {
@@ -766,8 +766,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,spring,shipping","rod,summer,shipping","rod,winter,shipping"],					
+					"sections": [{"access_rules": ["$ap|719699", "$ap_offline,rod,spring,shipping", "$ap_offline,rod,summer,shipping", "$ap_offline,rod,winter,shipping"], "item_count": 1}],
+					"access_rules": [],					
 					"visibility_rules": ["719699,shipsanity_fish", "719699,shipsanity_fullwf", "719699,shipsanity_all"],						
 					"map_locations":[
                       {
@@ -784,8 +784,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,spring","rod,fall"],
+					"sections": [{"access_rules": ["$ap|718003", "$ap_offline,rod,spring", "$ap_offline,rod,fall"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718003,fishsanity_on"],
 					"map_locations":[
                       {
@@ -797,8 +797,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,spring,shipping","rod,fall,shipping"],
+					"sections": [{"access_rules": ["$ap|719702", "$ap_offline,rod,spring,shipping", "$ap_offline,rod,fall,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719702,shipsanity_fish", "719702,shipsanity_fullwf", "719702,shipsanity_all"],						
 					"map_locations":[
                       {
@@ -815,8 +815,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,summer","rod,spring"],
+					"sections": [{"access_rules": ["$ap|718006", "$ap_offline,rod,summer", "$ap_offline,rod,spring"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718006,fishsanity_on"],
 					"map_locations":[
                       {
@@ -828,8 +828,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,summer,shipping","rod,spring,shipping"],
+					"sections": [{"access_rules": ["$ap|719708", "$ap_offline,rod,summer,shipping", "$ap_offline,rod,spring,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719708,shipsanity_fish", "719708,shipsanity_fullwf", "719708,shipsanity_all"],						
 					"map_locations":[
                       {
@@ -846,8 +846,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fall","Bamboorod,winter"],
+					"sections": [{"access_rules": ["$ap|718028", "$ap_offline,Bamboorod,fall", "$ap_offline,Bamboorod,winter"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718028,fishsanity_on"],
 					"map_locations":[
                       {
@@ -859,8 +859,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fall,shipping","Bamboorod,winter,shipping"],
+					"sections": [{"access_rules": ["$ap|719710", "$ap_offline,Bamboorod,fall,shipping", "$ap_offline,Bamboorod,winter,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719710,shipsanity_fish", "719710,shipsanity_fullwf", "719710,shipsanity_all"],			
 					"map_locations":[
                       {
@@ -877,8 +877,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod"],
+					"sections": [{"access_rules": ["$ap|718008", "$ap_offline,rod"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718008,fishsanity_on"],
 					"map_locations":[
                       {
@@ -890,8 +890,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],		
-					"access_rules": ["rod,shipping"],
+					"sections": [{"access_rules": ["$ap|719663", "$ap_offline,rod,shipping"], "item_count": 1}],		
+					"access_rules": [],
 					"visibility_rules": ["719663,shipsanity_fish", "719663,shipsanity_fullwf", "719663,shipsanity_all"],								
 					"map_locations":[
                       {
@@ -908,8 +908,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,winter"],
+					"sections": [{"access_rules": ["$ap|718044", "$ap_offline,Bamboorod,winter"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718044,fishsanity_on"],
 					"map_locations":[
                       {
@@ -921,8 +921,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,winter,shipping"],
+					"sections": [{"access_rules": ["$ap|719679", "$ap_offline,Bamboorod,winter,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719679,shipsanity_fish", "719679,shipsanity_fullwf", "719679,shipsanity_all"],								
 					"map_locations":[
                       {
@@ -939,8 +939,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,winter"],
+					"sections": [{"access_rules": ["$ap|718007", "$ap_offline,rod,winter"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718007,fishsanity_on"],
 					"map_locations":[
                       {
@@ -952,8 +952,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,winter,shipping"],
+					"sections": [{"access_rules": ["$ap|719687", "$ap_offline,rod,winter,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719687,shipsanity_fish", "719687,shipsanity_fullwf", "719687,shipsanity_all"],								
 					"map_locations":[
                       {
@@ -970,8 +970,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,summer"],
+					"sections": [{"access_rules": ["$ap|718012", "$ap_offline,rod,summer"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718012,fishsanity_on"],
 					"map_locations":[
                       {
@@ -983,8 +983,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,summer,shipping"],					
+					"sections": [{"access_rules": ["$ap|719691", "$ap_offline,rod,summer,shipping"], "item_count": 1}],
+					"access_rules": [],					
 					"visibility_rules": ["719691,shipsanity_fish", "719691,shipsanity_fullwf", "719691,shipsanity_all"],								
 					"map_locations":[
                       {
@@ -1001,8 +1001,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,fall"],
+					"sections": [{"access_rules": ["$ap|718013", "$ap_offline,rod,fall"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718013,fishsanity_on"],
 					"map_locations":[
                       {
@@ -1014,8 +1014,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,fall,shipping"],
+					"sections": [{"access_rules": ["$ap|719714", "$ap_offline,rod,fall,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719714,shipsanity_fish", "719714,shipsanity_fullwf", "719714,shipsanity_all"],								
 					"map_locations":[
                       {
@@ -1032,8 +1032,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod"],
+					"sections": [{"access_rules": ["$ap|718024", "$ap_offline,Bamboorod"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718024,fishsanity_on"],
 					"map_locations":[
                       {
@@ -1045,8 +1045,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],	
-					"access_rules": ["Bamboorod,shipping"],
+					"sections": [{"access_rules": ["$ap|719701", "$ap_offline,Bamboorod,shipping"], "item_count": 1}],	
+					"access_rules": [],
 					"visibility_rules": ["719701,shipsanity_fish", "719701,shipsanity_fullwf", "719701,shipsanity_all"],								
 					"map_locations":[
                       {
@@ -1063,8 +1063,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod"],
+					"sections": [{"access_rules": ["$ap|718040", "$ap_offline,Bamboorod"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718040,fishsanity_on"],
 					"map_locations":[
                       {
@@ -1076,8 +1076,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,shipping"],
+					"sections": [{"access_rules": ["$ap|719713", "$ap_offline,Bamboorod,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719713,shipsanity_fish", "719713,shipsanity_fullwf", "719713,shipsanity_all"],								
 					"map_locations":[
                       {
@@ -1094,8 +1094,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod"],
+					"sections": [{"access_rules": ["$ap|718020", "$ap_offline,Bamboorod"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718020,fishsanity_on"],
 					"map_locations":[
                       {
@@ -1107,8 +1107,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,shipping"],
+					"sections": [{"access_rules": ["$ap|719715", "$ap_offline,Bamboorod,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719715,shipsanity_fish", "719715,shipsanity_fullwf", "719715,shipsanity_all"],								
 					"map_locations":[
                       {
@@ -1125,8 +1125,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod"],
+					"sections": [{"access_rules": ["$ap|718015", "$ap_offline,rod"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718015,fishsanity_on"],
 					"map_locations":[
                       {
@@ -1138,8 +1138,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,shipping"],
+					"sections": [{"access_rules": ["$ap|719660", "$ap_offline,rod,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719660,shipsanity_fish", "719660,shipsanity_fullwf", "719660,shipsanity_all"],			
 					"map_locations":[
                       {
@@ -1156,8 +1156,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,spring","rod,summer","rod,fall"],
+					"sections": [{"access_rules": ["$ap|718001", "$ap_offline,rod,spring", "$ap_offline,rod,summer", "$ap_offline,rod,fall"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718001,fishsanity_on"],
 					"map_locations":[
                       {
@@ -1169,8 +1169,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,spring,shipping","rod,summer,shipping","rod,fall,shipping"],
+					"sections": [{"access_rules": ["$ap|719661", "$ap_offline,rod,spring,shipping", "$ap_offline,rod,summer,shipping", "$ap_offline,rod,fall,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719661,shipsanity_fish", "719661,shipsanity_fullwf", "719661,shipsanity_all"],								
 					"map_locations":[
                       {
@@ -1187,8 +1187,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod"],
+					"sections": [{"access_rules": ["$ap|718016", "$ap_offline,Bamboorod"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718016,fishsanity_on"],
 					"map_locations":[
                       {
@@ -1200,8 +1200,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,shipping"],
+					"sections": [{"access_rules": ["$ap|719676", "$ap_offline,Bamboorod,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719676,shipsanity_fish", "719676,shipsanity_fullwf", "719676,shipsanity_all"],								
 					"map_locations":[
                       {
@@ -1218,8 +1218,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fall","Bamboorod,winter"],
+					"sections": [{"access_rules": ["$ap|718025", "$ap_offline,Bamboorod,fall", "$ap_offline,Bamboorod,winter"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718025,fishsanity_on"],
 					"map_locations":[
                       {
@@ -1231,8 +1231,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fall,shipping","Bamboorod,winter,shipping"],
+					"sections": [{"access_rules": ["$ap|719681", "$ap_offline,Bamboorod,fall,shipping", "$ap_offline,Bamboorod,winter,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719681,shipsanity_fish", "719681,shipsanity_fullwf", "719681,shipsanity_all"],								
 					"map_locations":[
                       {
@@ -1249,8 +1249,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,summer","Bamboorod,winter"],
+					"sections": [{"access_rules": ["$ap|718037", "$ap_offline,Bamboorod,summer", "$ap_offline,Bamboorod,winter"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718037,fishsanity_on"],
 					"map_locations":[
                       {
@@ -1262,8 +1262,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,summer,shipping","Bamboorod,winter,shipping"],
+					"sections": [{"access_rules": ["$ap|719707", "$ap_offline,Bamboorod,summer,shipping", "$ap_offline,Bamboorod,winter,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719707,shipsanity_fish", "719707,shipsanity_fullwf", "719707,shipsanity_all"],								
 					"map_locations":[
                       {
@@ -1280,8 +1280,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,e20"],
+					"sections": [{"access_rules": ["$ap|718018", "$ap_offline,Bamboorod,e20"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718018,fishsanity_on"],
 					"map_locations":[
                       {
@@ -1293,8 +1293,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],	
-					"access_rules": ["Bamboorod,e20,shipping"],
+					"sections": [{"access_rules": ["$ap|719671", "$ap_offline,Bamboorod,e20,shipping"], "item_count": 1}],	
+					"access_rules": [],
 					"visibility_rules": ["719671,shipsanity_fish", "719671,shipsanity_fullwf", "719671,shipsanity_all"],								
 					"map_locations":[
                       {
@@ -1311,8 +1311,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,e20"],
+					"sections": [{"access_rules": ["$ap|718032", "$ap_offline,Bamboorod,e20"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718032,fishsanity_on"],
 					"map_locations":[
                       {
@@ -1324,8 +1324,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,e20,shipping"],
+					"sections": [{"access_rules": ["$ap|719706", "$ap_offline,Bamboorod,e20,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719706,shipsanity_fish", "719706,shipsanity_fullwf", "719706,shipsanity_all"],								
 					"map_locations":[
                       {
@@ -1342,8 +1342,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,e60"],
+					"sections": [{"access_rules": ["$ap|718043", "$ap_offline,Bamboorod,e60"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718043,fishsanity_on"],
 					"map_locations":[
                       {
@@ -1355,8 +1355,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,e60,shipping"],
+					"sections": [{"access_rules": ["$ap|719675", "$ap_offline,Bamboorod,e60,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719675,shipsanity_fish", "719675,shipsanity_fullwf", "719675,shipsanity_all"],								
 					"map_locations":[
                       {
@@ -1373,8 +1373,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,e100"],
+					"sections": [{"access_rules": ["$ap|718046", "$ap_offline,Bamboorod,e100"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718046,fishsanity_on"],
 					"map_locations":[
                       {
@@ -1386,8 +1386,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,e100,shipping"],
+					"sections": [{"access_rules": ["$ap|719677", "$ap_offline,Bamboorod,e100,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719677,shipsanity_fish", "719677,shipsanity_fullwf", "719677,shipsanity_all"],								
 					"map_locations":[
                       {
@@ -1404,8 +1404,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,island,turtlen","Bamboorod,turtlew"],
+					"sections": [{"access_rules": ["$ap|718029", "$ap_offline,Bamboorod,island,turtlen", "$ap_offline,Bamboorod,turtlew"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718029,fishsanity_on"],
 					"map_locations":[
                       {
@@ -1417,8 +1417,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,turtlen,island,shipping","Bamboorod,turtlew,island,shipping"],
+					"sections": [{"access_rules": ["$ap|719947", "$ap_offline,Bamboorod,turtlen,island,shipping", "$ap_offline,Bamboorod,turtlew,island,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719947,shipsanity_fish", "719947,shipsanity_fullwf", "719947,shipsanity_all"],								
 					"map_locations":[
                       {
@@ -1435,8 +1435,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,island,turtlew"],
+					"sections": [{"access_rules": ["$ap|718023", "$ap_offline,Bamboorod,island,turtlew"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718023,fishsanity_on"],
 					"map_locations":[
                       {
@@ -1448,8 +1448,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,island,turtlew,shipping"],
+					"sections": [{"access_rules": ["$ap|719950", "$ap_offline,Bamboorod,island,turtlew,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719950,shipsanity_fish", "719950,shipsanity_fullwf", "719950,shipsanity_all"],								
 					"map_locations":[
                       {
@@ -1466,8 +1466,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,island"],
+					"sections": [{"access_rules": ["$ap|718042", "$ap_offline,Bamboorod,island"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718042,fishsanity_on"],
 					"map_locations":[
                       {
@@ -1479,8 +1479,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,island,shipping"],
+					"sections": [{"access_rules": ["$ap|719954", "$ap_offline,Bamboorod,island,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719954,shipsanity_fish", "719954,shipsanity_fullwf", "719954,shipsanity_all"],								
 					"map_locations":[
                       {
@@ -1497,8 +1497,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fishing:3,fall"],
+					"sections": [{"access_rules": ["$ap|718052", "$ap_offline,Bamboorod,fishing:3,fall"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718052,fishsanity_on"],
 					"map_locations":[
                       {
@@ -1510,8 +1510,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fishing:3,fall,shipping"],
+					"sections": [{"access_rules": ["$ap|719657", "$ap_offline,Bamboorod,fishing:3,fall,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719657,shipsanity_fullwf", "719657,shipsanity_all", "719657,shipsanity_fish"],								
 					"map_locations":[
                       {
@@ -1528,8 +1528,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fishing:5,summer"],
+					"sections": [{"access_rules": ["$ap|718051", "$ap_offline,Bamboorod,fishing:5,summer"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718051,fishsanity_on"],
 					"map_locations":[
                       {
@@ -1541,8 +1541,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fishing:5,summer,shipping"],
+					"sections": [{"access_rules": ["$ap|719667", "$ap_offline,Bamboorod,fishing:5,summer,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719667,shipsanity_fullwf", "719667,shipsanity_all", "719667,shipsanity_fish"],						
 					"map_locations":[
                       {
@@ -1559,8 +1559,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fishing:6,winter"],
+					"sections": [{"access_rules": ["$ap|718054", "$ap_offline,Bamboorod,fishing:6,winter"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718054,fishsanity_on"],
 					"map_locations":[
                       {
@@ -1572,8 +1572,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fishing:6,winter,shipping"],
+					"sections": [{"access_rules": ["$ap|719672", "$ap_offline,Bamboorod,fishing:6,winter,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719672,shipsanity_fullwf", "719672,shipsanity_all", "719672,shipsanity_fish"],						
 					"map_locations":[
                       {
@@ -1590,8 +1590,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fishing:10,spring"],
+					"sections": [{"access_rules": ["$ap|718053", "$ap_offline,Bamboorod,fishing:10,spring"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718053,fishsanity_on"],
 					"map_locations":[
                       {
@@ -1603,8 +1603,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fishing:10,spring,shipping"],
+					"sections": [{"access_rules": ["$ap|719678", "$ap_offline,Bamboorod,fishing:10,spring,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719678,shipsanity_fullwf", "719678,shipsanity_all", "719678,shipsanity_fish"],						
 					"map_locations":[
                       {
@@ -1621,8 +1621,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,$can_access_sewer"],
+					"sections": [{"access_rules": ["$ap|718055", "$ap_offline,Bamboorod,$can_access_sewer"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718055,fishsanity_on"],
 					"map_locations":[
                       {
@@ -1634,8 +1634,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,$can_access_sewer,shipping"],
+					"sections": [{"access_rules": ["$ap|719684", "$ap_offline,Bamboorod,$can_access_sewer,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719684,shipsanity_fullwf", "719684,shipsanity_all", "719684,shipsanity_fish"],						
 					"map_locations":[
                       {
@@ -1652,8 +1652,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,winter"],
+					"sections": [{"access_rules": ["$ap|718050", "$ap_offline,Bamboorod,winter"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718050,fishsanity_on"],
 					"map_locations":[
                       {
@@ -1665,8 +1665,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,winter,shipping"],
+					"sections": [{"access_rules": ["$ap|719658", "$ap_offline,Bamboorod,winter,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719658,shipsanity_fish", "719658,shipsanity_fullwf", "719658,shipsanity_all"],					
 					"map_locations":[
                       {
@@ -1683,8 +1683,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,winter"],
+					"sections": [{"access_rules": ["$ap|718048", "$ap_offline,Bamboorod,winter"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718048,fishsanity_on"],
 					"map_locations":[
                       {
@@ -1696,8 +1696,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],		
-					"access_rules": ["Bamboorod,winter,shipping"],
+					"sections": [{"access_rules": ["$ap|719682", "$ap_offline,Bamboorod,winter,shipping"], "item_count": 1}],		
+					"access_rules": [],
 					"visibility_rules": ["719682,shipsanity_fish", "719682,shipsanity_fullwf", "719682,shipsanity_all"],					
 					"map_locations":[
                       {
@@ -1714,8 +1714,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,winter"],
+					"sections": [{"access_rules": ["$ap|718049", "$ap_offline,Bamboorod,winter"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718049,fishsanity_on"],
 					"map_locations":[
                       {
@@ -1727,8 +1727,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,winter,shipping"],
+					"sections": [{"access_rules": ["$ap|719704", "$ap_offline,Bamboorod,winter,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719704,shipsanity_fish", "719704,shipsanity_fullwf", "719704,shipsanity_all"],					
 					"map_locations":[
                       {
@@ -1745,8 +1745,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["fishing:3"],
+					"sections": [{"access_rules": ["$ap|718056", "$ap_offline,fishing:3"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718056,fishsanity_on"],
 					"map_locations":[
                       {
@@ -1758,8 +1758,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],		
-					"access_rules": ["fishing:3,shipping"],
+					"sections": [{"access_rules": ["$ap|719666", "$ap_offline,fishing:3,shipping"], "item_count": 1}],		
+					"access_rules": [],
 					"visibility_rules": ["719666,shipsanity_fish", "719666,shipsanity_fullwf", "719666,shipsanity_all"],					
 					"map_locations":[
                       {
@@ -1776,8 +1776,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["fishing:3"],
+					"sections": [{"access_rules": ["$ap|718058", "$ap_offline,fishing:3"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718058,fishsanity_on"],
 					"map_locations":[
                       {
@@ -1789,8 +1789,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],	
-					"access_rules": ["fishing:3,shipping"],
+					"sections": [{"access_rules": ["$ap|719688", "$ap_offline,fishing:3,shipping"], "item_count": 1}],	
+					"access_rules": [],
 					"visibility_rules": ["719688,shipsanity_fish", "719688,shipsanity_fullwf", "719688,shipsanity_all"],					
 					"map_locations":[
                       {
@@ -1807,8 +1807,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["fishing:3"],
+					"sections": [{"access_rules": ["$ap|718057", "$ap_offline,fishing:3"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718057,fishsanity_on"],
 					"map_locations":[
                       {
@@ -1820,8 +1820,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],		
-					"access_rules": ["fishing:3,shipping"],
+					"sections": [{"access_rules": ["$ap|719703", "$ap_offline,fishing:3,shipping"], "item_count": 1}],		
+					"access_rules": [],
 					"visibility_rules": ["719703,shipsanity_fish", "719703,shipsanity_fullwf", "719703,shipsanity_all"],					
 					"map_locations":[
                       {
@@ -1838,8 +1838,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["fishing:3"],
+					"sections": [{"access_rules": ["$ap|718060", "$ap_offline,fishing:3"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718060,fishsanity_on"],
 					"map_locations":[
                       {
@@ -1851,8 +1851,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],		
-					"access_rules": ["fishing:3,shipping"],
+					"sections": [{"access_rules": ["$ap|719720", "$ap_offline,fishing:3,shipping"], "item_count": 1}],		
+					"access_rules": [],
 					"visibility_rules": ["719720,shipsanity_fish", "719720,shipsanity_fullwf", "719720,shipsanity_all"],					
 					"map_locations":[
                       {
@@ -1869,8 +1869,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["fishing:3"],			
+					"sections": [{"access_rules": ["$ap|718062", "$ap_offline,fishing:3"], "item_count": 1}],
+					"access_rules": [],			
 					"visibility_rules": ["718062,fishsanity_on"],
 					"map_locations":[
                       {
@@ -1882,8 +1882,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],		
-					"access_rules": ["fishing:3,shipping"],
+					"sections": [{"access_rules": ["$ap|719664", "$ap_offline,fishing:3,shipping"], "item_count": 1}],		
+					"access_rules": [],
 					"visibility_rules": ["719664,shipsanity_fish", "719664,shipsanity_fullwf", "719664,shipsanity_all"],					
 					"map_locations":[
                       {
@@ -1900,8 +1900,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["fishing:3"],
+					"sections": [{"access_rules": ["$ap|718061", "$ap_offline,fishing:3"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718061,fishsanity_on"],
 					"map_locations":[
                       {
@@ -1913,8 +1913,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],	
-					"access_rules": ["fishing:3,shipping"],
+					"sections": [{"access_rules": ["$ap|719665", "$ap_offline,fishing:3,shipping"], "item_count": 1}],	
+					"access_rules": [],
 					"visibility_rules": ["719665,shipsanity_fish", "719665,shipsanity_fullwf", "719665,shipsanity_all"],					
 					"map_locations":[
                       {
@@ -1931,8 +1931,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["fishing:3"],
+					"sections": [{"access_rules": ["$ap|718059", "$ap_offline,fishing:3"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718059,fishsanity_on"],
 					"map_locations":[
                       {
@@ -1944,8 +1944,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],	
-					"access_rules": ["fishing:3,shipping"],
+					"sections": [{"access_rules": ["$ap|719680", "$ap_offline,fishing:3,shipping"], "item_count": 1}],	
+					"access_rules": [],
 					"visibility_rules": ["719680,shipsanity_fish", "719680,shipsanity_fullwf", "719680,shipsanity_all"],					
 					"map_locations":[
                       {
@@ -1962,8 +1962,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["fishing:3"],
+					"sections": [{"access_rules": ["$ap|718063", "$ap_offline,fishing:3"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718063,fishsanity_on"],
 					"map_locations":[
                       {
@@ -1975,8 +1975,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],	
-					"access_rules": ["fishing:3,shipping"],
+					"sections": [{"access_rules": ["$ap|719683", "$ap_offline,fishing:3,shipping"], "item_count": 1}],	
+					"access_rules": [],
 					"visibility_rules": ["719683,shipsanity_fish", "719683,shipsanity_fullwf", "719683,shipsanity_all"],					
 					"map_locations":[
                       {
@@ -1993,8 +1993,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["fishing:3"],
+					"sections": [{"access_rules": ["$ap|718065", "$ap_offline,fishing:3"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718065,fishsanity_on"],
 					"map_locations":[
                       {
@@ -2006,8 +2006,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],	
-					"access_rules": ["fishing:3,shipping"],
+					"sections": [{"access_rules": ["$ap|719686", "$ap_offline,fishing:3,shipping"], "item_count": 1}],	
+					"access_rules": [],
 					"visibility_rules": ["719686,shipsanity_fish", "719686,shipsanity_fullwf", "719686,shipsanity_all"],					
 					"map_locations":[
                       {
@@ -2024,8 +2024,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["fishing:3"],
+					"sections": [{"access_rules": ["$ap|718064", "$ap_offline,fishing:3"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718064,fishsanity_on"],
 					"map_locations":[
                       {
@@ -2037,8 +2037,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],	
-					"access_rules": ["fishing:3,shipping"],
+					"sections": [{"access_rules": ["$ap|719700", "$ap_offline,fishing:3,shipping"], "item_count": 1}],	
+					"access_rules": [],
 					"visibility_rules": ["719700,shipsanity_fish", "719700,shipsanity_fullwf", "719700,shipsanity_all"],					
 					"map_locations":[
                       {
@@ -2055,8 +2055,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fishing:3,island,walnutroom"],
+					"sections": [{"access_rules": ["$ap|718069", "$ap_offline,Bamboorod,fishing:3,island,walnutroom"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718069,island_tracking_on", "718069,fishsanity_on"],													
 					"map_locations":[
                       {
@@ -2068,8 +2068,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fishing:3,walnutroom,island,shipping"],
+					"sections": [{"access_rules": ["$ap|719951", "$ap_offline,Bamboorod,fishing:3,walnutroom,island,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719951,island_tracking_on", "719951,shipsanity_fullwf", "719951,island_tracking_on", "719951,shipsanity_all", "719951,island_tracking_on", "719951,shipsanity_fish"],		
 					"map_locations":[
                       {
@@ -2086,8 +2086,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fishing:5,island,walnutroom"],
+					"sections": [{"access_rules": ["$ap|718066", "$ap_offline,Bamboorod,fishing:5,island,walnutroom"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718066,island_tracking_on", "718066,fishsanity_on"],	
 					"map_locations":[
                       {
@@ -2099,8 +2099,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fishing:5,island,walnutroom,shipping"],
+					"sections": [{"access_rules": ["$ap|719953", "$ap_offline,Bamboorod,fishing:5,island,walnutroom,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719953,island_tracking_on", "719953,shipsanity_fullwf", "719953,island_tracking_on", "719953,shipsanity_all", "719953,island_tracking_on", "719953,shipsanity_fish"],	
 					"map_locations":[
                       {
@@ -2117,8 +2117,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fishing:6,island,walnutroom"],
+					"sections": [{"access_rules": ["$ap|718067", "$ap_offline,Bamboorod,fishing:6,island,walnutroom"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718067,island_tracking_on", "718067,fishsanity_on"],		
 					"map_locations":[
                       {
@@ -2130,8 +2130,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fishing:6,island,walnutroom,shipping"],					
+					"sections": [{"access_rules": ["$ap|719948", "$ap_offline,Bamboorod,fishing:6,island,walnutroom,shipping"], "item_count": 1}],
+					"access_rules": [],					
 					"visibility_rules": ["719948,island_tracking_on", "719948,shipsanity_fullwf", "719948,island_tracking_on", "719948,shipsanity_all", "719948,island_tracking_on", "719948,shipsanity_fish"],	
 					"map_locations":[
                       {
@@ -2148,8 +2148,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fishing:10,island,walnutroom"],
+					"sections": [{"access_rules": ["$ap|718068", "$ap_offline,Bamboorod,fishing:10,island,walnutroom"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["718068,island_tracking_on", "718068,fishsanity_on"],		
 					"map_locations":[
                       {
@@ -2161,8 +2161,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,walnutroom,island,shipping"],
+					"sections": [{"access_rules": ["$ap|719949", "$ap_offline,Bamboorod,walnutroom,island,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719949,island_tracking_on", "719949,shipsanity_fullwf", "719949,island_tracking_on", "719949,shipsanity_all", "719949,island_tracking_on", "719949,shipsanity_fish"],					
 					"map_locations":[
                       {
@@ -2179,8 +2179,8 @@
 				"children":[
 				{
 					"name": "Caught",
-					"access_rules": ["Bamboorod,$can_access_sewer,island,walnutroom"],
-					"sections": [{"item_count": 1}],
+					"access_rules": [],
+					"sections": [{"access_rules": ["$ap|718070", "$ap_offline,Bamboorod,$can_access_sewer,island,walnutroom"], "item_count": 1}],
 					"visibility_rules": ["718070,island_tracking_on", "718070,fishsanity_on"],
 					"map_locations":[
                       {
@@ -2192,8 +2192,8 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,$can_access_sewer,walnutroom,island,shipping"],
+					"sections": [{"access_rules": ["$ap|719952", "$ap_offline,Bamboorod,$can_access_sewer,walnutroom,island,shipping"], "item_count": 1}],
+					"access_rules": [],
 					"visibility_rules": ["719952,island_tracking_on", "719952,shipsanity_fullwf", "719952,island_tracking_on", "719952,shipsanity_all", "719952,island_tracking_on", "719952,shipsanity_fish"],					
 					"map_locations":[
                       {

@@ -8,6 +8,7 @@
                 "name": "Copper Hoe Upgrade",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717103", "$ap_offline,mining:1"],
                         "item_count": 1
                     }
                 ],
@@ -21,14 +22,13 @@
                         "y": 40
                     }
                 ],
-                "access_rules": [
-                    "mining:1"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Iron Hoe Upgrade",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717104", "$ap_offline,$has_at_least_copper_hoe,furnacerecipe,$can_walk_to_mines_floor_45,$can_earn_money_modest"],
                         "item_count": 1
                     }
                 ],
@@ -42,14 +42,13 @@
                         "y": 40
                     }
                 ],
-                "access_rules": [
-                    "$has_at_least_copper_hoe,furnacerecipe,$can_walk_to_mines_floor_45,$can_earn_money_modest"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Gold Hoe Upgrade",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717105", "$ap_offline,$has_at_least_steel_hoe,furnacerecipe,$can_walk_to_mines_floor_85,$can_earn_money_modest"],
                         "item_count": 1
                     }
                 ],
@@ -63,14 +62,13 @@
                         "y": 40
                     }
                 ],
-                "access_rules": [
-                    "$has_at_least_steel_hoe,furnacerecipe,$can_walk_to_mines_floor_85,$can_earn_money_modest"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Iridium Hoe Upgrade",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717106", "$ap_offline,$has_at_least_gold_hoe,furnacerecipe,$can_mine_iridium,$can_earn_money_substantial"],
                         "item_count": 1
                     }
                 ],
@@ -84,14 +82,13 @@
                         "y": 40
                     }
                 ],
-                "access_rules": [
-                    "$has_at_least_gold_hoe,furnacerecipe,$can_mine_iridium,$can_earn_money_substantial"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Copper Pickaxe Upgrade",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717107", "$ap_offline,mining:1"],
                         "item_count": 1
                     }
                 ],
@@ -105,14 +102,13 @@
                         "y": 68
                     }
                 ],
-                "access_rules": [
-                    "mining:1"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Iron Pickaxe Upgrade",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717108", "$ap_offline,$has_at_least_copper_pickaxe,furnacerecipe,$can_walk_to_mines_floor_45,$can_earn_money_modest"],
                         "item_count": 1
                     }
                 ],
@@ -126,14 +122,13 @@
                         "y": 68
                     }
                 ],
-                "access_rules": [
-                    "$has_at_least_copper_pickaxe,furnacerecipe,$can_walk_to_mines_floor_45,$can_earn_money_modest"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Gold Pickaxe Upgrade",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717109", "$ap_offline,$has_at_least_steel_pickaxe,furnacerecipe,$can_walk_to_mines_floor_85,$can_earn_money_modest"],
                         "item_count": 1
                     }
                 ],
@@ -147,14 +142,13 @@
                         "y": 68
                     }
                 ],
-                "access_rules": [
-                    "$has_at_least_steel_pickaxe,furnacerecipe,$can_walk_to_mines_floor_85,$can_earn_money_modest"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Iridium Pickaxe Upgrade",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717110", "$ap_offline,$has_at_least_gold_pickaxe,furnacerecipe,$can_mine_iridium,$can_earn_money_substantial"],
                         "item_count": 1
                     }
                 ],
@@ -168,14 +162,13 @@
                         "y": 68
                     }
                 ],
-                "access_rules": [
-                    "$has_at_least_gold_pickaxe,furnacerecipe,$can_mine_iridium,$can_earn_money_substantial"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Copper Axe Upgrade",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717111", "$ap_offline,mining:1"],
                         "item_count": 1
                     }
                 ],
@@ -189,14 +182,13 @@
                         "y": 96
                     }
                 ],
-                "access_rules": [
-                    "mining:1"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Iron Axe Upgrade",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717112", "$ap_offline,$has_at_least_copper_axe,furnacerecipe,$can_walk_to_mines_floor_45,$can_earn_money_modest"],
                         "item_count": 1
                     }
                 ],
@@ -210,14 +202,13 @@
                         "y": 96
                     }
                 ],
-                "access_rules": [
-                    "$has_at_least_copper_axe,furnacerecipe,$can_walk_to_mines_floor_45,$can_earn_money_modest"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Gold Axe Upgrade",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717113", "$ap_offline,$has_at_least_steel_axe,furnacerecipe,$can_walk_to_mines_floor_85,$can_earn_money_modest"],
                         "item_count": 1
                     }
                 ],
@@ -231,14 +222,13 @@
                         "y": 96
                     }
                 ],
-                "access_rules": [
-                    "$has_at_least_steel_axe,furnacerecipe,$can_walk_to_mines_floor_85,$can_earn_money_modest"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Iridium Axe Upgrade",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717114", "$ap_offline,$has_at_least_gold_axe,furnacerecipe,$can_mine_iridium,$can_earn_money_substantial"],
                         "item_count": 1
                     }
                 ],
@@ -252,14 +242,13 @@
                         "y": 96
                     }
                 ],
-                "access_rules": [
-                    "$has_at_least_gold_axe,furnacerecipe,$can_mine_iridium,$can_earn_money_substantial"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Copper Watering Can Upgrade",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717115", "$ap_offline,mining:1"],
                         "item_count": 1
                     }
                 ],
@@ -273,14 +262,13 @@
                         "y": 124
                     }
                 ],
-                "access_rules": [
-                    "mining:1"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Iron Watering Can Upgrade",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717116", "$ap_offline,$has_at_least_copper_can,furnacerecipe,$can_walk_to_mines_floor_45,$can_earn_money_modest"],
                         "item_count": 1
                     }
                 ],
@@ -294,14 +282,13 @@
                         "y": 124
                     }
                 ],
-                "access_rules": [
-                    "$has_at_least_copper_can,furnacerecipe,$can_walk_to_mines_floor_45,$can_earn_money_modest"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Gold Watering Can Upgrade",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717117", "$ap_offline,$has_at_least_steel_can,furnacerecipe,$can_walk_to_mines_floor_85,$can_earn_money_modest"],
                         "item_count": 1
                     }
                 ],
@@ -315,14 +302,13 @@
                         "y": 124
                     }
                 ],
-                "access_rules": [
-                    "$has_at_least_steel_can,furnacerecipe,$can_walk_to_mines_floor_85,$can_earn_money_modest"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Iridium Watering Can Upgrade",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717118", "$ap_offline,$has_at_least_gold_can,furnacerecipe,$can_mine_iridium,$can_earn_money_substantial"],
                         "item_count": 1
                     }
                 ],
@@ -336,14 +322,13 @@
                         "y": 124
                     }
                 ],
-                "access_rules": [
-                    "$has_at_least_gold_can,furnacerecipe,$can_mine_iridium,$can_earn_money_substantial"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Copper Trash Can Upgrade",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717119", "$ap_offline,mining:1"],
                         "item_count": 1
                     }
                 ],
@@ -357,14 +342,13 @@
                         "y": 152
                     }
                 ],
-                "access_rules": [
-                    "mining:1"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Iron Trash Can Upgrade",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717120", "$ap_offline,$has_at_least_copper_trash,furnacerecipe,$can_walk_to_mines_floor_45,$can_earn_money_modest"],
                         "item_count": 1
                     }
                 ],
@@ -378,14 +362,13 @@
                         "y": 152
                     }
                 ],
-                "access_rules": [
-                    "$has_at_least_copper_trash,furnacerecipe,$can_walk_to_mines_floor_45,$can_earn_money_modest"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Gold Trash Can Upgrade",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717121", "$ap_offline,$has_at_least_steel_trash,furnacerecipe,$can_walk_to_mines_floor_85,$can_earn_money_modest"],
                         "item_count": 1
                     }
                 ],
@@ -399,14 +382,13 @@
                         "y": 152
                     }
                 ],
-                "access_rules": [
-                    "$has_at_least_steel_trash,furnacerecipe,$can_walk_to_mines_floor_85,$can_earn_money_modest"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Iridium Trash Can Upgrade",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717122", "$ap_offline,$has_at_least_gold_trash,furnacerecipe,$can_mine_iridium,$can_earn_money_substantial"],
                         "item_count": 1
                     }
                 ],
@@ -420,14 +402,13 @@
                         "y": 152
                     }
                 ],
-                "access_rules": [
-                    "$has_at_least_gold_trash,furnacerecipe,$can_mine_iridium,$can_earn_money_substantial"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Purchase Training Rod",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717123", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -446,6 +427,7 @@
                 "name": "Bamboo Pole Cutscene",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717124", "$ap_offline"],
                         "item_count": 1
                     }
                 ],
@@ -464,6 +446,7 @@
                 "name": "Purchase Fiberglass Rod",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717125", "$ap_offline,fishing:2"],
                         "item_count": 1
                     }
                 ],
@@ -477,14 +460,13 @@
                         "y": 180
                     }
                 ],
-                "access_rules": [
-                    "fishing:2"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Purchase Iridium Rod",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717126", "$ap_offline,fishing:6"],
                         "item_count": 1
                     }
                 ],
@@ -498,14 +480,13 @@
                         "y": 180
                     }
                 ],
-                "access_rules": [
-                    "fishing:6"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Copper Pan Cutscene",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717127", "$ap_offline,glittering"],
                         "item_count": 1
                     }
                 ],
@@ -519,14 +500,13 @@
                         "y": 208
                     }
                 ],
-                "access_rules": [
-                    "glittering"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Iron Pan Upgrade",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717128", "$ap_offline,$has_at_least_copper_pan,furnacerecipe,$can_walk_to_mines_floor_45,$can_earn_money_modest"],
                         "item_count": 1
                     }
                 ],
@@ -540,14 +520,13 @@
                         "y": 208
                     }
                 ],
-                "access_rules": [
-                    "$has_at_least_copper_pan,furnacerecipe,$can_walk_to_mines_floor_45,$can_earn_money_modest"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Gold Pan Upgrade",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717129", "$ap_offline,$has_at_least_steel_pan,furnacerecipe,$can_walk_to_mines_floor_85,$can_earn_money_modest"],
                         "item_count": 1
                     }
                 ],
@@ -561,14 +540,13 @@
                         "y": 208
                     }
                 ],
-                "access_rules": [
-                    "$has_at_least_steel_pan,furnacerecipe,$can_walk_to_mines_floor_85,$can_earn_money_modest"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Iridium Pan Upgrade",
                 "sections": [
                     {
+                        "access_rules": ["$ap|717130", "$ap_offline,$has_at_least_gold_pan,furnacerecipe,$can_mine_iridium,$can_earn_money_substantial"],
                         "item_count": 1
                     }
                 ],
@@ -582,9 +560,7 @@
                         "y": 208
                     }
                 ],
-                "access_rules": [
-                    "$has_at_least_gold_pan,furnacerecipe,$can_mine_iridium,$can_earn_money_substantial"
-                ]
+                "access_rules": []
             }
         ]
     }

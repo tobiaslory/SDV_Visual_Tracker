@@ -9,9 +9,9 @@
 				"children":[
 				{
 					"name": "Read",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721013", "$ap_offline,$has_at_least_steel_axe,$has_at_least_steel_pickaxe"], "item_count": 1}],
 					"visibility_rules": ["721013"],
-					"access_rules": ["$has_at_least_steel_axe,$has_at_least_steel_pickaxe"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Booksanity",
@@ -22,7 +22,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|720839", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["720839"],
 					"map_locations":[
                       {
@@ -39,9 +39,9 @@
 				"children":[
 				{
 					"name": "Read",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721019", "$ap_offline,$can_reach_ranch,$can_earn_money_substantial"], "item_count": 1}],
 					"visibility_rules": ["721019"],
-					"access_rules": ["$can_reach_ranch,$can_earn_money_substantial"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Booksanity",
@@ -52,7 +52,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|720854", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["720854"],
 					"map_locations":[
                       {
@@ -69,9 +69,9 @@
 				"children":[
 				{
 					"name": "Read",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721012", "$ap_offline,powertheartocrabbing"], "item_count": 1}],
 					"visibility_rules": ["721012"],
-					"access_rules": ["powertheartocrabbing"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Booksanity",
@@ -82,7 +82,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|720840", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["720840"],
 					"map_locations":[
                       {
@@ -99,9 +99,9 @@
 				"children":[
 				{
 					"name": "Read",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721015", "$ap_offline,powerbookofmysteries"], "item_count": 1}],
 					"visibility_rules": ["721015"],
-					"access_rules": ["powerbookofmysteries"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Booksanity",
@@ -112,7 +112,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|720853", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["720853"],
 					"map_locations":[
                       {
@@ -129,9 +129,9 @@
 				"children":[
 				{
 					"name": "Read",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721014", "$ap_offline,powerthediamondhunter"], "item_count": 1}],
 					"visibility_rules": ["721014"],
-					"access_rules": ["powerthediamondhunter"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Booksanity",
@@ -142,7 +142,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|720852", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["720852"],
 					"map_locations":[
                       {
@@ -159,9 +159,9 @@
 				"children":[
 				{
 					"name": "Read",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721011", "$ap_offline,powerdwarvishsafetymanual"], "item_count": 1}],
 					"visibility_rules": ["721011"],
-					"access_rules": ["powerdwarvishsafetymanual"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Booksanity",
@@ -172,7 +172,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|720841", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["720841"],
 					"map_locations":[
                       {
@@ -189,9 +189,9 @@
 				"children":[
 				{
 					"name": "Read",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721006", "$ap_offline,powerfriendship101"], "item_count": 1}],
 					"visibility_rules": ["721006"],
-					"access_rules": ["powerfriendship101"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Booksanity",
@@ -202,7 +202,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|720846", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["720846"],
 					"map_locations":[
                       {
@@ -219,9 +219,9 @@
 				"children":[
 				{
 					"name": "Read",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721016", "$ap_offline,powerhorsethebook"], "item_count": 1}],
 					"visibility_rules": ["721016"],
-					"access_rules": ["powerhorsethebook"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Booksanity",
@@ -232,7 +232,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|720862", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["720862"],
 					"map_locations":[
                       {
@@ -249,9 +249,9 @@
 				"children":[
 				{
 					"name": "Read",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721007", "$ap_offline,powerjackbenimblejackbethick"], "item_count": 1}],
 					"visibility_rules": ["721007"],
-					"access_rules": ["powerjackbenimblejackbethick"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Booksanity",
@@ -262,7 +262,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|720845", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["720845"],
 					"map_locations":[
                       {
@@ -279,9 +279,9 @@
 				"children":[
 				{
 					"name": "Read",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721010", "$ap_offline,powerjewelsofthesea"], "item_count": 1}],
 					"visibility_rules": ["721010"],
-					"access_rules": ["powerjewelsofthesea"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Booksanity",
@@ -292,7 +292,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|720842", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["720842"],
 					"map_locations":[
                       {
@@ -309,9 +309,9 @@
 				"children":[
 				{
 					"name": "Read",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721002", "$ap_offline,powermappingcavesystems"], "item_count": 1}],
 					"visibility_rules": ["721002"],
-					"access_rules": ["powermappingcavesystems"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Booksanity",
@@ -322,7 +322,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|720849", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["720849"],
 					"map_locations":[
                       {
@@ -339,9 +339,9 @@
 				"children":[
 				{
 					"name": "Read",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721005", "$ap_offline,powermonstercompendium"], "item_count": 1}],
 					"visibility_rules": ["721005"],
-					"access_rules": ["powermonstercompendium"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Booksanity",
@@ -352,7 +352,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|720847", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["720847"],
 					"map_locations":[
                       {
@@ -369,9 +369,9 @@
 				"children":[
 				{
 					"name": "Read",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721018", "$ap_offline,powerolslitherlegs"], "item_count": 1}],
 					"visibility_rules": ["721018"],
-					"access_rules": ["powerolslitherlegs"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Booksanity",
@@ -382,7 +382,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|720866", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["720866"],
 					"map_locations":[
                       {
@@ -399,9 +399,9 @@
 				"children":[
 				{
 					"name": "Read",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721001", "$ap_offline,powerpricecatalogue"], "item_count": 1}],
 					"visibility_rules": ["721001"],
-					"access_rules": ["powerpricecatalogue"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Booksanity",
@@ -412,7 +412,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|720850", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["720850"],
 					"map_locations":[
                       {
@@ -429,9 +429,9 @@
 				"children":[
 				{
 					"name": "Read",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721009", "$ap_offline,powerraccoonjournal"], "item_count": 1}],
 					"visibility_rules": ["721009"],
-					"access_rules": ["powerraccoonjournal"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Booksanity",
@@ -442,7 +442,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|720843", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["720843"],
 					"map_locations":[
                       {
@@ -459,9 +459,9 @@
 				"children":[
 				{
 					"name": "Read",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721017", "$ap_offline,powertreasureappraisalguide"], "item_count": 1}],
 					"visibility_rules": ["721017"],
-					"access_rules": ["powertreasureappraisalguide"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Booksanity",
@@ -472,7 +472,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|720861", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["720861"],
 					"map_locations":[
                       {
@@ -489,9 +489,9 @@
 				"children":[
 				{
 					"name": "Read",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721003", "$ap_offline,powerwayofthewindpt1"], "item_count": 1}],
 					"visibility_rules": ["721003"],
-					"access_rules": ["powerwayofthewindpt1"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Booksanity",
@@ -502,7 +502,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|720848", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["720848"],
 					"map_locations":[
                       {
@@ -519,9 +519,9 @@
 				"children":[
 				{
 					"name": "Read",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721004", "$ap_offline,powerwayofthewindpt2"], "item_count": 1}],
 					"visibility_rules": ["721004"],
-					"access_rules": ["powerwayofthewindpt2"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Booksanity",
@@ -532,7 +532,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|720855", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["720855"],
 					"map_locations":[
                       {
@@ -549,9 +549,9 @@
 				"children":[
 				{
 					"name": "Read",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721008", "$ap_offline,powerwoodyssecret"], "item_count": 1}],
 					"visibility_rules": ["721008"],
-					"access_rules": ["powerwoodyssecret"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Booksanity",
@@ -562,7 +562,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|720844", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["720844"],
 					"map_locations":[
                       {
@@ -579,7 +579,7 @@
 				"children":[
 				{
 					"name": "Read",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721031", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["721031"],
 					"map_locations":[
                       {
@@ -591,7 +591,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|720836", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["720836"],
 					"map_locations":[
                       {
@@ -608,7 +608,7 @@
 				"children":[
 				{
 					"name": "Read",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721032", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["721032"],
 					"map_locations":[
                       {
@@ -620,7 +620,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|720833", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["720833"],
 					"map_locations":[
                       {
@@ -637,7 +637,7 @@
 				"children":[
 				{
 					"name": "Read",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721033", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["721033"],
 					"map_locations":[
                       {
@@ -649,7 +649,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|720838", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["720838"],
 					"map_locations":[
                       {
@@ -666,7 +666,7 @@
 				"children":[
 				{
 					"name": "Read",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721034", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["721034"],
 					"map_locations":[
                       {
@@ -678,7 +678,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|720837", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["720837"],
 					"map_locations":[
                       {
@@ -695,7 +695,7 @@
 				"children":[
 				{
 					"name": "Read",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721035", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["721035"],
 					"map_locations":[
                       {
@@ -707,7 +707,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|720851", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["720851"],
 					"map_locations":[
                       {
@@ -724,7 +724,7 @@
 				"children":[
 				{
 					"name": "Read",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721036", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["721036"],
 					"map_locations":[
                       {
@@ -736,7 +736,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|720834", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["720834"],
 					"map_locations":[
                       {
@@ -753,7 +753,7 @@
 				"children":[
 				{
 					"name": "Read",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721037", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["721037"],
 					"map_locations":[
                       {
@@ -765,7 +765,7 @@
 				},
 				{
 					"name": "Shipped",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|720835", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["720835"],
 					"map_locations":[
                       {
@@ -782,7 +782,7 @@
 				"children":[
 				{
 					"name": "Tips on Farming",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721051", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["721051"],
 					"map_locations":[
                       {
@@ -794,7 +794,7 @@
 				},
 				{
 					"name": "This is a book by Marnie",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721052", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["721052"],
 					"map_locations":[
                       {
@@ -806,7 +806,7 @@
 				},
 				{
 					"name": "On Foraging",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721053", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["721053"],
 					"map_locations":[
                       {
@@ -818,7 +818,7 @@
 				},
 				{
 					"name": "The Fisherman, Act 1",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721054", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["721054"],
 					"map_locations":[
                       {
@@ -830,7 +830,7 @@
 				},
 				{
 					"name": "How Deep do the mines go?",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721055", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["721055"],
 					"map_locations":[
                       {
@@ -842,7 +842,7 @@
 				},
 				{
 					"name": "An Old Farmer's Journal",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721056", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["721056"],
 					"map_locations":[
                       {
@@ -854,7 +854,7 @@
 				},
 				{
 					"name": "Scarecrows",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721057", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["721057"],
 					"map_locations":[
                       {
@@ -866,7 +866,7 @@
 				},
 				{
 					"name": "The Secret of the Stardrop",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721058", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["721058"],
 					"map_locations":[
                       {
@@ -878,7 +878,7 @@
 				},
 				{
 					"name": "Journey of the Prairie King - The Smash Hit Video Game!",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721059", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["721059"],
 					"map_locations":[
                       {
@@ -890,7 +890,7 @@
 				},
 				{
 					"name": "A Study on Diamond Yields",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721060", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["721060"],
 					"map_locations":[
                       {
@@ -902,7 +902,7 @@
 				},
 				{
 					"name": "Brewmaster's Guide",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721061", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["721061"],
 					"map_locations":[
                       {
@@ -914,7 +914,7 @@
 				},
 				{
 					"name": "Mysteries of the Dwarves",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721062", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["721062"],
 					"map_locations":[
                       {
@@ -926,7 +926,7 @@
 				},
 				{
 					"name": "Highlights From The Book of Yoba",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721063", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["721063"],
 					"map_locations":[
                       {
@@ -938,7 +938,7 @@
 				},
 				{
 					"name": "Marriage Guide for Farmers",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721064", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["721064"],
 					"map_locations":[
                       {
@@ -950,7 +950,7 @@
 				},
 				{
 					"name": "The Fisherman, Act II",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721065", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["721065"],
 					"map_locations":[
                       {
@@ -962,7 +962,7 @@
 				},
 				{
 					"name": "Technology Report!",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721066", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["721066"],
 					"map_locations":[
                       {
@@ -974,7 +974,7 @@
 				},
 				{
 					"name": "Secrets of the Legendary Fish",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721067", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["721067"],
 					"map_locations":[
                       {
@@ -986,7 +986,7 @@
 				},
 				{
 					"name": "Gunther Tunnel Notice",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721068", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["721068"],
 					"map_locations":[
                       {
@@ -998,7 +998,7 @@
 				},
 				{
 					"name": "Note From Gunther",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721069", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["721069"],
 					"map_locations":[
                       {
@@ -1010,7 +1010,7 @@
 				},
 				{
 					"name": "Goblins by M. Jasper",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721070", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["721070"],
 					"map_locations":[
                       {
@@ -1022,7 +1022,7 @@
 				},
 				{
 					"name": "Secret Statues Acrostics",
-					"sections": [{"item_count": 1}],
+					"sections": [{"access_rules": ["$ap|721071", "$ap_offline"], "item_count": 1}],
 					"visibility_rules": ["721071"],
 					"map_locations":[
                       {

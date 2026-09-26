@@ -8,6 +8,7 @@
                 "name": "Leo's Parrot",
                 "sections": [
                     {
+                        "access_rules": ["$ap|719204", "$ap_offline,$can_access_island"],
                         "item_count": 1
                     }
                 ],
@@ -21,14 +22,13 @@
                         "y": 40
                     }
                 ],
-                "access_rules": [
-                    "$can_access_island"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Island West Turtle",
                 "sections": [
                     {
+                        "access_rules": ["$ap|719205", "$ap_offline,$can_access_island"],
                         "item_count": 1
                     }
                 ],
@@ -42,14 +42,13 @@
                         "y": 40
                     }
                 ],
-                "access_rules": [
-                    "$can_access_island"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Island Farmhouse",
                 "sections": [
                     {
+                        "access_rules": ["$ap|719206", "$ap_offline,$can_access_island"],
                         "item_count": 1
                     }
                 ],
@@ -63,14 +62,13 @@
                         "y": 40
                     }
                 ],
-                "access_rules": [
-                    "$can_access_island"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Island Mailbox",
                 "sections": [
                     {
+                        "access_rules": ["$ap|719207", "$ap_offline,$can_access_island"],
                         "item_count": 1
                     }
                 ],
@@ -84,14 +82,13 @@
                         "y": 40
                     }
                 ],
-                "access_rules": [
-                    "$can_access_island"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Farm Obelisk",
                 "sections": [
                     {
+                        "access_rules": ["$ap|719208", "$ap_offline,$can_access_island"],
                         "item_count": 1
                     }
                 ],
@@ -105,14 +102,13 @@
                         "y": 68
                     }
                 ],
-                "access_rules": [
-                    "$can_access_island"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Dig Site Bridge",
                 "sections": [
                     {
+                        "access_rules": ["$ap|719209", "$ap_offline,$can_access_island"],
                         "item_count": 1
                     }
                 ],
@@ -126,14 +122,13 @@
                         "y": 68
                     }
                 ],
-                "access_rules": [
-                    "$can_access_island"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Island Trader",
                 "sections": [
                     {
+                        "access_rules": ["$ap|719210", "$ap_offline,$can_access_island"],
                         "item_count": 1
                     }
                 ],
@@ -147,14 +142,13 @@
                         "y": 68
                     }
                 ],
-                "access_rules": [
-                    "$can_access_island"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Volcano Bridge",
                 "sections": [
                     {
+                        "access_rules": ["$ap|719211", "$ap_offline,$can_access_island"],
                         "item_count": 1
                     }
                 ],
@@ -168,14 +162,13 @@
                         "y": 68
                     }
                 ],
-                "access_rules": [
-                    "$can_access_island"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Volcano Exit Shortcut",
                 "sections": [
                     {
+                        "access_rules": ["$ap|719212", "$ap_offline,$can_access_island"],
                         "item_count": 1
                     }
                 ],
@@ -189,14 +182,13 @@
                         "y": 96
                     }
                 ],
-                "access_rules": [
-                    "$can_access_island"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Island Resort",
                 "sections": [
                     {
+                        "access_rules": ["$ap|719213", "$ap_offline,$can_access_island"],
                         "item_count": 1
                     }
                 ],
@@ -210,14 +202,13 @@
                         "y": 96
                     }
                 ],
-                "access_rules": [
-                    "$can_access_island"
-                ]
+                "access_rules": []
             },
             {
                 "name": "Parrot Express",
                 "sections": [
                     {
+                        "access_rules": ["$ap|719214", "$ap_offline,$can_access_island"],
                         "item_count": 1
                     }
                 ],
@@ -231,9 +222,7 @@
                         "y": 96
                     }
                 ],
-                "access_rules": [
-                    "$can_access_island"
-                ]
+                "access_rules": []
             }
         ]
     }

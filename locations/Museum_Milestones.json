@@ -8,6 +8,7 @@
 				"name": "5 Donations",
                 "sections":[
                     {
+                        "access_rules": ["$ap|718100", "$ap_offline"],
                         "name": "Donate 5 items",
                         "item_count": 1,
 						"visibility_rules": ["718100,museum_milestone"],
@@ -25,6 +26,7 @@
 				"name": "10 Donations",
                 "sections":[
                     {
+                        "access_rules": ["$ap|718101", "$ap_offline"],
                         "name": "Donate 10 items",
                         "item_count": 1,
 						"visibility_rules": ["718101,museum_milestone"],
@@ -42,6 +44,7 @@
 				"name": "15 Donations",
                 "sections":[
                     {
+                        "access_rules": ["$ap|718102", "$ap_offline"],
                         "name": "Donate 15 items",
                         "item_count": 1,
 						"visibility_rules": ["718102,museum_milestone"],
@@ -59,6 +62,7 @@
 				"name": "20 Donations",
                 "sections":[
                     {
+                        "access_rules": ["$ap|718103", "$ap_offline"],
                         "name": "Donate 20 items",
                         "item_count": 1,
 						"visibility_rules": ["718103,museum_milestone"],
@@ -76,6 +80,7 @@
 				"name": "25 Donations",
                 "sections":[
                     {
+                        "access_rules": ["$ap|718104", "$ap_offline"],
                         "name": "Donate 25 items",
                         "item_count": 1,
 						"visibility_rules": ["718104,museum_milestone"],
@@ -93,6 +98,7 @@
 				"name": "30 Donations",
                 "sections":[
                     {
+                        "access_rules": ["$ap|718105", "$ap_offline"],
                         "name": "Donate 30 items",
                         "item_count": 1,
 						"visibility_rules": ["718105,museum_milestone"],
@@ -110,6 +116,7 @@
 				"name": "35 Donations",
                 "sections":[
                     {
+                        "access_rules": ["$ap|718106", "$ap_offline"],
                         "name": "Donate 35 items",
                         "item_count": 1,
 						"visibility_rules": ["718106,museum_milestone"],
@@ -127,6 +134,7 @@
 				"name": "40 Donations",
                 "sections":[
                     {
+                        "access_rules": ["$ap|718107", "$ap_offline"],
                         "name": "Donate 40 items",
                         "item_count": 1,
 						"visibility_rules": ["718107,museum_milestone"],
@@ -144,6 +152,7 @@
 				"name": "50 Donations",
                 "sections":[
                     {
+                        "access_rules": ["$ap|718108", "$ap_offline"],
                         "name": "Donate 50 items",
                         "item_count": 1,
 						"visibility_rules": ["718108,museum_milestone"],
@@ -161,6 +170,7 @@
 				"name": "60 Donations",
                 "sections":[
                     {
+                        "access_rules": ["$ap|718109", "$ap_offline"],
                         "name": "Donate 60 items",
                         "item_count": 1,
 						"visibility_rules": ["718109,museum_milestone"],
@@ -178,6 +188,7 @@
 				"name": "70 Donations",
                 "sections":[
                     {
+                        "access_rules": ["$ap|718110", "$ap_offline"],
                         "name": "Donate 70 items",
                         "item_count": 1,
 						"visibility_rules": ["718110,museum_milestone"],
@@ -195,6 +206,7 @@
 				"name": "80 Donations",
                 "sections":[
                     {
+                        "access_rules": ["$ap|718111", "$ap_offline"],
                         "name": "Donate 80 items",
                         "item_count": 1,
 						"visibility_rules": ["718111,museum_milestone"],
@@ -212,6 +224,7 @@
 				"name": "90 Donations",
                 "sections":[
                     {
+                        "access_rules": ["$ap|718112", "$ap_offline"],
                         "name": "Donate 90 items",
                         "item_count": 1,
 						"visibility_rules": ["718112,museum_milestone"],
@@ -229,6 +242,7 @@
 				"name": "95 Donations",
                 "sections":[
                     {
+                        "access_rules": ["$ap|718113", "$ap_offline"],
                         "name": "Donate 95 items",
                         "item_count": 1,
 						"visibility_rules": ["718113,museum_milestone"],
@@ -246,6 +260,7 @@
 				"name": "11 Minerals",
                 "sections":[
                     {
+                        "access_rules": ["$ap|718114", "$ap_offline"],
                         "name": "Donate 11 minerals",
                         "item_count": 1,
 						"visibility_rules": ["718114,museum_milestone"],
@@ -263,6 +278,7 @@
 				"name": "21 Minerals",
                 "sections":[
                     {
+                        "access_rules": ["$ap|718115", "$ap_offline"],
                         "name": "Donate 21 minerals",
                         "item_count": 1,
 						"visibility_rules": ["718115,museum_milestone"],
@@ -280,6 +296,7 @@
 				"name": "31 Minerals",
                 "sections":[
                     {
+                        "access_rules": ["$ap|718116", "$ap_offline"],
                         "name": "Donate 31 minerals",
                         "item_count": 1,
 						"visibility_rules": ["718116,museum_milestone"],
@@ -297,6 +314,7 @@
 				"name": "41 Minerals",
                 "sections":[
                     {
+                        "access_rules": ["$ap|718117", "$ap_offline"],
                         "name": "Donate 41 minerals",
                         "item_count": 1,
 						"visibility_rules": ["718117,museum_milestone"],
@@ -314,6 +332,7 @@
 				"name": "50 Minerals",
                 "sections":[
                     {
+                        "access_rules": ["$ap|718118", "$ap_offline"],
                         "name": "Donate 50 minerals",
                         "item_count": 1,
 						"visibility_rules": ["718118,museum_milestone"],
@@ -331,6 +350,7 @@
 				"name": "3 Artifacts",
                 "sections":[
                     {
+                        "access_rules": ["$ap|718119", "$ap_offline"],
                         "name": "Donate 3 artifacts",
                         "item_count": 1,
 						"visibility_rules": ["718119,museum_milestone"],
@@ -348,6 +368,7 @@
 				"name": "6 Artifacts",
                 "sections":[
                     {
+                        "access_rules": ["$ap|718120", "$ap_offline"],
                         "name": "Donate 6 artifacts",
                         "item_count": 1,
 						"visibility_rules": ["718120,museum_milestone"],
@@ -365,6 +386,7 @@
 				"name": "9 Artifacts",
                 "sections":[
                     {
+                        "access_rules": ["$ap|718121", "$ap_offline"],
                         "name": "Donate 9 artifacts",
                         "item_count": 1,
 						"visibility_rules": ["718121,museum_milestone"],
@@ -382,6 +404,7 @@
 				"name": "11 Artifacts",
                 "sections":[
                     {
+                        "access_rules": ["$ap|718122", "$ap_offline"],
                         "name": "Donate 11 artifacts",
                         "item_count": 1,
 						"visibility_rules": ["718122,museum_milestone"],
@@ -399,6 +422,7 @@
 				"name": "15 Artifacts",
                 "sections":[
                     {
+                        "access_rules": ["$ap|718123", "$ap_offline"],
                         "name": "Donate 15 artifacts",
                         "item_count": 1,
 						"visibility_rules": ["718123,museum_milestone"],
@@ -416,6 +440,7 @@
 				"name": "20 Artifacts",
                 "sections":[
                     {
+                        "access_rules": ["$ap|718124", "$ap_offline"],
                         "name": "Donate 20 artifacts",
                         "item_count": 1,
 						"visibility_rules": ["718124,museum_milestone"],
@@ -433,6 +458,7 @@
 				"name": "Dwarf Scrolls",
                 "sections":[
                     {
+                        "access_rules": ["$ap|718125", "$ap_offline"],
                         "name": "Donate all 4 Dwarf Scrolls",
                         "item_count": 1,
 						"visibility_rules": ["718125,museum_milestone"],
@@ -450,6 +476,7 @@
 				"name": "Skeleton Front",
                 "sections":[
                     {
+                        "access_rules": ["$ap|718126", "$ap_offline"],
                         "name": "Obtain the front of the Sloth Skeleton",
                         "item_count": 1,
 						"visibility_rules": ["718126,museum_milestone"],
@@ -467,6 +494,7 @@
 				"name": "Skeleton Middle",
                 "sections":[
                     {
+                        "access_rules": ["$ap|718127", "$ap_offline"],
                         "name": "Obtain the middle of the Sloth Skeleton",
                         "item_count": 1,
 						"visibility_rules": ["718127,museum_milestone"],
@@ -484,6 +512,7 @@
 				"name": "Skeleton Back",
                 "sections":[
                     {
+                        "access_rules": ["$ap|718128", "$ap_offline"],
                         "name": "Obtain the back of the Sloth Skeleton",
                         "item_count": 1,
 						"visibility_rules": ["718128,museum_milestone"],

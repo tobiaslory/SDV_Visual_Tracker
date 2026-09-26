@@ -11,6 +11,7 @@
                         "name": "Pepper Rex",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720010", "$ap_offline,$has_skull_key,$can_access_desert"],
                                 "item_count": 1
                             }
                         ],
@@ -24,14 +25,13 @@
                                 "y": 40
                             }
                         ],
-                        "access_rules": [
-                            "$has_skull_key,$can_access_desert"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Green Slime",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720101", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -50,6 +50,7 @@
                         "name": "Frost Jelly",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720102", "$ap_offline,$can_walk_to_mines_floor_45"],
                                 "item_count": 1
                             }
                         ],
@@ -63,14 +64,13 @@
                                 "y": 40
                             }
                         ],
-                        "access_rules": [
-                            "$can_walk_to_mines_floor_45"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Sludge",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720103", "$ap_offline,$has_skull_key,$can_access_desert"],
                                 "item_count": 1
                             }
                         ],
@@ -84,14 +84,13 @@
                                 "y": 40
                             }
                         ],
-                        "access_rules": [
-                            "$has_skull_key,$can_access_desert"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Tiger Slime",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720104", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -105,14 +104,13 @@
                                 "y": 68
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Shadow Shaman",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720105", "$ap_offline,$can_walk_to_mines_floor_45"],
                                 "item_count": 1
                             }
                         ],
@@ -126,14 +124,13 @@
                                 "y": 68
                             }
                         ],
-                        "access_rules": [
-                            "$can_walk_to_mines_floor_45"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Shadow Brute",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720106", "$ap_offline,$can_walk_to_mines_floor_45"],
                                 "item_count": 1
                             }
                         ],
@@ -147,14 +144,13 @@
                                 "y": 68
                             }
                         ],
-                        "access_rules": [
-                            "$can_walk_to_mines_floor_45"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Shadow Sniper",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720107", "$ap_offline,$can_walk_to_mines_floor_85"],
                                 "item_count": 1
                             }
                         ],
@@ -168,14 +164,13 @@
                                 "y": 68
                             }
                         ],
-                        "access_rules": [
-                            "$can_walk_to_mines_floor_85"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Bat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720108", "$ap_offline,$can_walk_to_mines_floor_5"],
                                 "item_count": 1
                             }
                         ],
@@ -189,14 +184,13 @@
                                 "y": 96
                             }
                         ],
-                        "access_rules": [
-                            "$can_walk_to_mines_floor_5"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Frost Bat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720109", "$ap_offline,$can_walk_to_mines_floor_45"],
                                 "item_count": 1
                             }
                         ],
@@ -210,14 +204,13 @@
                                 "y": 96
                             }
                         ],
-                        "access_rules": [
-                            "$can_walk_to_mines_floor_45"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Lava Bat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720110", "$ap_offline,$can_walk_to_mines_floor_45"],
                                 "item_count": 1
                             }
                         ],
@@ -231,14 +224,13 @@
                                 "y": 96
                             }
                         ],
-                        "access_rules": [
-                            "$can_walk_to_mines_floor_45"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Iridium Bat",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720111", "$ap_offline,$has_skull_key,$can_access_desert"],
                                 "item_count": 1
                             }
                         ],
@@ -252,14 +244,13 @@
                                 "y": 96
                             }
                         ],
-                        "access_rules": [
-                            "$has_skull_key,$can_access_desert"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Skeleton",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720112", "$ap_offline,$can_walk_to_mines_floor_45"],
                                 "item_count": 1
                             }
                         ],
@@ -273,14 +264,13 @@
                                 "y": 124
                             }
                         ],
-                        "access_rules": [
-                            "$can_walk_to_mines_floor_45"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Skeleton Mage",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720113", "$ap_offline,$can_walk_to_mines_floor_85"],
                                 "item_count": 1
                             }
                         ],
@@ -294,14 +284,13 @@
                                 "y": 124
                             }
                         ],
-                        "access_rules": [
-                            "$can_walk_to_mines_floor_85"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Bug",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720114", "$ap_offline,$can_walk_to_mines_floor_5"],
                                 "item_count": 1
                             }
                         ],
@@ -315,14 +304,13 @@
                                 "y": 124
                             }
                         ],
-                        "access_rules": [
-                            "$can_walk_to_mines_floor_5"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Fly",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720115", "$ap_offline,$can_walk_to_mines_floor_5"],
                                 "item_count": 1
                             }
                         ],
@@ -336,14 +324,13 @@
                                 "y": 124
                             }
                         ],
-                        "access_rules": [
-                            "$can_walk_to_mines_floor_5"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Grub",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720116", "$ap_offline,$can_walk_to_mines_floor_5"],
                                 "item_count": 1
                             }
                         ],
@@ -357,14 +344,13 @@
                                 "y": 152
                             }
                         ],
-                        "access_rules": [
-                            "$can_walk_to_mines_floor_5"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Duggy",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720117", "$ap_offline,$can_walk_to_mines_floor_5"],
                                 "item_count": 1
                             }
                         ],
@@ -378,14 +364,13 @@
                                 "y": 152
                             }
                         ],
-                        "access_rules": [
-                            "$can_walk_to_mines_floor_5"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Magma Duggy",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720118", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -399,14 +384,13 @@
                                 "y": 152
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Dust Sprite",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720119", "$ap_offline,$can_mine_iron"],
                                 "item_count": 1
                             }
                         ],
@@ -420,14 +404,13 @@
                                 "y": 152
                             }
                         ],
-                        "access_rules": [
-                            "$can_mine_iron"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Rock Crab",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720120", "$ap_offline,$can_walk_to_mines_floor_5"],
                                 "item_count": 1
                             }
                         ],
@@ -441,14 +424,13 @@
                                 "y": 180
                             }
                         ],
-                        "access_rules": [
-                            "$can_walk_to_mines_floor_5"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Lava Crab",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720121", "$ap_offline,$can_walk_to_mines_floor_45"],
                                 "item_count": 1
                             }
                         ],
@@ -462,14 +444,13 @@
                                 "y": 180
                             }
                         ],
-                        "access_rules": [
-                            "$can_walk_to_mines_floor_45"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Iridium Crab",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720122", "$ap_offline,$has_skull_key,$can_access_desert"],
                                 "item_count": 1
                             }
                         ],
@@ -483,14 +464,13 @@
                                 "y": 180
                             }
                         ],
-                        "access_rules": [
-                            "$has_skull_key,$can_access_desert"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Mummy",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720123", "$ap_offline,$has_skull_key,$can_access_desert"],
                                 "item_count": 1
                             }
                         ],
@@ -504,14 +484,13 @@
                                 "y": 180
                             }
                         ],
-                        "access_rules": [
-                            "$has_skull_key,$can_access_desert"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Serpent",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720124", "$ap_offline,$has_skull_key,$can_access_desert"],
                                 "item_count": 1
                             }
                         ],
@@ -525,14 +504,13 @@
                                 "y": 208
                             }
                         ],
-                        "access_rules": [
-                            "$has_skull_key,$can_access_desert"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Royal Serpent",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720125", "$ap_offline,$has_skull_key,$can_access_desert"],
                                 "item_count": 1
                             }
                         ],
@@ -546,14 +524,13 @@
                                 "y": 208
                             }
                         ],
-                        "access_rules": [
-                            "$has_skull_key,$can_access_desert"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Magma Sprite",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720126", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -567,14 +544,13 @@
                                 "y": 208
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     },
                     {
                         "name": "Magma Sparker",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720127", "$ap_offline,$can_access_island"],
                                 "item_count": 1
                             }
                         ],
@@ -588,9 +564,7 @@
                                 "y": 208
                             }
                         ],
-                        "access_rules": [
-                            "$can_access_island"
-                        ]
+                        "access_rules": []
                     }
                 ]
             },
@@ -601,6 +575,7 @@
                         "name": "Slimes",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720001", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -619,6 +594,7 @@
                         "name": "Void Spirits",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720002", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -637,6 +613,7 @@
                         "name": "Bats",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720003", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -655,6 +632,7 @@
                         "name": "Skeletons",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720004", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -673,6 +651,7 @@
                         "name": "Cave Insects",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720005", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -691,6 +670,7 @@
                         "name": "Duggies",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720006", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -709,6 +689,7 @@
                         "name": "Dust Sprites",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720007", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -727,6 +708,7 @@
                         "name": "Rock Crabs",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720008", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -745,6 +727,7 @@
                         "name": "Mummies",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720009", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -763,6 +746,7 @@
                         "name": "Serpents",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720011", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -781,6 +765,7 @@
                         "name": "Magma Sprites",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720012", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -804,6 +789,7 @@
                         "name": "200 Slimes",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720020", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -822,6 +808,7 @@
                         "name": "400 Slimes",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720021", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -840,6 +827,7 @@
                         "name": "600 Slimes",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720022", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -858,6 +846,7 @@
                         "name": "800 Slimes",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720023", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -876,6 +865,7 @@
                         "name": "30 Void Spirits",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720024", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -894,6 +884,7 @@
                         "name": "60 Void Spirits",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720025", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -912,6 +903,7 @@
                         "name": "90 Void Spirits",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720026", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -930,6 +922,7 @@
                         "name": "120 Void Spirits",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720027", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -948,6 +941,7 @@
                         "name": "40 Bats",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720028", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -966,6 +960,7 @@
                         "name": "80 Bats",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720029", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -984,6 +979,7 @@
                         "name": "120 Bats",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720030", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1002,6 +998,7 @@
                         "name": "160 Bats",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720031", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1020,6 +1017,7 @@
                         "name": "10 Skeletons",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720032", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1038,6 +1036,7 @@
                         "name": "20 Skeletons",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720033", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1056,6 +1055,7 @@
                         "name": "30 Skeletons",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720034", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1074,6 +1074,7 @@
                         "name": "40 Skeletons",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720035", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1092,6 +1093,7 @@
                         "name": "16 Cave Insects",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720036", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1110,6 +1112,7 @@
                         "name": "32 Cave Insects",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720037", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1128,6 +1131,7 @@
                         "name": "48 Cave Insects",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720038", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1146,6 +1150,7 @@
                         "name": "64 Cave Insects",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720039", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1164,6 +1169,7 @@
                         "name": "6 Duggies",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720040", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1182,6 +1188,7 @@
                         "name": "12 Duggies",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720041", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1200,6 +1207,7 @@
                         "name": "18 Duggies",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720042", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1218,6 +1226,7 @@
                         "name": "24 Duggies",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720043", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1236,6 +1245,7 @@
                         "name": "100 Dust Sprites",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720044", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1254,6 +1264,7 @@
                         "name": "200 Dust Sprites",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720045", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1272,6 +1283,7 @@
                         "name": "300 Dust Sprites",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720046", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1290,6 +1302,7 @@
                         "name": "400 Dust Sprites",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720047", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1308,6 +1321,7 @@
                         "name": "12 Rock Crabs",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720048", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1326,6 +1340,7 @@
                         "name": "24 Rock Crabs",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720049", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1344,6 +1359,7 @@
                         "name": "36 Rock Crabs",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720050", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1362,6 +1378,7 @@
                         "name": "48 Rock Crabs",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720051", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1380,6 +1397,7 @@
                         "name": "20 Mummies",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720052", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1398,6 +1416,7 @@
                         "name": "40 Mummies",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720053", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1416,6 +1435,7 @@
                         "name": "60 Mummies",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720054", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1434,6 +1454,7 @@
                         "name": "80 Mummies",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720055", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1452,6 +1473,7 @@
                         "name": "10 Pepper Rex",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720056", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1470,6 +1492,7 @@
                         "name": "20 Pepper Rex",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720057", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1488,6 +1511,7 @@
                         "name": "30 Pepper Rex",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720058", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1506,6 +1530,7 @@
                         "name": "40 Pepper Rex",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720059", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1524,6 +1549,7 @@
                         "name": "50 Serpents",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720060", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1542,6 +1568,7 @@
                         "name": "100 Serpents",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720061", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1560,6 +1587,7 @@
                         "name": "150 Serpents",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720062", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1578,6 +1606,7 @@
                         "name": "200 Serpents",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720063", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1596,6 +1625,7 @@
                         "name": "30 Magma Sprites",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720064", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1614,6 +1644,7 @@
                         "name": "60 Magma Sprites",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720065", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1632,6 +1663,7 @@
                         "name": "90 Magma Sprites",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720066", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],
@@ -1650,6 +1682,7 @@
                         "name": "120 Magma Sprites",
                         "sections": [
                             {
+                                "access_rules": ["$ap|720067", "$ap_offline"],
                                 "item_count": 1
                             }
                         ],

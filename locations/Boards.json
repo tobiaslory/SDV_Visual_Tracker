@@ -8,6 +8,7 @@
                 "name": "A Curious Substance",
                 "sections":[
                     {
+                        "access_rules": ["$ap|719117", "$ap_offline"],
                         "name": "Deliver Ectoplasm to the wizard",
                         "item_count": 1
                     }
@@ -25,6 +26,7 @@
                 "name": "Aquatic Overpopulation",
                 "sections":[
                     {
+                        "access_rules": ["$ap|719103", "$ap_offline"],
                         "name": "Catch required fishes",
                         "item_count": 1
                     }
@@ -42,6 +44,7 @@
                 "name": "Biome Balance",
                 "sections":[
                     {
+                        "access_rules": ["$ap|719104", "$ap_offline"],
                         "name": "Catch required fishes",
                         "item_count": 1
                     }
@@ -59,6 +62,7 @@
                 "name": "Cave Patrol",
                 "sections":[
                     {
+                        "access_rules": ["$ap|719102", "$ap_offline"],
                         "name": "Slay required monsters",
                         "item_count": 1
                     }
@@ -76,6 +80,7 @@
                 "name": "Community Cleanup",
                 "sections":[
                     {
+                        "access_rules": ["$ap|719110", "$ap_offline"],
                         "name": "Trash items at the train plattform",
                         "item_count": 1
                     }
@@ -93,6 +98,7 @@
                 "name": "Crop Order",
                 "sections":[
                     {
+                        "access_rules": ["$ap|719109", "$ap_offline"],
                         "name": "Harvest required crops",
                         "item_count": 1
                     }
@@ -110,6 +116,7 @@
                 "name": "Fragments of the past",
                 "sections":[
                     {
+                        "access_rules": ["$ap|719107", "$ap_offline"],
                         "name": "Collect pieces of bone",
                         "item_count": 1
                     }
@@ -127,6 +134,7 @@
                 "name": "Gifts for George",
                 "sections":[
                     {
+                        "access_rules": ["$ap|719106", "$ap_offline"],
                         "name": "Collect and place leek onto Evelyn's stove",
                         "item_count": 1
                     }
@@ -144,6 +152,7 @@
                 "name": "Gus' Famous Omelet",
                 "sections":[
                     {
+                        "access_rules": ["$ap|719108", "$ap_offline"],
                         "name": "Collect and place eggs into the Stardrop Saloon fridge",
                         "item_count": 1
                     }
@@ -161,6 +170,7 @@
                 "name": "Juicy Bugs Wanted!",
                 "sections":[
                     {
+                        "access_rules": ["$ap|719115", "$ap_offline"],
                         "name": "Collect and dump Bug Meat into the bin",
                         "item_count": 1
                     }
@@ -178,6 +188,7 @@
                 "name": "Pierre's Prime Produce",
                 "sections":[
                     {
+                        "access_rules": ["$ap|719112", "$ap_offline"],
                         "name": "Harvest and dump gold-quality vegetables",
                         "item_count": 1
                     }
@@ -195,6 +206,7 @@
                 "name": "Prismatic Jelly",
                 "sections":[
                     {
+                        "access_rules": ["$ap|719118", "$ap_offline"],
                         "name": "Deliver Prismatic Jelly to the wizard",
                         "item_count": 1
                     }
@@ -212,6 +224,7 @@
                 "name": "Rock Rejuvenation",
                 "sections":[
                     {
+                        "access_rules": ["$ap|719105", "$ap_offline"],
                         "name": "Deliver the gems to Emily",
                         "item_count": 1
                     }
@@ -229,6 +242,7 @@
                 "name": "Robin's Project",
                 "sections":[
                     {
+                        "access_rules": ["$ap|719113", "$ap_offline"],
                         "name": "Collect hardwoord",
                         "item_count": 1
                     }
@@ -246,6 +260,7 @@
                 "name": "Robin's Resource Rush",
                 "sections":[
                     {
+                        "access_rules": ["$ap|719114", "$ap_offline"],
                         "name": "Collect stone or wood",
                         "item_count": 1
                     }
@@ -263,6 +278,7 @@
                 "name": "The Strong Stuff",
                 "sections":[
                     {
+                        "access_rules": ["$ap|719111", "$ap_offline"],
                         "name": "Collect and place Potato Juice in Pam's kitchen",
                         "item_count": 1
                     }
@@ -280,6 +296,7 @@
                 "name": "Island Ingredients",
                 "sections":[
                     {
+                        "access_rules": ["$ap|719101", "$ap_offline"],
                         "name": "Deliver required crops",
                         "item_count": 1
                     }
@@ -297,6 +314,7 @@
                 "name": "Tropical Fish",
                 "sections":[
                     {
+                        "access_rules": ["$ap|719116", "$ap_offline"],
                         "name": "Catch Ginger Island fishes",
                         "item_count": 1
                     }
@@ -314,12 +332,13 @@
                 "name": "Danger In The Deep",
                 "sections":[
                     {
+                        "access_rules": ["$ap|719158", "$ap_offline,island,turtlew,walnutroom"],
                         "name": "Reach the bottom of the Mines in the Mountain",
                         "item_count": 1
                     }
                 ],
 				"visibility_rules": ["719158,board_qi", "719158,island_tracking_on"],
-				"access_rules": ["island,turtlew,walnutroom"],
+				"access_rules": [],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -332,12 +351,13 @@
                 "name": "Extended Family",
                 "sections":[
                     {
+                        "access_rules": ["$ap|719157", "$ap_offline,island,turtlew,walnutroom"],
                         "name": "Catch the Qi-Legendaries",
                         "item_count": 1
                     }
                 ],
 				"visibility_rules": ["719157,board_qi", "719157,island_tracking_on"],
-				"access_rules": ["island,turtlew,walnutroom"],
+				"access_rules": [],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -350,12 +370,13 @@
                 "name": "Four Precious Stones",
                 "sections":[
                     {
+                        "access_rules": ["$ap|719153", "$ap_offline,island,turtlew,walnutroom"],
                         "name": "Collect and deliver Prismatic Shards",
                         "item_count": 1
                     }
                 ],
 				"visibility_rules": ["719153,board_qi", "719153,island_tracking_on"],
-				"access_rules": ["island,turtlew,walnutroom"],
+				"access_rules": [],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -368,12 +389,13 @@
                 "name": "Let's Play A Game",
                 "sections":[
                     {
+                        "access_rules": ["$ap|719152", "$ap_offline,island,turtlew,walnutroom"],
                         "name": "Score points in Junimo Kart endless mode",
                         "item_count": 1
                     }
                 ],
 				"visibility_rules": ["719152,board_qi", "719152,island_tracking_on"],
-				"access_rules": ["island,turtlew,walnutroom"],
+				"access_rules": [],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -386,12 +408,13 @@
                 "name": "Qi's Crop",
                 "sections":[
                     {
+                        "access_rules": ["$ap|719151", "$ap_offline,island,turtlew,walnutroom"],
                         "name": "Ship Qi Fruit",
                         "item_count": 1
                     }
                 ],
 				"visibility_rules": ["719151,board_qi", "719151,island_tracking_on"],
-				"access_rules": ["island,turtlew,walnutroom"],
+				"access_rules": [],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -404,12 +427,13 @@
                 "name": "Qi's Cuisine",
                 "sections":[
                     {
+                        "access_rules": ["$ap|719155", "$ap_offline,island,turtlew,walnutroom"],
                         "name": "Ship freshly cooked items",
                         "item_count": 1
                     }
                 ],
 				"visibility_rules": ["719155,board_qi", "719155,island_tracking_on"],
-				"access_rules": ["island,turtlew,walnutroom"],
+				"access_rules": [],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -422,12 +446,13 @@
                 "name": "Qi's Hungry Challenge",
                 "sections":[
                     {
+                        "access_rules": ["$ap|719154", "$ap_offline,island,turtlew,walnutroom"],
                         "name": "Explore the Skull Cave without consuming any food or drink items",
                         "item_count": 1
                     }
                 ],
 				"visibility_rules": ["719154,board_qi", "719154,island_tracking_on"],
-				"access_rules": ["island,turtlew,walnutroom"],
+				"access_rules": [],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -440,12 +465,13 @@
                 "name": "Qi's Kindness",
                 "sections":[
                     {
+                        "access_rules": ["$ap|719156", "$ap_offline,island,turtlew,walnutroom"],
                         "name": "Give loved gifts to the villagers",
                         "item_count": 1
                     }
                 ],
 				"visibility_rules": ["719156,board_qi", "719156,island_tracking_on"],
-				"access_rules": ["island,turtlew,walnutroom"],
+				"access_rules": [],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -458,12 +484,13 @@
                 "name": "Qi's Prismatic Grange",
                 "sections":[
                     {
+                        "access_rules": ["$ap|719160", "$ap_offline,island,turtlew,walnutroom"],
                         "name": "Place colored items into Qi's collection box",
                         "item_count": 1
                     }
                 ],
 				"visibility_rules": ["719160,board_qi", "719160,island_tracking_on"],
-				"access_rules": ["island,turtlew,walnutroom"],
+				"access_rules": [],
                 "map_locations":[
                     {
                         "map":"Boards",
@@ -476,12 +503,13 @@
                 "name": "Skull Cavern Invasion",
                 "sections":[
                     {
+                        "access_rules": ["$ap|719159", "$ap_offline,island,turtlew,walnutroom"],
                         "name": "Explore the Skull Cavern",
                         "item_count": 1
                     }
                 ],
 				"visibility_rules": ["719159,board_qi", "719159,island_tracking_on"],
-				"access_rules": ["island,turtlew,walnutroom"],
+				"access_rules": [],
                 "map_locations":[
                     {
                         "map":"Boards",

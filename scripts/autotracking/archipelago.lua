@@ -149,6 +149,15 @@ function onClear(slot_data)
     end
     --print(dump_table(ALL_LOCATIONS))
 
+    -- AP logic engine (scripts/ap/logic_engine.lua): options/bundles come
+    -- from slot_data, item state is rebuilt from the onItem replay.
+    if ap_logic_reset then
+        ap_logic_reset()
+        for _, value in ipairs(Archipelago.CheckedLocations) do
+            ap_logic_checked(value)
+        end
+    end
+
     if SLOT_DATA == nil then
         return
     end
@@ -206,6 +215,15 @@ function onClear(slot_data)
         end
     end
 
+    -- Any other per-location visibility toggle (item code == AP location id),
+    -- e.g. the sections added by _build/add_missing_locations.py.
+    for loc_id, _ in pairs(LOCATION_MAPPING) do
+        local toggle = Tracker:FindObjectForCode(tostring(loc_id))
+        if toggle and toggle.Type == "toggle" then
+            toggle.Active = ALL_LOCATIONS[loc_id] or false
+        end
+    end
+
     -- Convert slot_data sanity options into UI setting toggles
     if applySettingsFromSlotData then
         applySettingsFromSlotData(slot_data)
@@ -233,6 +251,9 @@ function onItem(index, item_id, item_name, player_number)
     end
     local is_local = player_number == Archipelago.PlayerNumber
     CUR_INDEX = index;
+    if ap_logic_receive then
+        ap_logic_receive(item_name)
+    end
     local v = ITEM_MAPPING[item_id]
     if not v then
         if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
@@ -302,6 +323,9 @@ end
 function onLocation(location_id, location_name)
     if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
         print(string.format("called onLocation: %s, %s", location_id, location_name))
+    end
+    if ap_logic_checked then
+        ap_logic_checked(location_id)
     end
     local v = LOCATION_MAPPING[location_id]
     if not v then

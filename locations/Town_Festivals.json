@@ -9,9 +9,9 @@
                 "children":[
                   {
 					"name": "Egg Hunt Victory",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"access_rules": ["$ap|719001", "$ap_offline,$spring"], "item_count": 1,}],
 					"visibility_rules": ["719001"],
-					"access_rules": ["$spring"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -22,9 +22,9 @@
 				  },
 				  {
 					"name": "Strawberry Seeds",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"access_rules": ["$ap|719002", "$ap_offline,$spring"], "item_count": 1,}],
 					"visibility_rules": ["719002"],
-					"access_rules": ["$spring"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -40,9 +40,9 @@
                 "children":[
                   {
 					"name": "Dance with someone",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"access_rules": ["$ap|719003", "$ap_offline,$spring"], "item_count": 1,}],
 					"visibility_rules": ["719003"],
-					"access_rules": ["$spring"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -53,9 +53,9 @@
 				  },
 				  {
 					"name": "Rarecrow #5",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"access_rules": ["$ap|719004", "$ap_offline,$spring,$can_earn_money_modest"], "item_count": 1,}],
 					"visibility_rules": ["719004"],
-					"access_rules": ["$spring,$can_earn_money_modest"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -66,9 +66,9 @@
 				  },
 				   {
 					"name": "Tub o' Flowers Recipe",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"access_rules": ["$ap|719032", "$ap_offline,$spring"], "item_count": 1,}],
 					"visibility_rules": ["719032"],
-					"access_rules": ["$spring"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -86,7 +86,7 @@
                         "name": "Luau Soup",
                         "item_count": 1,
 						"visibility_rules": ["719005"],
-					"access_rules": ["$summer,$can_earn_money_modest"],
+					"access_rules": ["$ap|719005", "$ap_offline,$summer,$can_earn_money_modest"],
                     }
                 ],
                 "map_locations":[
@@ -102,9 +102,9 @@
                 "children":[
                   {
 					"name": "See the Jellies",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"access_rules": ["$ap|719006", "$ap_offline,$summer"], "item_count": 1,}],
 					"visibility_rules": ["719006"],
-					"access_rules": ["$summer"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -115,9 +115,9 @@
 				  },
 				  {
 					"name": "Moonlight Jellies Banner",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"access_rules": ["$ap|719034", "$ap_offline,$summer,$can_earn_money_modest"], "item_count": 1,}],
 					"visibility_rules": ["719034"],
-					"access_rules": ["$summer,$can_earn_money_modest"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -128,9 +128,9 @@
 				  },
 				  {
 					"name": "Starport Decal",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"access_rules": ["$ap|719035", "$ap_offline,$summer,$can_earn_money_modest"], "item_count": 1,}],
 					"visibility_rules": ["719035"],
-					"access_rules": ["$summer,$can_earn_money_modest"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -146,9 +146,9 @@
                 "children":[
                   {
 					"name": "Smashing Stone",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"access_rules": ["$ap|719007", "$ap_offline,$fall"], "item_count": 1,}],
 					"visibility_rules": ["719007"],
-					"access_rules": ["$fall"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -159,9 +159,9 @@
 				  },
 				  {
 					"name": "Grange Display",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"access_rules": ["$ap|719008", "$ap_offline,$fall,$can_earn_money_modest"], "item_count": 1,}],
 					"visibility_rules": ["719008"],
-					"access_rules": ["$fall,$can_earn_money_modest"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -172,9 +172,9 @@
 				  },
 				  {
 					"name": "Rarecrow #1",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"access_rules": ["$ap|719009", "$ap_offline,$fall"], "item_count": 1,}],
 					"visibility_rules": ["719009"],
-					"access_rules": ["$fall"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -185,9 +185,9 @@
 				  },
 				   {
 					"name": "Fair Stardrop",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"access_rules": ["$ap|719010", "$ap_offline,$fall"], "item_count": 1,}],
 					"visibility_rules": ["719010"],
-					"access_rules": ["$fall"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -203,9 +203,9 @@
                 "children":[
                   {
 					"name": "Spirit's Eve Maze",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"access_rules": ["$ap|719011", "$ap_offline,$fall"], "item_count": 1,}],
 					"visibility_rules": ["719011"],
-					"access_rules": ["$fall"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -216,9 +216,9 @@
 				  },
 				  {
 					"name": "Rarecrow #2",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"access_rules": ["$ap|719012", "$ap_offline,$fall,$can_earn_money_substantial"], "item_count": 1,}],
 					"visibility_rules": ["719012"],
-					"access_rules": ["$fall,$can_earn_money_substantial"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -229,9 +229,9 @@
 				  },
 				  {
 					"name": "Jack-O-Lantern Recipe",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"access_rules": ["$ap|719033", "$ap_offline,$fall"], "item_count": 1,}],
 					"visibility_rules": ["719033"],
-					"access_rules": ["$fall"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -247,9 +247,9 @@
                 "children":[
                   {
 					"name": "Win Fishing Competition",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"access_rules": ["$ap|719013", "$ap_offline,$winter"], "item_count": 1,}],
 					"visibility_rules": ["719013"],
-					"access_rules": ["$winter"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -260,9 +260,9 @@
 				  },
 				  {
 					"name": "Rarecrow #4",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"access_rules": ["$ap|719014", "$ap_offline,$winter,$can_earn_money_substantial"], "item_count": 1,}],
 					"visibility_rules": ["719014"],
-					"access_rules": ["$winter,$can_earn_money_substantial"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -278,9 +278,9 @@
                 "children":[
                   {
 					"name": "Secret Santa",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"access_rules": ["$ap|719029", "$ap_offline,$winter,$can_earn_money_modest"], "item_count": 1,}],
 					"visibility_rules": ["719029"],
-					"access_rules": ["$winter,$can_earn_money_modest"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -291,9 +291,9 @@
 				  },
 				  {
 					"name": "The Legend of the Winter Star",
-					"sections": [{"item_count": 1,}],
+					"sections": [{"access_rules": ["$ap|719030", "$ap_offline,$winter"], "item_count": 1,}],
 					"visibility_rules": ["719030"],
-					"access_rules": ["$winter"],
+					"access_rules": [],
 					"map_locations":[
                       {
                         "map":"Town Festivals",
@@ -308,6 +308,7 @@
                 "name": "Casino",
                 "sections":[
                     {
+                        "access_rules": ["$ap|719036", "$ap_offline"],
                         "name": "Rarecrow #3",
                         "item_count": 1,
 						"visibility_rules": ["719036"],
@@ -325,6 +326,7 @@
                 "name": "Farm",
                 "sections":[
                     {
+                        "access_rules": ["$ap|719031", "$ap_offline"],
                         "name": "Collect All Rarecrows",
                         "item_count": 1,
 						"visibility_rules": ["719031"],
